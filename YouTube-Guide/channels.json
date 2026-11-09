@@ -3,7 +3,7 @@
   "scheduleSchemaVersion": 1,
   "scheduleHorizonHours": 100,
   "refreshIntervalHours": 72,
-  "updatedAt": "2026-11-09T22:18:06.695Z",
+  "updatedAt": "2026-11-09T22:21:47.466Z",
   "channels": [
     {
       "name": "Sitcom Video Essays",
@@ -8315,6 +8315,3368 @@
             "videoId": "tFQgz_VfuSg",
             "start": 1794622487292,
             "end": 1794622686292
+          }
+        ]
+      }
+    },
+    {
+      "name": "Ben 10 Content",
+      "number": 104,
+      "category": "Ben 10",
+      "mode": "seeds",
+      "prompt": "",
+      "sourceChannel": "",
+      "playlists": [],
+      "order": "shuffle",
+      "topic": "",
+      "exclude": "",
+      "strictness": "strict",
+      "seedIds": [
+        "gHsYchBb3AE",
+        "J_KlJLJCM-I",
+        "ExO8Aaawvsw",
+        "jhc-k1mqlEA",
+        "lJgdf30Is-Y",
+        "lZiLf07A_Nw",
+        "pNpfZpn1STk",
+        "Ixba-_zXh3c",
+        "szbXGg6ZTOU",
+        "BRJBgGvPGfo",
+        "5QUH1zw3fvc",
+        "PSvuZozXuUU",
+        "KQhsvg2fXS4",
+        "H9nyCdTRW-E",
+        "ZbK7pKbf8vM",
+        "4DY8CeKVb7M",
+        "4ySOsjURoSk",
+        "Tlp35VCNB1c",
+        "6-mQgYroIK4",
+        "HLhCWbG0CIw",
+        "qlp4KRcGPeY",
+        "8LUB_aBdomY",
+        "-EFyQXvf4Fs",
+        "emtrm3V3ONI",
+        "vkUw6DrGX0g",
+        "HDMGVuKwjws",
+        "FCKiqYWF1C8",
+        "MJOTmUAjv-A",
+        "AADgMTFepBc",
+        "f-jkS1zu5Cg",
+        "rSIIarCmPDQ",
+        "hxX28e6aKcg",
+        "ctIgai2huAo",
+        "c7c9TMAbsS0",
+        "2-at7VT6mB4",
+        "i7hoGM0XgjY",
+        "uIWASOV4p1s",
+        "I3NTNSWdBPk",
+        "JkKvQGopum4",
+        "REoyW3LdY4c",
+        "R4flw5Rmouk",
+        "UxDWIpaEi-I",
+        "dfAvzBOgeBY",
+        "8M3YyATPCfw",
+        "AeamByOVspk",
+        "BnYRC_2YbXw",
+        "5RjcSiS4rM8",
+        "ezbVgjMdwPM",
+        "fC_s3yOPA6s",
+        "-_LoBNrrAIg",
+        "1iDiFLT9ieU",
+        "oak8YJ_or2k",
+        "PSWWEI0PoLM",
+        "OaEwoViu47g",
+        "RA_tOwrmHY8",
+        "cW23N5EQ_OI",
+        "5ArlHCJ_wXg",
+        "75FZWa2U2wg",
+        "YE6CTG3t_d8",
+        "AyN_Ov23CV0",
+        "4k_kUPVvixc",
+        "p-eDkccf0_Y",
+        "FqkxH9JjOKo",
+        "Z9C1imyRd_c",
+        "ubzkw8ypb_E",
+        "5P09gJWSEzk",
+        "EbVn9olD4KQ",
+        "YnuvqCAEmXc",
+        "mXX_4rz-JuA",
+        "8doZ0BpoxrY",
+        "K0LjgJjiIAQ",
+        "RCXGI-tuAOY",
+        "Vpb_nOrMGeA",
+        "y30exM1p97k",
+        "yohgn9ZjBOA",
+        "Z6ArKBIT5Ro",
+        "21PYJwTn_uU",
+        "O7rvbzj2XNg",
+        "_z53rNkjAKw",
+        "mBzMba5k8d8",
+        "W73b-GRw2wg",
+        "1fCYbLUwgkU",
+        "zjSyr7qCJP0",
+        "kxaGO_MdH_Q",
+        "Jc-CPYHTCq0",
+        "JdAaO-MK8DU",
+        "OMoGfzO3KvA"
+      ],
+      "approximateDiscovery": true,
+      "feedPrompt": "",
+      "youtubeFeedPrompt": "",
+      "feedName": "",
+      "seedStrictness": "strict",
+      "seedExclude": "full episodes",
+      "includeSeeds": true,
+      "sourceCreators": [],
+      "id": "ch_1d81109e-f6c8-423a-b161-d0c5ec81c65d",
+      "anchor": 1794262906940,
+      "rejectedIds": [],
+      "videos": [
+        {
+          "id": "lJgdf30Is-Y",
+          "title": "What is Ben 10's best alien for each villain?",
+          "creator": "TheMadJAM",
+          "creatorId": "UCByxI4FmiBCVTaZxppDgqzg",
+          "duration": 1201,
+          "description": "Ben 10 has so many aliens with so many powers. But which of his aliens hard-counter his villains? What is the optimal alien for each situation? \n\nVideo Chapters: \n00:00 Intro\n00:38 Upgrade\n01:20 Lodestar\n02:23 Zombozo and Frightwig\n02:40 Hex and Charmcaster (Magic)\n04:13 Eon\n04:37 Psyphon\n04:49 Vilgax\n05:09 Gutrot\n05:58 Highbreed and DNAliens\n06:35 Mutants and Rooters\n07:02 Dr. Psychobos\n07:20 Vreedle Brothers\n07:34 Limax and Lenopans\n07:50 Billy Billions and Sublimino\n08:11 Aggregor and P'andor\n08:28 Albedo\n08:55 Argit\n09:15 Situations\n09:56 Mirror matchups\n11:44 Zs'skayr\n13:08 Feedback\n15:25 Anodites\n15:45 Lightning round (Kundo, Ragnarok, Trash Monster, Acid Breath, Incurseans)\n16:42 Explicitly shown\n17:16 More villains Ben can turn into\n18:38 Khyber and the Nemetrix\n19:43 End screen",
+          "tags": [
+            "Ben 10",
+            "Aliens",
+            "Villains",
+            "Match-up",
+            "Matchup",
+            "Omnitrix",
+            "Vs",
+            "Powerscaling",
+            "Alien Force",
+            "Ultimate Alien",
+            "Omniverse",
+            "Ben10"
+          ],
+          "published": "2026-09-15T19:00:00Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "FqkxH9JjOKo",
+          "title": "All nanomech transformations in all Ben 10 series",
+          "creator": "Tennyson Forever",
+          "creatorId": "UCLaRMPrERo-9pjQys2chk2w",
+          "duration": 208,
+          "description": "#ben10 \n#ben10omniverse \n#omniverse \n#ben10omniverseexplainedinhindi \n#fusion \n#shortsvideo",
+          "tags": [],
+          "published": "2023-02-11T10:31:31Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "YnuvqCAEmXc",
+          "title": "When KEVIN 11 and VILGAX tried to JUMP BEN 10... but he had the MASTER CONTROL",
+          "creator": "Chris Rich Yaps",
+          "creatorId": "UCCMIoYPoVkMDjf-qnFFZXQg",
+          "duration": 640,
+          "description": "Covering the time Kevin 11 and Vilgax tried to jump Ben 10 but they forgot that he was himothy.\n\nCheckout my Main Channel (Animated Storytimes):\nhttps://www.youtube.com/ @ChrisRichAnimations  \n\nCheckout my IG for updates on new vids and to stay connected. I respond to all DMS:\nhttps://www.instagram.com/christian.richb22/\n\nCopyright Disclaimer Under Section 107 of the Copyright Act 1976, allowance is made for \"fair use\" for purposes such as criticism, comment, news reporting, teaching, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use. No copyright infringement intended. ALL RIGHTS BELONG TO THEIR RESPECTIVE OWNERS",
+          "tags": [
+            "codenamesuper",
+            "codename",
+            "super",
+            "blankboy",
+            "super and blank",
+            "zephfire",
+            "staying",
+            "anti",
+            "stayinganti",
+            "casper",
+            "cjdachamp",
+            "kagethedon",
+            "brandondtm",
+            "blankboy reaction",
+            "blankboy the avengers",
+            "avengers"
+          ],
+          "published": "2024-10-17T22:00:25Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "hxX28e6aKcg",
+          "title": "Ben 10: Ultimate Alien 1x3 REACTION!! \"Hit 'Em Where They Live\"",
+          "creator": "Blind Wave",
+          "creatorId": "UCs1APU4_lj3PgZz2B4HeadA",
+          "duration": 1536,
+          "description": "Eric, Calvin and Aaron react to and discuss season 1 episode 3 of Ben 10: Ultimate Alien - Hit 'Em Where They Live - #Ben10 #Ben10UltimateAlien #UltimateAlien\n\nEnjoy Blind Wave's daily content? GO BEYOND with Blind Wave BEYOND at https://blindwave.com where you can watch Full Length and 4 WEEKS Early Access!!\n\nBlind Wave BEYOND members can watch the Full Length Reaction to this Episode HERE: https://blindwave.com/video/ben-10-ultimate-alien-1x03-full/\n\nIntro Music:\nhttps://www.youtube.com/watch?v=u2zUiA6h2MQ\n\n00:00 - Intro\n01:04 - Reaction\n13:02 - Mr. Smoothy\n13:14 - Gwen Might be a God\n13:24 - Ultimate Big \"Chill\"\n17:25 - Zombozo\n19:32 - Rojo\n23:04 - Max\n23:40 - Going Forward\n\nWebsite http://www.blindwave.com\nTwitter : http://www.twitter.com/blindwavecrew\nFaceBook : http://www.facebook.com/BlindWaveCrew\nTwitch: http://www.twitch.tv/blindwave\nTwitch/YouTube Archive: https://www.youtube.com/c/BlindWaveOfficialTwitchArchive\nDiscord:  https://discord.gg/blindwave\nSend us Stuff at: P.O. Box 304 Marietta, OH 45750",
+          "tags": [
+            "Ben 10 Ultimate Alien reaction",
+            "Ben 10 reaction",
+            "Ultimate Alien episode reaction",
+            "Ben Tennyson",
+            "Ultimate Alien series",
+            "Cartoon Network",
+            "Ben 10 aliens",
+            "Ultimatrix",
+            "Kevin Levin",
+            "Gwen Tennyson",
+            "Alien Force sequel",
+            "animated series reaction",
+            "Ben 10 breakdown",
+            "cartoon reaction video",
+            "classic Cartoon Network",
+            "animated superhero series"
+          ],
+          "published": "2026-10-03T14:43:38Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "aacXt2bibb8",
+          "title": "EVERY CLASSIC ALIENS TRANSFORMATIONS IN ALIEN FORCE/ULTIMATE ALIEN | BEN 10",
+          "creator": "Paul!",
+          "creatorId": "UC5PDErdoj5dfMs_OdSYpVTQ",
+          "duration": 196,
+          "description": "Hello my aliens! This is my one hundred first episode!\n\nMy instagram:",
+          "tags": [],
+          "published": "2023-10-30T20:02:17Z",
+          "categoryId": "22",
+          "fit": 57
+        },
+        {
+          "id": "BnYRC_2YbXw",
+          "title": "The FALL of Ben 10",
+          "creator": "Jordan Fringe",
+          "creatorId": "UCJKE87wqkVvbP2hUJcAKJNw",
+          "duration": 5400,
+          "description": "Paimon is my favorite Genshin Impact Character!!!! Spread the word to your friends and download Genshin Impact using the link https://bit.ly/jordanfringe_gi_yt #BeingGenshinIcon #ad\nOne final time, It's Hero Time! After taking a look at the origins of Ben 10 from it's creation all the way through its first initial series, to the live action movie, a 3D animated film and even a couple of game show, as well as the older series of Ben 10 media like Ben 10: Alien Force, Ben 10: Ultimate Alien and the second live action Ben 10 movie, we finally get to take a look at the more mixed in opinions by the fans of Ben 10 series, Ben 10: Omniverse as well as the reboot, titled Ben 10. So let's jump into my third and final part of my 3 part Ben 10 Retrospective.\n\nRetrospective Part 1: https://www.youtube.com/watch?v=J9Sq04-WF9w&ab_channel=JordanFringe \nRetrospective Part 2: https://www.youtube.com/watch?v=Yt26556IdIY&t=2387s&ab_channel=JordanFringe \n\nJordan Fringe Gaming Channel: https://www.youtube.com/c/FringeGaming5 \n\nWritten By: Jordan Fringe & Christine Parshall\nEdited By: Jordan Fringe & David Strickland\nChannel Art By: Jerry Meehan",
+          "tags": [],
+          "published": "2022-10-08T16:00:05Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "iTJ8xXrQALI",
+          "title": "Every Original Series Alien in Ben 10 Alien Force / Ultimate Alien",
+          "creator": "Howie Edits",
+          "creatorId": "UC7qZlOc3wBWowQ9yhQ8xlqA",
+          "duration": 1051,
+          "description": "Warning: Flashing lights (from transformation sequences)\nThis compilation includes the Generator Rex crossover. I always felt seeing the original aliens during the UAF was truly special. Especially when the ones who got Ultimate forms.",
+          "tags": [],
+          "published": "2026-11-02T08:08:01Z",
+          "categoryId": "20",
+          "fit": 53
+        },
+        {
+          "id": "JkKvQGopum4",
+          "title": "Explaining Every Alternate Ben 10 Variant!",
+          "creator": "DanBoyWonder",
+          "creatorId": "UCbIfCCNRJNDnW31H5gPALsg",
+          "duration": 1713,
+          "description": "Shoutout alternate universe counterparts one of my favorite genders\n\nThumbnail by: ​⁠@NoxiMation  \n\nEdited by: https://x.com/sensopi?s=21\n\nFollow me and stay updated:\nTwitter/X: https://x.com/DanBoyWonder\nTwitch: https://www.twitch.tv/danboywonder\nInsta: https://www.instagram.com/danboywonder_?igsh=aDJkY2FzNmZoYnVk&utm_source=qr\nDiscord server: https://discord.gg/7Pa4BRTtxf\n\nRead My Fan Comic (Absolute Ben 10):\nhttps://www.webtoons.com/en/canvas/absolute-ben-10/list?title_no=1090993\n\nBecome A Member:\nhttps://www.youtube.com/channel/UCbIfCCNRJNDnW31H5gPALsg/join",
+          "tags": [],
+          "published": "2026-01-13T15:57:27Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "c7c9TMAbsS0",
+          "title": "HOW AWFUL IS THE BEN 10 REBOOT?",
+          "creator": "Matt Neff",
+          "creatorId": "UCxfhfOfFhHyDX3SJVqxg6Zg",
+          "duration": 730,
+          "description": "Time to determine if OG Ben 10 is truly superior to the 2016 reboot!\nWatch FU DW Season 5: https://www.youtube.com/watch?v=9Jzi-IpL7RE&t=1373s\nCheck out my Patreon: https://patreon.com/mattneff  \nFollow me on Instagram: https://www.instagram.com/musicmanmatt25/\n#mattneff #cartoon #comedy #commentary #ben10 #ben10omniverse #ben10alienforce #ben10classic #ben10ultimatealien \n00:00 INTRO\n02:40 Ben 10 (2005)\n05:50 Ben 10 Reboot\n08:42 Kevin Levin\n11:40 OUTRO",
+          "tags": [],
+          "published": "2024-04-06T16:01:00Z",
+          "categoryId": "23"
+        },
+        {
+          "id": "HyHDf2YqZcY",
+          "title": "Ranking The Strongest Ben 10 Aliens!",
+          "creator": "TV Guy",
+          "creatorId": "UC14cSM6uafzINRNlsleq4Cw",
+          "duration": 1253,
+          "description": "Are you ready to dive into the ultimate alien showdown? \"Ranking The Strongest Ben 10 Aliens!\" takes you on an intergalactic journey through the Omnitrix to discover which of Ben Tennyson's extraterrestrial transformations stands above the rest in terms of sheer power, abilities, and versatility.\n\nFrom the fiery inferno of Heatblast to the untouchable ghostliness of Ghostfreak, we analyze and rank Ben's most formidable alien forms. Utilizing a combination of fan favorites and deep dives into the lore of the Ben 10 universe, we've compiled a list that's sure to spark debate among fans.\n\nExpect detailed breakdowns of each alien's strengths, weaknesses, and most memorable moments across the Ben 10 series. Whether you're a longtime fan or new to the franchise, this ranking will provide insightful, entertaining perspectives on each of Ben's out-of-this-world alter egos",
+          "tags": [],
+          "published": "2024-02-10T16:08:00Z",
+          "categoryId": "22",
+          "fit": 62
+        },
+        {
+          "id": "J_KlJLJCM-I",
+          "title": "Is THIS The Best Ben 10 Game?? | Ben 10: Power Trip Review",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 723,
+          "description": "DISCORD: https://discord.gg/ajCaYqy\nPATREON: https://www.patreon.com/InkTank\n5 YEARS LATER: https://bit.ly/31lF0Zy\n\nTHE RUST BUCKET (2nd Channel): https://bit.ly/2knRFu8\n\nPURCHASE THE GAME AT:\nOfficial Website: https://tinyurl.com/Ben10PowerTrip\nXbox: https://tinyurl.com/PowerTripXbox\nSteam: https://tinyurl.com/PowerTripSteam\nAmazon: https://tinyurl.com/B10PowerTripAmazon\nWalmart: https://tinyurl.com/PowerTripWalMart\n\nOUTRIGHT GAMES: \nWebsite: Outright Games\nFacebook: Outright Games Ltd\nTwitter: @Outright_Games \nInstagram: Outright_Games\nRetailer: https://outrightgames.com/games/ben-10-power-trip/",
+          "tags": [
+            "kuro the artist",
+            "5yl",
+            "5 years later",
+            "ben 10",
+            "ben",
+            "tennyson",
+            "kevin",
+            "11",
+            "video game",
+            "protector of earth",
+            "cosmic destruction",
+            "vilgax attacks",
+            "ultimate",
+            "alien",
+            "force",
+            "omnitrix"
+          ],
+          "published": "2020-10-09T15:00:05Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "4ySOsjURoSk",
+          "title": "The COMPLETE Story Of Ben 10",
+          "creator": "DTO",
+          "creatorId": "UCmi4PrcxHySvji_QLrnfXvg",
+          "duration": 3137,
+          "description": "Devonte The One Reacts To https://youtu.be/JdAaO-MK8DU\n\nBusiness Email: dt1bizness@gmail.com\n\nEDITED BY: Devonte The One (DTO)\nThumbnail By: Devonte The One (DTO)\nMAIN CHANNEL: https://www.youtube.com/@devontetheone\n\nSTALK MY SOCIAL MEDIA:\nDISCORD: https://discord.gg/MsCVjDdST4\nTIKTOK: https://www.tiktok.com/@therealdevontetheone?lang=en\nTWITCH: https://www.twitch.tv/devontetheone\nInstagram: https://www.instagram.com/kingdevonte_\nTWITTER (X): https://twitter.com/kingdevonte_\nFacebook: https://www.facebook.com/devontetheone\n\n(Devonte The One's Gaming/Reaction Channel)\n\nDTO \nDevonte The One\ndevonte the one reaction\ndevontetheone\n\n~ Sensei Dev here, Devonte The One's Official 2nd Channel\n\n\n\n\n\n\nThe footage in this video was used for criticism, commentary and education and is protected by fair use law.\nCopyright Disclaimer under Section 107 of the copyright act 1976, allowance is made for fair use for purposes such as criticism, comment, news reporting, scholarship, and research. Fair use is a use permitted by copyright statute that might otherwise be infringing. Non-profit, educational or personal use tips the balance in favor of fair use.",
+          "tags": [
+            "#dto #devontetheone",
+            "kuro the artist",
+            "ben 10",
+            "danny phantom",
+            "man of action",
+            "5 years later",
+            "yuri lowenthal",
+            "ben 10 alien force",
+            "cartoon network",
+            "ben 10 ultimate alien",
+            "ben 10 omniverse",
+            "the entire story of ben 10 illustrated [all 5 parts]",
+            "ben 10 story",
+            "invader zim",
+            "rob orpilla",
+            "greg cipes"
+          ],
+          "published": "2026-07-22T19:37:36Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "f-jkS1zu5Cg",
+          "title": "An Analysis on Ben 10 vs Green Lantern [DEATH BATTLE]",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 881,
+          "description": "The battle was fought. A victor was chosen. But was this really the one-win scenario? Kuro breaks down the Death Battle between Wielder of the Omnitrix, Ben Tennyson, and the most Popular Green Lantern, Hal Jordan. \n\nLooking for our Discord? Twitter?\nPatron? Twitch? 5 Years Later?\nALL OF OUR LINKS: https://linktr.ee/theinktank\n\nSKIP TO:\n0:00 - Introduction\n1:51 - What I Liked\n3:52 - What I'd Fix\n11:40 - Responding to Comments\n\nDISCLAIMER: As with the nature of these videos, I present my information in an exaggerated and sarcastic guise for entertainment. No Debunk video ever matches the effort put into the originals. Ben 10 being present in Death Battle to begin with is a major milestone for the Fandom. \n\nShout out to @Lopresti101 on Twitter for inspiring the first clip of the video. \n\nBen 10 was created by Man of Action and is owned by Cartoon Network. All Clips presented are for commentary purposes only. Green Lantern is owned by DC Comics.\n\nDEATH BATTLE'S VIDEO: https://youtu.be/5hos7hv1Cn8\n\nRead my Ben 10/ Danny Phantom Crossover Comic HERE: http://www.kurothewebsite.com/5yearslater",
+          "tags": [
+            "death",
+            "battle",
+            "ben",
+            "10",
+            "ten",
+            "tennyson",
+            "classic",
+            "reboot",
+            "ultimate",
+            "alien",
+            "force",
+            "omnitrix",
+            "hal",
+            "jordan",
+            "guy",
+            "dceu"
+          ],
+          "published": "2019-05-21T12:11:03Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "kxaGO_MdH_Q",
+          "title": "What Does It Mean To Be A Plumber in Ben 10?",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 1856,
+          "description": "Praise be the Church of Fasttrack. May his speeding special spark enlighten our troublesome terrors of  the modern day with his comfortable cat-like qualities of devine enrichment. He is quick to our hearts, and slow to abhorrence. A treasure bestowed upon our reality to give us joy and appreciation for diversity among the swift-walkers of the Omnitrix. Join us in the glory of the bold, blue blur: https://www.reddit.com/r/ChurchofFasttrack/\n\n_____Kuro on Art Podcast: https://spoti.fi/3gVXY5n\n\nLooking for our Discord? Twitter?\nPatron? Twitch? 5 Years Later?\nALL OF OUR LINKS: https://linktr.ee/theinktank\n\n5YL Motion Comic Trailer: https://youtu.be/5JRvZP6ea84​​\n+ First Scene Fully Dubbed: https://youtu.be/DSxOL09U-zs\n\nIntro/ Outro Music: Noxi (NoxiMation)\nTwitter - https://twitter.com/NoxiMation\nYouTube - https://www.youtube.com/noximation​​\n\n_______HOW MY BREAKDOWNS WORK:\n\nClassic Breakdowns - https://bit.ly/3Eo9OfQ\nMovie Breakdowns - https://bit.ly/3Eo9Zb0\nAlien Force Breakdowns - http://shorturl.at/gmBER\nUltimate Alien Breakdowns - https://bit.ly/3aaSe4o\n\nTHE REVIEW\nI watch each episode with my own commentary, often pausing the scenes to get my words out without having to talk over the episode, and also to point out and analyze the show's art and animation. I have seen each episode already growing up, so these reviews are to compare and contrast the five categories listed below.\n\nPLOT (Scaled from 1 to 5 Points)\nThe foundation of the episode. Uniqueness and overused tropes are taken into account, but it is also judged on how well it tells the story of the episode. An episo",
+          "tags": [
+            "kuro the artist",
+            "5yl",
+            "5 years later",
+            "ben",
+            "10",
+            "tennyson",
+            "ultimate",
+            "alien",
+            "force",
+            "omnitrix",
+            "omniverse",
+            "reboot",
+            "review",
+            "reaction",
+            "rob orpilla",
+            "fasttrack"
+          ],
+          "published": "2022-10-29T14:00:33Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "8M3YyATPCfw",
+          "title": "So Magic is Real.. | Ben 10 Chaquetrix",
+          "creator": "Grey Matter Fanboy",
+          "creatorId": "UC5ZbFsp-6HOgvlgBje2VzdA",
+          "duration": 661,
+          "description": "Hey there in this video we Talk about the The Fan comic return of the Ben 10 Chaquetrix and all the crazy things that are revealed here in this chapter about, we see the the progression of the Ben 10 lore and series as the Chaquetrix team encounter  some wizards at the museum and things get hairy when everyone meets up. \n\nThumbnail by: https://x.com/k3u4o\n\nRead Chaquetrix: https://www.webtoons.com/en/canvas/ben-10-chaquetrix/list?title_no=1001459\n\n\nSOCIALS:\nMy Patreon: https://www.patreon.com/Greymatterfanboy589\nMy Twitter: https://x.com/GMFB_Aniel \nMy instagram:  https://www.instagram.com/ben10_fan_service/\n\n#chaquetrix #ben10 #cartoon",
+          "tags": [
+            "greymatter fanboy",
+            "gray matter fanboy",
+            "grey matter fanboy",
+            "graymatter fanboy",
+            "ben 10 classic",
+            "ben 10 alien force",
+            "ben 10 ultimate alien",
+            "ben 10 omniverse",
+            "ben 10 reboot",
+            "Ink tank",
+            "fan 10k",
+            "danboywonder",
+            "stan hanrahan",
+            "ben 10 channel",
+            "greymatter fanboy alien x",
+            "greymatter fanboy carnitrix"
+          ],
+          "published": "2026-09-27T13:45:11Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "p-eDkccf0_Y",
+          "title": "The Many Ben 10 Alien Fusions",
+          "creator": "DrWardy",
+          "creatorId": "UCROVVPrb94jeR9dqMX5V6Yg",
+          "duration": 735,
+          "description": "#ben10 #ben10omniverse #omnitrix #ben10fusion\n\ndiscussing every all all fusion alien transformations inside the omnitrix, a handful of amalgam and animal alien hybrids and a pretty scattered tangent on the Ben 10 DNA Lab game on cartoon network's website.\n\nthankyou to @TheInkTank for inspiring this video. \n\nchannel art by @veronicandjelly\n\n#ben10dnalab #cartoonnetwork #ben10alienfusion",
+          "tags": [
+            "ben 10 omniverse",
+            "kevin 11",
+            "ben 10",
+            "ben 10 cartoon",
+            "ben 10 ultimate alien",
+            "ben 10 alien force",
+            "ben 10 ben 10",
+            "ben 10 classic",
+            "ben 10 game",
+            "ben 10 movie",
+            "ben 10 watch",
+            "ben 10 movies"
+          ],
+          "published": "2025-03-16T13:30:36Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "REoyW3LdY4c",
+          "title": "Ben 10’s Spider-man/ Avengers Episode",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 1689,
+          "description": "What are you going to do, hop her across the street in your pouch?\n\nLooking for our Discord? Twitter?\nPatron? Twitch? 5 Years Later?\nALL OF OUR LINKS: https://linktr.ee/theinktank\n\nIntro/ Outro Music: Noxi (NoxiMation)\nTwitter - https://twitter.com/NoxiMation\nYouTube - https://www.youtube.com/noximation​​\n\nTIMECODES:\n00:00 - Introduction\n01:55 - “The Vengers” Breakdown\n24:02 - The Ratings\n26:03 - Final Thoughts\n\n_______HOW MY BREAKDOWNS WORK:\n\nClassic Breakdowns - https://bit.ly/3Eo9OfQ\nMovie Breakdowns - https://bit.ly/3Eo9Zb0\nAlien Force Breakdowns - http://shorturl.at/gmBER\nUltimate Alien Breakdowns - https://bit.ly/3aaSe4o\nOmniverse Breakdowns - https://bit.ly/3LXGIby\n\nTHE REVIEW\nI watch each episode with my own commentary, often pausing the scenes to get my words out without having to talk over the episode, and also to point out and analyze the show's art and animation. I have seen each episode already growing up, so these reviews are to compare and contrast the five categories listed below.\n\nPLOT (Scaled from 1 to 5 Points)\nThe foundation of the episode. Uniqueness and overused tropes are taken into account, but it is also judged on how well it tells the story of the episode. An episode can score a 5 even with a basic/ cliche plotline as long as it has good pacing, worthy use of its tropes, and feels well-polished. An episode can lose points due to plotholes, uneven storytelling, and relying too heavily on cliches to do the work for it. \n\nCHARACTERIZATION (Scaled from 1 to 5 Points)\nHow well the characters are written. Do they feel like themselves compared to the gran",
+          "tags": [
+            "kuro the artist",
+            "5yl",
+            "5 years later",
+            "ben",
+            "10",
+            "tennyson",
+            "ultimate",
+            "alien",
+            "force",
+            "omnitrix",
+            "omniverse",
+            "reboot",
+            "review",
+            "reaction",
+            "rob orpilla",
+            "avengers"
+          ],
+          "published": "2026-08-15T14:00:39Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "SpZK53PguiY",
+          "title": "Ben 10 Vs Ben 10 | Ben 10 Alien Force | Cartoon Network | Cartoons for Kids",
+          "creator": "Ben 10",
+          "creatorId": "UCoWgc1mqe-bcfb_lem7EyOg",
+          "duration": 285,
+          "description": "S2 EP3: Following up on reports of Ben having nightly activities, Kevin and Gwen discover what might be described as Ben's evil twin.\n\n► Watch more Ben 10 videos here: https://www.youtube.com/watch?v=ru7pXfxchcA&list=PLEy0MtsV5_rQ1CcaXKHGI1k8PN3bSWV32\n\n► Click to Subscribe to the Ben 10 Community! \nhttps://www.youtube.com/channel/UCoWgc1mqe-bcfb_lem7EyOg?sub_confirmation=1\n\nIt’s always Hero Time on the brand new Ben 10 official YouTube channel! Discover funny clips and fun facts about the 10-year-old boy hero and explore trivia about your favourite aliens. There’s lots of laugh out loud moments as Ben gets up to some super-powered mischief and awesome action sequences as he battles bad guys. You can check out gameplay footage and exclusive content you won’t find anywhere else. Join Ben, Gwen and Grandpa Max as they travel the country in the Rustbucket and discover your inner alien superhero by subscribing to the Ben 10 official YouTube channel now for regular updates!\n\nFollow us for more Ben 10 news!\nWebsite - http://ben10.cartoonnetwork.co.uk/\nFacebook - https://www.facebook.com/ben10\n\n▶︎ Visit the Cartoon Network website for more fun activities, games and downloads and check out our videos on Cartoon Network YouTube Channel:\n www.cartoonnetwork.co.uk \nwww.youtube.com/cartoonnetworkuk \n\n#ben10  #bentennyson #kevin11\n\n#ben10 #kevin11 #omnitrix",
+          "tags": [
+            "ben 10",
+            "ben10",
+            "ben ten",
+            "cartoon network",
+            "ben 10 cartoon",
+            "ben 1o",
+            "ben",
+            "ben ten cartoon",
+            "bem 10",
+            "new ben 10",
+            "benten 10",
+            "ben ten 10",
+            "ben 10 cartoon network",
+            "ben 10 ben 10",
+            "ben 10 theme song",
+            "ben. 10"
+          ],
+          "published": "2025-06-21T11:00:52Z",
+          "categoryId": "1",
+          "fit": 63
+        },
+        {
+          "id": "oak8YJ_or2k",
+          "title": "Ben 10 Alien Worlds | Where do all the aliens come from? | Cartoon Network",
+          "creator": "Ben 10",
+          "creatorId": "UCoWgc1mqe-bcfb_lem7EyOg",
+          "duration": 592,
+          "description": "► Click to Subscribe to the Ben 10 Community! \nhttps://www.youtube.com/channel/UCoWgc1mqe-bcfb_lem7EyOg?sub_confirmation=1\n\n► Click to watch Ben 10's most popular videos videos here:\nhttps://youtube.com/playlist?list=PLEy0MtsV5_rQS6aQIa6F4Dk731oczsXAq\n\nIt’s always Hero Time on the brand new Ben 10 official YouTube channel! Discover funny clips and fun facts about the 10-year-old boy hero and explore trivia about your favourite aliens. There’s lots of laugh out loud moments as Ben gets up to some super-powered mischief and awesome action sequences as he battles bad guys. You can check out gameplay footage and exclusive content you won’t find anywhere else. Join Ben, Gwen and Grandpa Max as they travel the country in the Rustbucket and discover your inner alien superhero by subscribing to the Ben 10 official YouTube channel now for regular updates!\n\nFollow us for more Ben 10 news!\nWebsite - http://ben10.cartoonnetwork.co.uk/\nFacebook - https://www.facebook.com/ben10\n\n▶︎ Visit the Cartoon Network website for more fun activities, games and downloads and check out our videos on Cartoon Network YouTube Channel:\n \n🇬🇧 United Kingdom 🇬🇧\nwww.cartoonnetwork.co.uk – website\nwww.youtube.com/cartoonnetworkuk - YouTube Channel\n\n#ben10  #bentennyson #kevin11\n\n#ben10 #kevin11 #omnitrix",
+          "tags": [
+            "ben 10",
+            "ben10",
+            "ben ten",
+            "cartoon network",
+            "ben 10 cartoon",
+            "ben 1o",
+            "ben",
+            "ben ten cartoon",
+            "bem 10",
+            "ben 10 omniverse",
+            "ben 10 reboot",
+            "ben 10 bahasa indonesia",
+            "new ben 10",
+            "benten 10",
+            "ben ten 10",
+            "ben 10 cartoon network"
+          ],
+          "published": "2019-01-08T06:00:02Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "ubzkw8ypb_E",
+          "title": "EVERY Episode of Ben 10 in Ten Words or Less!",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 831,
+          "description": "Video Sponsored by Ridge Wallet. Check them out here: ridge.com/THEINKTANK\nUse Code “THEINKTANK” for 10% off your order\n\nDISCORD: https://discord.gg/ajCaYqy\nPATREON: https://www.patreon.com/InkTank\n5 YEARS LATER: https://bit.ly/31lF0Zy\nTHE RUST BUCKET (2nd Channel): https://bit.ly/2knRFu8\n\nAlthough I included Secret of the Omnitrix as three episodes, that is just to fill in all 52 slots for the Ben 10 Classic series episode list. It is still considered a movie, and thus, not valid for the Top 3 episodes. If it were to be, each part must have been ranked individually, which I did not do. - Kuro\n\n____5 Years Later: Motion Comic Trailer: https://youtu.be/5JRvZP6ea84​​\n\nOutro Music: Noxi (NoxiMationsArts)\nTwitter - https://twitter.com/NoxiMationArts​​\nYouTube - https://www.youtube.com/noximation​​\n\n_______HOW KURO'S BREAKDOWNS WORK:\n\nBreakdown Playlist: https://bit.ly/3crF4xh\n\nTHE REVIEW\nI watch each episode with my own commentary, often pausing the scenes to get my words out without having to talk over the episode, and also to point out and analyze the show's art and animation. I have seen each episode already growing up, so these reviews are to compare and contrast the five categories listed below.\n\nPLOT (Scaled from 1 to 5 Points)\nThe foundation of the episode. Uniqueness and overused tropes are taken into account, but it is also judged on how well it tells the story of the episode. An episode can score a 5 even with a basic/ cliche plotline as long as it has good pacing, worthy use of its tropes, and feels well-polished. An episode can lose points due to plotholes, uneven s",
+          "tags": [
+            "kuro the artist",
+            "5yl",
+            "5 years later",
+            "ben",
+            "10",
+            "tennyson",
+            "ultimate",
+            "alien",
+            "force",
+            "omnitrix",
+            "omniverse",
+            "reboot",
+            "review",
+            "reaction",
+            "rob orpilla",
+            "breakdown"
+          ],
+          "published": "2021-09-03T14:00:33Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "wDJprPz7aCE",
+          "title": "Ben 10: All 100 Aliens name and Abilities Explained (All Series + Unseen Aliens)",
+          "creator": "Ben 10 Hero Time",
+          "creatorId": "UC4cdmsCGYAeYXcMBg4w87JA",
+          "duration": 485,
+          "description": "Get to know all 100 aliens from Ben 10, with their names and abilities explained in this video! From Heatblast to Plantapocalypse, you'll learn all about Ben's transformations.\n\nBen 10 Classic (Original):\nHeat Blast, Wild Mutt, Ultimate Wildmutt, Diamond Head, XLR8, Grey Matter, Ultimate Greymatter, Four Arms, Stink Fly, Rip Jaws, Upgrade, Ghost Freak, Cannonbolt, Ultimate Cannonbolt, Wildvine, Spitter, Buzzshock, Arctiguana, Ultimate Arctiguana, Upchuck, Blitzwolfer, Snare-Oh, Frankenstrike, Ditto, Eyeguy, Waybig, Ultimate Waybig, Stink Arms, Diamond Matter, Heat Jaws, Eon\n\nAlien Force:\nSwampfire, Ultimate Swampfire, Goop, Echo Echo, Ultimate Echo Echo, Humungousaur, Ultimate Humungousaur, Jetray, Bigchill, Ultimate Bigchill, Chromastone, Brainstorm, Spider Monkey, Ultimate Spider Monkey, Alien X, Nanomech, Lodestar, Rath, Ultimate Rath, Rocks, Squidstrictor\n\nUltimate Alien:\nWater Hazard, Ampfibian, Armodrillo, Terraspin, NRG, FastTrack, Camalien, Eatle, Jury Rigg, Clockwork, Shocksquatch\n\nOmniverse:\nFeedback, Bloxx, Gravattack, Ultimate Gravattack, Crashhopper, Ball Weevil, Walkatrout, Pesky Dust, Mole-Stache, The Worst, Kickin Hawk, Toepick, Astrodactyl, Bullfrag, Atomix, Gatrot, Whampire, Fourmungousaur, Crashocker, UpRigg, Big Chuck, Humungoopsaur, Atomic-X\n\nBen 10 Reboot:\nOverflow, Shock Rock, Slapback, Gax, Surge, Grey Arms, XLR Arm Blast Diamond Heat, Amalgam Ben\n\nUnseen Alien:\nShellhead, Sandbox, Snakepit, Bob the Blob, Antigravitesla, Plantapocalypse\n\nWho's your favorite?",
+          "tags": [
+            "ben 10 all aliens",
+            "ben 10 all transformations",
+            "ben 10 all ultimate aliens",
+            "ben 10 all aliens name",
+            "ben 10 all aliens power",
+            "ben 10 all aliens explained",
+            "benten",
+            "cartoon network",
+            "alien x",
+            "omnitrix",
+            "ben 10 classic",
+            "ben 10 alien force",
+            "ben 10 ultimate alien",
+            "ben 10 lebao remix",
+            "ben 10 omniverse",
+            "ben 10 reboot"
+          ],
+          "published": "2024-04-20T01:00:23Z",
+          "categoryId": "1",
+          "fit": 64
+        },
+        {
+          "id": "FCKiqYWF1C8",
+          "title": "Ben 10 Omniverse but it's only Mole-Stache",
+          "creator": "LeoStrange",
+          "creatorId": "UCcND978VMLL9bNu8sDQSgZQ",
+          "duration": 212,
+          "description": "Helloooo\n\nYes yes yes, this video is all about Mole-Stache, it was asked by Dasean Harris 8)\n\n0:00 - Intro\n0:24 - Outbreak\n0:38 - Store 23\n0:42 - Breakpoint\n1:35 - It's a Mad, Mad, Mad Ben World: Part 1\n2:41 - A New Dawn\n\n#ben10 #molestache",
+          "tags": [
+            "ben 10 omniverse",
+            "ultimate alien",
+            "alien force",
+            "ben 10 original series",
+            "ben 10 reboot",
+            "ben 10 2016",
+            "ben 10 transformations",
+            "ben 10 edit",
+            "ben 10 minutes straight",
+            "ben 10 jerry inhuman resources",
+            "xanderflicks",
+            "stan hanrahan",
+            "the ink tank",
+            "medichistes",
+            "h.a.m",
+            "frio 10mil"
+          ],
+          "published": "2022-04-01T17:00:07Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "RCXGI-tuAOY",
+          "title": "Ben 10 VS Thragg Isn't Fair",
+          "creator": "Tylearned",
+          "creatorId": "UCNnC8TNOd2nSDf3J-Ctelgw",
+          "duration": 1036,
+          "description": "▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nMy Twitter~ https://twitter.com/Tylearn_\n▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬▬\nCould the Ben 10 universe stop the Viltrumite Invasion? After going over two scenarios where Ben 10 has faced off against both Invincible and Omni Man, today I wanted to go ahead and conclude the Ben 10 Viltrumite trilogy by seeing if the Ben 10 universe has what it takes to stop the likes of Thragg and the elites of Viltrum. For this scenario I decided to pick a handful of characters that could contribute to the fight, along with who’d realistically be there considering that this wouldn’t be the first time Ben 10s earth would be going through an alien invasion. The characters I decided to pick are Ben Tennyson, obviously, alongside Gwen and Kevin 11 as those are his main friends. Gwen and Kevin are not usually all that powerful in the average episode of Ben 10 but that’s because Gwen mainly holds back in the majority of her fights… while Kevin 11 is a little bit of a jobber. Sometimes he has feats of hurting Vilgax and other times he genuinely struggles with damn plumbers and Dnaliens, there’s truly no inbetween with this guy. Bro I just remembered this guy lost to fucking Kid Heatblast son are we serious. But Kevin of course has the power of absorption, and when he managed to absorb Ben’s Ultimatrix to fight Aggregor, he proceeded to absolutely neg diff him, and then proceeded to absorb all of his power. Mind you Aggregor was already a threat capable of withstanding a fusion grenade that could destroy anything within 2 and a half light years. For reference the average solar ",
+          "tags": [
+            "ben 10",
+            "invincible",
+            "thragg",
+            "cartoon network",
+            "amazon",
+            "power scaling",
+            "vs battle",
+            "vs",
+            "aliens",
+            "ben 10 aliens",
+            "alien invasion",
+            "viltrumite",
+            "omnitrix",
+            "ben 10 vs thragg",
+            "echo echo",
+            "omni man"
+          ],
+          "published": "2026-07-27T17:00:24Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "Vpb_nOrMGeA",
+          "title": "This Omnitrix Summons Alien BADDIES! | Chaquetrix Pt.2",
+          "creator": "Also FAN 1OK",
+          "creatorId": "UCj58MO9hP9MPP9unwQDQK8Q",
+          "duration": 857,
+          "description": "Creator of Chaquetrix:- https://x.com/TrixTheAlien\n\n\n00:00 The story so far...\n00:52 Chapter 4: Wild Chase\n03:57 Chapter 5: The Best Vacation\n05:54 Chapter 6: Animal Doctor\n08:25 Chapter 7: Heroines\n10:24 Chapter 8: You know what would be funny?\n13:43 Zs'skayr is a GIRL? Part-3 gonna be awesome!",
+          "tags": [
+            "chaquetrix aliens episode 1",
+            "chaquetrix explained",
+            "chaquetrix aliens comic dub",
+            "chaquetrix comic dub",
+            "chaquetrix comic animation",
+            "chaquetrix albedo",
+            "chaquetrix comic fun xlr8 vs ben 10",
+            "chaquetrix comic dub english",
+            "chaquetrix comic kiss",
+            "chaquetrix comic fandub español",
+            "chaquetrix comic dub español",
+            "also fan10k",
+            "Ben 10",
+            "Ben 10 Fanmade",
+            "ben 10 female aliens",
+            "chaquetrix part 2"
+          ],
+          "published": "2026-09-09T14:30:08Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "zjSyr7qCJP0",
+          "title": "This Omnitrix Summons Alien BADDIES! | Chaquetrix Pt.1",
+          "creator": "Also FAN 1OK",
+          "creatorId": "UCj58MO9hP9MPP9unwQDQK8Q",
+          "duration": 520,
+          "description": "Creator of Chaquetrix:- https://x.com/TrixTheAlien\n\n\n00:00 What is Chaquetrix?\n00:26 Chapter 1: It started when...\n01:57 Chapter 2: An Alien Device\n05:10 Chapter 3: It Shall Be Mine",
+          "tags": [
+            "chaquetrix aliens episode 1",
+            "chaquetrix explained",
+            "chaquetrix aliens comic dub",
+            "chaquetrix albedo",
+            "chaquetrix comic dub",
+            "chaquetrix comic animation",
+            "chaquetrix comic fun xlr8 vs ben 10",
+            "chaquetrix comic dub english",
+            "chaquetrix comic kiss",
+            "chaquetrix comic fandub español",
+            "chaquetrix comic dub español",
+            "Ben 10 Fanmade",
+            "Ben 10",
+            "also fan10k",
+            "ben 10 female aliens"
+          ],
+          "published": "2026-09-03T14:30:14Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "AeamByOVspk",
+          "title": "Is Ben 10 Better with Story Arcs or Stand Alone Episodes?",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 1906,
+          "description": "Watch this one til the very end...\n\nLooking for our Discord? Twitter?\nPatron? Twitch? 5 Years Later?\nALL OF OUR LINKS: https://linktr.ee/theinktank\n\nIntro/ Outro Music: Noxi (NoxiMation)\nTwitter - https://twitter.com/NoxiMation\nYouTube - https://www.youtube.com/noximation​​\n\nTIMECODES:\n00:00 - Introduction\n03:24 - Episode Breakdown\n25:21 - The Ratings\n27:15 - Final Thoughts\n\n_______HOW MY BREAKDOWNS WORK:\n\nClassic Breakdowns - https://bit.ly/3Eo9OfQ\nMovie Breakdowns - https://bit.ly/3Eo9Zb0\nAlien Force Breakdowns - http://shorturl.at/gmBER\nUltimate Alien Breakdowns - https://bit.ly/3aaSe4o\nOmniverse Breakdowns - https://bit.ly/3LXGIby\n\nTHE REVIEW\nI watch each episode with my own commentary, often pausing the scenes to get my words out without having to talk over the episode, and also to point out and analyze the show's art and animation. I have seen each episode already growing up, so these reviews are to compare and contrast the five categories listed below.\n\nPLOT (Scaled from 1 to 5 Points)\nThe foundation of the episode. Uniqueness and overused tropes are taken into account, but it is also judged on how well it tells the story of the episode. An episode can score a 5 even with a basic/ cliche plotline as long as it has good pacing, worthy use of its tropes, and feels well-polished. An episode can lose points due to plotholes, uneven storytelling, and relying too heavily on cliches to do the work for it. \n\nCHARACTERIZATION (Scaled from 1 to 5 Points)\nHow well the characters are written. Do they feel like themselves compared to the grand narrative of the franchise? Are the ",
+          "tags": [
+            "kuro the artist",
+            "5yl",
+            "5 years later",
+            "ben",
+            "10",
+            "tennyson",
+            "ultimate",
+            "alien",
+            "force",
+            "omnitrix",
+            "omniverse",
+            "reboot",
+            "review",
+            "reaction",
+            "rob orpilla",
+            "vilgax"
+          ],
+          "published": "2025-05-03T14:00:25Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "6-mQgYroIK4",
+          "title": "Ben 10: Ultimate Alien 1x7 REACTION!! \"Andreas' Fault\"",
+          "creator": "Blind Wave",
+          "creatorId": "UCs1APU4_lj3PgZz2B4HeadA",
+          "duration": 1311,
+          "description": "Eric, Calvin and Aaron react to and discuss season 1 episode 7 of Ben 10: Ultimate Alien - Andreas' Fault - #Ben10 #Ben10UltimateAlien #UltimateAlien\n\nRIDE THE WAVE and watch up to Ben 10: Ultimate Alien 1x14 at http://www.blindwave.com/\n\nBlind Wave BEYOND members can watch the Full Length Reaction to this Episode HERE: https://blindwave.com/video/ben-10-ultimate-alien-1x07-full/\n\nIntro Music:\nhttps://www.youtube.com/watch?v=u2zUiA6h2MQ\n\n00:00 - Intro\n01:02 - Reaction\n14:29 - Argit\n14:46 - Andreas Was Captured\n15:41 - Andreas' Fault\n17:50 - Forever Knights\n19:34 - Andreas' Abilities\n21:01 - Quill in Butt\n\nWebsite http://www.blindwave.com\nTwitter : http://www.twitter.com/blindwavecrew\nFaceBook : http://www.facebook.com/BlindWaveCrew\nTwitch: http://www.twitch.tv/blindwave\nTwitch/YouTube Archive: https://www.youtube.com/c/BlindWaveOfficialTwitchArchive\nDiscord:  https://discord.gg/blindwave\nSend us Stuff at: P.O. Box 304 Marietta, OH 45750",
+          "tags": [
+            "Ben 10 Ultimate Alien reaction",
+            "Ben 10 reaction",
+            "Ultimate Alien episode reaction",
+            "Ben Tennyson",
+            "Ultimate Alien series",
+            "Cartoon Network",
+            "Ben 10 aliens",
+            "Ultimatrix",
+            "Kevin Levin",
+            "Gwen Tennyson",
+            "Alien Force sequel",
+            "animated series reaction",
+            "Ben 10 breakdown",
+            "cartoon reaction video",
+            "classic Cartoon Network",
+            "animated superhero series"
+          ],
+          "published": "2026-10-31T15:19:31Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "5RjcSiS4rM8",
+          "title": "Kevin Ethan Legend (part 3)",
+          "creator": "ren edits",
+          "creatorId": "UCjNDNqUX6_L4xuWrOa78aEA",
+          "duration": 489,
+          "description": "art channel: @monsterkilljoy \n\nsome of my favorite Kevin moments from Alien Force season 3\n\nI don't own Ben 10.\n\ntransformative work, please don't copyright strike me, thanks.\n\nalso youtube, this video is not for kids, there's curse words here.",
+          "tags": [],
+          "published": "2023-05-22T00:57:11Z",
+          "categoryId": "23"
+        },
+        {
+          "id": "H9nyCdTRW-E",
+          "title": "How the Reboot IMPROVED the Original (Ben 10)",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 975,
+          "description": "Yes, it really did!\n\nLooking for our Discord? Twitter?\nPatron? Twitch? 5 Years Later?\nALL OF OUR LINKS: https://linktr.ee/theinktank\n\n5YL Motion Comic Trailer: https://youtu.be/5JRvZP6ea84​​\n+ First Scene Fully Dubbed: https://youtu.be/DSxOL09U-zs\n\nYURI LOWENTHAL INTERVIEW: https://youtu.be/QcMiHq_53GA\n\nGRITTY CARTOONS ANALYSIS: https://youtu.be/Z_N1pjaYrbE",
+          "tags": [
+            "ben 10",
+            "5yl",
+            "5 years later",
+            "omnitrix",
+            "omniverse",
+            "ultimate",
+            "alien",
+            "force",
+            "reboot",
+            "man of action",
+            "yuri lowenthal",
+            "tara strong",
+            "cartoon network",
+            "season 3",
+            "kevin 11",
+            "shock rock"
+          ],
+          "published": "2019-01-11T13:35:50Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "YE6CTG3t_d8",
+          "title": "Ben 10: Alien Force is a Downgrade | Alien Force Retrospective",
+          "creator": "Mister Kid",
+          "creatorId": "UCeNrj9MtBv4haOSMtmDLhMg",
+          "duration": 243,
+          "description": "Little bit of a controversial video but this is why I consider myself to be a classic series purists :). Let me know your thoughts down below.\n\n#ben10 #alienforce #ultimatealien #azmuth #omniverse #omnitrix #ultimatrix #albedo #vilgax #videoessay #marvel #mcu #dc #dceu #cartoons #shows #movies",
+          "tags": [],
+          "published": "2021-03-23T19:30:18Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "ezbVgjMdwPM",
+          "title": "I Ranked Every NON-CANON Alien Transformation Done in Ben 10 Classic Style",
+          "creator": "Also FAN 1OK",
+          "creatorId": "UCj58MO9hP9MPP9unwQDQK8Q",
+          "duration": 616,
+          "description": "All of the transformations I talked about in this video are made by an amazing animator named The Idiot Animator.\n\nThe idiot animator⏬\nhttps://youtube.com/@UmAnimadorIdiotaKAKAKA?si=nbF00Yep-UCCMH_X\n\n\nMore Ben 10 videos on the way, SUBSCRIBE!\n#ben10#alienx #alsofan10k#ben10transformation",
+          "tags": [
+            "ben 10 transformations all",
+            "ben 10 transformations alien",
+            "top 10",
+            "top 10 transformations of ben 10",
+            "ben 10 unseen",
+            "non canon aliens",
+            "ben 10 unseen aliens",
+            "ben 10 non canon aliens",
+            "ben 10 aliens",
+            "ben 10 redesign",
+            "every ben 10 alien explained",
+            "non canon transformations",
+            "Ink tank",
+            "fan 10k",
+            "every ben 10 alien",
+            "ben 10 aliens ranked"
+          ],
+          "published": "2026-07-17T16:30:07Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "PSWWEI0PoLM",
+          "title": "When The Show Solves the 'Superhero Problem'",
+          "creator": "Nowhere To Land",
+          "creatorId": "UCtuOQu2HdbpvTy7PR9rfsMA",
+          "duration": 682,
+          "description": "Ben 10 solves the Superhero problem and it does it throughout most of the shows run. Ben 10 knows that its character is super, and understand that what needs to grow, isn't his powers. Ben 10 classic is a great example of animation doing what other mediums can't seem to get right, and it isn't really thanks to the omnitrix.",
+          "tags": [
+            "ben 10",
+            "ben 10 classic",
+            "ben 10 omnitrix",
+            "ben 10 aliens",
+            "omnitrix",
+            "omniverse",
+            "ben 10 ultimate alien",
+            "ben 10 alien force",
+            "ben 10 video essay",
+            "video essay",
+            "ben 10 analysis",
+            "nowhere to land"
+          ],
+          "published": "2026-08-14T19:30:14Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "xAnJd7Qzp3c",
+          "title": "Did Alien Force Start Off Good, or Was it Over-Hyped?",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 4791,
+          "description": "The First 200 get 20% off using https://brilliant.org/TheInkTank/! Golly, gee!\n\nOUR LINKS:\nDiscord: https://discord.gg/inktank\nTwitter: https://bit.ly/3CTNL1C \nInstagram: https://bit.ly/3s28xWt\nTwitch: https://bit.ly/3erEqoi\n2nd Channel (The Rust Bucket): https://bit.ly/3MShbAv\n\nMerch Store: https://bit.ly/3g4nswR\n\nRead 5 Years Later: https://bit.ly/31lF0Zy\n\nSupport Our Patreon: https://bit.ly/3EVvm6f\n\n5YL Motion Comic Trailer: https://youtu.be/5JRvZP6ea84​​\n+ First Scene Fully Dubbed: https://youtu.be/DSxOL09U-zs\n\nDwayne McDuffie Documentary - https://bit.ly/3Af0MPG\n\nGet Your Own Omnitrix - https://www.instagram.com/ryangray_3d/\n\n____5 Years Later: Motion Comic Trailer: https://youtu.be/5JRvZP6ea84​​\n\nIntro/ Outro Music: Noxi (NoxiMationsArts)\nTwitter - https://twitter.com/NoxiMationArts​​\nYouTube - https://www.youtube.com/noximation​​\n\nTIMECODES:\n0:00 - Introduction\n2:32 - Updates\n6:20 - “Ben 10 Returns: Part 1”\n33:34 - “Ben 10 Returns: Part 2”\n53:22 “Everybody Talks About The Weather”\n1:16:52 - Final Thoughts\n\n_______HOW MY BREAKDOWNS WORK:\n\nClassic Breakdowns - https://bit.ly/3Eo9OfQ\nMovie Breakdowns - https://bit.ly/3Eo9Zb0\nAlien Force Breakdowns - http://shorturl.at/gmBER\n\nTHE REVIEW\nI watch each episode with my own commentary, often pausing the scenes to get my words out without having to talk over the episode, and also to point out and analyze the show's art and animation. I have seen each episode already growing up, so these reviews are to compare and contrast the five categories listed below.\n\nPLOT (Scaled from 1 to 5 Points)\nThe foundation of the episode. Uniquen",
+          "tags": [
+            "kuro the artist",
+            "5yl",
+            "5 years later",
+            "ben",
+            "10",
+            "tennyson",
+            "ultimate",
+            "alien",
+            "force",
+            "omnitrix",
+            "omniverse",
+            "reboot",
+            "review",
+            "reaction",
+            "rob orpilla",
+            "gwen"
+          ],
+          "published": "2021-09-17T14:30:35Z",
+          "categoryId": "24",
+          "fit": 48
+        },
+        {
+          "id": "2-at7VT6mB4",
+          "title": "Did Albedo Deserve Better?",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 1900,
+          "description": "CHILI FRIES!!!\n\nLooking for our Discord? Twitter?\nPatron? Twitch? 5 Years Later?\nALL OF OUR LINKS: https://linktr.ee/theinktank\n\nIntro/ Outro Music: Noxi (NoxiMation)\nTwitter - https://twitter.com/NoxiMation\nYouTube - https://www.youtube.com/noximation​​\n\nTIMECODES:\n0:00 - Introduction\n3:15 - Episode Breakdown\n26:03 - The Ratings\n30:10 - Final Thoughts\n\n_______HOW MY BREAKDOWNS WORK:\n\nClassic Breakdowns - https://bit.ly/3Eo9OfQ\nMovie Breakdowns - https://bit.ly/3Eo9Zb0\nAlien Force Breakdowns - http://shorturl.at/gmBER\nUltimate Alien Breakdowns - https://bit.ly/3aaSe4o\n\nTHE REVIEW\nI watch each episode with my own commentary, often pausing the scenes to get my words out without having to talk over the episode, and also to point out and analyze the show's art and animation. I have seen each episode already growing up, so these reviews are to compare and contrast the five categories listed below.\n\nPLOT (Scaled from 1 to 5 Points)\nThe foundation of the episode. Uniqueness and overused tropes are taken into account, but it is also judged on how well it tells the story of the episode. An episode can score a 5 even with a basic/ cliche plotline as long as it has good pacing, worthy use of its tropes, and feels well-polished. An episode can lose points due to plotholes, uneven storytelling, and relying too heavily on cliches to do the work for it. \n\nCHARACTERIZATION (Scaled from 1 to 5 Points)\nHow well the characters are written. Do they feel like themselves compared to the grand narrative of the franchise? Are the supporting or one-off characters interesting, or pure plot devices? ",
+          "tags": [
+            "kuro the artist",
+            "5yl",
+            "5 years later",
+            "ben",
+            "10",
+            "tennyson",
+            "ultimate",
+            "alien",
+            "force",
+            "omnitrix",
+            "omniverse",
+            "reboot",
+            "review",
+            "reaction",
+            "rob orpilla",
+            "albedo"
+          ],
+          "published": "2023-02-27T15:00:02Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "OMoGfzO3KvA",
+          "title": "What Happened to Generator Rex",
+          "creator": "AmaDiCi",
+          "creatorId": "UC9p0cDQg6TnQqjVbLgWxraw",
+          "duration": 1218,
+          "description": "What Happened to Generator Rex...\nGenerator Rex beat the brand new Ben 10 on its very first night, got a toy line, a video game and a five year plan, and then quietly disappeared. Here is what actually happened to the show. What do you remember most about Generator Rex?\n\n0:00 Did it really beat Ben 10?\n0:24 Rex’s world\n3:09 Premiere night and season one\n6:52 Season two and the toy line\n10:48 Season three and the crossover\n14:56 Seven in the morning\n16:47 So why did it end?\n18:37 A guest spot in Ben 10\n19:19 What Rex really was",
+          "tags": [
+            "generator rex",
+            "what happened to generator rex",
+            "generator rex story",
+            "generator rex history",
+            "entire story of generator rex",
+            "generator rex lore",
+            "generator rex finale",
+            "generator rex toys",
+            "rex salazar",
+            "agent six",
+            "bobo haha",
+            "providence",
+            "ben 10 generator rex",
+            "heroes united",
+            "man of action",
+            "cartoon lore"
+          ],
+          "published": "2026-10-26T18:00:06Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "QA1cYGLtQMI",
+          "title": "Aliens Vs Aliens  | Ben 10: Alien Force | Cartoon Network",
+          "creator": "Ben 10",
+          "creatorId": "UCoWgc1mqe-bcfb_lem7EyOg",
+          "duration": 283,
+          "description": "S01 EP12: Two Plumber offspring are taking down all aliens. Now they have their sites set on Ben's team.\n\n► Watch more Ben 10 videos here: https://www.youtube.com/watch?v=ru7pXfxchcA&list=PLEy0MtsV5_rQ1CcaXKHGI1k8PN3bSWV32\n\n► Click to Subscribe to the Ben 10 Community! \nhttps://www.youtube.com/channel/UCoWgc1mqe-bcfb_lem7EyOg?sub_confirmation=1\n\nIt’s always Hero Time on the brand new Ben 10 official YouTube channel! Discover funny clips and fun facts about the 10-year-old boy hero and explore trivia about your favourite aliens. There’s lots of laugh out loud moments as Ben gets up to some super-powered mischief and awesome action sequences as he battles bad guys. You can check out gameplay footage and exclusive content you won’t find anywhere else. Join Ben, Gwen and Grandpa Max as they travel the country in the Rustbucket and discover your inner alien superhero by subscribing to the Ben 10 official YouTube channel now for regular updates!\n\nFollow us for more Ben 10 news!\nWebsite - http://ben10.cartoonnetwork.co.uk/\nFacebook - https://www.facebook.com/ben10\n\n▶︎ Visit the Cartoon Network website for more fun activities, games and downloads and check out our videos on Cartoon Network YouTube Channel:\n www.cartoonnetwork.co.uk \nwww.youtube.com/cartoonnetworkuk \n\n#ben10  #bentennyson #kevin11\n\n#ben10 #kevin11 #omnitrix",
+          "tags": [
+            "ben 10",
+            "ben10",
+            "ben ten",
+            "cartoon network",
+            "ben 10 cartoon",
+            "ben 1o",
+            "ben",
+            "ben ten cartoon",
+            "bem 10",
+            "new ben 10",
+            "benten 10",
+            "ben ten 10",
+            "ben 10 cartoon network",
+            "ben 10 ben 10",
+            "ben 10 theme song",
+            "ben. 10"
+          ],
+          "published": "2025-07-19T11:00:48Z",
+          "categoryId": "1",
+          "fit": 66
+        },
+        {
+          "id": "4DY8CeKVb7M",
+          "title": "Ben 10: Complete Series Retrospective",
+          "creator": "Billiam Trash",
+          "creatorId": "UCVVVUIzfO4y3k_m3QSS6gYQ",
+          "duration": 13059,
+          "description": "From 2005-2014, the Classic Ben 10 Continuity ran for four series, four TV movies, and well over 200 episodes. The story of 10-Year-Old Ben Tennyson discovering the Omnitrix, a powerful device that lets him transform into ten, and then dozens upon dozens, of aliens, followed the character as he grew up going on adventures throughout the universe. Ben 10 is Cartoon Network's original superhero and features a dense mythology that rivals DC and Marvel's most storied characters. In this retrospective, I cover the whole thing. \n\n00:00- Intro \n01:12- Ben 10 Classic \n40:56- Ben 10: Race Against Time (Live Action)\n58:32- Ben 10: Alien Force\n1:47:29 - Ben 10: Alien Swarm  (Live Action)\n2:04:06- Ben 10: Ultimate Alien \n02:51:38 -Ben 10/Generator Rex Heroes United\n02:57:06 - Ben 10: Destroy All Aliens \n03:02:04- Ben 10: Omniverse \n\nThis is a second edition of my retrospective, which ended in 2023. The new version features extended commentary, including new information provided by creatives who worked on the show, much of which was gathered by the Ben 10 fan community.  \n\nThe Ink Tank’s Interview With Duncan Rouleau ►\nhttps://www.youtube.com/watch?v=IzdAJuPoKnU&t=1124s  \n\nThe Ink Tank’s RACE AGAINST TIME Script Read ► \nhttps://www.youtube.com/watch?v=HVNK8mRkbes&t=1675s \n\nLevi Church's Interview with Dan Riba ►\nhttps://www.youtube.com/watch?v=BibWfH4vGPo \n\nSteven Gordon Artwork Compiled by Ben 10 Wiki ►\nhttps://ben10.fandom.com/wiki/Ben_10_(2005_TV_Series)/Early_Development \n\nDreamer Comics Podcast Interview with Steven Seagel ►\nhttps://youtu.be/jz_vn1DbYOo?si=zLL39W8VOdLttL55 \n\nSteven",
+          "tags": [
+            "Ben 10",
+            "Ben 10 Alien Force",
+            "Ben 10 Ultimate Alien",
+            "Ben 10 Race Against Time",
+            "Man of Action",
+            "Billiam",
+            "Ben 10 Alien Swarm",
+            "Ben 10 Omniverse",
+            "Ben 10 Destroy all Aliens",
+            "Generator Rex",
+            "Tara Strong",
+            "Yuri Lowenthal",
+            "Alex Winter",
+            "Omnitrix",
+            "Cartoon Network"
+          ],
+          "published": "2026-07-01T16:28:57Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "W73b-GRw2wg",
+          "title": "Ben 10 Classic  in 17 Minutes  From Beginning to End ( Max Story +omnitrix ) Recap",
+          "creator": "Breif Toon",
+          "creatorId": "UCHWmZlO05pTSTG2myhfkCnA",
+          "duration": 1029,
+          "description": "♥ Enjoy watching ♥\nIf you like this video? Don't forget to hit the like button and subscribe to the channel. . Thanks for watching and see you in the next video.\n.............\nOmnitrix story\nMax's story\nThe complete story in all episodes\nExplanation of the end\nTimeline\n........\n0:00 intro\n0:21 Making the Omnitrix and the story of Azmuth\n1:20 Grandpa Max's story\n2:23 Full Story .season 1\n5:15 Full Story .season 2\n8:42 kevin's story\n9:02 Full Story .season 3\n11:32 Secret of the omnitrix\n12:16 Full Story .season 4\n14:35 After the end\n...............\nBen 10 Alien Force\nhttps://www.youtube.com/watch?v=EBGbI4WWwu0\nBen 10: Ultimate Alien\nhttps://www.youtube.com/watch?v=-d1FGekg_dE\n...................\nSome media in this video is used for educational purpose of review & commentary under terms of fair use. All footage, & images used belong to their respective companies.\n\n\n\n\n\nben 10,ben 10 omniverse,ben 10 reboot,new ben 10,ben 10 cartoon,ben 10 2016,ben 10 song,ben 10 ultimate alien,ben 10 cartoon network,ben ten 10,ben 10 ben 10,cartoon ben 10,ben 10 theme song,ben,cartoon network ben 10,ben ten,ben 10 movie,ben 10 bahasa indonesia,ben 10 alien force,benten 10,ben 10 türkçe,ben10,ben 1o,ben. 10,ben 10 toys,ben 10 izle,ben 10 full episodes,ben 10 turkce,ben 10 türkce,türkçe ben 10,ben 10 classic\nadventure time,theories\nThe complete story\nsummary Ben 10",
+          "tags": [
+            "ben 10",
+            "ben 10 omniverse",
+            "ben 10 reboot",
+            "new ben 10",
+            "ben 10 cartoon",
+            "ben 10 2016",
+            "ben 10 song",
+            "ben 10 ultimate alien",
+            "ben 10 cartoon network",
+            "ben ten 10",
+            "ben 10 ben 10",
+            "cartoon ben 10",
+            "ben 10 theme song",
+            "ben",
+            "cartoon network ben 10",
+            "ben ten"
+          ],
+          "published": "2023-05-11T04:16:41Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "FAghmVpy0Lw",
+          "title": "The Entire Story of Ben 10: Alien Force In 39 Minutes",
+          "creator": "JarToon",
+          "creatorId": "UCMlLzlRwL4WWDTaTfna6Zlw",
+          "duration": 2356,
+          "description": "Get ready for an out-of-this-world adventure! Ben 10 Alien Force is by far one of the most popular pieces of Ben 10 media… and for great reason! \n\nWith a plot full of twists, turns and some of the best Ben 10 aliens (and villains) the franchise has to offer, I know you’ll love this full recap of its story!",
+          "tags": [],
+          "published": "2025-03-22T16:07:00Z",
+          "categoryId": "24",
+          "fit": 55
+        },
+        {
+          "id": "8LUB_aBdomY",
+          "title": "The Failure of Alien Force | A Complete Review of Ben 10 Alien Force (Part 5)",
+          "creator": "Lowart",
+          "creatorId": "UCarCkGvLV1uv5xVUocX13-w",
+          "duration": 871,
+          "description": "Ben 10 Alien Force just keeps getting me.\n\nSupport me on Patreon: https://www.patreon.com/lowart\nWatch livestreams on Twitch: https://www.twitch.tv/thelowart\nFollow me on Twitter: https://twitter.com/TheLowestArt\nContact me: lowart.contact@gmail.com\n\nBackground music:\n- Cave from Ben 10 Alien Force DS Game\n- Cutscene from Ben 10 Alien Force DS Game\n- Wildvine Boss Battle from Ben 10 Alien Force DS Game\n- Highbreed Final Boss Battle from Ben 10 Alien Force DS Game\n- Thunder by Telecasted\n- Ben 10 OG Intro Instrumental",
+          "tags": [
+            "ben 10",
+            "ben 10 alien force",
+            "ben 10 ultimate alien",
+            "man of action",
+            "ben 10 retrospective",
+            "og ben 10",
+            "alien force",
+            "cartoon network",
+            "ben 10 2005",
+            "ben 10 vs alien force",
+            "ben 10 new aliens",
+            "alien force ben 10",
+            "ben 10 complete series review",
+            "ben 10 vs ben 10 alien force",
+            "alien force sucks",
+            "ben 10 af"
+          ],
+          "published": "2022-11-02T17:27:18Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "R4flw5Rmouk",
+          "title": "This Omnitrix Summons Alien BADDIES! | Chaquetrix Pt.6",
+          "creator": "Also FAN 1OK",
+          "creatorId": "UCj58MO9hP9MPP9unwQDQK8Q",
+          "duration": 817,
+          "description": "Creator of Chaquetrix:- https://x.com/TrixTheAlien\n\n\n00:00 The story so far\n00:34 Chapter 16: Kevin 11\n06:26 Chapter 17: A Team",
+          "tags": [
+            "chaquetrix explained",
+            "chaquetrix aliens comic dub",
+            "chaquetrix albedo",
+            "chaquetrix comic dub",
+            "chaquetrix comic animation",
+            "chaquetrix comic fun xlr8 vs ben 10",
+            "chaquetrix comic dub english",
+            "chaquetrix comic kiss",
+            "chaquetrix comic fandub español",
+            "chaquetrix comic dub español",
+            "Ben 10 Fanmade",
+            "Ben 10",
+            "also fan10k",
+            "ben 10 female aliens",
+            "chaquetrix episode 6",
+            "heartblast chaquetrix"
+          ],
+          "published": "2026-10-20T15:30:24Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "4k_kUPVvixc",
+          "title": "All 30 Ben 10 Original Aliens Ranked & Explained",
+          "creator": "TheOmniGuy",
+          "creatorId": "UCUZv197dhPXCrlHzNyc_gYQ",
+          "duration": 1246,
+          "description": "In this channel you can expect content on every popular fictional series including Ben 10, Avatar, Invincible and many more!\n\nIf you want to work with us, fill our these forms:\n✅ Video Editor Form: https://forms.gle/VvoFvkXVGhrJWDnc7\n✅ Script Writer Form: https://forms.gle/iUPMWtgAzTpG24MV7\n\nNotice: You are not allowed to use our own custom-made art and thumbnails for your videos. If you do we hold the right to strike your videos\n\n#ben10 #omnitrix #omniguy",
+          "tags": [
+            "ben 10",
+            "ben 10 alien force",
+            "ben 10 ultimate alien",
+            "ben 10 new series",
+            "ben 10 omniverse",
+            "ben 10 power level",
+            "ben 10 power scaling",
+            "ben 10 strongest aliens",
+            "ben 10 omnitrix",
+            "strongest aliens not in omnitrix"
+          ],
+          "published": "2026-03-07T16:00:05Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "Jh6kquL8zCk",
+          "title": "Ultimate Alien: Every Episode Ever | Ben 10 | Cartoon Network",
+          "creator": "Ben 10",
+          "creatorId": "UCoWgc1mqe-bcfb_lem7EyOg",
+          "duration": 5394,
+          "description": "All Ultimate Alien episodes in one huge compilation bring Ben’s biggest challenges to life 🔥 Follow the chase for the Map of Infinity, the Flame Keeper’s Circle and Vilgax’s terrifying transformation before Ben earns a new Omnitrix 🌟 This is the ultimate hero marathon.💚\n\n📺 From Ben 10: Ultimate Alien \n\n#Ben10UltimateAlien #Ben10 #UltimateAlienAllEpisodes #BenTennyson #Ultimatrix #Aggregor #Diagon #Vilgax #GwenTennyson #KevinLevin #Ben10Aliens #kidsadventure \n\n► Watch more Ben 10 videos here: https://www.youtube.com/watch?v=ru7pXfxchcA&list=PLEy0MtsV5_rQ1CcaXKHGI1k8PN3bSWV32\n\n► Click to Subscribe to the Ben 10 Community! \nhttps://www.youtube.com/channel/UCoWgc1mqe-bcfb_lem7EyOg?sub_confirmation=1\n\nIt’s always Hero Time on the brand new Ben 10 official YouTube channel! Discover funny clips and fun facts about the 10-year-old boy hero and explore trivia about your favourite aliens. There’s lots of laugh out loud moments as Ben gets up to some super-powered mischief and awesome action sequences as he battles bad guys. You can check out gameplay footage and exclusive content you won’t find anywhere else. Join Ben, Gwen and Grandpa Max as they travel the country in the Rustbucket and discover your inner alien superhero by subscribing to the Ben 10 official YouTube channel now for regular updates!\n\nFollow us for more Ben 10 news!\nWebsite - http://ben10.cartoonnetwork.co.uk/\nFacebook - https://www.facebook.com/ben10\n\n▶︎ Visit the Cartoon Network website for more fun activities, games and downloads and check out our videos on Cartoon Network YouTube Channel:\n www.cartoonnetwork.",
+          "tags": [
+            "ben 10",
+            "ben10",
+            "ben ten",
+            "cartoon network",
+            "ben 10 cartoon",
+            "ben",
+            "ben ten cartoon",
+            "bem 10",
+            "ben 10 omniverse",
+            "ben 10 reboot",
+            "new ben 10",
+            "benten 10",
+            "ben ten 10",
+            "ben 10 ben 10",
+            "ben 10 theme song",
+            "ben. 10"
+          ],
+          "published": "2026-09-20T12:00:00Z",
+          "categoryId": "1",
+          "fit": 64
+        },
+        {
+          "id": "yohgn9ZjBOA",
+          "title": "What They DON’T Show You About Ben 10",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 2200,
+          "description": "I heard it wasn't easy.\n\nLooking for our Discord? Twitter?\nPatron? Twitch? 5 Years Later?\nALL OF OUR LINKS: https://linktr.ee/theinktank\n\n5YL Motion Comic Trailer: https://youtu.be/5JRvZP6ea84​​\n+ First Scene Fully Dubbed: https://youtu.be/DSxOL09U-zs\n\nIntro/ Outro Music: Noxi (NoxiMation)\nTwitter - https://twitter.com/NoxiMation\nYouTube - https://www.youtube.com/noximation​​\n\n____LEVI CHURCH (Head of 5YL Wiki)\nDiscord: Levi C.#8103\nTwitter: https://twitter.com/1LeviChurch\nYouTube: https://www.youtube.com/channel/UCYMZO0hhp_dnAUGlr7g8ygQ\n\nTIMECODES:\n0:00 - Introduction\n3:18 - Episode Breakdown\n29:47 - The Ratings\n33:59 - Final Thoughts\n\n_______HOW MY BREAKDOWNS WORK:\n\nClassic Breakdowns - https://bit.ly/3Eo9OfQ\nMovie Breakdowns - https://bit.ly/3Eo9Zb0\nAlien Force Breakdowns - http://shorturl.at/gmBER\nUltimate Alien Breakdowns - https://bit.ly/3aaSe4o\n\nTHE REVIEW\nI watch each episode with my own commentary, often pausing the scenes to get my words out without having to talk over the episode, and also to point out and analyze the show's art and animation. I have seen each episode already growing up, so these reviews are to compare and contrast the five categories listed below.\n\nPLOT (Scaled from 1 to 5 Points)\nThe foundation of the episode. Uniqueness and overused tropes are taken into account, but it is also judged on how well it tells the story of the episode. An episode can score a 5 even with a basic/ cliche plotline as long as it has good pacing, worthy use of its tropes, and feels well-polished. An episode can lose points due to plotholes, uneven storytelling, and rely",
+          "tags": [
+            "kuro the artist",
+            "5yl",
+            "5 years later",
+            "ben",
+            "10",
+            "tennyson",
+            "ultimate",
+            "alien",
+            "force",
+            "omnitrix",
+            "omniverse",
+            "reboot",
+            "review",
+            "reaction",
+            "rob orpilla",
+            "muppets"
+          ],
+          "published": "2022-11-05T14:49:29Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "-EFyQXvf4Fs",
+          "title": "The Middleground of the Original 10",
+          "creator": "Alazoneia",
+          "creatorId": "UCD6HWcvh3e-uWoMjvApzjdg",
+          "duration": 3182,
+          "description": "With so many aliens in Ben 10, there is bound to be favorites, least favorites, and some that are right in the middle. Within the original 10, no other aliens fit the category best than Wildmutt and Stinkfly. Despite being interesting aliens on their own merit, these two would be often overlooked compared to other members of the original 10, and other aliens introduced much after. Why is that? Lets talk about it!\nSongs used are...\nFor Whose Sake - Fire Emblem Genealogy of the Holy War\nAngel Island Act 1- Sonic 3 & Knuckles\nWaterfall Colosseum - Pokemon Battle Revolution\nFighting in the Street - Streets of Rage\nVampire Killer - Castlevania (Smash Ultimate Remix)\nHulk Theme - Marvel vs Capcom\nFlame Core (Volcano) - Sonic 06\nFire Emblem Mystery of the Emblem Medley - Super Smash Bros for Wii U\nWilys Tower Stage 4 - Megaman: The Wily Wars\nBattle for Glory - Dragon Quest IV (DS Version)\nTriceratops Trot - Jurassic Park\nCemetary Remix - Castlevania Dracula X\nMoon - Mars ~ Sukarabe Fight BGM 2 - The Hybrid Front\nDevil Forest - Last Bible III\nAir Man Stage - Megaman 2 (Power Fighters Remix)\nBonus Stage - Decap Attack\n\nAll gameplay footage is myself with these exceptions\nBattle Ready Wildmutt: https://www.youtube.com/watch?v=z4Pb_0jSKVs&t=124s\nSavage Pursuit: https://www.youtube.com/watch?v=NK3GLzXKZuM&t=558s\nBen 10 to the Rescue: https://www.youtube.com/watch?v=U7dnQPLn9Jo&t=793s\nBen 10 Omniverse: https://www.youtube.com/watch?v=1xLzTCSRLEA&t=261s\nBen 10 Hyperscan: https://www.youtube.com/watch?v=wGwJXXBNxOE&t=333s\nBattle Ready Stinkfly: https://www.youtube.com/watch?v=jXaxEN_It1Q\n",
+          "tags": [
+            "ben 10 wildmutt",
+            "ben 10 stinkfly"
+          ],
+          "published": "2026-07-30T13:40:26Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "5QUH1zw3fvc",
+          "title": "All 100 Ben 10 Aliens and Abilities Explained",
+          "creator": "Heatblast Explains",
+          "creatorId": "UCC7EMhHKhxs6341pnLNOSwA",
+          "duration": 4568,
+          "description": "From the accidental activation of Heatblast in the 2005 pilot to the reality-warping power of Alien X, the Omnitrix has given Ben Tennyson access to an incredibly diverse roster of alien transformations. This comprehensive guide explores the unique biology, strategic advantages, and specific weaknesses of classic heavy hitters like Four Arms and Diamondhead alongside specialized creatures like Grey Matter and Upgrade. Every transformation carries distinct homeworld lore and evolutionary traits, whether it is the sonar-based tracking of the Vulpimancer Wildmutt or the bizarre acoustic cloning of Echo Echo. Decades of television continuity have continually expanded this extraterrestrial arsenal, pushing the boundaries of what a single wristwatch can do against cosmic threats.\n\nBeyond the standard playlist, the franchise introduced massive evolutionary upgrades like the Ultimate forms, exchanging raw scale or agility for devastating specialized firepower. An adult Ben 10,000 pushes these limits even further in the future timeline using the Biomnitrix, fusing disparate species together to create overwhelmingly powerful hybrids like Fourmungousaur and Atomic-X. The 2016 reboot reimagined the mechanics entirely by grafting Shock Rock's crystalline energy and high-tech Omni-Kix armor onto the roster for enhanced durability and space survival. Finally, the lore is rounded out by tantalizing glimpses of unreleased transformations like Sandbox, Snakepit, and Shellhead, leaving fans with fascinating concepts that never officially made it to the screen.\n\nCovered in this video:\nBen Tenn",
+          "tags": [],
+          "published": "2026-09-03T15:06:53Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "lZiLf07A_Nw",
+          "title": "Ben 10: Alien Swarm REVIEW (w/ KuroTheArtist!) - Diamondbolt",
+          "creator": "Diamondbolt",
+          "creatorId": "UCaPGKhms7rUVjpBceeJUdUQ",
+          "duration": 1036,
+          "description": "I team up with KuroTheArtist and take a look at the live action Alien Force movie - Ben 10: Alien Swarm!\n\nseriously though i love this movie\n\nSpecial thanks to KuroTheArtist! ► https://goo.gl/o2Kz6j\n\nPRANK PATROL ► https://goo.gl/pgAhCE\nARE SMASH FANS UNGRATEFUL? ►https://goo.gl/mtTSoc \nTwitter ► https://goo.gl/\n\nMUSIC:\nExtreme Earth Makeover Malware Edition - Ben 10 Omniverse: The Game\nTraining Time - Ben 10 Omniverse: The Game \n\n\n--SEND ME STUFF--\nP.O. Box 4050 \nTranmere North SA 5073\n\nThanks so much for watching!",
+          "tags": [
+            "ben 10",
+            "movie",
+            "funny",
+            "review",
+            "cartoon"
+          ],
+          "published": "2018-11-15T20:51:44Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "Jc-CPYHTCq0",
+          "title": "10 Reasons to Watch Ben 10: Omniverse",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 779,
+          "description": "Have you given the series a chance yet?\n\nLooking for our Discord? Twitter?\nPatron? Twitch? 5 Years Later?\nALL OF OUR LINKS: https://linktr.ee/theinktank\n\nIntro/ Outro Music: Noxi (NoxiMation)\nTwitter - https://twitter.com/NoxiMation\nYouTube - https://www.youtube.com/noximation​​\n\nBen 10 Soundtrack Recreations: \nLINK: https://youtu.be/2JXoJxQMaCY\nLINK: https://youtu.be/Vj7HHqsUkMQ\nLINK: https://youtu.be/75tfmjJxaNs",
+          "tags": [
+            "kuro the artist",
+            "5yl",
+            "5 years later",
+            "ben",
+            "10",
+            "tennyson",
+            "ultimate",
+            "alien",
+            "force",
+            "omnitrix",
+            "omniverse",
+            "reboot",
+            "review",
+            "reaction",
+            "rob orpilla",
+            "season"
+          ],
+          "published": "2023-04-22T14:00:10Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "O7rvbzj2XNg",
+          "title": "Ben 10 VS Alien Force  - What Changed? | A Complete Review of Alien Force (Part 1)",
+          "creator": "Lowart",
+          "creatorId": "UCarCkGvLV1uv5xVUocX13-w",
+          "duration": 897,
+          "description": "Well, folks, it's Ben 10: Alien Force time. Yup, the saga through Ben 10 continues. Will I make it through the whole series? Will Alien Force do me in? Or will Alien Force be a fantastic show? Only time will tell. \n\nSupport me on Patreon: https://www.patreon.com/lowart\nWatch livestreams on Twitch: https://www.twitch.tv/thelowart\nFollow me on Twitter: https://twitter.com/TheLowestArt\nContact me: lowart.contact@gmail.com\n\nBACKGROUND MUSIC (in order of use):\n- Alien Force Opening Theme\n- Ben 10 Opening Theme (Instrumental)\n- Warehouse (from Ben 10 AF DS game)\n- Fingerprint by Mini Vandals\n- Cutscene (from Ben 10 AF DS game)\n- Gorvan Boss Battle (from Ben 10 AF DS game)",
+          "tags": [
+            "ben 10",
+            "alien force",
+            "ben 10 vs alien force",
+            "ben 10 alien force",
+            "ben 10 new aliens",
+            "ben 10 ultimate alien",
+            "alien force ben 10",
+            "alien force transformation",
+            "alien force opening",
+            "alien force season 1",
+            "ben 10 retrospective",
+            "og ben 10",
+            "man of action",
+            "ben 10 complete series review",
+            "ben 10 vs ben 10 alien force",
+            "ben ten"
+          ],
+          "published": "2022-07-01T16:23:02Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "1fCYbLUwgkU",
+          "title": "What is the Dualtrix?",
+          "creator": "Grey Matter Fanboy",
+          "creatorId": "UC5ZbFsp-6HOgvlgBje2VzdA",
+          "duration": 444,
+          "description": "Hey there in this video we Talk about the The Fan concept known as the dualtrix which is an interesting concept where ben and gwen gain two unique omnitrixes that comes with alot of unique features.\n\nThumbnail by: https://x.com/galaxy__cowboy?s=11\n\nSOCIALS:\nMy Patreon: https://www.patreon.com/Greymatterfanboy589\nMy Twitter: https://x.com/GMFB_Aniel \nMy instagram:  https://www.instagram.com/ben10_fan_service/\n\n#chaquetrix #ben10 #cartoon",
+          "tags": [
+            "greymatter fanboy",
+            "gray matter fanboy",
+            "grey matter fanboy",
+            "graymatter fanboy",
+            "ben 10 classic",
+            "ben 10 alien force",
+            "ben 10 ultimate alien",
+            "ben 10 omniverse",
+            "ben 10 reboot",
+            "Ink tank",
+            "fan 10k",
+            "danboywonder",
+            "stan hanrahan",
+            "ben 10 channel",
+            "greymatter fanboy alien x",
+            "greymatter fanboy carnitrix"
+          ],
+          "published": "2026-09-20T14:00:34Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "RA_tOwrmHY8",
+          "title": "Bootleg Ben 10 Movie Review (Siavash's Secret) ft. @DiamondBolt",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 1809,
+          "description": "What was Siavash's Secret, anyway?\n\n____THIS VIDEO'S LINKS:\n1. BOLT’S VIDEO: https://youtu.be/OMbSvV6t1HY\n2. Siavash on Lost & Found Tumblr: https://bit.ly/3EK1Tuc\n3. Siavash CGI Models: https://www.artstation.com/artwork/GoGNN\n4. Watch Siavash’s Secret: https://youtu.be/nM0iGVhfp_U\n\nLooking for our Discord? Twitter?\nPatron? Twitch? 5 Years Later?\nALL OF OUR LINKS: https://linktr.ee/theinktank",
+          "tags": [
+            "kuro the artist",
+            "5yl",
+            "5 years later",
+            "ben",
+            "10",
+            "tennyson",
+            "ultimate",
+            "alien",
+            "force",
+            "omnitrix",
+            "omniverse",
+            "reboot",
+            "review",
+            "reaction",
+            "rob orpilla",
+            "my name is raj"
+          ],
+          "published": "2022-11-29T13:30:10Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "mBzMba5k8d8",
+          "title": "All Doctor Who References in Ben 10’s “Paradox”",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 1985,
+          "description": "Check out a free trial of Wondershare Filmora X here: https://bit.ly/3cWa1dj\nHave a look at Filmora Black Friday sales: https://filmora.wondershare.com/topic/blackfriday/\nFind more video editing resources in Filmstock:  https://bit.ly/3lb6ZXk\n\nDISCORD: https://discord.gg/inktank\nPATREON: https://www.patreon.com/InkTank\n5 YEARS LATER: https://bit.ly/31lF0Zy\nTHE RUST BUCKET (2nd Channel): https://bit.ly/2knRFu8\n\n5YL Motion Comic Trailer: https://youtu.be/5JRvZP6ea84​​\n+ First Scene Fully Dubbed: https://youtu.be/DSxOL09U-zs\n\nParadox Scene Both POVs: https://youtu.be/leJeaREPJa8\n\n#Ben10forMultiVersus\nMultiVersus Discord: https://discord.gg/multiversus\nMultiVersus Reddit: https://bit.ly/3pldOa7\n\nNEW BEN 10 VIDEOS:\nBen 10 Pilot Evidence: https://youtu.be/4AGLbw9rr8k\nUltimate Classic Aliens: https://youtu.be/PzhPftLtS20\nMatt’s Comics Video: https://youtu.be/IuH5hEdRBbU\n\n‘Hugo’ in Fusion Fall: https://youtu.be/B7aUU02-4iw\n\nTIMECODES:\n0:00 - Introduction\n2:22 - Updates\n4:59 - Episode Breakdown\n27:14 - The Ratings\n31:24 - Final Thoughts\n\nIntro/ Outro Music: Noxi (NoxiMationsArts)\nTwitter - https://twitter.com/NoxiMationArts​​\nYouTube - https://www.youtube.com/noximation​​\n\n_______HOW MY BREAKDOWNS WORK:\n\nClassic Breakdowns - https://bit.ly/3Eo9OfQ\nMovie Breakdowns - https://bit.ly/3Eo9Zb0\nAlien Force Breakdowns - http://shorturl.at/gmBER\n\nTHE REVIEW\nI watch each episode with my own commentary, often pausing the scenes to get my words out without having to talk over the episode, and also to point out and analyze the show's art and animation. I have seen each episode already growing u",
+          "tags": [
+            "kuro the artist",
+            "5yl",
+            "5 years later",
+            "ben",
+            "10",
+            "tennyson",
+            "ultimate",
+            "alien",
+            "force",
+            "omnitrix",
+            "omniverse",
+            "reboot",
+            "review",
+            "reaction",
+            "rob orpilla",
+            "whovian"
+          ],
+          "published": "2021-12-03T16:41:56Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "gHsYchBb3AE",
+          "title": "Charmcaster Kills Ben 10 and His Team",
+          "creator": "The Rust Bucket",
+          "creatorId": "UCEfcSbKrY4Lp4gQeAw1b9Mw",
+          "duration": 246,
+          "description": "Her father wasn't happy about that. \n\nLooking for our Discord? Twitter?\nPatron? Twitch? 5 Years Later?\nALL OF OUR LINKS: https://linktr.ee/theinktank\n\nIntro/ Outro Music: Noxi (NoxiMationsArts)\nTwitter - https://twitter.com/NoxiMationArts​​\n\n_______HOW MY BREAKDOWNS WORK:\n\nClassic Breakdowns - https://bit.ly/3Eo9OfQ\nMovie Breakdowns - https://bit.ly/3Eo9Zb0\nAlien Force Breakdowns - http://shorturl.at/gmBER\nUltimate Alien Breakdowns - https://bit.ly/3aaSe4o\n\nTHE REVIEW\nI watch each episode with my own commentary, often pausing the scenes to get my words out without having to talk over the episode, and also to point out and analyze the show's art and animation. I have seen each episode already growing up, so these reviews are to compare and contrast the five categories listed below.\n\nPLOT (Scaled from 1 to 5 Points)\nThe foundation of the episode. Uniqueness and overused tropes are taken into account, but it is also judged on how well it tells the story of the episode. An episode can score a 5 even with a basic/ cliche plotline as long as it has good pacing, worthy use of its tropes, and feels well-polished. An episode can lose points due to plotholes, uneven storytelling, and relying too heavily on cliches to do the work for it. \n\nCHARACTERIZATION (Scaled from 1 to 5 Points)\nHow well the characters are written. Do they feel like themselves compared to the grand narrative of the franchise? Are the supporting or one-off characters interesting, or pure plot devices? Did the humor land? Did the actions and character motivations make sense?\n\nVISUALS (Scaled from 1 to 5 Points)\nBas",
+          "tags": [
+            "ben",
+            "10",
+            "tennyson",
+            "ultimate",
+            "alien",
+            "force",
+            "classic",
+            "reboot",
+            "breakdown",
+            "review",
+            "omnitrix",
+            "ink tank",
+            "kuro",
+            "the artist",
+            "rob orpilla",
+            "death"
+          ],
+          "published": "2023-03-21T15:00:34Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "ZbK7pKbf8vM",
+          "title": "UNLOCK ALL ALIENS AND THEIR POWERS GALVAN BEN 10 OPEN WORLD GAMEPLAY | GALVAN BEN10 0.18.3 UPDATE",
+          "creator": "NEUTRO GAMING ",
+          "creatorId": "UC-bdkQWQMJPQHEGCm-i4D_g",
+          "duration": 557,
+          "description": "UNLOCK ALL ALIENS AND THEIR POWERS GALVAN BEN 10 OPEN WORLD GAMEPLAY | GALVAN BEN10 0.18.3 UPDATE\n\nGALVAN BEN10 ALL ULTIMATE ALIENS GAMEPLAY | HOW TO DOWNLOAD GALVIN BEN10 GAME\n\n#ben10 #ben10gameplay #ben10alienforce #ben10ultimatealien #ben10transformation #ben10games #ben10gaming #famxer #gaming #ytshorts #viral \n\n\n\nGALVAN BEN 10 OPEN WORLD GAME 0.18 UPDATE DOWNLOAD LINK \n\nthumbnail credit  ‪@FamxerGaming‬ \n\nBEN10 OPEN WORLD MOST REALISTIC GAME 2025\n\nignore tags \nben10 gameplay, ben10 gameplay tips, ben 10 galvan gameplay, ben10 roblox gameplay, galvan game ben 10 gameplay, galvan gameplay, galvan game gameplay, ben10 galvan, ben 10 gameplay, ben 10 alien x gameplay, ben 10 full gameplay, ben 10 gameplay walkthrough, ben10gameplay, ben10 game, ben10 game potential, ben 10 open world gameplay, gameplay, ben 10 ultimate cannonbolt gameplay, gameplay in hindi, galvan ben 10 game, ben10 fan game, ben10 game showcase, ben 10 galvan game, gameplay walkthrough, hero time gameplay\n\nhow to download galvan ben 10 game, how to download galvan ben 10 game in pc, galvan ben 10 game how to download, how to download ben 10 galvan game, how to download ben 10 game, how to download ben 10 fangame, ben 10 galvan download, galvan ben 10 game download, how to install ben 10 game, how to install ben 10 fan game, galvan game download link, ben 10 game download, download ben 10 free game, ben 10 free game download, ben 10 open world game download, ben 10 games download for pc, ben10 game showcase\n\nben 10 galvan gameplay, galvan game ben 10 gameplay, ben10 gameplay, galvan gameplay, ben10 galvan",
+          "tags": [
+            "ben 10 galvan gameplay",
+            "galvan game ben 10 gameplay",
+            "ben10 gameplay",
+            "galvan gameplay",
+            "ben10 galvan",
+            "galvan rtx gameplay",
+            "ben10 gameplay tips",
+            "galvan game gameplay",
+            "ben10 roblox gameplay",
+            "ben 10 galvan game play",
+            "galvan ben 10 game",
+            "ben 10 galvan game",
+            "ben 10 gameplay",
+            "galvan ben 10",
+            "ben 10 galvan",
+            "ben 10 rtx gameplay"
+          ],
+          "published": "2026-09-28T10:24:56Z",
+          "categoryId": "20"
+        },
+        {
+          "id": "6aRTymnUGjo",
+          "title": "EVERY NEW ALIEN TRANSFORMATIONS IN ALIEN FORCE | BEN 10",
+          "creator": "Paul!",
+          "creatorId": "UC5PDErdoj5dfMs_OdSYpVTQ",
+          "duration": 359,
+          "description": "Hello my aliens! This is my twenty-third episode!\n\nMy instagram: https://www.instagram.com/paul_aliens/",
+          "tags": [],
+          "published": "2021-10-05T18:29:38Z",
+          "categoryId": "22",
+          "fit": 57
+        },
+        {
+          "id": "X2J_s3W6GdU",
+          "title": "Ranking EVERY Ben 10 Alien Ever",
+          "creator": "DrWardy",
+          "creatorId": "UCROVVPrb94jeR9dqMX5V6Yg",
+          "duration": 2351,
+          "description": "#ben10 #ben10omniverse #omnitrix\n\ndiscussing every single alien across the ben 10 franchise, reviewing and ranking them in order \n\ndiscord: https://discord.gg/Nu6a78Dc\n\nchannel art by Matthew Bitts \nhttps://x.com/matthewbitts?s=21",
+          "tags": [
+            "ben 10",
+            "ben 10 transformation",
+            "alien x",
+            "ben 10 lore",
+            "omniverse",
+            "ultimate alien",
+            "ben 10 explained",
+            "ben 10 theory",
+            "ben 10 fan theory",
+            "ben 10 timeline"
+          ],
+          "published": "2025-11-09T13:30:39Z",
+          "categoryId": "1",
+          "fit": 59
+        },
+        {
+          "id": "bBslB5gWoOg",
+          "title": "How Alien Force Aliens Changed Ben 10",
+          "creator": "DrWardy",
+          "creatorId": "UCROVVPrb94jeR9dqMX5V6Yg",
+          "duration": 716,
+          "description": "#ben10 #ben10omniverse #omnitrix\n\nfollowing my recent video discussing the later additions to the classic series alien roster. i thought it was about time we went over the alien force roster, what went into designing  those transformations and how they expanded on what the classic series of ben 10 set up\n\nkuro’s video @TheInkTank \n\nhttps://youtu.be/dbx62my-KEc?si=kGVygPa7_dlrZGHV\n\ndan’s video @DanBoyWonder \n\nhttps://youtu.be/2Bhf4E8bcYY?si=1gXIAKLWBeo5ozqZ\n\nchannel art by @veronicaandjelly",
+          "tags": [
+            "ben 10 omniverse",
+            "kevin 11",
+            "ben 10",
+            "ben 10 cartoon",
+            "ben 10 ultimate alien",
+            "ben 10 alien force",
+            "ben 10 ben 10",
+            "ben 10 classic",
+            "ben 10 game",
+            "ben 10 movie",
+            "ben 10 watch",
+            "ben 10 movies"
+          ],
+          "published": "2025-05-11T14:30:30Z",
+          "categoryId": "1",
+          "fit": 64
+        },
+        {
+          "id": "1iDiFLT9ieU",
+          "title": "Reac10 14: Consider me Ghost FREAKED",
+          "creator": "Nikhil Clayton",
+          "creatorId": "UCncRhgNXj6-oROkXXUSYELw",
+          "duration": 1296,
+          "description": "Well, we're gonna give up on the description gag in hopes that this vid actually gets to exist",
+          "tags": [],
+          "published": "2026-07-28T17:48:01Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "uIWASOV4p1s",
+          "title": "Reac10 #19: Ben 10 Gets Ripped Off???",
+          "creator": "Nikhil Clayton",
+          "creatorId": "UCncRhgNXj6-oROkXXUSYELw",
+          "duration": 2286,
+          "description": "H*ndy-Buddy??? H@NDY BUDDY???? I AM A STAN FOR H/\\NDY-BUDDY?‽!\n\nOk, so the videogame episode was a lot of fun. It's a classic for a reason and this show managed to still do its own thing. But, how am I supposed to focus on that when they drop this devastating detail a second later??\n\nSeriously, I know I say this a lot, but the Universal episode might be my favorite of the series so far. It is a ton of very specific and niche jokes wrapped up in an old superhero show bundle and laced with commentary on the animation industry. That's like my catnip.",
+          "tags": [],
+          "published": "2026-09-07T17:00:24Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "I3NTNSWdBPk",
+          "title": "The Aliens That Changed Ben 10",
+          "creator": "DrWardy",
+          "creatorId": "UCROVVPrb94jeR9dqMX5V6Yg",
+          "duration": 743,
+          "description": "#ben10 #ben10omniverse #omnitrix\n\ndiscussing the additional aliens introduced to the ben 10 classic series after the original 10.\n\nchannel art by @veronicandjelly",
+          "tags": [
+            "ben 10 omniverse",
+            "kevin 11",
+            "ben 10",
+            "ben 10 cartoon",
+            "ben 10 ultimate alien",
+            "ben 10 alien force",
+            "ben 10 ben 10",
+            "ben 10 classic",
+            "ben 10 game",
+            "ben 10 movie",
+            "ben 10 watch",
+            "ben 10 movies"
+          ],
+          "published": "2025-04-06T14:30:07Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "0bAPuQfpwgM",
+          "title": "Ben Battles Himself | Good Copy, Bad Copy FULL EPISODE | Ben 10: Alien Force | Cartoon Network",
+          "creator": "Ben 10",
+          "creatorId": "UCoWgc1mqe-bcfb_lem7EyOg",
+          "duration": 1297,
+          "description": "Reports of “Ben” causing destruction lead Gwen and Kevin into a mystery that spirals fast. A perfect copy of Ben appears, claiming to be the true creator of the Omnitrix. Their clash unleashes Humungousaur, Big Chill, Goop and more in a massive alien battle ⚡\n\n📺 From Ben 10: Alien Force Season 1, Episode 16: \"Good Copy, Bad Copy\"\n\n#Ben10AlienForce #GoodCopyBadCopy #Albedo #BenTennyson #Omnitrix #AlienTransformations #GwenTennyson #KevinLevin #ForeverKnights #Humungousaur\n\n► Watch more Ben 10 videos here: https://www.youtube.com/watch?v=ru7pXfxchcA&list=PLEy0MtsV5_rQ1CcaXKHGI1k8PN3bSWV32\n\n► Click to Subscribe to the Ben 10 Community! \nhttps://www.youtube.com/channel/UCoWgc1mqe-bcfb_lem7EyOg?sub_confirmation=1\n\nIt’s always Hero Time on the brand new Ben 10 official YouTube channel! Discover funny clips and fun facts about the 10-year-old boy hero and explore trivia about your favourite aliens. There’s lots of laugh out loud moments as Ben gets up to some super-powered mischief and awesome action sequences as he battles bad guys. You can check out gameplay footage and exclusive content you won’t find anywhere else. Join Ben, Gwen and Grandpa Max as they travel the country in the Rustbucket and discover your inner alien superhero by subscribing to the Ben 10 official YouTube channel now for regular updates!\n\nFollow us for more Ben 10 news!\nWebsite - http://ben10.cartoonnetwork.co.uk/\nFacebook - https://www.facebook.com/ben10\n\n▶︎ Visit the Cartoon Network website for more fun activities, games and downloads and check out our videos on Cartoon Network YouTube Channel:\n www.carto",
+          "tags": [
+            "ben 10",
+            "ben10",
+            "ben ten",
+            "cartoon network",
+            "ben 10 cartoon",
+            "ben",
+            "ben ten cartoon",
+            "bem 10",
+            "ben 10 omniverse",
+            "ben 10 reboot",
+            "new ben 10",
+            "benten 10",
+            "ben ten 10",
+            "ben 10 ben 10",
+            "ben 10 theme song",
+            "ben. 10"
+          ],
+          "published": "2026-06-27T11:03:10Z",
+          "categoryId": "1",
+          "fit": 61
+        },
+        {
+          "id": "ZwLFy8LUAX4",
+          "title": "Every Episode of Ultimate Alien Season 2 | Ben 10 | Cartoon Network",
+          "creator": "Ben 10",
+          "creatorId": "UCoWgc1mqe-bcfb_lem7EyOg",
+          "duration": 3724,
+          "description": "Ben juggles hero life and real life while Aggregor hunts for the Map of Infinity 🌍 The chase leads to the Forge of Creation where newborn Celestialsapiens wait ⭐ Surprises, teamwork and massive stakes make this season a wild ride for viewers of all ages.🎢💚\n\n📺 From Ben 10: Ultimate Alien Season 2\n \n#Ben10UltimateAlien #Ben10 #UltimateAlienSeason2 #BenTennyson #GwenTennyson #KevinLevin #Aggregor #AlienX #ForgeOfCreation\n\n► Watch more Ben 10 videos here: https://www.youtube.com/watch?v=ru7pXfxchcA&list=PLEy0MtsV5_rQ1CcaXKHGI1k8PN3bSWV32\n\n► Click to Subscribe to the Ben 10 Community! \nhttps://www.youtube.com/channel/UCoWgc1mqe-bcfb_lem7EyOg?sub_confirmation=1\n\nIt’s always Hero Time on the brand new Ben 10 official YouTube channel! Discover funny clips and fun facts about the 10-year-old boy hero and explore trivia about your favourite aliens. There’s lots of laugh out loud moments as Ben gets up to some super-powered mischief and awesome action sequences as he battles bad guys. You can check out gameplay footage and exclusive content you won’t find anywhere else. Join Ben, Gwen and Grandpa Max as they travel the country in the Rustbucket and discover your inner alien superhero by subscribing to the Ben 10 official YouTube channel now for regular updates!\n\nFollow us for more Ben 10 news!\nWebsite - http://ben10.cartoonnetwork.co.uk/\nFacebook - https://www.facebook.com/ben10\n\n▶︎ Visit the Cartoon Network website for more fun activities, games and downloads and check out our videos on Cartoon Network YouTube Channel:\n www.cartoonnetwork.co.uk \nwww.youtube.com/cartoonnetworkuk \n",
+          "tags": [
+            "ben 10",
+            "ben10",
+            "ben ten",
+            "cartoon network",
+            "ben 10 cartoon",
+            "ben",
+            "ben ten cartoon",
+            "bem 10",
+            "ben 10 omniverse",
+            "ben 10 reboot",
+            "new ben 10",
+            "benten 10",
+            "ben ten 10",
+            "ben 10 ben 10",
+            "ben 10 theme song",
+            "ben. 10"
+          ],
+          "published": "2026-07-26T12:00:11Z",
+          "categoryId": "1",
+          "fit": 62
+        },
+        {
+          "id": "MJOTmUAjv-A",
+          "title": "Ben 10 Retrospective - Season 2 | A Near Perfect Season",
+          "creator": "TheAwesomeAlan",
+          "creatorId": "UCQrohBlP2JnVCXmFv3cqvfA",
+          "duration": 3698,
+          "description": "Hey everyone! Today we're continuing the Ben 10 retrospective series and moving forward into Ben 10 Season 2, my favorite season of the show, and seeing how it builds on everything we saw in the previous season!\n\nWant to join the community, support me, or learn about Ben 10: Omnitrix Awakened? Links below!\n\nPatreon: https://www.patreon.com/TheAwesomeAlan\nDiscord: https://discord.gg/zz694yk26X\nTwitter: https://twitter.com/TheAwesomeAlan\n\n00:00 - Intro\n03:02 - Max's Past (Episode 1)\n05:52 - Voice Actor Breakdown\n09:02 - Cannonbolt Joins The Battle (Episode 2)\n11:39 - More Kevin, More Mayhem (Episode 3)\n15:46 - What If? Gwen 10 (Episode 4)\n19:07 - Not Planet Hulk (Episode 5)\n21:06 - It's Hero Time (Episode 6)\n24:16 - Wildvine Joins The Battle (Episode 7)\n27:48 - Anger Management Max (Episode 8)\n33:04 - Everybody Loves Charmcaster (Episode 9)\n36:48 - The Calamari Episode (Episode 10)\n39:08 - Ghostfreak's Grape Soda (Episode 11)\n46:03 - Alien Fusions And Where To Find Them (Episode 12)\n51:31 - My Favorite Episode Ever (Episode 13)\n58:55 - Outro\n\nBen 10 Retrospective Playlist: https://www.youtube.com/playlist?list=PLk-pdnwoZssl33tsLZZ8lxDaZKvckcbMX",
+          "tags": [
+            "TheAwesomeAlan",
+            "AwesomeAlan1",
+            "Ben 10",
+            "cartoon network",
+            "cartoon",
+            "alien force",
+            "ultimate alien",
+            "omniverse",
+            "review",
+            "reaction",
+            "heatblast",
+            "diamondhead",
+            "four arms",
+            "alien x",
+            "feedback",
+            "humungousaur"
+          ],
+          "published": "2023-05-28T20:28:26Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "8CqT8ysXEIw",
+          "title": "Ben 10 Alien Force episodes in hindi! Ben 10 Ultimate Alien.....Ben 10 in hindi.......",
+          "creator": "CHILDHOOD MEMORIES",
+          "creatorId": "UCJpSL_Vfjar_d-HTi5ASvtA",
+          "duration": 1313,
+          "description": "#ben #ben10 #ben10alienforce #ben10omniverse #ben10ultimatealien #cartoon #cartooninhindi #ben10classic #ben10episode #ben10fullepisodes",
+          "tags": [
+            "Ben 10",
+            "ben 10 episodes in hindi",
+            "ben 10 in hindi",
+            "ben 10 Alien Force",
+            "ben 10 Ultimate Alien",
+            "ben 10 omniverse",
+            "ben 10 classic",
+            "ben 10 cartoon",
+            "cartoon",
+            "Hindi cartoons",
+            "ben 10 classic episodes",
+            "ben10"
+          ],
+          "published": "2024-02-02T13:57:15Z",
+          "categoryId": "22",
+          "fit": 52
+        },
+        {
+          "id": "BRJBgGvPGfo",
+          "title": "The Confusing Way Ben 10 Classic Ended",
+          "creator": "DanBoyWonder",
+          "creatorId": "UCbIfCCNRJNDnW31H5gPALsg",
+          "duration": 715,
+          "description": "Ben 10’s ending has always been one of its most overlooked elements, mainly because it is so confusing. The literal last episode is non-canonical, sparking debate over what's the actual finale is, only for a fourth option to appear years later.\n\nThumbnail by: @NoxiMation\nEdited By: Hyaku\n\nFollow me and stay updated:\nTwitter/X: https://x.com/DanBoyWonder\nTwitch: https://www.twitch.tv/danboywonder\nInsta: https://www.instagram.com/danboywonder_?igsh=aDJkY2FzNmZoYnVk&utm_source=qr\nDiscord server: https://discord.gg/7Pa4BRTtxf\n\nRead My Fan Comic (Absolute Ben 10):\nhttps://www.webtoons.com/en/canvas/absolute-ben-10/list?title_no=1090993\n\nBecome A Member:\nhttps://www.youtube.com/channel/UCbIfCCNRJNDnW31H5gPALsg/join\n\n#cartoon #ben10 #ben10omniverse #ben10classic #ben10alienforce #ben10ultimatealien #superhero #nostalgia",
+          "tags": [],
+          "published": "2026-05-28T15:14:48Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "jYaz-Or5PyI",
+          "title": "Ben 10 Alien Force: All Aliens' First Appearances",
+          "creator": "Atomix",
+          "creatorId": "UCVut3TPLTBzoe2DwUmOFUAg",
+          "duration": 1215,
+          "description": "",
+          "tags": [],
+          "published": "2018-11-05T20:43:26Z",
+          "categoryId": "1",
+          "fit": 61
+        },
+        {
+          "id": "AADgMTFepBc",
+          "title": "The Episode That Understands Ben Tennyson!",
+          "creator": "DanBoyWonder",
+          "creatorId": "UCbIfCCNRJNDnW31H5gPALsg",
+          "duration": 931,
+          "description": "Ben 10 is a hero built by his compassion and will to protect others as that's what leads him to help anyone in need even if it will cost him his life. The Ultimate Sacrifice is an episode of Ultimate Alien that displays all of this with great writing and understanding throughout.\n\nThumbnail by: @NoxiMation  \n\nFollow me and stay updated:\nTwitter/X: https://x.com/DanBoyWonder\nTwitch: https://www.twitch.tv/danboywonder\nInsta: https://www.instagram.com/danboywonder_?igsh=aDJkY2FzNmZoYnVk&utm_source=qr\nDiscord server: https://discord.gg/7Pa4BRTtxf\n\nRead My Fan Comic (Absolute Ben 10):\nhttps://www.webtoons.com/en/canvas/absolute-ben-10/list?title_no=1090993\n\nBecome A Member:\nhttps://www.youtube.com/channel/UCbIfCCNRJNDnW31H5gPALsg/join\n\n#cartoon #ben10 #ben10omniverse #ben10classic #ben10alienforce #ben10ultimatealien #superhero #nostalgia #spiderman #dccomics #marvel",
+          "tags": [],
+          "published": "2026-05-03T18:58:33Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "cVaTP06CAZc",
+          "title": "Every Ben 10 Classic Alien Explained in 29 Minutes or Less (Four Arms, Heatblast and More)",
+          "creator": "Aniholic TV",
+          "creatorId": "UCeGMvvlbdSRowbzGAY8zRjQ",
+          "duration": 1771,
+          "description": "so today we are diving into the world of Ben 10 as we break down every classic alien hero from the original series ever!\nfrom heatblast and xlr8 to four arms, grey matter, and beyond.. we'll be covering them all, learning about their powers, origins, as well as just some fun facts about them.\nsimply this is going to the ultimate guide to all ben’s iconic transformations from the amazing ben 10 classic cartoon from back in the day. \nso with that lets go back in time and revisit the classic Omnitrix roster together.. Enjoy!\n\n\nMain Channel: https://www.youtube.com/@UCUIhOoZoVrSNoR8OwhQeroA \n\nFollow us on TikTok for more: https://www.tiktok.com/@aniholic\n\n\n0:00 Intro\n0:30 Heatblast\n2:24 Wildmutt\n3:47 Diamondhead\n5:38 XLR8\n7:00 Grey Matter\n8:03 Four Arms\n9:20 Stinkfly\n10:48 Ripjaws\n12:14 Upgrade\n13:23 Ghostfreak\n15:29 Canonbolt\n16:44 Wildvine\n18:10 Blitzwolfer / Benwolf\n20:02 Upchuck\n21:19 Snare-Oh\n22:50 Frankenstrike\n23:59 Ditto\n25:31 Eye Guy\n27:06 Way Big",
+          "tags": [
+            "ben 10",
+            "Ben 10",
+            "ben",
+            "10",
+            "alien",
+            "alien force",
+            "ben 10 alien force",
+            "omnitrix",
+            "ink tank",
+            "ben 10 ultimate alien",
+            "what is the carnitrix",
+            "¿ quien es ben 10 carnitrix ?",
+            "ben 10 carnitrix",
+            "ben 10 omnitrix",
+            "qwen",
+            "ben x qwen"
+          ],
+          "published": "2025-09-16T15:21:17Z",
+          "categoryId": "22",
+          "fit": 64
+        },
+        {
+          "id": "Z9C1imyRd_c",
+          "title": "When BEN 10 Leveled-Up! [Ben 10: Ultimate Alien] | Billiam",
+          "creator": "Billiam",
+          "creatorId": "UCcHBw_Rs56RFcisYAOlFfmQ",
+          "duration": 2709,
+          "description": "Check out Displate and get an exclusive discount: https://displate.com/billiam/?art=625c767bf4038 1-2 Displates: 25% OFF / 3+ Displates = 29% OFF\n\nBen 10 Ultimate Alien is the third series in the BEN 10 franchise, this time around Ben can not only turn into A BUNCH OF ALIENS but those same aliens are BIGGER, BADDER, and more ULTIMATE, but it all seems like it's just an attempt to spice it up. \n\n00:00 - Intro\n4:14: AGGREGOR AGGREGATES OUR HEARTS \n19:07: Tastes like Filler, but its TASTY \n33:16: SO MANY ALIENS \n37:07: Old George, Same Old Vilgax \n\nTwitter  ►https://twitter.com/billiamthies\nInstagram ►https://www.instagram.com/billiamthies/\n-----------------------------------------------------------------------------------------------\nProduced by:\nNikko ► https://twitter.com/nikkotaj \nSavannah ► https://twitter.com/vannerrox\nLexi ► https://twitter.com/lexi_nieto",
+          "tags": [
+            "Ben 10",
+            "Cartoon Network",
+            "Ben 10: Ultimate Alien",
+            "Billiam",
+            "Commentary",
+            "Nostalgia",
+            "comic books",
+            "man of action entertainment",
+            "static shock",
+            "dwayne mcduffie"
+          ],
+          "published": "2022-06-30T21:03:17Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "UxDWIpaEi-I",
+          "title": "Ben 10 | Alien Upgrades Explained | Innervasion: Mind over Alien Matter | Cartoon Network",
+          "creator": "Ben 10",
+          "creatorId": "UCoWgc1mqe-bcfb_lem7EyOg",
+          "duration": 261,
+          "description": "► Watch Christmas videos here: https://www.youtube.com/watch?v=3m0yT-Q3W04&list=PLx8JHubmxgM-rWF5A8fhXpCeLbPt1vY-H\n► Watch more Ben 10 videos here: https://www.youtube.com/watch?v=ru7pXfxchcA&list=PLEy0MtsV5_rQ1CcaXKHGI1k8PN3bSWV32\n\n► Click to Subscribe to the Ben 10 Community! \nhttps://www.youtube.com/channel/UCoWgc1mqe-bcfb_lem7EyOg?sub_confirmation=1\n\nIt’s always Hero Time on the brand new Ben 10 official YouTube channel! Discover funny clips and fun facts about the 10-year-old boy hero and explore trivia about your favourite aliens. There’s lots of laugh out loud moments as Ben gets up to some super-powered mischief and awesome action sequences as he battles bad guys. You can check out gameplay footage and exclusive content you won’t find anywhere else. Join Ben, Gwen and Grandpa Max as they travel the country in the Rustbucket and discover your inner alien superhero by subscribing to the Ben 10 official YouTube channel now for regular updates!\n\nFollow us for more Ben 10 news!\nWebsite - http://ben10.cartoonnetwork.co.uk/\nFacebook - https://www.facebook.com/ben10\n\n▶︎ Visit the Cartoon Network website for more fun activities, games and downloads and check out our videos on Cartoon Network YouTube Channel:\n \n🇬🇧 United Kingdom 🇬🇧\nwww.cartoonnetwork.co.uk – website\nwww.youtube.com/cartoonnetworkuk - YouTube Channel\n\n#ben10  #bentennyson #kevin11\n\n#ben10 #kevin11 #omnitrix",
+          "tags": [
+            "ben 10",
+            "ben10",
+            "ben ten",
+            "cartoon network",
+            "ben 10 cartoon",
+            "ben",
+            "bem 10",
+            "ben 10 omniverse",
+            "ben 10 reboot",
+            "ben 10 bahasa indonesia",
+            "new ben 10",
+            "benten 10",
+            "ben ten 10",
+            "ben 10 ben 10",
+            "ben 10 theme song",
+            "ben 10 2016"
+          ],
+          "published": "2018-11-17T06:00:02Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "75FZWa2U2wg",
+          "title": "Ben 10 Turning Evil Was The BEST",
+          "creator": "The Rust Bucket",
+          "creatorId": "UCEfcSbKrY4Lp4gQeAw1b9Mw",
+          "duration": 236,
+          "description": "Helen, Manny, Alan, and Peirce are called upon by Max to fight an Evil Ben Tennyson! \n\nLooking for our Discord? Twitter?\nPatron? Twitch? 5 Years Later?\nALL OF OUR LINKS: https://linktr.ee/theinktank\n\nIntro/ Outro Music: Noxi (NoxiMationsArts)\nTwitter - https://twitter.com/NoxiMationArts​​\n\n_______HOW MY BREAKDOWNS WORK:\n\nClassic Breakdowns - https://bit.ly/3Eo9OfQ\nMovie Breakdowns - https://bit.ly/3Eo9Zb0\nAlien Force Breakdowns - http://shorturl.at/gmBER\n\nTHE REVIEW\nI watch each episode with my own commentary, often pausing the scenes to get my words out without having to talk over the episode, and also to point out and analyze the show's art and animation. I have seen each episode already growing up, so these reviews are to compare and contrast the five categories listed below.\n\nPLOT (Scaled from 1 to 5 Points)\nThe foundation of the episode. Uniqueness and overused tropes are taken into account, but it is also judged on how well it tells the story of the episode. An episode can score a 5 even with a basic/ cliche plotline as long as it has good pacing, worthy use of its tropes, and feels well-polished. An episode can lose points due to plotholes, uneven storytelling, and relying too heavily on cliches to do the work for it. \n\nCHARACTERIZATION (Scaled from 1 to 5 Points)\nHow well the characters are written. Do they feel like themselves compared to the grand narrative of the franchise? Are the supporting or one-off characters interesting, or pure plot devices? Did the humor land? Did the actions and character motivations make sense?\n\nVISUALS (Scaled from 1 to 5 Points)\nBasic",
+          "tags": [
+            "ben",
+            "10",
+            "tennyson",
+            "ultimate",
+            "alien",
+            "force",
+            "classic",
+            "reboot",
+            "breakdown",
+            "review",
+            "omnitrix",
+            "ink tank",
+            "kuro",
+            "the artist",
+            "rob orpilla",
+            "above"
+          ],
+          "published": "2022-06-08T14:40:28Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "EbVn9olD4KQ",
+          "title": "5 Years Later - All Ben 10 Transformations",
+          "creator": "Zeynal 10",
+          "creatorId": "UCPVWGcw-NNDNJU1ciklgKTQ",
+          "duration": 1256,
+          "description": "5 Years Later:\nhttps://youtube.com/playlist?list=PL8Ofi2Gjf74GqPg2DfwOSTgp1rJ5IcqfQ&si=6I337iRa_IxJi7t8\n\nThe Ink Tank:\nhttps://youtube.com/@TheInkTank?si=z5nTjRucG2DSK4iF\n\nDaniil Kurochkin:\nhttps://youtube.com/@DaniilKurochkin16?si=Pxr2akN1Du_EWLAG\n\nVideo that inspired to make my video:\nhttps://youtu.be/KWPQJLU8gvY?is=0HRXUaj-9SkhZ3t6",
+          "tags": [
+            "Ben",
+            "10",
+            "Omniverse",
+            "Alien",
+            "Force",
+            "Ultimate",
+            "Reboot",
+            "Orif",
+            "Original",
+            "Series",
+            "2005",
+            "2016",
+            "2017",
+            "5YL",
+            "5 Years",
+            "Years"
+          ],
+          "published": "2026-06-23T01:01:23Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "HLhCWbG0CIw",
+          "title": "16 Dropped Plotlines in Ben 10",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 474,
+          "description": "That would've been neat to see, right?\n\nLooking for our Discord? Twitter?\nPatron? Twitch? 5 Years Later?\nALL OF OUR LINKS: https://linktr.ee/theinktank\n\nThe Ink Tank @ MomoCon 2024: https://www.momocon.com/guest/the-ink-tank/\n\nDouble Rainbow: https://youtu.be/99E9fDgZZuE\nGus Fring Survives Footage: https://youtu.be/0-_ID5r8QN4",
+          "tags": [
+            "kuro the artist",
+            "5yl",
+            "5 years later",
+            "ben",
+            "10",
+            "tennyson",
+            "ultimate",
+            "alien",
+            "force",
+            "omnitrix",
+            "omniverse",
+            "reboot",
+            "review",
+            "reaction",
+            "rob orpilla",
+            "hurshie"
+          ],
+          "published": "2024-02-18T15:00:18Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "-_LoBNrrAIg",
+          "title": "Why Was Kevin's Story Changed So Much?",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 1394,
+          "description": "Install Raid for Free ✅ IOS/ANDROID/PC: https://clcr.me/TheInkTank_Feb and get a special starter pack with an Epic champion Chonoru 💥 Join a special Valentine’s Day-themed adventure ❤️ https://raidlovequest.plarium.com ❤️ with the Raid Love Quest to win some fantastic in-game and real life prizes 🎁\nPromo codes:\n✅ Use the Promo Code RAIDRONDA to get a bunch of helpful stuff. Available to ALL users: New and Old by February 28\n✅ Use the Promo Code READY4RAID to get great pre-anniversary bonuses. Available for New users only by February 28\n*Note that only 1 Promo code can be used within 24hours\n\nLooking for our Discord? Twitter?\nPatron? Twitch? 5 Years Later?\nALL OF OUR LINKS: https://linktr.ee/theinktank\n\nBEN 10 WIKI MISINFORMATION PAGE: https://bit.ly/41bMMUv\nAlso, huge thanks to members of the Ben 10 Wiki Discord for helping me obtain a fair amount of this information. A lot of the old misinformation on the site was from previous admins. The current team seems very dedicated to absolute accuracy, and this video would not have been the same without them. \n\nTIMECODES:\n0:00 - Introduction\n1:11 - Sponsorship\n2:56 - Classic Series\n5:08 - Early Alien Force\n6:41 - Osmosians\n7:21 - The Rooters\n10:11 - The Real Problem\n13:58 - Omniverse's Hypocrisy \n16:14 - New Information\n21:09 - Conclusion\n\nFootage from The Ben 10 Franchise, Breaking Bad & El Camino, and Avatar: The Last Airbender.\n\nAdditional Footage from Vecteezy.\n\nRaid: Shadow Legends “Raid Love Quest” Prize Promotion. Entry is Open to legal residents of THE 50 UNITED STATES AND THE DISTRICT OF COLUMBIA (EXCLUDING NEW YORK AND",
+          "tags": [
+            "kuro the artist",
+            "5yl",
+            "5 years later",
+            "ben",
+            "10",
+            "tennyson",
+            "ultimate",
+            "alien",
+            "force",
+            "omnitrix",
+            "omniverse",
+            "reboot",
+            "review",
+            "reaction",
+            "rob orpilla",
+            "osmosian"
+          ],
+          "published": "2023-02-25T15:00:00Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "OaEwoViu47g",
+          "title": "Ben 10 vs All Omnidroids (Actual Analysis)",
+          "creator": "KronoBlox ",
+          "creatorId": "UCuvv3oKqUeBW0TGle_oAaZA",
+          "duration": 628,
+          "description": "Hello! Welcome to my YouTube channel KronoBlox 👋\nThis channel is created for fun, creativity, and original content.\n\nI really love The Incredibles cartoon, and I also enjoy playing Roblox.\nHere you will find interesting videos, creative ideas, and entertaining content inspired by games and animation.\n\nIn this video, I will tell you about all the Omnidroids and explain in detail who Ben 10 is and what he could do against the Adaptive Machine. We will also analyze the battle scenario and how powerful he is.",
+          "tags": [
+            "The Incredible",
+            "Pixar",
+            "Mr. Incredible",
+            "Kronos",
+            "Syndrome",
+            "Omnidroid",
+            "Superheroes",
+            "roblox",
+            "Jack-Jack",
+            "Edna Mode",
+            "Brainfreezer",
+            "Ben 10",
+            "ben tennyson"
+          ],
+          "published": "2026-05-01T16:08:52Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "K0LjgJjiIAQ",
+          "title": "Ben 10 Speed Comparison 🔥 | Slowest to Fastest Ben 10 Aliens (2026)",
+          "creator": "True Data Sphere",
+          "creatorId": "UCVFeSZvalASZIwErDbBsYpg",
+          "duration": 331,
+          "description": "⚡ Ben 10 Speed Comparison - Slowest to Fastest Ben 10 Aliens!\n\nIs video me hum Ben 10 ke saare famous aliens ki SPEED compare kar rahe hain —\nslowest se fastest tak. XLR8, Fasttrack, Jetray, Kickin Hawk, Four Arms,\nHeatblast, Humungousaur, Alien X aur bahut saare aliens ki real speed\n(mph / km/h) ke saath full comparison dekhne ko milega.\n\n🔥 Aapke hisaab se sabse fastest Ben 10 alien kaun hai? Comment me batao!\n\n⏱️ TIMESTAMPS\n00:01 - Intro\n00:08 - Slowest Aliens\n01:30 - Mid-Tier Speed Aliens\n02:45 - Top 5 Fastest Aliens\n05:14 - Fastest Ben 10 Alien Revealed 😱\n05:40 - Outro\n\n📌 WATCH NEXT\n▶️ Ben 10 Power Comparison - [link]\n▶️ Ben 10 Size Comparison - [link]\n▶️ Ben 10 All Aliens Ranked - [link]\n\n👍 Video pasand aaye to LIKE karo\n🔔 SUBSCRIBE karo for more Ben 10 comparison videos\n💬 Next comparison kis cartoon ka chahiye? Comment karo!\n\n⚠️ Disclaimer: This video is made for entertainment & educational\ncomparison purposes only. All characters belong to Cartoon Network.\nData is based on fan wiki sources and may vary by series.\n\n#Ben10 #SpeedComparison #Ben10Aliens #ben10edit #xlr8 #jetray \n#fastestalien #comparison #ben10omniverse #alienx \n\nYouTube Channel;-\nhttps://www.youtube.com/@truedatasphere",
+          "tags": [
+            "ben 10",
+            "ben 10 speed comparison",
+            "ben 10 aliens",
+            "speed comparison",
+            "ben 10 aliens speed comparison",
+            "fastest ben 10 alien",
+            "xlr8",
+            "jetray",
+            "fasttrack",
+            "ben 10 power comparison",
+            "ben 10 size comparison",
+            "ben 10 all aliens",
+            "ben ten",
+            "ben 10 omniverse",
+            "ben 10 ultimate alien",
+            "ben 10 alien force"
+          ],
+          "published": "2026-10-20T13:00:03Z",
+          "categoryId": "27"
+        },
+        {
+          "id": "Ixba-_zXh3c",
+          "title": "Reac10 27: Ben 10 Babies",
+          "creator": "Nikhil Clayton",
+          "creatorId": "UCncRhgNXj6-oROkXXUSYELw",
+          "duration": 2203,
+          "description": "Ok, apparently in some watch orders these two episodes came before the Wedding one. I don't know what that's about, but I don't think we missed anything major lol. \n\nThese two were...fine. Like, I did genuinely enjoy them. They just don't leave much of an impact. The amount of times I've had to check and see which ones they were about even just to post this has been kinda hilarious. \n\nIf I had any note, it'd be that I expected a little more out of this series' last season. But, at the same time, there hasn't been any clear falloff. The show remains incredibly consistent, I was just hoping to go above and beyond for the close.",
+          "tags": [],
+          "published": "2026-11-02T18:00:13Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "AyN_Ov23CV0",
+          "title": "EVERY Universe, Timeline, & Dimension EXPLAINED (Ben 10)",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 988,
+          "description": "TICKETS: [EVENT HAS PASSED - THANKS FOR COMING!]\n\nLooking for our Discord? Twitter?\nPatron? Twitch? 5 Years Later?\nALL OF OUR LINKS: https://linktr.ee/theinktank\n\n5YL Motion Comic Trailer: https://youtu.be/5JRvZP6ea84​​\n+ First Scene Fully Dubbed: https://youtu.be/DSxOL09U-zs",
+          "tags": [
+            "ben 10",
+            "omnitrix",
+            "5yl",
+            "danny phantom",
+            "man of action",
+            "ultimate",
+            "alien",
+            "paradox",
+            "and then there was ben",
+            "again",
+            "time travel",
+            "alien x",
+            "reboot",
+            "force",
+            "timelines",
+            "forge of creation"
+          ],
+          "published": "2018-12-25T14:54:02Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "21PYJwTn_uU",
+          "title": "Ben 10: Every Ben 10,000 Explained",
+          "creator": "Spawken Toons",
+          "creatorId": "UCAT35bwJZVPc3HZLGUr-Y1g",
+          "duration": 503,
+          "description": "Every Ben 10,000 Explained\n🌌 Unraveling the Multiverse of Ben 10,000: Every Alternate Version Explained 🌌\n\nHey there, devoted fans of the Omnitrix and the electrifying world of Ben 10! Welcome back to our channel for a mind-bending adventure that transcends dimensions. In today's captivating episode, we're plunging headfirst into the mesmerizing multiverse to decode the mysteries behind every alternate version of Ben 10,000. \n\nGet ready to embark on an exhilarating rollercoaster ride through parallel timelines, where we'll unearth diverse character variations that will leave you utterly spellbound. From a battle-hardened leader to a laid-back hero cracking jokes during the heat of battle, we're peeling back the layers to reveal the astonishing facets of each Ben 10,000 iteration.\n\n🚀 Here's a sneak peek of what you can expect:\n\n1. **Original Series Ben 10,000**: Explore the evolution of the classic hero, as he leads the Plumbers, fuses aliens to create new hybrids, and learns valuable lessons from his younger self.\n\n2. **Ultimate Alien Ben 10,000 - The Laid-Back Dimension**: Step into a world where humor and adventure intertwine, as Ben 10,000's personality takes a playful twist. Discover how this dimension's hero finds his balance between wit and heroism.\n\n3. **Omniverse Ben 10,000 with the Biomnitrix Fusion**: Dive into the mesmerizing power of fusion in the Omniverse timeline. Witness the awe-inspiring capabilities of the Biomnitrix and its ability to fuse aliens for enhanced might.\n\n4. **Reboot Continuity - Ben 10 thousand**: Uncover the heart-wrenching story of Reboo",
+          "tags": [
+            "Ben10",
+            "Ben10000",
+            "Omnitrix",
+            "Multiverse",
+            "AlternateVersions",
+            "DimensionalExploration",
+            "CharacterVariations",
+            "Biomnitrix",
+            "Eon",
+            "EvilBen",
+            "TimeTravel",
+            "HeroicJourneys",
+            "ParallelTimelines",
+            "RebootContinuity",
+            "UltimateAlien",
+            "Omniverse"
+          ],
+          "published": "2023-08-24T08:29:29Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "fC_s3yOPA6s",
+          "title": "The Full Story of Every Timeline and Dimension in Ben 10! ⏳🔥",
+          "creator": "Orvex",
+          "creatorId": "UCVEed80u-HzNuV7B8gHjGOQ",
+          "duration": 352,
+          "description": "The Ben 10 multiverse is full of alternate timelines, parallel dimensions, and different versions of Ben — each with its own story, powers, and destiny! 😱🔥\n\nIn this video, we break down the complete story of every major timeline in the Ben 10 universe, including:\n\n⏳ Mad Ben’s corrupted timeline\n🌌 No Watch Ben’s peaceful universe\n🔥 Ben 23’s heroic world\n💀 The dark timelines destroyed by Eon\n🌀 And all the alternate versions created through Omnitrix time travel\n\nDiscover how each dimension was created, how they connect, and what makes each Ben unique.\nThis is the FULL breakdown of the Ben 10 multiverse — finally explained!\n\nDon’t forget to LIKE, COMMENT, and SUBSCRIBE for more Ben 10 stories, theories, and multiverse content! 💚🔥\n\n#Ben10 #Ben10Multiverse #Ben10Timeline #Ben10Dimensions #AlternateBen #BenTennyson #Omnitrix #Eon #Ben10Theory #CartoonNetwork",
+          "tags": [
+            "ben 10",
+            "ben10 cartoon network",
+            "ben ten cartoon",
+            "ben 10 full episodes",
+            "Ben 10",
+            "Ben 10 new",
+            "Ben 10 real",
+            "Ben 10 Alien Force",
+            "Ben 10 Omniverse",
+            "Cartoon Network",
+            "Cartoon",
+            "ben 10 omniverse",
+            "orvex",
+            "ben 10 reboot",
+            "ben 10 cartoon",
+            "ben 10 game"
+          ],
+          "published": "2025-11-28T13:17:56Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "PSvuZozXuUU",
+          "title": "This Might Be The WORST Ben 10 Game Ever Made",
+          "creator": "Grey Fang",
+          "creatorId": "UC6dUfAYyabw8Kz70FnbKIJw",
+          "duration": 4858,
+          "description": "This Might Be The WORST Ben 10 Game Ever Made",
+          "tags": [],
+          "published": "2026-04-18T18:07:46Z",
+          "categoryId": "20"
+        },
+        {
+          "id": "mXX_4rz-JuA",
+          "title": "THE BEN 10 FRANCHISE: Ben 10 Shows Retrospective!",
+          "creator": "A.S.K. Air",
+          "creatorId": "UCnTuv13IYHGwcMVnzMoUEAQ",
+          "duration": 2685,
+          "description": "THE BEN 10 FRANCHISE: Ben 10 Shows Retrospective! Enjoy my retrospective on the amazing Ben 10 franchise! Today I take a look at one of the BEST and most AMAZING franchises to ever be created: The Ben 10 Franchise. In this retrospective, I take a look at all the Ben 10 shows, review them in full and I break down everything you need to know about the Ben 10 Franchise!\n-\nTIMESTAMPS:\nIntroduction: 0:00\nBen 10 Classic: 2:33\nBen 10: Alien Force: 12:42\nBen 10: Ultimate Alien: 20:34\nBen 10: Omniverse: 29:18\nBen 10 Reboot: 36:23\nRanking Worst To Best: 37:40\nMy Tribute: 39:38\nBloopers: 40:55\nConclusion: 43:01\n-\nSubscribe Here!: http://bit.ly/2Dzye9t\nSupport me on Patreon: https://www.patreon.com/askair\nFollow me on Twitter: https://twitter.com/MrAskAir\nJoin my Discord Server: https://discord.gg/4mP4SNh\n-\nRelated Videos/Playlists:\nBen 10 Videos: https://bit.ly/2lN5oL8\nCartoon Network Videos: https://bit.ly/2BS4r8b\nNew To The Channel? Check These Out: http://bit.ly/2AhKiaV\nSuper Reviews: Season 4: https://bit.ly/2HrQjFT\nRandom Video: https://youtu.be/ocVH18XMlxA\nPrevious Video: https://youtu.be/v34uOYl8VSg\nBINGE Watch All My Videos HERE: http://bit.ly/2lPG18j\n-\nVideo Summary: Today I take a look at one of the best franchises to ever exist: The Ben 10 Franchise! In this video I break down Ben 10 Classic, Alien Force, Ultimate Alien, Omniverse, and the 2016 reboot, in this A.S.K. Air retrospective/review on the Ben 10 Franchise!\n-\nChannel Summary:\nA.S.K. Air is a cartoon reviewer who mostly tackles SpongeBob SquarePants, Teenage Mutant Ninja Turtles, Ben 10 and way more cartoons includi",
+          "tags": [
+            "THE BEN 10 FRANCHISE: Ben 10 Shows Retrospective!",
+            "ben 10 retrospective",
+            "ben 10 franchise",
+            "ben 10 was the greatest show ever",
+            "ben 10 ultimate alien force",
+            "ben 10",
+            "ben 10 ultimate alien review",
+            "ask air",
+            "A.S.K. Air",
+            "ben 10 review",
+            "ben 10 alien force",
+            "ben 10 full episodes",
+            "ben 10 movie",
+            "ben tennyson",
+            "omnitrix",
+            "analysis"
+          ],
+          "published": "2018-08-01T19:00:02Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "jhc-k1mqlEA",
+          "title": "20 Years Later..This Is Still The Best Ben 10 Game",
+          "creator": "Grey Fang",
+          "creatorId": "UC6dUfAYyabw8Kz70FnbKIJw",
+          "duration": 2155,
+          "description": "Trying the Best Ben 10 Games I Never Got to Play",
+          "tags": [],
+          "published": "2026-03-09T03:05:10Z",
+          "categoryId": "20"
+        },
+        {
+          "id": "4mKO-HV4JVo",
+          "title": "L'histoire COMPLETE de Ben 10 : Alien Force en 32 Minutes",
+          "creator": "Kiyu",
+          "creatorId": "UCT8GX9CNT3tKqX1VHL-DfLw",
+          "duration": 1891,
+          "description": "(montage par Lou Francois , voici son insta : https://www.instagram.com/louuuu_edit/)\n\nécriture , Miniature , voix : Moi-même \n\nDésolé , Désolé on a pas pu mettre le générique a cause du copyright mais c'est trop une dinguerie pour que vous ne le regardiez pas donc voici le lien pour écouter ce générique : https://www.youtube.com/watch?v=gH45rJnEPyc",
+          "tags": [
+            "ben 10",
+            "BEN10",
+            "Alien Force",
+            "Omniverse",
+            "Ben10 Alien Force",
+            "Kevinlevin",
+            "Gwen",
+            "azmuth",
+            "Alien X",
+            "cartoon",
+            "dessinanimé",
+            "Ben10",
+            "Nostalgie",
+            "enfance",
+            "benten",
+            "omnitrix"
+          ],
+          "published": "2025-03-09T10:00:04Z",
+          "categoryId": "24",
+          "fit": 48
+        },
+        {
+          "id": "emtrm3V3ONI",
+          "title": "How Ben 10 Changed The Anur System",
+          "creator": "DrWardy",
+          "creatorId": "UCROVVPrb94jeR9dqMX5V6Yg",
+          "duration": 668,
+          "description": "#ben10 #ben10omniverse #omnitrix\n\ndiscussing the anur system aliens,  the original 5 episode arc. starting with ghostfreaked out, followed by benwolf, under wraps, the return & be afraid of the dark before going over a bit of the galactic monsters arc.\n\nartwork by Matthew Bitts \nhttps://x.com/matthewbitts?s=21\n\nchannel art by @veronicaandjelly",
+          "tags": [
+            "ben 10 omniverse",
+            "kevin 11",
+            "ben 10",
+            "ben 10 cartoon",
+            "ben 10 ultimate alien",
+            "ben 10 alien force",
+            "ben 10 ben 10",
+            "ben 10 classic",
+            "ben 10 game",
+            "ben 10 movie",
+            "ben 10 watch",
+            "ben 10 movies"
+          ],
+          "published": "2025-06-15T14:30:33Z",
+          "categoryId": "1"
+        },
+        {
+          "id": "vkUw6DrGX0g",
+          "title": "Revisiting Ben 10: Alien Swarm Frame-by-Frame",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 2910,
+          "description": "DISCORD: https://discord.gg/inktank\nPATREON: https://www.patreon.com/InkTank\n5 YEARS LATER: https://bit.ly/31lF0Zy\nTHE RUST BUCKET (2nd Channel): https://bit.ly/2knRFu8\nTWITCH STREAMING: https://www.twitch.tv/the_rust_bucket\n\nFOLLOW US ON TWITTER: https://twitter.com/ItsTheInkTank\n\nThis Video's Links:\n1. Diamondbolt Collab Video: https://youtu.be/lZiLf07A_Nw\n2. Ryan Kelley Interview: https://youtu.be/q4uOx1MR7i0\n3. Ink Tank @ Georgia Aquarium: https://youtu.be/p2mGvXuPVCA\n4. Alien Swarm Behind the Scenes:\n... https://youtu.be/51adrJwe6Eo\n... https://youtu.be/WLP0KTxDdVc\n... https://youtu.be/pWJjecwEg8A\n5. Kevin’s Car Giveaway: https://youtu.be/CVjpDZ4helQ\n\nThanks for the new track, Noxi!\nTwitter - https://twitter.com/NoxiMationArts​​\nYouTube - https://www.youtube.com/noximation​​\n\nTIMECODES:\n0:00 - Introduction\n2:00 - Movie Breakdown\n40:50 - The Ratings\n46:14 - Final Thoughts\n\n_______HOW MY BREAKDOWNS WORK:\n\nClassic Breakdowns - https://bit.ly/3Eo9OfQ\nMovie Breakdowns - https://bit.ly/3Eo9Zb0\nAlien Force Breakdowns - http://shorturl.at/gmBER\n\nTHE REVIEW\nI watch each episode with my own commentary, often pausing the scenes to get my words out without having to talk over the episode, and also to point out and analyze the show's art and animation. I have seen each episode already growing up, so these reviews are to compare and contrast the five categories listed below.\n\nPLOT (Scaled from 1 to 5 Points)\nThe foundation of the episode. Uniqueness and overused tropes are taken into account, but it is also judged on how well it tells the story of the episode. An episode can score a",
+          "tags": [
+            "kuro the artist",
+            "5yl",
+            "5 years later",
+            "ben",
+            "10",
+            "tennyson",
+            "ultimate",
+            "alien",
+            "force",
+            "omnitrix",
+            "omniverse",
+            "reboot",
+            "review",
+            "reaction",
+            "rob orpilla",
+            "alyssa diaz"
+          ],
+          "published": "2022-06-18T14:00:30Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "y30exM1p97k",
+          "title": "The FULL Ben 10 Timeline Explained in 146 Minutes",
+          "creator": "Bruuce TS",
+          "creatorId": "UCGpAKnML9tkomkhKv2yvt0Q",
+          "duration": 8801,
+          "description": "The ENTIRE Story of Ben 10 (Classic to Omniverse) in 146 Minutes",
+          "tags": [],
+          "published": "2026-07-29T21:00:02Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "FykxCf_YL-0",
+          "title": "Every ALIEN from Ben 10: Alien Force RANKED | WORST to BEST",
+          "creator": "A.S.K. Air",
+          "creatorId": "UCnTuv13IYHGwcMVnzMoUEAQ",
+          "duration": 467,
+          "description": "Today I RANK every Ben 10 ALIEN FORCE ALIEN, from worst to best! This includes all 13 aliens in the Alien Force roster, from Swampfire to Nanomech! Which alien was your favorite? Which was your least favorite? Let me know in the comments below and leave a like if you enjoyed!\n-\nCLASSIC Ranking: https://youtu.be/ipll3pjpFDI\nULTIMATE ALIEN Ranking: https://youtu.be/jlRTunct_-g\nOMNIVERSE Ranking: https://youtu.be/Cn89Hr-CYhA\n-\nCLICK to SUBSCRIBE: http://bit.ly/SubscribetoASKAir\n\nTWITTER: https://twitter.com/MrAskAir\nDISCORD: https://discord.gg/4mP4SNh\nTIKTOK: https://www.tiktok.com/@MrAskAir\nINSTAGRAM: https://www.instagram.com/MrAskAir\n\nMOST RECENT VIDEO: http://bit.ly/AskAirNewestVideo\nCHARACTER ARTISTS: http://bit.ly/AskAirCharacterArtists\n-\nRELATED VIDEOS/PLAYLISTS:\nMore Ben 10 Videos: https://bit.ly/AskAirBen10Vids\nBen 10 Aliens Ranked: https://bit.ly/3W3uWAt\nMore Rankings: https://bit.ly/3UNQFdW\nNew to the Channel? Click Here: http://bit.ly/ASKAirBestVideos\nRandom Video: https://youtu.be/ewGRdibNzjA\nPrevious Video: https://youtu.be/Vb7Hl_nvZ5U\nBINGE Watch All My Videos HERE: http://bit.ly/AllOfAskAirVideos\n-\nMUSIC:\nIn Ginocchio da Te (Instrumental)\nAlien Force DS OST - Main Menu Theme\nBen 10 Alien Force Theme - EPIC VERSION\nAlien Force DS OST - Techadon Boss Battle\nAlien Force DS OST - Wildvine Boss Battle\nAlien Force DS OST - Cutscene\n\n#Ben10 #Aliens #Ranked #Ben10AlienForce #Ben10AliensRanked #AskAir #MrAskAir\n\n\n**Contact me at a.s.k.airytchannel@gmail.com or through Discord/Twitter for any inquiries.**",
+          "tags": [
+            "ben 10 alien force aliens ranked",
+            "ben 10 alien force roster",
+            "alien force aliens ranked",
+            "alien force alien roster",
+            "alien force roster",
+            "alien force roster ranked",
+            "Ranking ben 10 alien force aliens",
+            "ben 10 alien force aliens",
+            "worst to best ben 10 aliens",
+            "ben 10 aliens worst to best",
+            "every ben 10 alien ranked",
+            "ben 10 alien ranking",
+            "ben 10 aliens ranked",
+            "ranking ben 10 aliens",
+            "every ben 10 alien",
+            "ben 10 aliens"
+          ],
+          "published": "2022-10-02T17:00:07Z",
+          "categoryId": "1",
+          "fit": 61
+        },
+        {
+          "id": "T63CU87qDkw",
+          "title": "EVERY ALIEN TRANSFORMATIONS IN ORIGINAL SERIES | BEN 10",
+          "creator": "Paul!",
+          "creatorId": "UC5PDErdoj5dfMs_OdSYpVTQ",
+          "duration": 505,
+          "description": "Hello my aliens! This is my twenty-second episode!\n\nMy instagram: https://www.instagram.com/paul_aliens/",
+          "tags": [],
+          "published": "2021-10-04T17:58:31Z",
+          "categoryId": "22",
+          "fit": 55
+        },
+        {
+          "id": "_z53rNkjAKw",
+          "title": "When Ben 10 Grew Up [Ben 10: Alien Force] | Billiam",
+          "creator": "Billiam",
+          "creatorId": "UCcHBw_Rs56RFcisYAOlFfmQ",
+          "duration": 2135,
+          "description": "Go to https://expressvpn.com/billiam and find out how you can get 3 months of ExpressVPN free!\n\nBen 10 Alien Force is pretty darn good! It's got an awesome story, awesome characters, and all these new aliens for Ben to turn into! I wasn't expecting to talk about Ben 10 for 40 minutes, but here we are. \n\nTwitch ► https://www.twitch.tv/billiamthies/\nTwitter  ► https://twitter.com/billiamthies/\nInstagram ► https://instagram.com/billiamthies/\n-----------------------------------------------------------------------------------------------\nEditing assistance by Nikko ► https://twitter.com/Nikkotaj​​\n\nBen 10 Alien Force aired on Cartoon Network and its programming block, Toonami, starting in 2008.",
+          "tags": [
+            "Ben 10",
+            "Ben 10 Alien Force",
+            "Billiam",
+            "Commentary",
+            "Nostalgia",
+            "review",
+            "Cartoon Network",
+            "Toonami",
+            "Justice League",
+            "Batman Beyond",
+            "Static Shock",
+            "Man of Action"
+          ],
+          "published": "2021-05-26T20:29:23Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "pNpfZpn1STk",
+          "title": "How Ben 10 Makes Fun of Its Fans",
+          "creator": "The Ink Tank",
+          "creatorId": "UC9n7anTerwMe-RUVKvCBiqw",
+          "duration": 1633,
+          "description": "JoJo’s Bizarre Adventure: Golden Spirit officially launches worldwide on August 13, 2026! Click here: https://jojobrand.onelink.me/jVhx/owgx5fix\n\nLooking for our Discord? Twitter?\nPatron? Twitch? 5 Years Later?\nALL OF OUR LINKS: https://linktr.ee/theinktank\n\nIntro/ Outro Music: Noxi (NoxiMation)\nTwitter - https://twitter.com/NoxiMation\nYouTube - https://www.youtube.com/noximation​​\n\nTHIS VIDEO’S LINK:\nFourth Wall Breaks: https://youtu.be/miA2bZEsFcA\n\nTIMECODES:\n00:00 - Introduction\n05:14 - “Collect This” Breakdown\n22:58 - The Ratings\n25:02 - Final Thoughts\n\n_______HOW MY BREAKDOWNS WORK:\n\nClassic Breakdowns - https://bit.ly/3Eo9OfQ\nMovie Breakdowns - https://bit.ly/3Eo9Zb0\nAlien Force Breakdowns - http://shorturl.at/gmBER\nUltimate Alien Breakdowns - https://bit.ly/3aaSe4o\nOmniverse Breakdowns - https://bit.ly/3LXGIby\n\nTHE REVIEW\nI watch each episode with my own commentary, often pausing the scenes to get my words out without having to talk over the episode, and also to point out and analyze the show's art and animation. I have seen each episode already growing up, so these reviews are to compare and contrast the five categories listed below.\n\nPLOT (Scaled from 1 to 5 Points)\nThe foundation of the episode. Uniqueness and overused tropes are taken into account, but it is also judged on how well it tells the story of the episode. An episode can score a 5 even with a basic/ cliche plotline as long as it has good pacing, worthy use of its tropes, and feels well-polished. An episode can lose points due to plotholes, uneven storytelling, and relying too heavily on cliches to do th",
+          "tags": [
+            "kuro the artist",
+            "5yl",
+            "5 years later",
+            "ben",
+            "10",
+            "tennyson",
+            "ultimate",
+            "alien",
+            "force",
+            "omnitrix",
+            "omniverse",
+            "reboot",
+            "review",
+            "reaction",
+            "rob orpilla",
+            "collect"
+          ],
+          "published": "2026-08-01T14:00:34Z",
+          "categoryId": "24"
+        }
+      ],
+      "schedule": {
+        "schemaVersion": 1,
+        "start": 1794262906940,
+        "end": 1794622906940,
+        "durationHours": 100,
+        "programs": [
+          {
+            "videoId": "EbVn9olD4KQ",
+            "start": 1794262906940,
+            "end": 1794264162940
+          },
+          {
+            "videoId": "-EFyQXvf4Fs",
+            "start": 1794264162940,
+            "end": 1794267344940
+          },
+          {
+            "videoId": "FCKiqYWF1C8",
+            "start": 1794267344940,
+            "end": 1794267556940
+          },
+          {
+            "videoId": "zjSyr7qCJP0",
+            "start": 1794267556940,
+            "end": 1794268076940
+          },
+          {
+            "videoId": "AADgMTFepBc",
+            "start": 1794268076940,
+            "end": 1794269007940
+          },
+          {
+            "videoId": "emtrm3V3ONI",
+            "start": 1794269007940,
+            "end": 1794269675940
+          },
+          {
+            "videoId": "X2J_s3W6GdU",
+            "start": 1794269675940,
+            "end": 1794272026940
+          },
+          {
+            "videoId": "f-jkS1zu5Cg",
+            "start": 1794272026940,
+            "end": 1794272907940
+          },
+          {
+            "videoId": "mBzMba5k8d8",
+            "start": 1794272907940,
+            "end": 1794274892940
+          },
+          {
+            "videoId": "ZbK7pKbf8vM",
+            "start": 1794274892940,
+            "end": 1794275449940
+          },
+          {
+            "videoId": "PSWWEI0PoLM",
+            "start": 1794275449940,
+            "end": 1794276131940
+          },
+          {
+            "videoId": "ubzkw8ypb_E",
+            "start": 1794276131940,
+            "end": 1794276962940
+          },
+          {
+            "videoId": "T63CU87qDkw",
+            "start": 1794276962940,
+            "end": 1794277467940
+          },
+          {
+            "videoId": "AeamByOVspk",
+            "start": 1794277467940,
+            "end": 1794279373940
+          },
+          {
+            "videoId": "aacXt2bibb8",
+            "start": 1794279373940,
+            "end": 1794279569940
+          },
+          {
+            "videoId": "RCXGI-tuAOY",
+            "start": 1794279569940,
+            "end": 1794280605940
+          },
+          {
+            "videoId": "6aRTymnUGjo",
+            "start": 1794280605940,
+            "end": 1794280964940
+          },
+          {
+            "videoId": "OaEwoViu47g",
+            "start": 1794280964940,
+            "end": 1794281592940
+          },
+          {
+            "videoId": "kxaGO_MdH_Q",
+            "start": 1794281592940,
+            "end": 1794283448940
+          },
+          {
+            "videoId": "lZiLf07A_Nw",
+            "start": 1794283448940,
+            "end": 1794284484940
+          },
+          {
+            "videoId": "SpZK53PguiY",
+            "start": 1794284484940,
+            "end": 1794284769940
+          },
+          {
+            "videoId": "8M3YyATPCfw",
+            "start": 1794284769940,
+            "end": 1794285430940
+          },
+          {
+            "videoId": "6-mQgYroIK4",
+            "start": 1794285430940,
+            "end": 1794286741940
+          },
+          {
+            "videoId": "4k_kUPVvixc",
+            "start": 1794286741940,
+            "end": 1794287987940
+          },
+          {
+            "videoId": "QA1cYGLtQMI",
+            "start": 1794287987940,
+            "end": 1794288270940
+          },
+          {
+            "videoId": "Z9C1imyRd_c",
+            "start": 1794288270940,
+            "end": 1794290979940
+          },
+          {
+            "videoId": "H9nyCdTRW-E",
+            "start": 1794290979940,
+            "end": 1794291954940
+          },
+          {
+            "videoId": "21PYJwTn_uU",
+            "start": 1794291954940,
+            "end": 1794292457940
+          },
+          {
+            "videoId": "wDJprPz7aCE",
+            "start": 1794292457940,
+            "end": 1794292942940
+          },
+          {
+            "videoId": "ezbVgjMdwPM",
+            "start": 1794292942940,
+            "end": 1794293558940
+          },
+          {
+            "videoId": "MJOTmUAjv-A",
+            "start": 1794293558940,
+            "end": 1794297256940
+          },
+          {
+            "videoId": "y30exM1p97k",
+            "start": 1794297256940,
+            "end": 1794306057940
+          },
+          {
+            "videoId": "W73b-GRw2wg",
+            "start": 1794306057940,
+            "end": 1794307086940
+          },
+          {
+            "videoId": "75FZWa2U2wg",
+            "start": 1794307086940,
+            "end": 1794307322940
+          },
+          {
+            "videoId": "vkUw6DrGX0g",
+            "start": 1794307322940,
+            "end": 1794310232940
+          },
+          {
+            "videoId": "Jc-CPYHTCq0",
+            "start": 1794310232940,
+            "end": 1794311011940
+          },
+          {
+            "videoId": "hxX28e6aKcg",
+            "start": 1794311011940,
+            "end": 1794312547940
+          },
+          {
+            "videoId": "YE6CTG3t_d8",
+            "start": 1794312547940,
+            "end": 1794312790940
+          },
+          {
+            "videoId": "uIWASOV4p1s",
+            "start": 1794312790940,
+            "end": 1794315076940
+          },
+          {
+            "videoId": "FAghmVpy0Lw",
+            "start": 1794315076940,
+            "end": 1794317432940
+          },
+          {
+            "videoId": "jYaz-Or5PyI",
+            "start": 1794317432940,
+            "end": 1794318647940
+          },
+          {
+            "videoId": "J_KlJLJCM-I",
+            "start": 1794318647940,
+            "end": 1794319370940
+          },
+          {
+            "videoId": "4DY8CeKVb7M",
+            "start": 1794319370940,
+            "end": 1794332429940
+          },
+          {
+            "videoId": "HyHDf2YqZcY",
+            "start": 1794332429940,
+            "end": 1794333682940
+          },
+          {
+            "videoId": "0bAPuQfpwgM",
+            "start": 1794333682940,
+            "end": 1794334979940
+          },
+          {
+            "videoId": "yohgn9ZjBOA",
+            "start": 1794334979940,
+            "end": 1794337179940
+          },
+          {
+            "videoId": "REoyW3LdY4c",
+            "start": 1794337179940,
+            "end": 1794338868940
+          },
+          {
+            "videoId": "K0LjgJjiIAQ",
+            "start": 1794338868940,
+            "end": 1794339199940
+          },
+          {
+            "videoId": "c7c9TMAbsS0",
+            "start": 1794339199940,
+            "end": 1794339929940
+          },
+          {
+            "videoId": "1fCYbLUwgkU",
+            "start": 1794339929940,
+            "end": 1794340373940
+          },
+          {
+            "videoId": "4mKO-HV4JVo",
+            "start": 1794340373940,
+            "end": 1794342264940
+          },
+          {
+            "videoId": "5RjcSiS4rM8",
+            "start": 1794342264940,
+            "end": 1794342753940
+          },
+          {
+            "videoId": "pNpfZpn1STk",
+            "start": 1794342753940,
+            "end": 1794344386940
+          },
+          {
+            "videoId": "BRJBgGvPGfo",
+            "start": 1794344386940,
+            "end": 1794345101940
+          },
+          {
+            "videoId": "5QUH1zw3fvc",
+            "start": 1794345101940,
+            "end": 1794349669940
+          },
+          {
+            "videoId": "RA_tOwrmHY8",
+            "start": 1794349669940,
+            "end": 1794351478940
+          },
+          {
+            "videoId": "HLhCWbG0CIw",
+            "start": 1794351478940,
+            "end": 1794351952940
+          },
+          {
+            "videoId": "jhc-k1mqlEA",
+            "start": 1794351952940,
+            "end": 1794354107940
+          },
+          {
+            "videoId": "oak8YJ_or2k",
+            "start": 1794354107940,
+            "end": 1794354699940
+          },
+          {
+            "videoId": "YnuvqCAEmXc",
+            "start": 1794354699940,
+            "end": 1794355339940
+          },
+          {
+            "videoId": "cVaTP06CAZc",
+            "start": 1794355339940,
+            "end": 1794357110940
+          },
+          {
+            "videoId": "BnYRC_2YbXw",
+            "start": 1794357110940,
+            "end": 1794362510940
+          },
+          {
+            "videoId": "Vpb_nOrMGeA",
+            "start": 1794362510940,
+            "end": 1794363367940
+          },
+          {
+            "videoId": "mXX_4rz-JuA",
+            "start": 1794363367940,
+            "end": 1794366052940
+          },
+          {
+            "videoId": "ZwLFy8LUAX4",
+            "start": 1794366052940,
+            "end": 1794369776940
+          },
+          {
+            "videoId": "xAnJd7Qzp3c",
+            "start": 1794369776940,
+            "end": 1794374567940
+          },
+          {
+            "videoId": "Jh6kquL8zCk",
+            "start": 1794374567940,
+            "end": 1794379961940
+          },
+          {
+            "videoId": "FykxCf_YL-0",
+            "start": 1794379961940,
+            "end": 1794380428940
+          },
+          {
+            "videoId": "R4flw5Rmouk",
+            "start": 1794380428940,
+            "end": 1794381245940
+          },
+          {
+            "videoId": "8LUB_aBdomY",
+            "start": 1794381245940,
+            "end": 1794382116940
+          },
+          {
+            "videoId": "-_LoBNrrAIg",
+            "start": 1794382116940,
+            "end": 1794383510940
+          },
+          {
+            "videoId": "PSvuZozXuUU",
+            "start": 1794383510940,
+            "end": 1794388368940
+          },
+          {
+            "videoId": "O7rvbzj2XNg",
+            "start": 1794388368940,
+            "end": 1794389265940
+          },
+          {
+            "videoId": "AyN_Ov23CV0",
+            "start": 1794389265940,
+            "end": 1794390253940
+          },
+          {
+            "videoId": "4ySOsjURoSk",
+            "start": 1794390253940,
+            "end": 1794393390940
+          },
+          {
+            "videoId": "I3NTNSWdBPk",
+            "start": 1794393390940,
+            "end": 1794394133940
+          },
+          {
+            "videoId": "JkKvQGopum4",
+            "start": 1794394133940,
+            "end": 1794395846940
+          },
+          {
+            "videoId": "_z53rNkjAKw",
+            "start": 1794395846940,
+            "end": 1794397981940
+          },
+          {
+            "videoId": "OMoGfzO3KvA",
+            "start": 1794397981940,
+            "end": 1794399199940
+          },
+          {
+            "videoId": "UxDWIpaEi-I",
+            "start": 1794399199940,
+            "end": 1794399460940
+          },
+          {
+            "videoId": "p-eDkccf0_Y",
+            "start": 1794399460940,
+            "end": 1794400195940
+          },
+          {
+            "videoId": "lJgdf30Is-Y",
+            "start": 1794400195940,
+            "end": 1794401396940
+          },
+          {
+            "videoId": "bBslB5gWoOg",
+            "start": 1794401396940,
+            "end": 1794402112940
+          },
+          {
+            "videoId": "1iDiFLT9ieU",
+            "start": 1794402112940,
+            "end": 1794403408940
+          },
+          {
+            "videoId": "FqkxH9JjOKo",
+            "start": 1794403408940,
+            "end": 1794403616940
+          },
+          {
+            "videoId": "fC_s3yOPA6s",
+            "start": 1794403616940,
+            "end": 1794403968940
+          },
+          {
+            "videoId": "gHsYchBb3AE",
+            "start": 1794403968940,
+            "end": 1794404214940
+          },
+          {
+            "videoId": "iTJ8xXrQALI",
+            "start": 1794404214940,
+            "end": 1794405265940
+          },
+          {
+            "videoId": "Ixba-_zXh3c",
+            "start": 1794405265940,
+            "end": 1794407468940
+          },
+          {
+            "videoId": "8CqT8ysXEIw",
+            "start": 1794407468940,
+            "end": 1794408781940
+          },
+          {
+            "videoId": "2-at7VT6mB4",
+            "start": 1794408781940,
+            "end": 1794410681940
+          },
+          {
+            "videoId": "EbVn9olD4KQ",
+            "start": 1794410681940,
+            "end": 1794411937940
+          },
+          {
+            "videoId": "-EFyQXvf4Fs",
+            "start": 1794411937940,
+            "end": 1794415119940
+          },
+          {
+            "videoId": "FCKiqYWF1C8",
+            "start": 1794415119940,
+            "end": 1794415331940
+          },
+          {
+            "videoId": "zjSyr7qCJP0",
+            "start": 1794415331940,
+            "end": 1794415851940
+          },
+          {
+            "videoId": "AADgMTFepBc",
+            "start": 1794415851940,
+            "end": 1794416782940
+          },
+          {
+            "videoId": "emtrm3V3ONI",
+            "start": 1794416782940,
+            "end": 1794417450940
+          },
+          {
+            "videoId": "X2J_s3W6GdU",
+            "start": 1794417450940,
+            "end": 1794419801940
+          },
+          {
+            "videoId": "f-jkS1zu5Cg",
+            "start": 1794419801940,
+            "end": 1794420682940
+          },
+          {
+            "videoId": "mBzMba5k8d8",
+            "start": 1794420682940,
+            "end": 1794422667940
+          },
+          {
+            "videoId": "ZbK7pKbf8vM",
+            "start": 1794422667940,
+            "end": 1794423224940
+          },
+          {
+            "videoId": "PSWWEI0PoLM",
+            "start": 1794423224940,
+            "end": 1794423906940
+          },
+          {
+            "videoId": "ubzkw8ypb_E",
+            "start": 1794423906940,
+            "end": 1794424737940
+          },
+          {
+            "videoId": "T63CU87qDkw",
+            "start": 1794424737940,
+            "end": 1794425242940
+          },
+          {
+            "videoId": "AeamByOVspk",
+            "start": 1794425242940,
+            "end": 1794427148940
+          },
+          {
+            "videoId": "aacXt2bibb8",
+            "start": 1794427148940,
+            "end": 1794427344940
+          },
+          {
+            "videoId": "RCXGI-tuAOY",
+            "start": 1794427344940,
+            "end": 1794428380940
+          },
+          {
+            "videoId": "6aRTymnUGjo",
+            "start": 1794428380940,
+            "end": 1794428739940
+          },
+          {
+            "videoId": "OaEwoViu47g",
+            "start": 1794428739940,
+            "end": 1794429367940
+          },
+          {
+            "videoId": "kxaGO_MdH_Q",
+            "start": 1794429367940,
+            "end": 1794431223940
+          },
+          {
+            "videoId": "lZiLf07A_Nw",
+            "start": 1794431223940,
+            "end": 1794432259940
+          },
+          {
+            "videoId": "SpZK53PguiY",
+            "start": 1794432259940,
+            "end": 1794432544940
+          },
+          {
+            "videoId": "8M3YyATPCfw",
+            "start": 1794432544940,
+            "end": 1794433205940
+          },
+          {
+            "videoId": "6-mQgYroIK4",
+            "start": 1794433205940,
+            "end": 1794434516940
+          },
+          {
+            "videoId": "4k_kUPVvixc",
+            "start": 1794434516940,
+            "end": 1794435762940
+          },
+          {
+            "videoId": "QA1cYGLtQMI",
+            "start": 1794435762940,
+            "end": 1794436045940
+          },
+          {
+            "videoId": "Z9C1imyRd_c",
+            "start": 1794436045940,
+            "end": 1794438754940
+          },
+          {
+            "videoId": "H9nyCdTRW-E",
+            "start": 1794438754940,
+            "end": 1794439729940
+          },
+          {
+            "videoId": "21PYJwTn_uU",
+            "start": 1794439729940,
+            "end": 1794440232940
+          },
+          {
+            "videoId": "wDJprPz7aCE",
+            "start": 1794440232940,
+            "end": 1794440717940
+          },
+          {
+            "videoId": "ezbVgjMdwPM",
+            "start": 1794440717940,
+            "end": 1794441333940
+          },
+          {
+            "videoId": "MJOTmUAjv-A",
+            "start": 1794441333940,
+            "end": 1794445031940
+          },
+          {
+            "videoId": "y30exM1p97k",
+            "start": 1794445031940,
+            "end": 1794453832940
+          },
+          {
+            "videoId": "W73b-GRw2wg",
+            "start": 1794453832940,
+            "end": 1794454861940
+          },
+          {
+            "videoId": "75FZWa2U2wg",
+            "start": 1794454861940,
+            "end": 1794455097940
+          },
+          {
+            "videoId": "vkUw6DrGX0g",
+            "start": 1794455097940,
+            "end": 1794458007940
+          },
+          {
+            "videoId": "Jc-CPYHTCq0",
+            "start": 1794458007940,
+            "end": 1794458786940
+          },
+          {
+            "videoId": "hxX28e6aKcg",
+            "start": 1794458786940,
+            "end": 1794460322940
+          },
+          {
+            "videoId": "YE6CTG3t_d8",
+            "start": 1794460322940,
+            "end": 1794460565940
+          },
+          {
+            "videoId": "uIWASOV4p1s",
+            "start": 1794460565940,
+            "end": 1794462851940
+          },
+          {
+            "videoId": "FAghmVpy0Lw",
+            "start": 1794462851940,
+            "end": 1794465207940
+          },
+          {
+            "videoId": "jYaz-Or5PyI",
+            "start": 1794465207940,
+            "end": 1794466422940
+          },
+          {
+            "videoId": "J_KlJLJCM-I",
+            "start": 1794466422940,
+            "end": 1794467145940
+          },
+          {
+            "videoId": "4DY8CeKVb7M",
+            "start": 1794467145940,
+            "end": 1794480204940
+          },
+          {
+            "videoId": "HyHDf2YqZcY",
+            "start": 1794480204940,
+            "end": 1794481457940
+          },
+          {
+            "videoId": "0bAPuQfpwgM",
+            "start": 1794481457940,
+            "end": 1794482754940
+          },
+          {
+            "videoId": "yohgn9ZjBOA",
+            "start": 1794482754940,
+            "end": 1794484954940
+          },
+          {
+            "videoId": "REoyW3LdY4c",
+            "start": 1794484954940,
+            "end": 1794486643940
+          },
+          {
+            "videoId": "K0LjgJjiIAQ",
+            "start": 1794486643940,
+            "end": 1794486974940
+          },
+          {
+            "videoId": "c7c9TMAbsS0",
+            "start": 1794486974940,
+            "end": 1794487704940
+          },
+          {
+            "videoId": "1fCYbLUwgkU",
+            "start": 1794487704940,
+            "end": 1794488148940
+          },
+          {
+            "videoId": "4mKO-HV4JVo",
+            "start": 1794488148940,
+            "end": 1794490039940
+          },
+          {
+            "videoId": "5RjcSiS4rM8",
+            "start": 1794490039940,
+            "end": 1794490528940
+          },
+          {
+            "videoId": "pNpfZpn1STk",
+            "start": 1794490528940,
+            "end": 1794492161940
+          },
+          {
+            "videoId": "BRJBgGvPGfo",
+            "start": 1794492161940,
+            "end": 1794492876940
+          },
+          {
+            "videoId": "5QUH1zw3fvc",
+            "start": 1794492876940,
+            "end": 1794497444940
+          },
+          {
+            "videoId": "RA_tOwrmHY8",
+            "start": 1794497444940,
+            "end": 1794499253940
+          },
+          {
+            "videoId": "HLhCWbG0CIw",
+            "start": 1794499253940,
+            "end": 1794499727940
+          },
+          {
+            "videoId": "jhc-k1mqlEA",
+            "start": 1794499727940,
+            "end": 1794501882940
+          },
+          {
+            "videoId": "oak8YJ_or2k",
+            "start": 1794501882940,
+            "end": 1794502474940
+          },
+          {
+            "videoId": "YnuvqCAEmXc",
+            "start": 1794502474940,
+            "end": 1794503114940
+          },
+          {
+            "videoId": "cVaTP06CAZc",
+            "start": 1794503114940,
+            "end": 1794504885940
+          },
+          {
+            "videoId": "BnYRC_2YbXw",
+            "start": 1794504885940,
+            "end": 1794510285940
+          },
+          {
+            "videoId": "Vpb_nOrMGeA",
+            "start": 1794510285940,
+            "end": 1794511142940
+          },
+          {
+            "videoId": "mXX_4rz-JuA",
+            "start": 1794511142940,
+            "end": 1794513827940
+          },
+          {
+            "videoId": "ZwLFy8LUAX4",
+            "start": 1794513827940,
+            "end": 1794517551940
+          },
+          {
+            "videoId": "xAnJd7Qzp3c",
+            "start": 1794517551940,
+            "end": 1794522342940
+          },
+          {
+            "videoId": "Jh6kquL8zCk",
+            "start": 1794522342940,
+            "end": 1794527736940
+          },
+          {
+            "videoId": "FykxCf_YL-0",
+            "start": 1794527736940,
+            "end": 1794528203940
+          },
+          {
+            "videoId": "R4flw5Rmouk",
+            "start": 1794528203940,
+            "end": 1794529020940
+          },
+          {
+            "videoId": "8LUB_aBdomY",
+            "start": 1794529020940,
+            "end": 1794529891940
+          },
+          {
+            "videoId": "-_LoBNrrAIg",
+            "start": 1794529891940,
+            "end": 1794531285940
+          },
+          {
+            "videoId": "PSvuZozXuUU",
+            "start": 1794531285940,
+            "end": 1794536143940
+          },
+          {
+            "videoId": "O7rvbzj2XNg",
+            "start": 1794536143940,
+            "end": 1794537040940
+          },
+          {
+            "videoId": "AyN_Ov23CV0",
+            "start": 1794537040940,
+            "end": 1794538028940
+          },
+          {
+            "videoId": "4ySOsjURoSk",
+            "start": 1794538028940,
+            "end": 1794541165940
+          },
+          {
+            "videoId": "I3NTNSWdBPk",
+            "start": 1794541165940,
+            "end": 1794541908940
+          },
+          {
+            "videoId": "JkKvQGopum4",
+            "start": 1794541908940,
+            "end": 1794543621940
+          },
+          {
+            "videoId": "_z53rNkjAKw",
+            "start": 1794543621940,
+            "end": 1794545756940
+          },
+          {
+            "videoId": "OMoGfzO3KvA",
+            "start": 1794545756940,
+            "end": 1794546974940
+          },
+          {
+            "videoId": "UxDWIpaEi-I",
+            "start": 1794546974940,
+            "end": 1794547235940
+          },
+          {
+            "videoId": "p-eDkccf0_Y",
+            "start": 1794547235940,
+            "end": 1794547970940
+          },
+          {
+            "videoId": "lJgdf30Is-Y",
+            "start": 1794547970940,
+            "end": 1794549171940
+          },
+          {
+            "videoId": "bBslB5gWoOg",
+            "start": 1794549171940,
+            "end": 1794549887940
+          },
+          {
+            "videoId": "1iDiFLT9ieU",
+            "start": 1794549887940,
+            "end": 1794551183940
+          },
+          {
+            "videoId": "FqkxH9JjOKo",
+            "start": 1794551183940,
+            "end": 1794551391940
+          },
+          {
+            "videoId": "fC_s3yOPA6s",
+            "start": 1794551391940,
+            "end": 1794551743940
+          },
+          {
+            "videoId": "gHsYchBb3AE",
+            "start": 1794551743940,
+            "end": 1794551989940
+          },
+          {
+            "videoId": "iTJ8xXrQALI",
+            "start": 1794551989940,
+            "end": 1794553040940
+          },
+          {
+            "videoId": "Ixba-_zXh3c",
+            "start": 1794553040940,
+            "end": 1794555243940
+          },
+          {
+            "videoId": "8CqT8ysXEIw",
+            "start": 1794555243940,
+            "end": 1794556556940
+          },
+          {
+            "videoId": "2-at7VT6mB4",
+            "start": 1794556556940,
+            "end": 1794558456940
+          },
+          {
+            "videoId": "EbVn9olD4KQ",
+            "start": 1794558456940,
+            "end": 1794559712940
+          },
+          {
+            "videoId": "-EFyQXvf4Fs",
+            "start": 1794559712940,
+            "end": 1794562894940
+          },
+          {
+            "videoId": "FCKiqYWF1C8",
+            "start": 1794562894940,
+            "end": 1794563106940
+          },
+          {
+            "videoId": "zjSyr7qCJP0",
+            "start": 1794563106940,
+            "end": 1794563626940
+          },
+          {
+            "videoId": "AADgMTFepBc",
+            "start": 1794563626940,
+            "end": 1794564557940
+          },
+          {
+            "videoId": "emtrm3V3ONI",
+            "start": 1794564557940,
+            "end": 1794565225940
+          },
+          {
+            "videoId": "X2J_s3W6GdU",
+            "start": 1794565225940,
+            "end": 1794567576940
+          },
+          {
+            "videoId": "f-jkS1zu5Cg",
+            "start": 1794567576940,
+            "end": 1794568457940
+          },
+          {
+            "videoId": "mBzMba5k8d8",
+            "start": 1794568457940,
+            "end": 1794570442940
+          },
+          {
+            "videoId": "ZbK7pKbf8vM",
+            "start": 1794570442940,
+            "end": 1794570999940
+          },
+          {
+            "videoId": "PSWWEI0PoLM",
+            "start": 1794570999940,
+            "end": 1794571681940
+          },
+          {
+            "videoId": "ubzkw8ypb_E",
+            "start": 1794571681940,
+            "end": 1794572512940
+          },
+          {
+            "videoId": "T63CU87qDkw",
+            "start": 1794572512940,
+            "end": 1794573017940
+          },
+          {
+            "videoId": "AeamByOVspk",
+            "start": 1794573017940,
+            "end": 1794574923940
+          },
+          {
+            "videoId": "aacXt2bibb8",
+            "start": 1794574923940,
+            "end": 1794575119940
+          },
+          {
+            "videoId": "RCXGI-tuAOY",
+            "start": 1794575119940,
+            "end": 1794576155940
+          },
+          {
+            "videoId": "6aRTymnUGjo",
+            "start": 1794576155940,
+            "end": 1794576514940
+          },
+          {
+            "videoId": "OaEwoViu47g",
+            "start": 1794576514940,
+            "end": 1794577142940
+          },
+          {
+            "videoId": "kxaGO_MdH_Q",
+            "start": 1794577142940,
+            "end": 1794578998940
+          },
+          {
+            "videoId": "lZiLf07A_Nw",
+            "start": 1794578998940,
+            "end": 1794580034940
+          },
+          {
+            "videoId": "SpZK53PguiY",
+            "start": 1794580034940,
+            "end": 1794580319940
+          },
+          {
+            "videoId": "8M3YyATPCfw",
+            "start": 1794580319940,
+            "end": 1794580980940
+          },
+          {
+            "videoId": "6-mQgYroIK4",
+            "start": 1794580980940,
+            "end": 1794582291940
+          },
+          {
+            "videoId": "4k_kUPVvixc",
+            "start": 1794582291940,
+            "end": 1794583537940
+          },
+          {
+            "videoId": "QA1cYGLtQMI",
+            "start": 1794583537940,
+            "end": 1794583820940
+          },
+          {
+            "videoId": "Z9C1imyRd_c",
+            "start": 1794583820940,
+            "end": 1794586529940
+          },
+          {
+            "videoId": "H9nyCdTRW-E",
+            "start": 1794586529940,
+            "end": 1794587504940
+          },
+          {
+            "videoId": "21PYJwTn_uU",
+            "start": 1794587504940,
+            "end": 1794588007940
+          },
+          {
+            "videoId": "wDJprPz7aCE",
+            "start": 1794588007940,
+            "end": 1794588492940
+          },
+          {
+            "videoId": "ezbVgjMdwPM",
+            "start": 1794588492940,
+            "end": 1794589108940
+          },
+          {
+            "videoId": "MJOTmUAjv-A",
+            "start": 1794589108940,
+            "end": 1794592806940
+          },
+          {
+            "videoId": "y30exM1p97k",
+            "start": 1794592806940,
+            "end": 1794601607940
+          },
+          {
+            "videoId": "W73b-GRw2wg",
+            "start": 1794601607940,
+            "end": 1794602636940
+          },
+          {
+            "videoId": "75FZWa2U2wg",
+            "start": 1794602636940,
+            "end": 1794602872940
+          },
+          {
+            "videoId": "vkUw6DrGX0g",
+            "start": 1794602872940,
+            "end": 1794605782940
+          },
+          {
+            "videoId": "Jc-CPYHTCq0",
+            "start": 1794605782940,
+            "end": 1794606561940
+          },
+          {
+            "videoId": "hxX28e6aKcg",
+            "start": 1794606561940,
+            "end": 1794608097940
+          },
+          {
+            "videoId": "YE6CTG3t_d8",
+            "start": 1794608097940,
+            "end": 1794608340940
+          },
+          {
+            "videoId": "uIWASOV4p1s",
+            "start": 1794608340940,
+            "end": 1794610626940
+          },
+          {
+            "videoId": "FAghmVpy0Lw",
+            "start": 1794610626940,
+            "end": 1794612982940
+          },
+          {
+            "videoId": "jYaz-Or5PyI",
+            "start": 1794612982940,
+            "end": 1794614197940
+          },
+          {
+            "videoId": "J_KlJLJCM-I",
+            "start": 1794614197940,
+            "end": 1794614920940
+          },
+          {
+            "videoId": "4DY8CeKVb7M",
+            "start": 1794614920940,
+            "end": 1794622906940
           }
         ]
       }
