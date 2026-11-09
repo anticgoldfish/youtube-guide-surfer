@@ -3,6 +3,542 @@
   "scheduleSchemaVersion": 1,
   "scheduleHorizonHours": 100,
   "refreshIntervalHours": 72,
-  "updatedAt": null,
-  "channels": []
+  "updatedAt": "2026-11-09T08:37:39.783Z",
+  "channels": [
+    {
+      "name": "Sitcom Retrospectives",
+      "number": 102,
+      "category": "Video Essays",
+      "mode": "multi",
+      "prompt": "",
+      "sourceChannel": "",
+      "playlists": [
+        "https://www.youtube.com/watch?v=xNvqjCtzfXw&list=PLNkfKT_xRl1NEZ0YFw11TORoRBIMcxrY0",
+        "https://www.youtube.com/watch?v=R0K0TXslm_g&list=PLTyzdR_gLD5niub4d42TSmQttVvguMK_A&pp=0gcJCR0Ga94AFGB0"
+      ],
+      "order": "shuffle",
+      "topic": "",
+      "exclude": "",
+      "strictness": "strict",
+      "seedIds": [],
+      "approximateDiscovery": true,
+      "feedPrompt": "",
+      "youtubeFeedPrompt": "",
+      "feedName": "",
+      "seedStrictness": "strict",
+      "seedExclude": "",
+      "includeSeeds": true,
+      "sourceCreators": [],
+      "id": "ch_acd760e9-b224-40fe-a5d2-32893692f682",
+      "anchor": 1794213459583,
+      "rejectedIds": [],
+      "videos": [
+        {
+          "id": "xNvqjCtzfXw",
+          "title": "The Reign of Fred Figglehorn | Fallen Titans",
+          "creator": "Quinton Reviews",
+          "creatorId": "UCM0V8r4kuIWIl6Sy-NHj2lg",
+          "duration": 13161,
+          "description": "You can find my glasses online at GlassesUSA.com. Sign up for a 65% off your first pair:\nhttp://bit.ly/QuintonR-GlassesUSA\n(Free basic lenses only. Premium and marked-down frames excluded) \n\nShop men eyeglasses - http://bit.ly/QuintonR-Mencollection\n\nToday, in a special episode of Fallen Titans, we revisit a topic I once considered to boring for a full exploration: Fred Figglehorn, also known as just “Fred.” This YouTube star, in reality a character created by Lucas Cruikshank, was one of the biggest hits in the early days of YouTube, causing Lucas to become a recognized star in children’s television. So what happened? Why did Fred’s reign end so suddenly, and was there a bigger story to his content?\n\nJoin us today, as we take our final deep dive before the iCarly mini-series begins.\n\nMy Twitter ➱ https://twitter.com/Q_Review\n\nMy Patreon ➱ https://www.patreon.com/QReview\n\n0:00 - Intro\n7:12 - The Beginning\n26:47 - 2009 Fred\n45:45 - Fred Merchandise\n50:49 - Fred: The Movie\n1:13:51 - Lucas’s Concerns & Claudio\n1:19:56 - Fred 2: Night of the Living Fred\n1:33:25 - MAD Footnote & Nick-Era Fred Channel\n1:40:41 - Fred 3: Camp Fred\n1:43:12 - Fred: The Show\n2:51:38 - Marvin Marvin\n3:00:56 - Post-Nick Fred, the Final Fred Arc\n3:16:18 - Fred Channel Post-Fred\n3:18:51 - Fred Post-Fred-Channel\n3:26:14 - Closing Statements\n3:33:18 - Next Time on Quinton Reviews\n\nMy Twitch ➱ https://www.twitch.tv/quintonreviews/\n\nOur Reddit ➱ https://www.reddit.com/r/QuintonReviews\n\nMy Instagram ➱ https://www.instagram.com/quintonreviews/\n\nMy Facebook ➱ https://www.facebook.com/QuintonReviewsthekitchensink",
+          "tags": [
+            "Quinton Reviews",
+            "Quinton",
+            "Reviews",
+            "Youtube",
+            "discussion"
+          ],
+          "published": "2021-06-14T16:51:22Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "5g-o0uauoqA",
+          "title": "The Wizards Finale was TERRIBLE OH MY GOD",
+          "creator": "Keyan Carlile",
+          "creatorId": "UCVg0RaUinGyNhK_Nrx42MeA",
+          "duration": 2875,
+          "description": "The Little Season That Couldn't.\n\nWatch Para(NOT!)Normal - https://www.youtube.com/watch?v=C6cSNz1tDJ4",
+          "tags": [],
+          "published": "2026-09-10T16:15:13Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "fgRBPLdILf0",
+          "title": "So... They Revived Wizards of Waverly Place.",
+          "creator": "Keyan Carlile",
+          "creatorId": "UCVg0RaUinGyNhK_Nrx42MeA",
+          "duration": 2457,
+          "description": "Go to https://buyraycon.com/keyan to get up to 30% off sitewide! Brought to you by Raycon.\n\n3D Ear Model: https://sketchfab.com/3d-models/human-ear-anatomy-c3e65826b8ac48f9ba472d5a384813ad\n\nWizards of Waverly Place has returned with Wizards BEYOND Waverly Place! David Henrie and Selena Gomez have brought more content to the content party, and I for one can't wait to check it out.\n\nMy Twitter ➤ https://twitter.com/keyancarlile\nMy Instagram ➤ https://www.instagram.com/keyancarlile/\nMy Patreon ➤ https://www.patreon.com/KeyanCarlile\nSubscribe ➤ https://www.youtube.com/channel/UCVg0RaUinGyNhK_Nrx42MeA?sub_confirmation=1",
+          "tags": [],
+          "published": "2024-11-27T17:56:35Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "R0K0TXslm_g",
+          "title": "The Rise and Fall of Disney's Weirdest Sitcom",
+          "creator": "Keyan Carlile",
+          "creatorId": "UCVg0RaUinGyNhK_Nrx42MeA",
+          "duration": 11788,
+          "description": "My Twitter ➤ https://twitter.com/keyancarlile\nMy Instagram ➤ https://www.instagram.com/keyan_carlile_entertainment/\nMy Patreon ➤ https://www.patreon.com/KeyanCarlile\nSubscribe ➤ https://www.youtube.com/channel/UCVg0RaUinGyNhK_Nrx42MeA?sub_confirmation=1\n\nImagine the camera lens isn't dirty\n\n0:00 What is Lab Rats?\n8:44 The Cast\n19:05 Season 1\n39:59 The Sets\n41:49 Season 2\n1:21:12 Things\n1:27:10 Season 3\n2:19:17 The Island\n2:20:51 Season 4\n3:11:48 The End",
+          "tags": [],
+          "published": "2022-02-28T00:20:52Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "IBs_hYvtd3k",
+          "title": "The End of iCarly",
+          "creator": "Quinton Reviews",
+          "creatorId": "UCM0V8r4kuIWIl6Sy-NHj2lg",
+          "duration": 12929,
+          "description": "Here it is! Part two of my iCarly Binge-through! it only took me 90 days, give or take. And this might seem exciting, but I promise you, we're about to find out there's much more in store for us...\n\nSo join us, as we talk about the final three seasons of the ORIGINAL run of iCarly. From T-Bo and Gibby, to the return of iPsycho, all the way to iGoodbye, we have MUCH to talk about. So once again, let's join Carly, Sam, Freddie, Spencer, Gibby, T-Bo and Gibby's decapitated head, for the final three seasons of this beyond bizarre show...\n\nMy Twitter ➱ https://twitter.com/Q_Review\n\nMy Patreon ➱ https://www.patreon.com/QReview\n\nMy MERCH / Shirts ➱ https://www.pixelempire.com/collections/quinton-reviews\n\nOpening song:\nMax Levinton\nhttps://maxlevinton.bandcamp.com/music\nhttps://www.youtube.com/c/Max_Levinton\nhttps://twitter.com/Frepno_Mytoff\n\nGuest editor:\nFlowergothic\n\nOfficial Podcast Noah interview ➱\nhttps://www.youtube.com/watch?v=1XrzDWK4eWA\n\nSaltyDKDan BooG!e interview ➱\nhttps://www.youtube.com/watch?v=nlDuq4Bha4I\nhttps://www.youtube.com/watch?v=abvLkFr_tiM\n\nMy Twitch ➱ https://www.twitch.tv/quintonreviews/\n\nOur Reddit ➱ https://www.reddit.com/r/QuintonReviews\n\nMy Instagram ➱ https://www.instagram.com/quintonreviews/\n\nMy Facebook ➱ https://www.facebook.com/QuintonReviewsthekitchensink/\n\nMy Tumblr ➱ https://quinton-reviews.tumblr.com/\n\nOur Lore Wiki ➱ https://quintonreviews.fandom.com/wiki/Johnmas\n\n0:00 - Intro\n8:42 - Season 4\n44:45 - iCrimes of Season 4\n52:46 - Intermission\n1:09:25 - Season 5\n1:49:24 - iCrimes of Season 5\n1:53:00 - Intermission 2\n2:10:09 - Season 6, Part 1\n2:",
+          "tags": [
+            "Quinton Reviews",
+            "Quinton",
+            "Reviews",
+            "Youtube",
+            "discussion",
+            "iCarly reaction",
+            "iCarly",
+            "iCarly One Direction",
+            "iCarly Full Episodes",
+            "iCarly Quinton Reviews"
+          ],
+          "published": "2021-09-12T14:25:13Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "kwBMURAeFuA",
+          "title": "Christmas Quickies #1 - Atop the Fourth Wall",
+          "creator": "Linkara-AtopTheFourthWall",
+          "creatorId": "UCejehlk5eLZlzgGP1rUx8kw",
+          "duration": 1418,
+          "description": "Welcome to Atop the Fourth Wall, where bad comics burn. In the last holiday episode of the year, Linkara looks at a bunch of short Christmas comics!\n\nCheck out more AT4W shirts at Shark Robot: https://sharkrobot.com/collections/atop-the-fourth-wall \n\nTitle Card Art by Viga: https://www.youtube.com/c/VigasArtRoom\n\nSpecial Appearance by Quinton Reviews: https://www.youtube.com/c/QuintonReviewsKitchenSinks\n\nhttp://atopthefourthwall.com \nhttp://www.patreon.com/at4w \n\nOriginally released December 23rd, 2021. \n\nORIGINAL DESCRIPTION: \"A Christmas Carol\" would have been a lot shorter if a superhero mouse punched him until he turned good.\n\n#christmas #at4w",
+          "tags": [
+            "at4w",
+            "linkara",
+            "atop the fourth wall",
+            "comic",
+            "comics",
+            "comic review",
+            "quinton reviews",
+            "a christmas carol",
+            "scrooge",
+            "marley",
+            "idw",
+            "christmas",
+            "holiday",
+            "atomic mouse",
+            "night before christmas",
+            "lil tomboy"
+          ],
+          "published": "2021-12-24T02:10:13Z",
+          "categoryId": "23"
+        },
+        {
+          "id": "Fa449raaIGM",
+          "title": "The Troop: Nickelodeon’s Forgotten Masterpiece",
+          "creator": "Hippie Rat",
+          "creatorId": "UCzC-rZ8G10QTu5BcA9pgr0w",
+          "duration": 8076,
+          "description": "UPDATE: I got the opportunity to interview Max Burnett, one of the creators of The Troop! Check that out here: https://youtu.be/kyFSuilZ-jc\n\n\n\nHey yo hi hello, and welcome to the jungle! Nearly twelve years ago, a television show premiered on Nickelodeon that quickly earned itself a spot in obscurity. While most other shows from its time aired by the network are currently being revisited for the nostalgia and uncovered trauma of it all, this is one random piece of my childhood that I have found very few people have shared memories with. So today I have committed to a deep dive analysis into The Troop, a program about teenagers hunting monsters, to demonstrate my experiences to all of you. Maybe you remember. Perhaps not. But if you snark me, I’ve left myself recordings to remind myself of The Troop.\n\n\nIntro and Outro Music: War Cry by Tone Jonez\n\n\nGo check out Quinton Reviews and his iCarly miniseries: https://youtube.com/QuintonReviewsKitchenSinks\n\nHere’s his iCarly playlist: https://youtube.com/playlist?list=PLNkfKT_xRl1NEZ0YFw11TORoRBIMcxrY0\n\n\nTable of Contents\n\nContent Warning: 0:00\nIntro: 0:17\n“Welcome to the Jungle”: 3:37\nThe Premise, and the Military Industrial Complex: 8:48\n“There is No ‘I’ in Monster Hunter”: 18:15\n“Do the Worm”: 20:05\nThe Main Characters, and Stockley Shenanigans: 26:02\n“Batteries Not Included”: 29:30\nPlot Holes, the SCP Foundation, and the Wainscot Society: 33:16\n“Like a Moth to the Spotlight”: 39:37\n“No More Master Nice Guy”: 40:46\n“My Gus is Back and There’s Gonna be Trouble”: 43:01\n“The Next Stop Lakewood”: 45:47\n“Pajama Game…of Death”: 50:27\n",
+          "tags": [
+            "The troop",
+            "Nickelodeon",
+            "ICarly",
+            "Ibinged iCarly",
+            "I binged iCarly",
+            "Nick",
+            "Hippie rat",
+            "Quinton reviews",
+            "Spongebob",
+            "Victorious",
+            "Sam and cat",
+            "Reaction",
+            "Review",
+            "Retrospective",
+            "Forgotten",
+            "Masterpiece"
+          ],
+          "published": "2021-07-11T19:00:07Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "DI79vU_487I",
+          "title": "How Disney’s Crossover-Spinoff Sitcom Killed a Franchise",
+          "creator": "Keyan Carlile",
+          "creatorId": "UCVg0RaUinGyNhK_Nrx42MeA",
+          "duration": 7208,
+          "description": "Support Kobe Roebuck! (he is cool and named Kobe)\nHis Instagram ➤ https://instagram.com/koberoebuck\n\nMy Twitter ➤ https://twitter.com/keyancarlile\nMy Instagram ➤ https://www.instagram.com/keyancarlile/\nMy Patreon ➤ https://www.patreon.com/KeyanCarlile\nSubscribe ➤ https://www.youtube.com/channel/UCVg0RaUinGyNhK_Nrx42MeA?sub_confirmation=1\n\nI love Lab Rats Elite Force so much!!!!!\n\n0:00 Intro\n2:16 What is Lab Rats: Elite Force?\n7:08 The Cast\n8:38 Ep. 1 - Ep. 2\n33:35 The Sets\n34:58 Ep. 3 - Ep. 4\n47:43 The Banger Theme Song\n54:38 Ep. 5 - Ep. 7\n1:07:04 The - I Can’t Believe This!!!!\n1:14:42 Ep. 8 - Ep. 10\n1:23:25 The Million Dollar Freshman\n1:27:44 Ep. 11 - Ep. 13\n1:37:18 The Mistakes I made\n1:40:00 Ep. 14 - Ep. 16\n1:47:00 The End\n1:49:53 The Future",
+          "tags": [],
+          "published": "2022-09-15T05:20:27Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "84XWGdpNmuc",
+          "title": "The Wizards Revival just changed the lore...",
+          "creator": "Keyan Carlile",
+          "creatorId": "UCVg0RaUinGyNhK_Nrx42MeA",
+          "duration": 4183,
+          "description": "Use KEYAN to get 55% off your first month at Scentbird https://sbird.co/4lGOkjP\nThis month I received...\nSignature by TUMI https://sbird.co/4cExPjY\nCloud by Ariana Grande https://sbird.co/4cEXEk2\nLife of the Party by 5 Sens https://sbird.co/446vgFq\nMadagascan Jasmine by Grandiflora https://sbird.co/3YGor9O\n\nPAIR OF KINGS RETROSPECTIVE: Up early on Patreon! https://www.patreon.com/posts/pair-of-kings-of-128146448?l=es\n\nI’m back! Remember me? Sorry for the long hiatus, I’ve accidentally been away contributing to society for a few months. Don’t worry, it  won’t happen again! Sorry for the still images, I had to do those to sneakily weasel my way around the auto-copyright ID which has apparently been choosing violence in the year 2025.",
+          "tags": [],
+          "published": "2025-05-10T04:03:41Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "eBcPdmxBWOE",
+          "title": "The Rise and Fall of Disney's Greatest Anime",
+          "creator": "Keyan Carlile",
+          "creatorId": "UCVg0RaUinGyNhK_Nrx42MeA",
+          "duration": 8642,
+          "description": "The 2024 Presidential Election is upon us! Call your local representatives and let them know you’d like President Martinez to be added to the ballot. Thomas Jefferson died so Disney Channel’s “Cory in the House” could live. Jason Dolley 2024.\n\nMy Twitter ➤ https://twitter.com/keyancarlile\nMy Instagram ➤ https://www.instagram.com/keyancarlile/\nMy Patreon ➤ https://www.patreon.com/KeyanCarlile\nSubscribe ➤ https://www.youtube.com/channel/UCVg0RaUinGyNhK_Nrx42MeA?sub_confirmation=1\n\n0:00 The Intro\n3:25 What is Cory in the House?\n12:02 The Cast\n32:50 Season 1\n45:12 The Sets\n48:04 Season 1\n1:33:40 Season 2\n2:13:54 The End!!",
+          "tags": [],
+          "published": "2024-11-03T19:20:10Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "Nqwx2gO71ng",
+          "title": "The Suite Life on Deck: How To Sink A Franchise",
+          "creator": "Keyan Carlile",
+          "creatorId": "UCVg0RaUinGyNhK_Nrx42MeA",
+          "duration": 14182,
+          "description": "My Twitter ➤ https://twitter.com/keyancarlile\nMy Instagram ➤ https://www.instagram.com/keyancarlile/\nMy Patreon ➤ https://www.patreon.com/KeyanCarlile\nSubscribe ➤ https://www.youtube.com/channel/UCVg0RaUinGyNhK_Nrx42MeA?sub_confirmation=1\n\nHUGE, huge thank you to my editors.\nCoryTheNorm's Site ➤ https://www.corythenorm.com/\nPegah Hazari's YouTube ➤ https://youtube.com/@phantom.tantrum\n\nS.S. Tipton Sinking 3D Animation by Rajarajan Manoharan https://www.instagram.com/rajarajanmanoharan/\nThe Suite Life on Deck Orchestral Theme by Will Mccarthy https://www.instagram.com/wishwellingtonmusic/\n\nCULTURAL CONSULTANTS:\nGermany - Mika Hoppe\nMorocco - Cream\nParis - Adams Kaufman\nMonaco - Norville Carter\nBelgium - Leen V\nAustralia - Famous YouTuber Diamondbolt\nJapan - OMUSUNDA\nArgentina - Jay\n\n0:00 Intro\n4:00 The Recap\n8:42 Season Two\n01:16:50 Season Three\n03:19:47 The Suite Life Movie\n03:37:24 Graduation on Deck\n03:51:42 The End",
+          "tags": [],
+          "published": "2024-07-29T17:01:28Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "8jKSs8bz_fM",
+          "title": "Nickelodeon GUESS WHO w/ Quinton Reviews",
+          "creator": "Smosh Games",
+          "creatorId": "UCJ2ZDzMRgSrxmwphstrm8Ww",
+          "duration": 2785,
+          "description": "The Nickelodeon king is here to prove his knowledge.\n\nSUBSCRIBE: https://smo.sh/Sub2SmoshGames\n\nWEAR OUR JOKES: https://smosh.com\n\nWHO YOU SEE\nShayne Topp // https://www.instagram.com/shaynetopp/\nDamien Haas // https://www.instagram.com/damienhaas/\nArasha Lalani // https://www.instagram.com/arashalalani_/\n@QuintonReviews // https://www.instagram.com/quintonreviews/\n\nWHO YOU DON’T SEE (usually)\nDirector: Spencer Agnew\nEditor: Kortney Luby\nDirector of Programming, Smosh Games: Spencer Agnew\nProducer, Smosh Games: Alex Tran\nEVP, Programming & Content: Kiana Parker\nAssistant Director: Amanda Barnes\nArt Director: Cassie Vance\nAssistant Art Director: Erin Kuschner\nArt Coordinator: Alex Aguilar\nAudio Mixer: Scott Neff\nAudio Utility: Monson Douglas\nCamera Operator: Darren Kho\nDirector Of Photography: Brennan Iketani\nDirector, Design: Brittany Hobbs\nDIT/AE: Matt Duran\nOffice PA: Ovsana Tsaturian\nPost Production Manager: Luke Baker\nProduction Manager: Amanda Barnes\nProduction Coordinator: Heidi Ha\nProduction Assistant: Marcus Munguia\nProp Assistant: Oliver Wehlander\nSenior Manager, Channel & Strategy: Lizzy Jones\nTalent Coordinator: Selina Garcia\n\nOTHER SMOSHES:\nSmosh: https://smo.sh/Sub2Smosh\nSmosh Pit: https://smo.sh/Sub2SmoshPit\nEl Smosh (Spanish Dub): https://smo.sh/Sub2ElSmosh\nSmoshCast: https://smo.sh/Sub2SmoshCast\n\nFOLLOW US:\nTikTok: https://smo.sh/TikTok\nSnapchat: http://smo.sh/OnSnapchat\nInstagram: https://instagram.com/smosh\nFacebook: https://facebook.com/smosh\nTwitter: https://twitter.com/smosh",
+          "tags": [
+            "smosh",
+            "smosh games",
+            "gaming",
+            "comedy",
+            "funny"
+          ],
+          "published": "2024-01-26T18:00:36Z",
+          "categoryId": "20"
+        },
+        {
+          "id": "3a4CSnIAEns",
+          "title": "The Wizards Revival just Killed Alex Russo... (and ended?)",
+          "creator": "Keyan Carlile",
+          "creatorId": "UCVg0RaUinGyNhK_Nrx42MeA",
+          "duration": 3012,
+          "description": "I had to manually fight 43 individual copyright claims to bring you this video so I hope you enjoy it.\n\nI apologize for the little 1-second export error near the end when talking about Winter's actor not being in the finale. Premiere Pro was infecting the edit with export glitches wacko-style and no matter how many times I exported it, there would be some. I had to leave for a flight in a few hours at the time I made this so it was either export it with one error, or abandon/delay the video for 3 weeks, when it would no longer be topical whatsoever. Sorry, chat!\n\nThumbnail by  @PaperPlaneTF  because I was lazy as hell.\n\n0:00 Intro\n2:10 S2E1 Curse Me Baby One More Time\n4:55 Character Check-In\n7:48 Fanservice!!! Yippee!!!!\n16:40 LORE!!!\n20:12 Disney Channel Slop\n24:13 Season 2’s Overarching Storyline\n28:17 S2E9 The Wizard at the End of the World Part 1\n30:53 S2E10 The Wizard at the End of the World Part 2\n44:13 Crossovers\n46:34 The Future of Wizards",
+          "tags": [],
+          "published": "2025-10-28T23:58:18Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "EOTYYkG20Vs",
+          "title": "So, I Binged Wizards of Waverly Place...",
+          "creator": "Keyan Carlile",
+          "creatorId": "UCVg0RaUinGyNhK_Nrx42MeA",
+          "duration": 14177,
+          "description": "Thanks to HelloFresh for sponsoring today's video. Go to  https://strms.net/KeyanCarlileHelloFreshDecemberYT and use code POGKEYANDEC70 for 70% off plus free shipping on your first box!\n\nYouTube copyright was a little goofy! A little quirky! It auto-flagged the theme song in the video, a month after release. I had to trim out all instances of it, which removed the original clip montage this video opened with. Here's a link to the original opening for the historical record. https://youtu.be/qrLTuTCMoFs\n\nTodd J. Greenwald's campaign for a prequel series:\nhttps://twitter.com/ToddJGreenwald/status/978397813838000128\n\nMy Twitter ➤ https://twitter.com/keyancarlile\nMy Instagram ➤ https://www.instagram.com/keyancarlile/\nMy Patreon ➤ https://www.patreon.com/KeyanCarlile\nSubscribe ➤ https://www.youtube.com/channel/UCVg0RaUinGyNhK_Nrx42MeA?sub_confirmation=1\n\nSpecial thank you to Paperplane and RoadRustle, two editors (and friends) who helped with small pieces of this! You'll see FAR more of their work in part 2.\n\nPaperplane's YouTube ➤ https://www.youtube.com/c/paperplane\nPaperplane's Twitter➤  https://twitter.com/PaperPlaneTF\n\nRoadRustle's YouTube ➤ https://www.youtube.com/c/RoadRustle\nRoadRustle's Twitter ➤ https://twitter.com/RoadRustle?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\n\n00:00 Intro\n1:52 What is Wizards of Waverly Place?\n8:19 The Cast\n13:20 Season One\n1:29:03 The Sets\n1:33:51 Season Two\n3:57:16 The Lost Pilot",
+          "tags": [],
+          "published": "2022-12-09T07:43:47Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "CN1W48AlQbo",
+          "title": "The Rise and Fall of Nickelodeon's Greatest Series",
+          "creator": "Keyan Carlile",
+          "creatorId": "UCVg0RaUinGyNhK_Nrx42MeA",
+          "duration": 9445,
+          "description": "My Twitter ➤ https://twitter.com/keyancarlile\nMy Instagram ➤ https://www.instagram.com/keyancarlile/\nMy Patreon ➤ https://www.patreon.com/KeyanCarlile\nSubscribe ➤ https://www.youtube.com/channel/UCVg0RaUinGyNhK_Nrx42MeA?sub_confirmation=1\n\n00:00 Intro\n3:35 The Penguins of Madagascar\n9:25 Adaptation & Characters\n34:00 Season One\n49:54 Humor, Music & Animation\n1:04:43 Season Two\n1:36:51 Inconsistency, Degradation & SHIPS\n2:05:04 Season Three\n2:13:28 Penguins of Madagascar (2014)\n2:23:38 The Lost Episodes",
+          "tags": [],
+          "published": "2023-10-01T18:55:00Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "U8Lt-SVRq3w",
+          "title": "Disney's Pair of Kings: A Criminal Empire",
+          "creator": "Keyan Carlile",
+          "creatorId": "UCVg0RaUinGyNhK_Nrx42MeA",
+          "duration": 12403,
+          "description": "After three years of begging comments, the time has come to weigh in on the world-famous and culturally impactful Disney XD original series \"Pair of Kings\", starring Mitchel Musso, Adam Hicks, Doc Shaw, and even some other actors.\n\nOpening music is by Gabe Hays (originally composed for my Cipher Hunt video)\n\n0:00 Intro\n1:30 What is Pair of Kings?\n11:31 The Cast\n27:10 Season One\n1:07:54 The Sets\n1:09:12 The Culture\n1:12:26 Season Two\n2:08:17 The Firing and subsequent replacement of Mitchel Tate Musso which profoundly \rimpacted the third season of the Disney XD original series Pair of Kings\n2:11:19 Season Three\n3:18:27 Where are they now?\n3:21:16 Save the Island\n3:25:33 The End",
+          "tags": [],
+          "published": "2025-06-02T20:10:31Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "OAUQ1M1SKVI",
+          "title": "The Rise and Fall of Disney's Greatest Sitcom",
+          "creator": "Keyan Carlile",
+          "creatorId": "UCVg0RaUinGyNhK_Nrx42MeA",
+          "duration": 12741,
+          "description": "My Twitter ➤ https://twitter.com/keyancarlile\nMy Instagram ➤ https://www.instagram.com/keyan_carlile_entertainment/\nMy Patreon ➤ https://www.patreon.com/KeyanCarlile\nSubscribe ➤ https://www.youtube.com/channel/UCVg0RaUinGyNhK_Nrx42MeA?sub_confirmation=1\n\nLet's get this video up to 7 views!!\n\n0:00 What is Mighty Med?\n13:20 The Cast\n31:07 Season 1\n1:34:10 The Sets\n1:38:43 The Humor\n1:48:10 Season 2\n3:28:05 The End",
+          "tags": [],
+          "published": "2022-06-09T04:11:04Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "7EmjZbdDKgM",
+          "title": "Zack & Cody's Descent into Madness",
+          "creator": "Keyan Carlile",
+          "creatorId": "UCVg0RaUinGyNhK_Nrx42MeA",
+          "duration": 13814,
+          "description": "HUGE, huge thank you to my editors.\nPaperplane's YouTube ➤ https://www.youtube.com/c/paperplane\nPaperplane's Twitter➤  https://twitter.com/PaperPlaneTF\nMotherlly's YouTube ➤ https://www.youtube.com/@Motherlly\nMotherlly's Twitter ➤ https://twitter.com/Fmotherlly\nRoadRustle's YouTube ➤ https://www.youtube.com/c/RoadRustle\nRoadRustle's Twitter ➤ https://twitter.com/RoadRustle?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor\n\nMy Twitter ➤ https://twitter.com/keyancarlile\nMy Instagram ➤ https://www.instagram.com/keyancarlile/\nMy Patreon ➤ https://www.patreon.com/KeyanCarlile\nSubscribe ➤ https://www.youtube.com/channel/UCVg0RaUinGyNhK_Nrx42MeA?sub_confirmation=1\n\n0:00 Video\n1:00 Video\n4:00 Video\n1:10:00 Video",
+          "tags": [],
+          "published": "2023-08-30T04:36:41Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "PFgHGnqUoao",
+          "title": "We Don't Talk About Dan Schneider",
+          "creator": "Quinton Reviews",
+          "creatorId": "UCM0V8r4kuIWIl6Sy-NHj2lg",
+          "duration": 6888,
+          "description": "Three years in the making, the iCarly series comes to a crescendo. Let's talk about our relationship to these shows and look straight into the sun's gaze - this is We Don't Talk About Dan Schneider.\n\nGuest editors:\nBradley Smith\n@BradleySmithYoutube\nhttps://twitter.com/BradleySmithYT\nhttps://www.instagram.com/bradleysmithyt/\n\nAutumn Spano\nhttps://www.tiktok.com/@legendofautumn?_t=8l0J9XXkm8l&_r=1\n\nGeorge-N. al Khouri,\nhttps://youtube.com/@gnalkhere?si=KJbdj73EU0PTRczn\nhttps://bsky.app/profile/gerge.bsky.social\nhttps://www.instagram.com/gnalkhere/\nhttps://twitter.com/GergeNick\n\nAntonio Bottiglieri / Game Controller Network\n@GameControllerNetwork \n\nThatHumanLauren\nhttps://www.instagram.com/thathumanlauren?igsh=MWQ1dmh0NWV1OGMzZg==\n\nResources:\n\nhttps://www.businessinsider.com/dan-schneider-nickelodeon-empire-massages-hostile-workplace-allegations-inappropriate-costumes-2022-8\n\nhttps://www.nytimes.com/2021/06/30/arts/dan-schneider-nickelodeon.html\n\nhttps://www.latimes.com/entertainment-arts/tv/story/2022-08-31/dan-schneider-nickelodeon-allegations-jennette-mccurdy\n\n'Quiet on Set' by Investigation Discovery",
+          "tags": [
+            "Quinton Reviews",
+            "Quinton",
+            "Reviews",
+            "Quinton Reviews iCarly",
+            "Quinton Reviews Victorious",
+            "Dan Schneider",
+            "Quiet on Set",
+            "Dan Schneider allegations",
+            "Dan Schneider truth",
+            "Dan Schneider iCarly",
+            "Jennette McCurdy",
+            "Dan Schneider backstory",
+            "Schneider's bakery",
+            "Victorious controversy",
+            "Quiet on Set Dan Schneider"
+          ],
+          "published": "2024-03-26T18:59:22Z",
+          "categoryId": "24"
+        }
+      ],
+      "schedule": {
+        "schemaVersion": 1,
+        "start": 1794213459584,
+        "end": 1794573459584,
+        "durationHours": 100,
+        "programs": [
+          {
+            "videoId": "Fa449raaIGM",
+            "start": 1794213459584,
+            "end": 1794221535584
+          },
+          {
+            "videoId": "xNvqjCtzfXw",
+            "start": 1794221535584,
+            "end": 1794234696584
+          },
+          {
+            "videoId": "DI79vU_487I",
+            "start": 1794234696584,
+            "end": 1794241904584
+          },
+          {
+            "videoId": "8jKSs8bz_fM",
+            "start": 1794241904584,
+            "end": 1794244689584
+          },
+          {
+            "videoId": "CN1W48AlQbo",
+            "start": 1794244689584,
+            "end": 1794254134584
+          },
+          {
+            "videoId": "3a4CSnIAEns",
+            "start": 1794254134584,
+            "end": 1794257146584
+          },
+          {
+            "videoId": "7EmjZbdDKgM",
+            "start": 1794257146584,
+            "end": 1794270960584
+          },
+          {
+            "videoId": "EOTYYkG20Vs",
+            "start": 1794270960584,
+            "end": 1794285137584
+          },
+          {
+            "videoId": "84XWGdpNmuc",
+            "start": 1794285137584,
+            "end": 1794289320584
+          },
+          {
+            "videoId": "PFgHGnqUoao",
+            "start": 1794289320584,
+            "end": 1794296208584
+          },
+          {
+            "videoId": "kwBMURAeFuA",
+            "start": 1794296208584,
+            "end": 1794297626584
+          },
+          {
+            "videoId": "5g-o0uauoqA",
+            "start": 1794297626584,
+            "end": 1794300501584
+          },
+          {
+            "videoId": "IBs_hYvtd3k",
+            "start": 1794300501584,
+            "end": 1794313430584
+          },
+          {
+            "videoId": "Nqwx2gO71ng",
+            "start": 1794313430584,
+            "end": 1794327612584
+          },
+          {
+            "videoId": "OAUQ1M1SKVI",
+            "start": 1794327612584,
+            "end": 1794340353584
+          },
+          {
+            "videoId": "R0K0TXslm_g",
+            "start": 1794340353584,
+            "end": 1794352141584
+          },
+          {
+            "videoId": "U8Lt-SVRq3w",
+            "start": 1794352141584,
+            "end": 1794364544584
+          },
+          {
+            "videoId": "eBcPdmxBWOE",
+            "start": 1794364544584,
+            "end": 1794373186584
+          },
+          {
+            "videoId": "fgRBPLdILf0",
+            "start": 1794373186584,
+            "end": 1794375643584
+          },
+          {
+            "videoId": "Fa449raaIGM",
+            "start": 1794375643584,
+            "end": 1794383719584
+          },
+          {
+            "videoId": "xNvqjCtzfXw",
+            "start": 1794383719584,
+            "end": 1794396880584
+          },
+          {
+            "videoId": "DI79vU_487I",
+            "start": 1794396880584,
+            "end": 1794404088584
+          },
+          {
+            "videoId": "8jKSs8bz_fM",
+            "start": 1794404088584,
+            "end": 1794406873584
+          },
+          {
+            "videoId": "CN1W48AlQbo",
+            "start": 1794406873584,
+            "end": 1794416318584
+          },
+          {
+            "videoId": "3a4CSnIAEns",
+            "start": 1794416318584,
+            "end": 1794419330584
+          },
+          {
+            "videoId": "7EmjZbdDKgM",
+            "start": 1794419330584,
+            "end": 1794433144584
+          },
+          {
+            "videoId": "EOTYYkG20Vs",
+            "start": 1794433144584,
+            "end": 1794447321584
+          },
+          {
+            "videoId": "84XWGdpNmuc",
+            "start": 1794447321584,
+            "end": 1794451504584
+          },
+          {
+            "videoId": "PFgHGnqUoao",
+            "start": 1794451504584,
+            "end": 1794458392584
+          },
+          {
+            "videoId": "kwBMURAeFuA",
+            "start": 1794458392584,
+            "end": 1794459810584
+          },
+          {
+            "videoId": "5g-o0uauoqA",
+            "start": 1794459810584,
+            "end": 1794462685584
+          },
+          {
+            "videoId": "IBs_hYvtd3k",
+            "start": 1794462685584,
+            "end": 1794475614584
+          },
+          {
+            "videoId": "Nqwx2gO71ng",
+            "start": 1794475614584,
+            "end": 1794489796584
+          },
+          {
+            "videoId": "OAUQ1M1SKVI",
+            "start": 1794489796584,
+            "end": 1794502537584
+          },
+          {
+            "videoId": "R0K0TXslm_g",
+            "start": 1794502537584,
+            "end": 1794514325584
+          },
+          {
+            "videoId": "U8Lt-SVRq3w",
+            "start": 1794514325584,
+            "end": 1794526728584
+          },
+          {
+            "videoId": "eBcPdmxBWOE",
+            "start": 1794526728584,
+            "end": 1794535370584
+          },
+          {
+            "videoId": "fgRBPLdILf0",
+            "start": 1794535370584,
+            "end": 1794537827584
+          },
+          {
+            "videoId": "Fa449raaIGM",
+            "start": 1794537827584,
+            "end": 1794545903584
+          },
+          {
+            "videoId": "xNvqjCtzfXw",
+            "start": 1794545903584,
+            "end": 1794559064584
+          },
+          {
+            "videoId": "DI79vU_487I",
+            "start": 1794559064584,
+            "end": 1794566272584
+          },
+          {
+            "videoId": "8jKSs8bz_fM",
+            "start": 1794566272584,
+            "end": 1794569057584
+          },
+          {
+            "videoId": "CN1W48AlQbo",
+            "start": 1794569057584,
+            "end": 1794573459584
+          }
+        ]
+      }
+    }
+  ]
 }
