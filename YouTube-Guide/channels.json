@@ -3,7 +3,7 @@
   "scheduleSchemaVersion": 1,
   "scheduleHorizonHours": 100,
   "refreshIntervalHours": 72,
-  "updatedAt": "2026-11-09T22:24:25.401Z",
+  "updatedAt": "2026-11-10T01:06:33.015Z",
   "channels": [
     {
       "name": "Sitcom Video Essays",
@@ -16153,6 +16153,2350 @@
             "videoId": "6HIvLixkb-w",
             "start": 1794623059932,
             "end": 1794623064932
+          }
+        ]
+      }
+    },
+    {
+      "name": "Progressive Youtubers",
+      "number": 106,
+      "category": "Politics",
+      "mode": "seeds",
+      "prompt": "",
+      "sourceChannel": "",
+      "playlists": [],
+      "order": "shuffle",
+      "topic": "",
+      "exclude": "",
+      "strictness": "strict",
+      "seedIds": [
+        "BBVH65RdZqM",
+        "S0mSm-KkhIE",
+        "dzRhVwbMtpc",
+        "OTTskMDGrk8",
+        "qhUJMz-QKDg",
+        "7C7tD0LtEnM",
+        "BDnX7ei9f2o",
+        "C2TUJHLoesA",
+        "sO7SOwmnXqA",
+        "qHQdvkT7APE",
+        "6BS1vK-5r8M",
+        "Maw5t-POQ3w",
+        "qHu-VNabGy0",
+        "JDvSmPjYcsI",
+        "JzMSu3S-6ms",
+        "cnjErjZI9xU",
+        "Vip21FwbAr8",
+        "q4jtX8_OB6I",
+        "xIwkK0vAOIk",
+        "dgk-R1FIMqk",
+        "vmrDK_xbkIc",
+        "k9SF94zUORs",
+        "IrbYAgDolgw",
+        "tbw39BjEr9c",
+        "MLvgr0VG6G4",
+        "D3gIBtUXs7s",
+        "SZ-jnLLngLg",
+        "PtZ6hd4Phd8",
+        "g4pD26T6GNw",
+        "EumQbA3V45o",
+        "YeUWpj54WRw",
+        "NmHhXoTckcM",
+        "sRWjQ_XVKGw",
+        "iGh2nq8F_UM",
+        "ESbJZt8oYvQ",
+        "2vokd2YG_xc",
+        "J9gfd7SJneY",
+        "KHvOKp4k0S4",
+        "cJGzDYbzqfQ",
+        "MVquZvlgwj4",
+        "iL3gpxD6_rs",
+        "AsN5ryRTM_0",
+        "lvtZUrpKUlI",
+        "eWXi9NhQo6c",
+        "aHVHA7AoXEQ",
+        "3cV3Sf2LOpg",
+        "P8VLe_EAhUE",
+        "X-ZjAzlfuds",
+        "1qmP0VU2ZYg",
+        "ASjBT6rwISY",
+        "wxslW2kXGyk",
+        "6iLf2h_fo-w",
+        "Dk3DbemgItA",
+        "Jz-t3jd9bGs",
+        "dqS6a_fAe8U",
+        "ToR6S509-QM",
+        "buviXFn72JM",
+        "03WIWLUIOrQ",
+        "TIuMC6ifbxI",
+        "p_MQcR3cPIs",
+        "n2BZE3XmzDQ",
+        "43-R3XgjInI",
+        "ijOZfriOhfM",
+        "mvv4v_f93b4",
+        "qTJetYoIeBk",
+        "h91Umykg7L0",
+        "1GzNuyKzZUY",
+        "mOvit9CpK-o",
+        "V52k0BhwFIk",
+        "MJZF1YRTsi0",
+        "LBNEEyXbCx4",
+        "wMfyIedjT6c"
+      ],
+      "approximateDiscovery": true,
+      "feedPrompt": "",
+      "youtubeFeedPrompt": "",
+      "feedName": "",
+      "seedStrictness": "strict",
+      "seedExclude": "",
+      "includeSeeds": true,
+      "sourceCreators": [],
+      "id": "ch_2bd1c6e9-e31a-4a90-a64d-31eac9eae944",
+      "anchor": 1794272792466,
+      "rejectedIds": [],
+      "videos": [
+        {
+          "id": "JYQCP65AMbk",
+          "title": "Explaining American Politics With Cartoons Featuring @JJMcCullough",
+          "creator": "Ryan Geddie",
+          "creatorId": "UCPiQWdmfYFGO5QNU6gWSTUg",
+          "duration": 5186,
+          "description": "​ ⁨@JJMcCullough⁩  and I are on a mission to explain American politics using political cartoons! We got such positive feedback on the last version that we had to do it again! Half of the cartoons are drawn by me, half of them are drawn by JJ!  We use these characters to talk about what we're seeing in today's political environment. Let me know what your favorite is!\n\nTimestamps\n\n00:00:00 - 00:01:14 American Political Archetypes\n00:01:14 - 00:06:53 Winston Smith\n00:06:53 - 00:12:48 Bruce Buster\n00:12:48 - 00:19:36 Dr. Frankencandidate\n00:19:36 - 00:26:47 Bobby Williamburgingtonston\n00:26:47 - 00:33:55 John Rockefeller-Buckley\n00:33:55 - 00:41:09 Russel Jejune\n00:41:09 - 00:49:05 Friend O'=Thepod and Ian Twennyten\n00:49:05 - 00:59:24 Caleum Gutkick\n00:59:24 - 01:08:48 Mamdani Allies\n01:08:48 - 01:15:50 Sheezbee\n01:15:50 - 01:26:26 Margarine Relatable-Crank",
+          "tags": [
+            "political cartoons",
+            "JJ McCullough",
+            "Ryan Geddie"
+          ],
+          "published": "2025-11-21T22:08:43Z",
+          "categoryId": "25",
+          "fit": 46
+        },
+        {
+          "id": "ESbJZt8oYvQ",
+          "title": "THE RESULTS ARE IN | Lemonade Stand 🍋",
+          "creator": "Lemonade Stand",
+          "creatorId": "UCwVevVbti5Uuxj6Mkl5NHRA",
+          "duration": 4642,
+          "description": "On this week's show... Aiden says “blue”, Atrioc says “blue”, and DougDoug says “blue” but in Japan (probably).\n\nWe launched a Patreon! - https://www.patreon.com/lemonadestand for bonus episodes, discord access, a book club, and many more ways to interact with the show!\n\nEpisode: 087\nRecorded on: November 3rd, 2026\n\nClips Channel: https://www.youtube.com/channel/UCurXaZAZPKtl8EgH1ymuZgg\n\nAudio Listeners can hear us:\nSpotify: https://open.spotify.com/show/0Yz44z9z3t8VQu4WRmsrs6\nApple: https://podcasts.apple.com/us/podcast/lemonade-stand/id1799868725\nAmazon: https://music.amazon.com/podcasts/7d7e1f54-49a3-4082-81e8-f70bfe1ace63/lemonade-stand\niHeart: https://www.iheart.com/podcast/269-lemonade-stand-269417962/\n\nFollow us\nTikTok - https://www.tiktok.com/@thelemonadecast\nInstagram - https://www.instagram.com/thelemonadecast/\nTwitter - https://x.com/LemonadeCast\n\nThe C-suite\nAiden - https://x.com/aidencalvin\nAtrioc - https://x.com/Atrioc\nDougDoug - https://x.com/DougDougFood\n\nEdited by Aedish - https://x.com/aedishedits\nThumbnail by Cheyenne DeWolf - https://x.com/cheyedewolf\nProduced by Perry - https://x.com/perry_jh\n\nSegments\n0:00 WTF?\n3:25 Why It Matters\n4:51 Mozilla Ad\n5:27 The Results\n8:23 Since Watergate\n12:29 Exit Polls\n22:40 Upside Ad\n23:44 Trump Accepting the Results\n29:11 Democrats Need to Deliver\n36:27 What Now?\n38:59 Elon’s Money\n42:11 California Vote\n50:25 Anthropic Ad\n52:04 Atriocs Ad Review\n53:25 Trump Hurts His Base\n57:10 What Can Happen?\n1:04:35 Does Trump Step Down?\n1:07:36 Alaska Shenanigans\n1:11:56 Tech Oligarch Shift\n1:15:25 Don’t Be Complacent\n\nNew takes on",
+          "tags": [
+            "AI",
+            "Tech",
+            "Business",
+            "Politics",
+            "Podcast",
+            "Current Events",
+            "Trending News",
+            "Lemonade Stand",
+            "Lemonade Stand Podcast",
+            "Aiden",
+            "Aiden the yard",
+            "Aimen",
+            "The Yard",
+            "Atrioc",
+            "Big A",
+            "Big A clips"
+          ],
+          "published": "2026-11-05T20:00:09Z",
+          "categoryId": "23"
+        },
+        {
+          "id": "X-ZjAzlfuds",
+          "title": "Tim Pool VS 20 Liberals | Hasanabi Reacts to Jubilee",
+          "creator": "Hasan Reactions",
+          "creatorId": "UC1hW1iEFDsW-6V0zC8jqVQA",
+          "duration": 8483,
+          "description": "Hasan reacts the the latest Jubilee debate format where Tim Pool goes up against 20 Liberal/Progressive people!\n\nEdited By: https://twitter.com/HasanReactions\nIntro Animation By: https://twitter.com/HasanReactions\nOutro Animation By: https://twitter.com/HasanReactions\nMusic Composition By: https://twitter.com/HasanReactions\n(Yes, right now it's just me making everything)\n\nEditor's Note: My edits were all made to keep the video on one, central, topic by editing together relevant commentary from many parts of Hasan's streams to create a storyline that is still followable by the viewer. I also edited in commentary of my own in places, in addition to relevant external information that improves the viewing experience. A lot of edits were made for comedy purposes, or to enhance the comedic timing of certain beats, but never to misrepresent Hasan's point of view.\n\nIf you like my edits, leave a Comment, Like, and Subscribe. It helps a lot, thank you :)\nIf you want to support the editor, and keep the videos coming non-stop, consider becoming a member:\nhttps://www.youtube.com/channel/UC1hW1iEFDsW-6V0zC8jqVQA/join\n\nDiscussion Video: https://www.youtube.com/watch?v=CO_mqGbyq_Y\n\nUnless otherwise stated, all visuals, audio, and commentary added during the editing process is created and owned by Hasan Reactions.\n\nFind Hasan Live at: https://www.twitch.tv/hasanabi\n\n#hasanabi #jubilee #HasanReactions #reacts\n\nAbout Hasan:\nHasan Piker is Political Commentator turned Twitch Streamer (#13) known for his Turkish heritage and leftist takes, often speaking on topics like Socialism, Communism, Cap",
+          "tags": [
+            "HasanAbi",
+            "Hasan Reactions",
+            "Hasan Reacts",
+            "hasanabi clips",
+            "hasanabi highlights",
+            "livestreamfails",
+            "streamers",
+            "twitch",
+            "just chatting",
+            "hasMods",
+            "Hasanabi reacts",
+            "hasanabi",
+            "hasan piker"
+          ],
+          "published": "2026-08-17T00:32:49Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "OTTskMDGrk8",
+          "title": "THEY INTERVIEWED MY VIEWERS",
+          "creator": "HasanAbi",
+          "creatorId": "UCtoaZpBnrd0lhycxYJ4MNOQ",
+          "duration": 2401,
+          "description": "After interviewing Asmongold's viewers, Steven Asarch took a look inside my community. Here's what he found...\n\nCheck out @StevenAsarchTalks full video here: https://www.youtube.com/watch?v=cuwPVzYTCjY\nSteven's Asmongold fans interviews: https://youtu.be/CT5cJ-IkZxQ\n\nLive everyday at https://www.twitch.tv/hasanabi\n\nEdited by: https://twitter.com/DDoHasanabi\n\nOther Links\nTikTok: https://www.tiktok.com/@hasandpiker\nTwitter: https://twitter.com/hasanthehun\nInstagram: https://www.instagram.com/hasandpiker/\n\nSecond Channel: https://www.youtube.com/@Hasan\n\nGaming channel - https://www.youtube.com/@HasanAbiGaming\n\n#news #politics",
+          "tags": [
+            "hasanabi",
+            "hasan piker",
+            "politics",
+            "news",
+            "twitch",
+            "highlights",
+            "hasanabi highlights",
+            "hasanabi clips",
+            "asmongold",
+            "inside",
+            "community",
+            "fanbase",
+            "fan base",
+            "steven asarch"
+          ],
+          "published": "2026-07-24T22:54:46Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "Vip21FwbAr8",
+          "title": "GOP Primaries Have BIG Lessons for Democrats",
+          "creator": "Ryan Geddie",
+          "creatorId": "UCPiQWdmfYFGO5QNU6gWSTUg",
+          "duration": 853,
+          "description": "Representative Thomas Massie and Senator John Cornyn, two long time incumbent republicans, both lost their primaries after having their opponents endorsed by Donald Trump.\nWhat can Democrats learn from this?\nTimestamps\n00:00 - 00:36 Massie and Cornyn\n00:36 - 06:08 Why did Cornyn lose?\n06:08 - 08:46 Why did Massie do Better?\n08:46 - 14:11 What do we want from our Politicians?",
+          "tags": [],
+          "published": "2026-05-29T22:11:07Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "n2BZE3XmzDQ",
+          "title": "Trump Goon EXPOSED By Staggering Bills As Taxpayer Disaster Revealed",
+          "creator": "The Damage Report",
+          "creatorId": "UCl9roQQwv4o4OuBj3FhQdDQ",
+          "duration": 372,
+          "description": "Donald Trump goon and Education Secretary Linda McMahon faces backlash after insane bills for an office makeover for her job, which is now essentially dismantling the education department and tanking school funding, paid for by taxpayers, get exposed. John Iadarola and Yasmin Kahn break it down on The Damage Report. Leave a comment with your thoughts below!\n\nGet paid to use your phone less! Switch to Noble Mobile today: https://go.tyt.com/mobile\n\nRead more here:\n\n‘Sick of the waste’: Democrats seize on Linda McMahon’s office furniture flap - https://www.yahoo.com/news/politics/articles/sick-waste-democrats-seize-linda-184856992.html\n\n\"When Ben Carson led the Department of Housing and Urban Development, he faced a variety of controversies, but one of the most embarrassing involved furniture he bought for his office at taxpayer expense. In one especially memorable congressional hearing, the then-secretary offered a rambling, and at times contradictory, explanation for the spending, initially saying the furniture was necessary in part for \"security\" reasons, before ultimately blaming his wife.\n\nAround the same time, then-Environmental Protection Agency Administrator Scott Pruitt also spent more than $43,000 to install a soundproof phone booth in his office for reasons that never made any sense.\n\nNothing of consequence came of the incidents, even if the controversies might have served as cautionary tales for future Cabinet members: It's best to exercise caution when it comes to public funds and office decor.\"\n\n**\n\nBe part of the Dragon Squad as a YouTube channel member: http://",
+          "tags": [
+            "News",
+            "Politics",
+            "trump",
+            "donald trump",
+            "trump news",
+            "trump latest news",
+            "breaking news",
+            "The Damage Report",
+            "TDR",
+            "Education Secretary",
+            "Linda McMahon",
+            "education",
+            "interview",
+            "debate",
+            "school",
+            "students"
+          ],
+          "published": "2026-11-02T01:00:08Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "iL3gpxD6_rs",
+          "title": "Suicide of a Nation",
+          "creator": "Shaun",
+          "creatorId": "UCJ6o36XL0CpYb6U5dNBiXHQ",
+          "duration": 7213,
+          "description": "Please don't push me over.\n\nContact:\nPatreon - https://www.patreon.com/shaunfromyoutube\nBluesky - https://bsky.app/profile/shaunvids.bsky.social\nTwitch - https://www.twitch.tv/shaun_vids\n\nContent warning for racism & various bigotries\n\nAndy Twelves article: \nhttps://www.thenerve.news/p/matt-goodwin-suicide-of-a-nation-reform-uk-chatgpt-ai-errors-hallucinations-andy-twelves\n\nBackground art by Skutchdraws!\n\nSpecial thanks to:\nAsh\nGlaucus92\nDraenog \nEarthman Dave\nLeggsy",
+          "tags": [],
+          "published": "2026-10-29T23:47:31Z",
+          "categoryId": "27"
+        },
+        {
+          "id": "Jz-t3jd9bGs",
+          "title": "Is the word  Progressive losing its meaning?",
+          "creator": "CaseStudyQB",
+          "creatorId": "UCfCAaPc1nn_s22t3oN3A4YQ",
+          "duration": 333,
+          "description": "---- CaseStudyQB's Progressive War Room -----\nShow on Political Strategy with Campaign Insiders\n\nwith Special Guest\n*Roza Calderón* - @rozacalderon -  Executive Director of @FutureGenPAC\nFormer US Congress Candidate endorsed by Justice Democrats  and Brand New Congress\n\nIs the word  Progressive losing its meaning?\n1. James Clyburn clip - https://twitter.com/CaseStudyQB/status/1305323848313778177?s=20\n2. Should real progressives pivot to the term democratic socialist?\n\nFuture Generation Pac\nHow does the Pac help endorse candidates?\nHow do you pick who you endorse? What is the vetting process?\n\nLike and Subscribe!! \n\nFollow me on twitter for single news clips progressives can use!\ntwitter.com/casestudyqb\n\nSupport Channel\nSend Superchats @ qbounti.com/casestudyqb\n patreon.com/casestudyqb\n\nSpecial thanks to  @GIMI Productions   - \nEmail mergim.taraj@gmail.com to purchase the background music",
+          "tags": [
+            "Bernie Sanders",
+            "Progressives",
+            "Bernie",
+            "Mainstream Media",
+            "indie media",
+            "Roza Calderon",
+            "Progressive that get things done",
+            "Hillary",
+            "Clinton",
+            "James Clyburn",
+            "fake progressives",
+            "democratic socialist",
+            "dsa"
+          ],
+          "published": "2020-09-22T19:36:29Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "aHVHA7AoXEQ",
+          "title": "India Walton’s Blueprint for the Future of Progressive Politics | The Next Wave",
+          "creator": "Rolling Stone",
+          "creatorId": "UC-JblcinswY50lrUdSaRNEg",
+          "duration": 480,
+          "description": "Rolling Stone recently spoke with India Walton about the s-word (socialism), her journey into politics, what the national progressive movement can learn from her grassroots campaign, and more.\n\n\nGet the full story at: http://www.rollingstone.com/",
+          "tags": [
+            "india walton",
+            "the next wave",
+            "buffalo",
+            "socialist"
+          ],
+          "published": "2021-07-16T12:00:00Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "wxslW2kXGyk",
+          "title": "Elon Just Found Out He Lost SO MUCH MORE Than He Thought...",
+          "creator": "The Ring of Fire",
+          "creatorId": "UCYWIEbibRcZav6xMLo9qWWw",
+          "duration": 401,
+          "description": "🏠 American Financing: Call 866-891-4811 to get started or visit https://americanfinancing.net/rof\n\nElon Musk spent more than $445 million on the midterms, then joked about allegations involving “election-interfering space lasers” after several heavily funded races went against his preferred candidates. Crypto-backed super PACs also poured millions into congressional contests, while a new data-center PAC targeted a candidate calling for a construction moratorium. But the clearest backlash came locally, where anti-data-center campaigns won 38 of 39 decided ballot fights.\n\nNMLS 182334, nmlsconsumeraccess.org. Visit http://www.AmericanFinancing.net/ROF or call 866-891-4811. Average savings based on borrowers who save over $199.99\n\nSupport us by becoming a member on YouTube: https://www.youtube.com/channel/UCYWIEbibRcZav6xMLo9qWWw/join\n\nSubscribe to stay connected to our stories: https://www.youtube.com/theringoffire\n\nFind us on social media!\nFacebook: http://www.facebook.com/RingofFireRadio\nTwitter: https://twitter.com/RingofFireMedia\nInstagram: https://www.instagram.com/ringoffirenetwork/\nTikTok: https://www.tiktok.com/@ringoffiremedia",
+          "tags": [
+            "the ring of fire",
+            "progressive news",
+            "trofire",
+            "politics",
+            "politics today",
+            "us news",
+            "breaking news",
+            "rof",
+            "anti-trump",
+            "white house news",
+            "liberal",
+            "progressive",
+            "Elon Musk",
+            "2026 midterms",
+            "campaign finance",
+            "data centers"
+          ],
+          "published": "2026-11-06T22:00:11Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "S0mSm-KkhIE",
+          "title": "I Ranked the Worst 2026 Candidates",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1526,
+          "description": "They can't harm you, if they can't find you! Use code AIDANHALL at the link below and get 60% off an annual plan: https://incogni.com/aidanhall\n\nCheck out the second channel here: @coldtakesss \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - How did we get here??\n4:51 - Number 12\n6:54 - Number 11\n8:18 - Number 10\n10:05 - Number 9\n11:37 - Number 8\n13:24 - Number 7\n14:40 - Number 6\n17:04 - Number 5\n18:13 - Number 4\n19:17 - Number 3\n20:39 - Number 2\n22:17 - Number 1\n\n#Midterms2026 #Election2026 #Politics",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-10-20T00:00:00Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "sO7SOwmnXqA",
+          "title": "Midterms 2026: Who Broke the Republicans?",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1298,
+          "description": "Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link https://monarchmoney.yt.link/Tx16IxG or code aidan50 for 50% Off Monarch Core tier.\n\nCheck out the second channel here: @coldtakesss   \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - Introduction\n2:35 - Monarch\n3:53 - Suspect 1: The Economy\n6:24 - Suspect 2: Donald Trump\n10:58 - Suspect 3: The Democrats\n14:09 - Suspect 4: The 2024 Election\n18:00 - Suspect 5: [REDACTED]\n\n#Midterms2026 #Republicans #Election2026",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-11-02T16:15:12Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "qTJetYoIeBk",
+          "title": "Shes Back For Round 2",
+          "creator": "Hutch",
+          "creatorId": "UCzRrheyUCB_qUrrfQ_sEG-Q",
+          "duration": 2410,
+          "description": "Hutch Reacts to Megan Appearance on Fox News & Dan Saltman\n\nSpotify 👉https://open.spotify.com/show/00T4qHBsTe8gfLDICRit7s\nTwitch 👉 http://www.twitch.tv/Hutch\nDiscord 👉 http://www.discord.gg/Hutch\nTwitter 👉 https://x.com/hutchinson\n\nStreamed: Nov 5th 2026",
+          "tags": [
+            "Destiny",
+            "Hutch",
+            "imreallyimportant",
+            "PonderingPolitics",
+            "The Soy Pill",
+            "Anything Else Podcast",
+            "Liberal",
+            "MSNOW",
+            "The Bulwark",
+            "Hutch Reacts",
+            "Politics",
+            "US Politics",
+            "Breaking News",
+            "DSA",
+            "Pisco",
+            "The Majority Report"
+          ],
+          "published": "2026-11-08T13:40:07Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "qHu-VNabGy0",
+          "title": "Caller FURIOUS with me over future \"progressive leaders\"",
+          "creator": "David Pakman",
+          "creatorId": "UCvixJtaXuNdMPUGdOPcY8Ag",
+          "duration": 588,
+          "description": "🖥️ UPLIFT Desk: Get 5% OFF with code PAKMAN5 at https://upliftdesk.com/pakman\n-- Caller disagrees with David's list of future progressive leaders\n---\nBecome a Member: https://www.davidpakman.com/membership\nBecome a Patron: https://www.patreon.com/davidpakmanshow\nBook David Pakman: https://www.cameo.com/davidpakman\n---\nDavid on Instagram: http://www.instagram.com/david.pakman\nDavid on Threads: https://www.threads.net/@david.pakman\nTDPS Subreddit: http://www.reddit.com/r/thedavidpakmanshow/\nPakman Discord: https://www.davidpakman.com/discord\nFacebook: http://www.facebook.com/davidpakmanshow\nLeave a Voicemail Line: (219)-2DAVIDP\n---\nDavid's tech:\n- Camera: Sony PXW-X70 https://amzn.to/3emv1v1\n- Microphone: Shure SM7B: https://amzn.to/3hEVtSH\n- Voice Processor: dbx 266xs https://amzn.to/3B1SV8N\n- Stream Controller: Elgato Stream Deck https://amzn.to/3B4jPNq\n- Microphone Cloudlifter: https://amzn.to/2T9bhne\n\n-Timely news is important! We upload new clips every day! Make sure to subscribe!\n\nBroadcast on February 16, 2024\n\n#davidpakmanshow #progressives #democrats",
+          "tags": [
+            "progressive leaders",
+            "future of progressive movement",
+            "alexandria ocasio cortez",
+            "rashida tlaib",
+            "ilhan omar",
+            "the squad",
+            "cori bush",
+            "katie porter",
+            "2024 election",
+            "2024 primaries",
+            "trump 2024",
+            "biden 2024",
+            "trump vs biden",
+            "republican primary",
+            "trump",
+            "desantis"
+          ],
+          "published": "2024-02-19T02:00:19Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "JzMSu3S-6ms",
+          "title": "Jon Stewart Tells Sarah Longwell About Sam's Schumer Meme",
+          "creator": "The Majority Report w/ Sam Seder",
+          "creatorId": "UC-3jIAlnQmbbVMV6gR7K8aQ",
+          "duration": 807,
+          "description": "Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://www.Majority.fm \n\nThumbnail by @JonathanMann Red Brick Wall (Sam Seder Remix): https://youtu.be/Hfxaxkh3bi4?si=h9vfoDo0MYSiRgFt \n\nTo connect and organize with your local ICE rapid response team visit http://www.ICERRT.com \n\nThe Congress switchboard number is (202) 224-3121. You can use this number to connect with either the US Senate or the House of Representatives. \n\nSend us IM messages during the live-stream with our free Majority Report App: \nhttp://majority.fm/app \n\nSubscribe to MR's daily AM Quickie newsletter: \nhttps://am-quickie.ghost.io \n\nFind all your MR merch at our store: https://shop.majorityreportradio.com \n\nBecome a Majority Report member: https://fans.fm/majority/join \n\nMore from the MR crew: \nSam Seder: https://www.instagram.com/sam.seder \nEmma Vigeland https://www.instagram.com/emmavigeland \nMatt Lech LEFT RECKONING https://www.youtube.com/@LeftReckoning \nMatt Binder DOOMED https://www.youtube.com/@MattBinder \nBrandon Sutton DISCOURSE https://www.youtube.com/@Th3Discourse \nBryan Vokey https://www.instagram.com/mrbryanvokey \nMR on Instagram: https://www.instagram.com/majority.fm/ \nOur alt YouTube: https://www.youtube.com/majorityreportlive",
+          "tags": [
+            "Sam Seder",
+            "Majority Report",
+            "Emma Vigeland",
+            "Matt Lech",
+            "Politics News",
+            "Democrat",
+            "liberal",
+            "progressive politics",
+            "left politics",
+            "Seder Majority",
+            "news",
+            "podcast",
+            "Bryan Vokey"
+          ],
+          "published": "2026-11-09T23:30:05Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "dqS6a_fAe8U",
+          "title": "DNC Would Rather Host War Criminals Than Embrace Progressive Politicians",
+          "creator": "The Ring of Fire",
+          "creatorId": "UCYWIEbibRcZav6xMLo9qWWw",
+          "duration": 254,
+          "description": "The Democratic Party is clearly suffering from a massive identity crisis, and their roster of guests at this year's DNC proves it. Rather than hyping up progressive up-and-comers like Alexandria Ocasio-Cortez or Rashida Tlaib, the Party has decided to parade out war criminals from the Bush administration like Colin Powell. There is something seriously wrong with this picture, as Ring of Fire's Farron Cousins explains.  \n\nLink - https://www.rawstory.com/2020/08/dem-convention-panned-for-hyping-colin-powell-while-sidelining-ocasio-cortez/\n\nBecome a member today!: https://www.youtube.com/channel/UCYWIEbibRcZav6xMLo9qWWw/join\n\nSupport us by becoming a monthly patron on Patreon, and help keep progressive media alive!: https://www.patreon.com/TheRingofFire\n\nFind our merchandise at Teespring: https://teespring.com/stores/rof-store\n\nSpread the word! LIKE and SHARE this video or leave a comment to help direct attention to the stories that matter. And SUBSCRIBE to stay connected with Ring of Fire's video content!\n\nSupport Ring of Fire by subscribing to our YouTube channel: https://www.youtube.com/theringoffire\n\nBe sociable! Follow us on:\nFacebook: http://www.facebook.com/RingofFireRadio\nTwitter: http://www.twitter.com/RingofFireRadio\nGoogle+: http://plus.google.com/118415831573195648557\nInstagram: https://www.instagram.com/ringoffirenetwork/\n\nFollow more of our stories at http://www.TROFIRE.com\n\nSubscribe to our podcast: http://www.ROFPodcast.com\n\n*This transcript was generated by a third-party transcription software company, so please excuse any typos.\n\nWell folks, we are now halfwa",
+          "tags": [
+            "the ring of fire",
+            "progressive news",
+            "trofire",
+            "politics",
+            "the young turks",
+            "tyt",
+            "politics today",
+            "us news",
+            "breaking news",
+            "rof",
+            "current videos",
+            "farron cousins",
+            "donald trump",
+            "colin powell",
+            "colin powell dnc",
+            "dnc"
+          ],
+          "published": "2020-08-19T20:00:06Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "MJZF1YRTsi0",
+          "title": "Debating A Leftist on the 2026 Midterms",
+          "creator": "Hutch",
+          "creatorId": "UCzRrheyUCB_qUrrfQ_sEG-Q",
+          "duration": 4283,
+          "description": "Hutch Debates LeftistBlondie & Their Take On The Democrat Midterms \nSpotify 👉https://open.spotify.com/show/00T4qHBsTe8gfLDICRit7s\nTwitch 👉 http://www.twitch.tv/Hutch\nDiscord 👉 http://www.discord.gg/Hutch\nTwitter 👉 https://x.com/hutchinson\n\nStreamed: Nov 4th 2026",
+          "tags": [
+            "Destiny",
+            "Hutch",
+            "imreallyimportant",
+            "PonderingPolitics",
+            "The Soy Pill",
+            "Anything Else Podcast",
+            "Liberal",
+            "MSNOW",
+            "The Bulwark",
+            "Hutch Reacts",
+            "Politics",
+            "US Politics",
+            "Breaking News",
+            "DSA",
+            "Pisco",
+            "The Majority Report"
+          ],
+          "published": "2026-11-07T17:46:01Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "PtZ6hd4Phd8",
+          "title": "Hasan Piker: Democrats Won Midterms, But Now They Have to Deliver on Voter Demands for Change",
+          "creator": "Democracy Now!",
+          "creatorId": "UCzuqE7-t13O4NIDYJfakrhw",
+          "duration": 551,
+          "description": "Support our work: https://democracynow.org/donate/sm-desc-yt\n\nTuesday was a historic night for progressive Democrats and, in particular, candidates backed by the Democratic Socialists of America. Six new DSA-endorsed candidates were elected to the House, and democratic socialists won mayoral races in Los Angeles, Washington, D.C., and Providence. \n\n\"The Democratic Socialists of America had a phenomenal night, and this movement is only going to continue to grow,\" says prominent leftist political commentator Hasan Piker. \"Now, here's the problem: Hakeem Jeffries and Chuck Schumer are two of the least popular politicians in the country right now, and there are demands to change the leadership in the Democratic Party to reflect the desires of this new coalition that was developed on November 3.\"\n\nSubscribe to our Daily Email Digest: https://democracynow.org/subscribe",
+          "tags": [
+            "Democracy Now",
+            "Amy Goodman",
+            "News",
+            "Politics",
+            "democracynow",
+            "Independent Media",
+            "Breaking News",
+            "World News"
+          ],
+          "published": "2026-11-06T15:16:52Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "J9gfd7SJneY",
+          "title": "Is Blocking Hakeem Jeffries and Chuck Schumer Possible?",
+          "creator": "Nathan Jun",
+          "creatorId": "UCam4C7a5d1z5SSzza8Fp-XQ",
+          "duration": 638,
+          "description": "The numbers are hard but not impossible. \n\nhttps://nathanjun.substack.com/p/is-blocking-hakeem-jeffries-and-chuck?utm_source=youtube",
+          "tags": [],
+          "published": "2026-11-06T19:05:47Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "MLvgr0VG6G4",
+          "title": "How Blue Texas Happens",
+          "creator": "Ryan Geddie",
+          "creatorId": "UCPiQWdmfYFGO5QNU6gWSTUg",
+          "duration": 1133,
+          "description": "Every election cycle, in hushed tones, Democratic political operatives whisper two words to each other \n“Blue Texas”\nBlue Texas is the Democratic party’s white whale, many ambitious politicos have spent their careers chasing it unsuccessfully. Texas hasn’t elected a democrat statewide since 1994.\nBut in this election, 2026, I have to tell you, I’m beginning to believe. \n\nTimestamps\n00:00 - 03:27 Blue Texas\n03:27 -  04:52 Liberal Populism\n04:52 - 10:23 Talarico vs Paxton\n10:23 - 11:57 Bo French\n11:57 - 18:53 Republican Problems",
+          "tags": [],
+          "published": "2026-10-10T15:00:38Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "D3gIBtUXs7s",
+          "title": "The Midterms Gave Democrats a 2028 Problem: Progressives vs Moderates",
+          "creator": "Tom Powell Jr",
+          "creatorId": "UCRvsrJB_GhMhdLSA4ae5MqQ",
+          "duration": 380,
+          "description": "The blue wave was so big that everybody won, progressives and moderates alike. That's exactly why Democrats have a 2028 problem.\n\nCHAPTERS\n0:00 The Midterms Created a 2028 Problem\n0:33 The 2028 Race Starts Now\n0:56 No Clear Direction for Democrats\n1:40 Progressives vs Moderates, Round Two\n2:57 My First Shot Across the Bow for 2028\n3:56 Start the Conversation Now\n4:18 Pete Buttigieg and an Uptight Country\n5:08 Let Them Do the Job First\n5:50 Narrow the 2028 Field\n\nNormally a midterm tells you which wing of the party has the momentum. Not this time. Progressives will point to Abdul El-Sayed and the rise of Zohran Mamdani. Moderates will point to bigger margins, like James Talarico's in Texas. With no clear winner, the progressive vs moderate fight is coming right back in the 2028 Democratic primary.\n\nIt's a good problem to have, because everyone is energized. But Democrats can't wait until the summer of 2028 to sort it out. Some places favor moderates, some favor progressives, and the party needs to figure out who is most electable nationally. As a moderate, I'd love to see Pete Buttigieg as president. I just don't think this country is ready yet, and that's a disgrace.\n\nOne more thing: can we let people do their new jobs before running them for president? Let Mamdani be mayor. Let El-Sayed be senator. And let's narrow the field so we don't have 17 candidates splitting the vote.\n\nReal talk on the 2028 presidential election, the future of the Democratic Party, progressives vs moderates, and what the 2026 midterm results really mean.\n\n#Election2028 #DemocraticParty #Progressives",
+          "tags": [],
+          "published": "2026-11-05T20:30:37Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "Dk3DbemgItA",
+          "title": "\"The Republican Party Of Florida Is Falling Apart\"",
+          "creator": "The Majority Report w/ Sam Seder",
+          "creatorId": "UC-3jIAlnQmbbVMV6gR7K8aQ",
+          "duration": 712,
+          "description": "Live-streamed November 3, 2026.\n\nWatch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://www.Majority.fm\n\nTo connect and organize with your local ICE rapid response team visit http://www.ICERRT.com \n\nThe Congress switchboard number is (202) 224-3121. You can use this number to connect with either the US Senate or the House of Representatives. \n\nSend us IM messages during the live-stream with our free Majority Report App: \nhttp://majority.fm/app \n\nSubscribe to MR's daily AM Quickie newsletter: \nhttps://am-quickie.ghost.io \n\nFind all your MR merch at our store: https://shop.majorityreportradio.com \n\nBecome a Majority Report member: https://fans.fm/majority/join \n\nMore from the MR crew: \nSam Seder: https://www.instagram.com/sam.seder \nEmma Vigeland https://www.instagram.com/emmavigeland \nMatt Lech LEFT RECKONING https://www.youtube.com/@LeftReckoning \nMatt Binder DOOMED https://www.youtube.com/@MattBinder \nBrandon Sutton DISCOURSE https://www.youtube.com/@Th3Discourse \nBryan Vokey https://www.instagram.com/mrbryanvokey \nMR on Instagram: https://www.instagram.com/majority.fm/ \nOur alt YouTube: https://www.youtube.com/majorityreportlive",
+          "tags": [
+            "Sam Seder",
+            "Majority Report",
+            "Emma Vigeland",
+            "Matt Lech",
+            "Politics News",
+            "Democrat",
+            "liberal",
+            "progressive politics",
+            "left politics",
+            "Seder Majority",
+            "news",
+            "podcast",
+            "Bryan Vokey"
+          ],
+          "published": "2026-11-08T21:00:22Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "ASjBT6rwISY",
+          "title": "Donald Trump's Worst Nightmare",
+          "creator": "jawbree",
+          "creatorId": "UCu95XyryPBKxgKnXF3L92MA",
+          "duration": 1491,
+          "description": "MAKE A RIGHT WINGER CRY BY SUPPORTING ABDUL: https://abdulforsenate.com/\n-\nMain channel: https://www.youtube.com/@jaubrey \nTwitter: https://x.com/jaubreyYT \nInstagram: https://www.instagram.com/jaubreyyt",
+          "tags": [],
+          "published": "2026-08-10T05:36:48Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "g4pD26T6GNw",
+          "title": "Abdul El-Sayed DESTROYED This Interview Trap - This was AMAZING",
+          "creator": "Why I HATE Politics",
+          "creatorId": "UC0WK47U3y2Ih51RxzFMw72w",
+          "duration": 1504,
+          "description": "A progressive media voice committed to challenging the status quo and amplifying perspectives centered on justice, transparency, and working-class empowerment. This channel breaks down the biggest political moments, trending stories, and power structures shaping our world—while helping build a larger independent progressive media movement.\n\n🚨 Support the channel by becoming a member and helping grow the movement:\nhttps://www.youtube.com/channel/UC0WK47U3y2Ih51RxzFMw72w/join\n\n💯 Rep the message—grab official merch and wear your politics with pride:\nhttps://whyihatepolitics.store\n\n🔥 Join the Discord and connect with the community:\nhttps://discord.gg/xEbKmgqS6q",
+          "tags": [
+            "progressive politics",
+            "tyt",
+            "the young turks",
+            "sam seder",
+            "sam seder debate",
+            "dr richey",
+            "tyt network",
+            "progressive",
+            "dr. richey",
+            "indisputable dr richey",
+            "rashad richey",
+            "the majority report",
+            "the majority report with sam seder",
+            "Politics",
+            "Political Commentary",
+            "Political News"
+          ],
+          "published": "2026-06-06T11:00:37Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "NmHhXoTckcM",
+          "title": "Bernie Sanders VS. 15 Gen Z On AI Use",
+          "creator": "More Perfect Union",
+          "creatorId": "UCehBVAPy-bxmnbNARF-_tvA",
+          "duration": 1379,
+          "description": "Gen Z uses AI the most yet trusts it the least.\n\nWe sat Bernie Sanders down with them for a messy debate that isn’t happening in the public right now.\n\nIf we’re going to live with AI and push for a future that benefits working people, we need more conversations like this one.\n\nProducers: Aidan Walker, Elise Joshi, Chai Dingari\nVideo Editor: Anthony Mascorro\nMotion Designer: Gerald Lane\nCasting Producer: Brooke Shuman\nDirector: Tim Wolfer\n\nLine Producers:\nKatie Skinner\nMax Gregor\nVideographers:\nAisha Soofi\nNathan Taylor\nJustin Feltman\nMark Comberiate\nMatthew Vargas\n\nSound:\nJim Choi\nMatt Ritt\nGabby Sturgeon\nTechnical Crew:\nColin McGee\nRobert Weaver\nAaron Ballew\nJosh Bilbaum\nJC Veve\nVideo Production Manager: Isabel Atalaya\nVideo Production Coordinator: Jodi Clemens\nAssistant Director: Astrid Dong\nProduction Assistants:\nJonah Bravo\nDaria Nastasia\nJazmyn Dangler\n\nThank You:\nKelvin Redmond, George Washington University\n\n-----\n\nMore Perfect Union is an Emmy-winning, nonprofit newsroom whose mission is to build power for working people. Here’s what that means: We report on the real struggles and challenges of the working class from a working-class perspective. We attempt to connect those problems to potential solutions. We report on the abuses and wrongdoing of corporate power. And we seek to hold accountable the ultra-rich who have too much power over America’s political and economic systems.\n\n To support our independent journalism, subscribe, donate, and follow our other pages through the links below:\n- Help fund our reporting: https://secure.actblue.com/donate/mpu-splash\n- Subst",
+          "tags": [
+            "more perfect union",
+            "politics"
+          ],
+          "published": "2026-08-30T19:00:15Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "wMfyIedjT6c",
+          "title": "Van Jones Melts Down On CNN Defending AIPAC",
+          "creator": "The Majority Report w/ Sam Seder",
+          "creatorId": "UC-3jIAlnQmbbVMV6gR7K8aQ",
+          "duration": 1417,
+          "description": "Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://www.Majority.fm \n\nTo connect and organize with your local ICE rapid response team visit http://www.ICERRT.com \n\nThe Congress switchboard number is (202) 224-3121. You can use this number to connect with either the US Senate or the House of Representatives. \n\nSend us IM messages during the live-stream with our free Majority Report App: \nhttp://majority.fm/app \n\nSubscribe to MR's daily AM Quickie newsletter: \nhttps://am-quickie.ghost.io \n\nFind all your MR merch at our store: https://shop.majorityreportradio.com \n\nBecome a Majority Report member: https://fans.fm/majority/join \n\nMore from the MR crew: \nEmma Vigeland https://www.instagram.com/emmavigeland \nBryan Vokey https://www.instagram.com/mrbryanvokey \nMatt Binder DOOMED https://www.youtube.com/@MattBinder \nBrandon Sutton DISCOURSE https://www.youtube.com/@Th3Discourse \nMatt Lech LEFT RECKONING https://www.youtube.com/@LeftReckoning \nOur alt YouTube: https://www.youtube.com/majorityreportlive",
+          "tags": [
+            "Sam Seder",
+            "Majority Report",
+            "Emma Vigeland",
+            "Matt Lech",
+            "Politics News",
+            "Democrat",
+            "liberal",
+            "progressive politics",
+            "left politics",
+            "Seder Majority",
+            "news",
+            "podcast",
+            "Bryan Vokey"
+          ],
+          "published": "2026-08-09T01:00:37Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "IrbYAgDolgw",
+          "title": "J.J. McCullough Interview: What's Wrong With Modern Conservatives and Saving Liberal Democracy",
+          "creator": "Ryan Geddie",
+          "creatorId": "UCPiQWdmfYFGO5QNU6gWSTUg",
+          "duration": 7587,
+          "description": "In this podcast style interview with the wonderful J.J. McCullough, J.J. and I talk about the state of American conservatism, how political commentary has changed over the last few decades, if debates matter, what makes JD Vance so weird, saving democracy, and a lot more.\n\nTimestamps\n00:00:00 Introduction\n00:00:45 The State of Conservatism\n00:42:00 Evolution of Political Commentary and Free Speech\n00:54:00 Ideas of America - Authoritarian and Otherwise\n01:08:22 Positive Visions and the Left\n1:20:02 Stop Ignoring What Politicians Actually Say\n1:24:07 Do Debates Matter\n1:43:30 My Political Project",
+          "tags": [],
+          "published": "2025-03-20T15:00:32Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "vmrDK_xbkIc",
+          "title": "Every Republican Running in 2028 Explained",
+          "creator": "Ryan Geddie",
+          "creatorId": "UCPiQWdmfYFGO5QNU6gWSTUg",
+          "duration": 1862,
+          "description": "Go to https://ground.news/ryang for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage through my link.\n\nThe 2028 Republican Primary may not have officially begun, but really, people are already running. This video goes over every candidate that's being considered right now.\n\nTimestamps\n00:00 - 01:00 Every Republican Running in 2028\n01:00 - 03:00 Ron DeSantis\n03:00 - 04:52 Greg Abbott\n04:52 - 06:09 Glenn Youngkin\n06:09 - 06:46 Sarah Huckabee Sanders\n06:46 - 07:26 Tim Scott\n07:26 - 08:45 Marco Rubio\n08:45 - 09:56 Ground News\n09:56 - 11:23 RFK Jr.\n11:23 - 14:53 JD Vance\n14:53 - 16:13 Tucker Carlson\n16:13 - 17:39 Donald Trump Jr.\n17:39 - 18:14 Lara Trump\n18:14 - 18:58 Eric Trump\n18:58 - 21:02 Ted Cruz\n21:02 - 22:05 Pete Hegseth\n22:05 - 23:29 Rand Paul\n23:29 - 24:47 Thomas Massie\n24:47 - 26:10 Nikki Haley, Doug Burgum, Spencer Cox\n26:10 - 28:11 Donald Trump 3rd Term\n28:11 - 28:54 Joe Kent\n28:54 - 29:10 Candace Owens\n29:10 - 29:41 Marjorie Taylor Greene\n29:41 - 30:05 Tulsi Gabbard\n30:05 - 31:02 Vivek Ramaswamy",
+          "tags": [],
+          "published": "2026-04-15T20:35:50Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "7C7tD0LtEnM",
+          "title": "MAGA STILL CAN'T Figure Out How To Cope With The Elections and the Excuses Are GETTING DUMBER!",
+          "creator": "Really American",
+          "creatorId": "UCpJ7ZS8hK-IOeciv952Xhug",
+          "duration": 879,
+          "description": "Really American hosts Kenny Hesse and British Chris break down how following the midterm election results, right-wing commentators and MAGA influencers are struggling to process the outcome, sparking widespread online debate and viral reactions. From misunderstanding population density maps to breakdown reactions across live streams and media appearances—including Luke Beasley confronting Gavin McInnes live on air—the internet is having a field day with the post-election cope.   \n\nIn this video, we break down the most absurd excuses and viral memes floating around after the election, examine the fallout on social media platforms, and react to live-streamed debates exposing right-wing media cope.   \n\nIf you enjoyed this breakdown, please LIKE, COMMENT, and SUBSCRIBE to Really American and Raw America for more daily independent political commentary, media analysis, and cultural satire! \n\nMore Chris And Kenny: https://youtube.com/playlist?list=PLdPecPx0n7Js&si=Qynbx5h6umqcEw95\n\nJoin Us Live Every Thursday: https://www.youtube.com/playlist?list=PLWZXu-UaW6Gk\n\nSubstack is the #1 way to support Really American. We humbly ask you to join us here on Substack: https://reallyamerican.substack.com/subscribe\n\nFollow Really American -\n\nhttps://www.youtube.com/@ReallyAmerican\nhttps://www.instagram.com/reallyamericanmedia/\nhttps://www.facebook.com/reallyamerican\nhttps://www.tiktok.com/@reallyamerican1\nhttps://x.com/ReallyAmerican1\n\n00:00 - MAGA Struggles to Cope With Midterm Election Results   \n01:12 - Breaking Down Population Density and Electoral Map Memes   \n03:30 - Dissecting Cringe A",
+          "tags": [],
+          "published": "2026-11-08T22:00:31Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "BBVH65RdZqM",
+          "title": "Left Wing Influencers Explained",
+          "creator": "Ryan Geddie",
+          "creatorId": "UCPiQWdmfYFGO5QNU6gWSTUg",
+          "duration": 1434,
+          "description": "Everyone’s talking about “new media”\nPoliticians are campaigning with streamers, appearing on podcasts is a serious part of campaign strategy, and Bernie Sanders is doing viral videos talking to AI.\nBut how much do you really understand this ecosystem, with all its personalities and types of content? I’ve got a little experience in this area. This is my guide to the left of center new media landscape.\n\nTimestamps\n00:00 - 00:50 The New Media Ecosystem\n00:50 - 03:10 Old Media Online\n03:10 - 05:47 New Media Cable\n05:47 - 06:36 VOTE-E Ad\n06:36 - 08:42 Antiestablishment Media\n08:42 - 12:18 Short Form Video\n12:18 - 15:56 Journalists, Politicians, and Tastemakers\n15:56 - 18:18 Video Essays\n18:18 - 21:07 Streamers\n21:07 - 22:09 Discourse Cycles\n22:09 - 23:54 Trump's Attacks on Liberal Media",
+          "tags": [
+            "New Media",
+            "Liberal Media",
+            "Streamers",
+            "Politics"
+          ],
+          "published": "2026-07-29T22:31:25Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "YeUWpj54WRw",
+          "title": "Progressives vs Moderate Democrats | Middle Ground",
+          "creator": "Jubilee",
+          "creatorId": "UCJjSDX-jUChzOEyok9XYRJQ",
+          "duration": 4931,
+          "description": "Go to https://SAN.com/middleground to get unbiased, straight facts. You can Download the app through our link or search Straight Arrow News in your app store.\n\nHey you 👈 Wanna be in a Jubilee video? https://bit.ly/be-in-a-video\n\nLET’S BE FRIENDS\nInstagram: https://www.instagram.com/jubileemedia/\nTikTok: https://www.tiktok.com/@jubilee?lang=en\nWebsite: https://www.jubileemedia.com\n\nOUR LOVE + DATING CHANNEL 🍑\nYouTube: https://www.youtube.com/@nectarcrush\nInstagram: https://www.instagram.com/lovecommanectar  \nNectar app: https://lovecommanectar.co/497Ru93 \n\nARE YOU A BRAND? WANNA WORK WITH US?\nEmail partnerships@jubileemedia.com\n\nFEATURING \nAmber: https://www.instagram.com/smooth.asbutter\nFelipe: https://www.instagram.com/felipejdarquea\nGuy: https://www.twitch.tv/imreallyimportant\nJon: https://www.instagram.com/dadsradplaid\nMason: https://www.instagram.com/onehandpolitics\nMichael: https://www.instagram.com/sixmoore23\nNaima: https://www.instagram.com/hair.soupp/\nSoraya: https://www.instagram.com/soraya.fm.uk/\n\nCREDITS\nDirector: Ragini Bhasin\nCasting Coordinator: Bridget McGuinness \nCasting Associate Producer: Karsyn Hughes \nProduction Manager: Emma Pek \nEquipment Coordinator: Pat Saulo\nAssistant Editor: Brandon Belk-Yee\nEditor: Brandon Belk-Yee\nPost-Production Coordinator: Kyle Bacalzo\n\nTIMECODES\n00:00:00 The far left made us lose the election\n00:18:17 Moderate Democrats have shifted too far to the right\n00:28:18 Kamala Harris was a terrible presidential candidate\n00:38:53 The Republican Party appeals more to the average American\n00:51:28 Biden was a great president\n00:56:14",
+          "tags": [
+            "jubilee",
+            "jubilee media",
+            "jubilee project",
+            "middle ground",
+            "spectrum",
+            "odd man out",
+            "versus 1",
+            "embrace empathy",
+            "live deeper",
+            "love language",
+            "blind devotion",
+            "Odd One Out",
+            "Game Show",
+            "Dating Show",
+            "Nectar",
+            "Ask Me Anything"
+          ],
+          "published": "2025-01-19T17:00:37Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "AsN5ryRTM_0",
+          "title": "Zohran Mamdani: US Midterms, The Democratic Future of America & The AI Economic Bubble",
+          "creator": "Uncanny Valley by WIRED",
+          "creatorId": "UCWrXlzhIENTJrAuKVuPgdEA",
+          "duration": 1909,
+          "description": "WIRED’s Katie Drummond speaks with the Mayor of New York City, Zohran Mamdani, about his whirlwind first year as mayor, the US midterms (after all three Mamdani-endorsed candidates won their New York House seats) and the fight to rein in artificial intelligence in New York: “the impact of AI is economic, ecological and emotional.”\n\nCheck out 'Uncanny Valley' podcast  ►► https://swap.fm/l/wired-uv-youtube\n\n#ZohranMamdani #Midterms #NYC\n\n00:00 - A year in Mayor Mamdani’s life, at 35 years old\n02:53 - Zohran Mamdani, the internet’s mayor\n07:31 - The importance of new and traditional media\n13:03 - US midterms: Endorsing Governor Hochul\n17:06 - The Democratic Socialists of America\n19:07 - Data centers and the AI economic bubble\n22:48 - Reining in AI in New York\n28:34 - “Technology is making democracy weaker”\n\nStill haven’t subscribed to WIRED on YouTube? ►► http://wrd.cm/15fP7B7 \r\nDownload the WIRED app: https://wired.com/app\r\nListen to the Uncanny Valley podcast  ►► https://podcasts.apple.com/us/podcast/uncanny-valley-wired/id266391367\r\nWant more WIRED? Get the magazine ►► https://subscribe.wired.com/subscribe/splits/wired/WIR_YouTube?source=EDT_WIR_YouTube_0_Video_Description_ZZ\r\n\r\nFollow WIRED:\r\nInstagram ►►https://instagram.com/wired\r\nTwitter ►►http://www.twitter.com/wired\r\nFacebook ►►https://www.facebook.com/wired\r\nTik Tok  ►►https://www.tiktok.com/@wired\r\n\r\nGet more incredible stories on science and tech with our daily newsletter: https://wrd.cm/DailyYT\r\n\r\nABOUT WIRED\r\nWIRED is where tomorrow is realized. Through thought-provoking stories and videos, WIRED explores the fut",
+          "tags": [
+            "mayor of new york city",
+            "the ai bubble",
+            "the big interview",
+            "uncanny valley",
+            "us midterm elections",
+            "us midterm results",
+            "us midterm trump",
+            "us midterms",
+            "wired",
+            "wired interview",
+            "wired podcast",
+            "wired podcast interview",
+            "zohran mamdani",
+            "zohran mamdani 2026",
+            "zohran mamdani ai",
+            "zohran mamdani interview"
+          ],
+          "published": "2026-11-04T17:00:09Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "SZ-jnLLngLg",
+          "title": "UNHINGED Debate vs Ryan Geddie (BRIDGE BURN?!)",
+          "creator": "Foodshops",
+          "creatorId": "UCy7dgOBvWi7ACNEOYjUVkcw",
+          "duration": 4488,
+          "description": "Stream every 7:30 PM Pacific.\n\nThumbnail Maker: @Magabes_ \nEditor: @Magabes_ \nStreamer: Foodshops\n\nRyan Geddie: https://www.youtube.com/@RyanGeddie\n\"Why We Attacked Venezuela Explained\": https://www.youtube.com/watch?v=8jcVamFuo9c\n\nJoin my discord!\nDiscord: https://discord.gg/foodshops\nTwitter: https://x.com/NotFoodshops\nExtra Slop Channel:  @Snackmarkets \nPolitics Channel:  @Farestalls \n\nFoodshops has a debate with @RyanGeddie about tit-for-tat, the prisoners dilemma, democratic messaging, etc. Later on Foodshops covers Ryan Geddie's video about Venezuela, Donald Trump's capture of Maduro, etc.\n\n#ryangeddie\n#politics \n#drama \n\n0:00 Debate with Ryan Geddie\n54:27 Ryan Geddie on Venezuela and Maduro's Capture\n\nDiscord Timeout / Ban Appeal: https://docs.google.com/forms/d/e/1FAIpQLSc5TVycfDNfqMA1Sf4FHh0ua9qMTewzZZd6vLcK48rWh3ycmg/viewform\n\nJoin this channel to get access to perks:\nhttps://www.youtube.com/channel/UCy7dgOBvWi7ACNEOYjUVkcw/join Try subscribing :)\nhttps://www.youtube.com/@FoodshopsWasTaken?sub_confirmation=1",
+          "tags": [
+            "us politics",
+            "politics",
+            "hutch",
+            "pisco",
+            "lib & learn",
+            "lib and learn",
+            "lib&learn",
+            "lib learn",
+            "hutch pisco",
+            "democrats",
+            "foodshops hutch",
+            "hutch destiny",
+            "hutch vod",
+            "hutch live",
+            "debate",
+            "Hutch"
+          ],
+          "published": "2026-01-06T01:58:14Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "h91Umykg7L0",
+          "title": "Progressive Pundit OBLITERATES MAGA Moron Scott Jennings in EPIC Debate",
+          "creator": "Theodore Grant",
+          "creatorId": "UCFrO6O57qAok2VWQxaNCKgw",
+          "duration": 1700,
+          "description": "Progressive Pundit OBLITERATES MAGA ​Moron Scott ​Jennings in ​EPIC Debate.\nWelcome to a fiery and high-stakes political debate on CNN, hosted by anchor Kaitlan Collins. In this segment, veteran Democratic strategist Paul Begala and conservative commentator Scott Jennings ​go head-to-head over one of the most pressing issues facing the country today: inflation and the soaring cost of living. As ​the upcoming midterm elections loom closer, both sides are aggressively pushing ​their economic narratives ​to win over voters. This deep ​dive into the state of the economy ​showcases the stark ​differences between conservative and ​progressive viewpoints, making ​it ​a must-watch for anyone interested in current events, ​economic policy, and political ​strategy.\n\nThe core of ​the confrontation revolves around who is ​truly responsible for the current economic climate. Scott Jennings strongly argues ​that the ​previous administration is to ​blame for driving prices through the roof, claiming that the current leadership is simply normalizing an economy that ​was already severely damaged. However, Paul Begala and ​Kaitlan ​Collins ​swiftly counter ​this ​narrative with hard economic data. They point out ​that the inflation rate is actually higher today—standing at 3.3 percent—than the ​2.75 percent ​rate ​inherited when the current administration first took office. This creates a tense back-and-forth about whether politicians ​should take ​responsibility ​for the current state of everyday expenses ​or ​continue to point fingers at past leadership.\n\nAs the discussion ​heats up, the pa",
+          "tags": [
+            "CNN",
+            "CNN News",
+            "CNN debate",
+            "CNN panel",
+            "Federal Reserve",
+            "Iran foreign policy",
+            "Iran nuclear deal",
+            "Jerome Powell",
+            "Kaitlan Collins",
+            "Kaitlan Collins CNN",
+            "Kevin Warsh",
+            "Middle East diplomacy",
+            "Paul Begala",
+            "Paul Begala CNN",
+            "Scott Jennings",
+            "Scott Jennings CNN"
+          ],
+          "published": "2026-10-14T10:06:21Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "P8VLe_EAhUE",
+          "title": "hopescrolling through america tik tok (post-midterm election)",
+          "creator": "Clarence Angelo",
+          "creatorId": "UCWNWfDHwcUB_SGQsZ7jflyg",
+          "duration": 1436,
+          "description": "After a period of what felt like a soul-crushing experience, America's recent midterm election has concluded. After experiencing a wave of hope and positivity on my feed over the past 48 hours, I thought why don't we HOPESCROLL AMERICA TIK TOK TOGETHER!\n\nFor more of this video + deleted scenes:\nIG: @clarenceeangelo\nTik Tok: @clarence.angelo\n\nListen to my podcast! Music, culture, and more there :) \nCHANNEL: https://www.youtube.com/@asianglowpod\nAUDIO: https://open.spotify.com/show/0DRylJUdqUPdCX7wZJZo9q?si=374fe1c24b6943aa\n\nJoin GLOW GANG SOUNDCHECK VIP NOW\nhttps://www.youtube.com/channel/UCWNWfDHwcUB_SGQsZ7jflyg/join",
+          "tags": [
+            "election",
+            "comedy",
+            "america",
+            "midterms",
+            "quenlin blackwell",
+            "tik tok reaction",
+            "watching funny tik toks",
+            "my favorite tik toks",
+            "watching IG reels",
+            "midterm election"
+          ],
+          "published": "2026-11-07T20:22:38Z",
+          "categoryId": "23"
+        },
+        {
+          "id": "lvtZUrpKUlI",
+          "title": "Why gen-Z men are turning far right and women far left",
+          "creator": "Money & Macro",
+          "creatorId": "UCCKpicnIwBP3VPxBAZWDeNA",
+          "duration": 1041,
+          "description": "Advertising sponsor: Get access to global coverage at an exclusive 20% discount at https://economist.com/moneymacro\nFurther reading mentioned in the video:\nWhy Gen X is the real loser generation: https://www.economist.com/finance-and-economics/2025/05/08/why-gen-x-is-the-real-loser-generation\nBaby-boomers are loaded. Why are they so stingy?: https://www.economist.com/finance-and-economics/2024/05/26/baby-boomers-are-loaded-why-are-they-so-stingy\nReasons to be cheerful about Generation Z: https://www.economist.com/leaders/2024/04/18/reasons-to-be-cheerful-about-generation-z\n\nIf you appreciate the research, consider buying me a 'coffee' at https://ko-fi.com/moneymacro or supporting long-term for membership benefits via: https://www.patreon.com/moneymacro\n\nWANT AN IN-DEPTH INDUSTRIAL POLICY MASTERCLASS?\n△ https://school.moneymacro.net/p/industrial-policy-masterclass\n\nLIKE CHATTING ECON WITH ME?\n△ Follow me on Twitter: https://twitter.com/joerischasfoort\n△ Follow me on LinkedIn: https://www.linkedin.com/in/joeri-schasfoort/\n△ I have a private Discord server for Senior and Chief economist Patrons / members.\n\nSOURCES:\nI've linked my sources in the blog that goes along with this video. Links are in the text.\nhttps://www.moneymacro.rocks/2025-05-29-populism-gen-z/\n\nTimestamps:\n00:00 Intro\n01:34 What is populism?\n07:20 What’s wrong with populism?\n11:25 Why do people vote populist?\n15:00 Conclusion\n16:13 Sponsor\n\nAttribution:\nMusic by Epidemic Sound: http://nebula.tv/epidemic\nThank you to AP Archive for access to their archival footage.\nStock footage and others clips by Getty\n\nNarrat",
+          "tags": [
+            "Economics",
+            "central banking",
+            "finance"
+          ],
+          "published": "2025-05-29T12:01:28Z",
+          "categoryId": "27"
+        },
+        {
+          "id": "6iLf2h_fo-w",
+          "title": "We Uncovered The Master Plan That Peter Thiel Doesn't Want You To See",
+          "creator": "More Perfect Union",
+          "creatorId": "UCehBVAPy-bxmnbNARF-_tvA",
+          "duration": 899,
+          "description": "Peter Thiel is funding a plan to build privatized city-states everywhere from Gaza and Venezuela to small towns in California.\n\nThe goal is to replace governments with for-profit companies.\n\nWe investigated how Thiel's scheme is already reshaping democracy across the world.\n\nHost and Producer: Sean Morrow\nVideographers: Derek Knowles, Laura Bustillos\nEditor: Joey Yee\nSupervising Producer: Brady Welch\nVideo Production Manager: Isabel Atalaya\nVideo Production Coordinator: Jodi Clemens\nVideo Production Fellow: Astrid Dong\nGuest Apperance/Featuring: @gilduran on IG\n\n-----\n\nMore Perfect Union is an Emmy-winning, nonprofit newsroom whose mission is to build power for working people. Here’s what that means: We report on the real struggles and challenges of the working class from a working-class perspective. We attempt to connect those problems to potential solutions. We report on the abuses and wrongdoing of corporate power. And we seek to hold accountable the ultra-rich who have too much power over America’s political and economic systems.\n\n To support our independent journalism, subscribe, donate, and follow our other pages through the links below:\n- Help fund our reporting: https://secure.actblue.com/donate/mpu-splash\n- Substack: https://substack.perfectunion.us/\n- TikTok: https://www.tiktok.com/@moreperfectunion\n- Twitter: https://twitter.com/MorePerfectUS\n- Bluesky: https://bsky.app/profile/moreperfectunion.bsky.social\n- Facebook: https://www.facebook.com/MorePerfectUS\n- Instagram: https://www.instagram.com/perfectunion/\n- Threads: https://www.threads.net/@perfectunion\n- Webs",
+          "tags": [
+            "more perfect union",
+            "politics"
+          ],
+          "published": "2026-06-29T17:28:16Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "qHQdvkT7APE",
+          "title": "Matt Walsh Thinks Kamala Harris Needs Kids to Be President",
+          "creator": "Ryan Geddie",
+          "creatorId": "UCPiQWdmfYFGO5QNU6gWSTUg",
+          "duration": 625,
+          "description": "Conservative Daily Wire commentator Matt Walsh thinks Kamala Harris needs to have a biological child to be president. This is just the latest in the meltdown some conservatives have been having over Kamala Harris' candidacy. \nIt's also just the latest in strange conservative views on women, with figures like JD Vance defending his \"childless cat lady\" comment.\nThis video also addresses the DEI Candidate talking point.\n\nTimestamps\n00:00 Introduction\n00:24 DEI Candidate Talking Point\n01:30 Matt Walsh response\n07:00 Walsh Viewers Reaction\n08:38 Paine and Donne\n09:10 JD Vance\n09:54 Conclusion",
+          "tags": [],
+          "published": "2024-07-27T15:00:54Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "MVquZvlgwj4",
+          "title": "This is going MEGA viral..",
+          "creator": "Keith Edwards",
+          "creatorId": "UCagO3YGMBqDjrWBhw7wKuGA",
+          "duration": 232,
+          "description": "Ride the BLUE WAVE and get your merch for the NEW LEFT here: https://goodpropaganda.xyz\n\nTEXT ME! 📲 +1 (646) 216-8863\nhttps://my.community.com/keithedwards\n\n👍 SUPPORT THE SHOW\nhttps://www.edwardswire.com/subscribe\nhttps://www.youtube.com/@keithedwards/join\n\nKeith Edwards reacts to Bernie Sanders first new announcement immediately after Election Day. \n\n📡 JOIN THE COMMUNITY\nSpotify → https://open.spotify.com/show/1chmgsT4aUJPmFlyGXIDGN?si=85d8de8d6def4a0e\nTwitch → https://www.twitch.tv/keithedwards \nFacebook  → https://www.facebook.com/thekeithedwardsshow\nInstagram → https://www.instagram.com/keithedwards\nTikTok        → https://www.tiktok.com/@keithedwards\nX                  → http://twitter.com/keithedwards\nThreads     → https://www.threads.net/@keithedwards\n\n\n🎙️ TALK TO ME\nLeave me a voicemail at: (202) 810-4379‬\nBusiness: keithsdebateclub@gmail.com\n\nEXECUTIVE PRODUCERS:\nErina R\nJeremy H",
+          "tags": [
+            "keithedwards",
+            "commentary",
+            "news",
+            "react",
+            "satire",
+            "breaking news",
+            "keith edwards",
+            "culture",
+            "politics",
+            "breaking",
+            "live",
+            "livestream",
+            "live react"
+          ],
+          "published": "2026-11-08T22:00:22Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "TIuMC6ifbxI",
+          "title": "Rep Summer Lee PUSHED On Jeffries: Will He DESTROY Dem Mandate?",
+          "creator": "Breaking Points",
+          "creatorId": "UCDRIjKy6eZOvKtOELtTdeUA",
+          "duration": 1300,
+          "description": "Krystal interviews Summer Lee on the future of Dems and leadership under strain after major midterm victories. \n\nSummer Lee: https://summerlee.house.gov/\n\n\nSign up for a PREMIUM Breaking Points subscriptions for full early access to uncut shows and LIVE AMAs with the hosts every week: https://breakingpoints.supercast.com/\n\nMerch Store: https://shop.breakingpoints.com/\n\nTo listen to Breaking Points as a podcast, check them out on Apple and Spotify\n\nApple: https://podcasts.apple.com/us/podcast/breaking-points-with-krystal-and-saagar/id1570045623\n \nSpotify: https://open.spotify.com/show/4Kbsy61zJSzPxNZZ3PKbXl\n \nInstagram: https://www.instagram.com/breakingpoints/\n\nFacebook: https://www.facebook.com/people/Breaking-Points/61575893472315/\n\n#news #politics #youtube",
+          "tags": [
+            "breaking points",
+            "krystal ball",
+            "saagar enjeti"
+          ],
+          "published": "2026-11-09T19:00:23Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "JDvSmPjYcsI",
+          "title": "Helping Liberal Students Debate Charlie Kirk (And Other Change My Mind People)",
+          "creator": "Ryan Geddie",
+          "creatorId": "UCPiQWdmfYFGO5QNU6gWSTUg",
+          "duration": 1013,
+          "description": "Charlie Kirk and the innumerable conservative pundits who make a living dunking on college students frustrate me. Aside from just not talking to them at all, these are some best practices to keep in mind when you're talking to one of those \"Change My Mind\" pundits you might see littering the sidewalk in front of your dorm one day. \n\nTimestamps\n00:00 Introduction\n02:00 Charlie Kirk and Leading Questions\n03:54 Control Your Own Definitions\n08:30 Stay Focused On the Argument\n09:48 Be as Informed as Possible\n12:23 Kirk Demeans Himself by Insulting a College Kid\n13:20 Keep Calm If You're Insulted\n15:33 Review the Rules\n16:42 Outro",
+          "tags": [],
+          "published": "2024-10-04T16:45:00Z",
+          "categoryId": "27"
+        },
+        {
+          "id": "6BS1vK-5r8M",
+          "title": "Can Trump Fake a Legacy?",
+          "creator": "Ryan Geddie",
+          "creatorId": "UCPiQWdmfYFGO5QNU6gWSTUg",
+          "duration": 834,
+          "description": "The Kennedy Center is  now called “The Donald J. Trump and The John F. Kennedy Memorial Center for the Performing Arts.” The U.S. Institute of Peace is now the Donald J. Trump institute of peace.Trump branded immigration pathways. Trump branded savings accounts. Trump national park passes and Trump commemorative coins.\nDonald Trump is trying to rewrite his own history, and rename practically everything in the country after himself.\nI think Trump, who is nearly 80 years old and term limited whether he likes it or not, is thinking about his legacy. If he left office right now, what would he have in terms of a legacy?  Seriously, what do you think? Put it in the comments. I think there’s a good chance he’s remembered at least in large part for just being divisive and a corrosive influence on American political culture. \n\nTimestamps\n00:00-02:13 Trump's Legacy\n00:00-04:49 The White House\n04:49-08:28 Eight Wars Ended and Other Lies\n08:28-13:54 The Nixon Model for the Trump Presidential Library",
+          "tags": [],
+          "published": "2025-12-24T00:27:45Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "qhUJMz-QKDg",
+          "title": "Jon Ossoff and Liberal Self Respect",
+          "creator": "Ryan Geddie",
+          "creatorId": "UCPiQWdmfYFGO5QNU6gWSTUg",
+          "duration": 1206,
+          "description": "Jon Ossoff, and the reality of how Trump demands humiliation.\n\nTimestamps\n00:00 - 03:45 The Trump Vibe Shift is Over\n03:45 - 10:23 Bush and Caesar and McCarthy\n10:23 - 14:32 These Guys are Weird\n14:32 - 20:00 Liberal Civic Virtue and Pride",
+          "tags": [],
+          "published": "2026-08-28T23:35:33Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "C2TUJHLoesA",
+          "title": "THE CENTRISTS ARE OVERDOSING ON COPE",
+          "creator": "HasanAbi",
+          "creatorId": "UCtoaZpBnrd0lhycxYJ4MNOQ",
+          "duration": 820,
+          "description": "Every single corporate centrist Democratic entity has been spinning the narrative that the Blue Wave happened because of the \"moderate\" Democrats and not at all because of DSA or our community's efforts. Don't let them rewrite history when every candidate ran with Bernie Sanders rhetoric and Democratic Socialists made historic wins.\n\nPBS Rahm Emanuel Interview: https://www.youtube.com/watch?v=Tum5Qg7UtuI\n\nThe Hasan Piker Effect: https://www.hasaneffect.com\n\nLive everyday at https://www.twitch.tv/hasanabi\n\nEdited by: \nhttps://twitter.com/rjedits_\n\nOther Links\nTikTok: https://www.tiktok.com/@hasandpiker\nTwitter: https://twitter.com/hasanthehun\nInstagram: https://www.instagram.com/hasandpiker/\n\nSecond Channel: https://www.youtube.com/@Hasan\n\nGaming channel - https://www.youtube.com/@HasanAbiGaming\n\n#news #politics #democrats \n\ntags: centrists, moderates, elections, democrats, blue wave, trump, talarico, abdul el sayed, woke, dsa, hasan piker midterm election coverage 2026, vod, stream, livestream, hasanabi midterms, senate, congress, abdul el-sayed, gina hinojosa, james talarico, troy jackson, politics, analysis, commentary, democratic party, dsa, democratic socialists of america, jon ossoff, angie nixon, david jolly, adam hamilton, josh turek, pbs, rahm emanuel",
+          "tags": [
+            "hasanabi",
+            "hasan piker",
+            "politics",
+            "news",
+            "twitch",
+            "highlights",
+            "hasanabi highlights",
+            "hasanabi clips"
+          ],
+          "published": "2026-11-09T23:30:38Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "eWXi9NhQo6c",
+          "title": "Schumer And Jeffries On The Ropes",
+          "creator": "The Majority Report w/ Sam Seder",
+          "creatorId": "UC-3jIAlnQmbbVMV6gR7K8aQ",
+          "duration": 1226,
+          "description": "The Congress switchboard number is (202) 224-3121. You can use this number to connect with either the US Senate or the House of Representatives.  \n\nWatch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://www.Majority.fm \n\nTo connect and organize with your local ICE rapid response team visit http://www.ICERRT.com \n\nSend us IM messages during the live-stream with our free Majority Report App: \nhttp://majority.fm/app \n\nSubscribe to MR's daily AM Quickie newsletter: \nhttps://am-quickie.ghost.io \n\nFind all your MR merch at our store: https://shop.majorityreportradio.com \n\nBecome a Majority Report member: https://fans.fm/majority/join \n\nMore from the MR crew: \nSam Seder: https://www.instagram.com/sam.seder \nEmma Vigeland https://www.instagram.com/emmavigeland \nMatt Lech LEFT RECKONING https://www.youtube.com/@LeftReckoning \nMatt Binder DOOMED https://www.youtube.com/@MattBinder \nBrandon Sutton DISCOURSE https://www.youtube.com/@Th3Discourse \nBryan Vokey https://www.instagram.com/mrbryanvokey \nMR on Instagram: https://www.instagram.com/majority.fm/ \nOur alt YouTube: https://www.youtube.com/majorityreportlive",
+          "tags": [
+            "Sam Seder",
+            "Majority Report",
+            "Emma Vigeland",
+            "Matt Lech",
+            "Politics News",
+            "Democrat",
+            "liberal",
+            "progressive politics",
+            "left politics",
+            "Seder Majority",
+            "news",
+            "podcast",
+            "Bryan Vokey"
+          ],
+          "published": "2026-11-09T22:00:07Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "1qmP0VU2ZYg",
+          "title": "The TRAGIC Death of the Cybertruck",
+          "creator": "The Kavernacle",
+          "creatorId": "UCoG5ya-sMXNMkqkIz1sZ_Lw",
+          "duration": 1322,
+          "description": "It's a tragic day for the world \n\n.00:00:00 - This is tragic \n00:06:10 - Elon being a conservative destroyed its sales \n00:09:30 - It was dangerous \n\n\nMy new Gaming Instagram: https://www.instagram.com/thegamernacle/profilecard/?igsh=MTA1bDcycHk1NHBnMQ==\n\nBlueSky: https://bsky.app/profile/thekavernacle.bsky.social\n\nMy Patreon: https://www.patreon.com/join/TheKavernacle\n\nMy Instagram: https://instagram.com/thekavernacle/\n\nMy travel instagram: https://www.instagram.com/thekavernacle_extra/\n\nSecond Channel: https://www.youtube.com/channel/UCtet3kEWqgKj6sSfMgf2n7A",
+          "tags": [
+            "The Kavernacle",
+            "Kavernacle",
+            "cybertruck",
+            "cybertruck 2077",
+            "cybertruck elon musk",
+            "cybertruck elon",
+            "cybertruck tesla"
+          ],
+          "published": "2026-11-07T01:14:14Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "sRWjQ_XVKGw",
+          "title": "Republican Brags About Not Voting In Midterms",
+          "creator": "The Majority Report w/ Sam Seder",
+          "creatorId": "UC-3jIAlnQmbbVMV6gR7K8aQ",
+          "duration": 292,
+          "description": "Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://www.Majority.fm \n\nTo connect and organize with your local ICE rapid response team visit http://www.ICERRT.com \n\nThe Congress switchboard number is (202) 224-3121. You can use this number to connect with either the US Senate or the House of Representatives. \n\nSend us IM messages during the live-stream with our free Majority Report App: \nhttp://majority.fm/app \n\nSubscribe to MR's daily AM Quickie newsletter: \nhttps://am-quickie.ghost.io \n\nFind all your MR merch at our store: https://shop.majorityreportradio.com \n\nBecome a Majority Report member: https://fans.fm/majority/join \n\nMore from the MR crew: \nSam Seder: https://www.instagram.com/sam.seder \nEmma Vigeland https://www.instagram.com/emmavigeland \nMatt Lech LEFT RECKONING https://www.youtube.com/@LeftReckoning \nMatt Binder DOOMED https://www.youtube.com/@MattBinder \nBrandon Sutton DISCOURSE https://www.youtube.com/@Th3Discourse \nBryan Vokey https://www.instagram.com/mrbryanvokey \nMR on Instagram: https://www.instagram.com/majority.fm/ \nOur alt YouTube: https://www.youtube.com/majorityreportlive",
+          "tags": [
+            "Sam Seder",
+            "Majority Report",
+            "Emma Vigeland",
+            "Matt Lech",
+            "Politics News",
+            "Democrat",
+            "liberal",
+            "progressive politics",
+            "left politics",
+            "Seder Majority",
+            "news",
+            "podcast",
+            "Bryan Vokey"
+          ],
+          "published": "2026-11-06T16:32:50Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "ijOZfriOhfM",
+          "title": "I Ran for Office - AMA: Insights from Progressive Democrat Activists of 2022 Elections",
+          "creator": "Unified",
+          "creatorId": "UC4XGQkBpY-OtKLWdpQQWjEg",
+          "duration": 3155,
+          "description": "00:29 Introductions \n07:49 How Can You Tell A Difference Between Good & Bad Advice, When You Are 1st Running For Office?\n19:25 How Do You Know You Are Running For The Right Reasons?\n28:47 How Do You Keep Your Sanity and Confidence on a daily basis?\n37:40 Contest Between Friends Can Affect Relationships and How You Handled it?\n41:22 Audience Questions\nCome join the conversation and get exclusive insights into the world of politics with \"I Ran for Office - AMA.\" Unified Jam 2023 has brought you first-hand accounts from prominent Texas-area candidates who ran for office in 2022. Join us as we take a deep dive into their campaign journeys, and hear their personal stories of triumphs, challenges, and lessons learned. Looking back on their time on the campaign trail, these candidates share their most memorable experiences, what inspired them to run, and the changes they would have made if they had the chance. Gain unique perspectives on the election process, straight from the source!\n\n🚨Don’t forget to Hit the notification 🔔 to stay updated on our latest content!\n Come be part of the conversation for positive social change and  comment below & tell us your thoughts‼️\n\n🟣Who is Unified⁉️ We are actively building a social media platform for activists and organizers & be the first to gain access to co-creating a new digital community all about progressing our future. Sign up for our waitlist today to be a user on Unified! https://www.joinunified.us\n\n📝Discover more about Unified's speakers:\n\n🔹Paige Ellis - 03:23 Austin City Council, District 8. Mayor Pro Tem, elected in 2018 to re",
+          "tags": [
+            "UnifiedJam2023",
+            "UnifiedJam",
+            "Activism",
+            "Activist",
+            "Organizer",
+            "Social Change",
+            "progressive politics",
+            "progressive policies",
+            "progressive media",
+            "democrat politicians",
+            "democrat news",
+            "democrat views",
+            "democrat perspective",
+            "democrat activism",
+            "social activism",
+            "environmental activism"
+          ],
+          "published": "2023-04-21T19:04:37Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "tbw39BjEr9c",
+          "title": "Schumer and Jeffries are Unfit to Lead",
+          "creator": "Leeja Miller",
+          "creatorId": "UCb3cDvWiHwRzQaK81PrISbg",
+          "duration": 1910,
+          "description": "Get your free, 30-second personalized assessment TODAY at https://PDSDebt.com/miller | Chuck Schumer and Hakeem Jeffries want you to think their ascension to the leadership of the Democratic party in Congress is a foregone conclusion. It's not. And there are growing calls within the party for them to be replaced with leaders capable of meeting this moment.\n\nContact your Senators! https://indivisible.org/actions/tell-democrats-no-schumer-coronation/ \n\n🔗 Sources: https://www.leejamiller.com/episodes/2026/11/9/schumer-and-jeffries-are-unfit-to-lead \n\n🎙️Listen to the podcast version of every episode here: https://www.leejamiller.com/why-america \n\n👑 Patreon: https://www.patreon.com/leejamiller \n\n👕 Get your Reagan Ruined Everything t-shirt right here: https://leejamillermerch.com/ \n\n📃Sign up for Why, America? The Newsletter for news insights every Friday: https://leejamiller.substack.com  \n\n\n\n𝗖𝗢𝗡𝗡𝗘𝗖𝗧 𝗪𝗜𝗧𝗛 𝗠𝗘\n📷 Instagram: https://www.instagram.com/leejamiller/\n🤳🏻 TikTok: https://vm.tiktok.com/ZMdPrpN7c/\n🖥 Website: https://www.leejamiller.com\n📧 E-mail: contact@tablerock.com\n\n\n\n___________________\n\n𝗗𝗜𝗦𝗖𝗟𝗔𝗜𝗠𝗘𝗥𝗦\nTHIS IS NOT LEGAL ADVICE - Everything contained on this channel is meant solely for entertainment and informational purposes. Nothing herein should be considered legal advice nor does anything on this channel create an attorney-client relationship of any sort. Please seek guidance from a licensed attorney before making any legal decision.\n\nCOPYRIGHT - Any use of copyrighted content on this channel constitutes fair use pursuant to 17 U.S. Code ",
+          "tags": [
+            "lawyer reacts",
+            "blonde lawyer",
+            "lawyer explains",
+            "leeja miller",
+            "schumer",
+            "jeffries",
+            "senate majority leader",
+            "speaker of the house",
+            "who should replace schumer",
+            "who should replace jeffries"
+          ],
+          "published": "2026-11-09T20:03:16Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "2vokd2YG_xc",
+          "title": "Mamdani says 'NO' to getting rid of borders, jails",
+          "creator": "Fox News",
+          "creatorId": "UCXIJgqnII2ZOINSWNOGFThA",
+          "duration": 497,
+          "description": "New York City Mayor Zohran Mamdani joins 'Fox News Sunday' to discuss the Democratic Socialists of America's agenda, his relationship with President Donald Trump and more.\n\n#foxnews #fox #zohranmamdani #foxnewssunday #shannonbream #dsa #democraticsocialists #democraticsocialism #donaldtrump #trumpmamdani #nycmayor #newyorkcitypolitics #mayoralinterview #politicalanalysis #democraticparty #progressivepolitics #washingtondc #politicalnews #breakingnews\n\nDon’t just watch Fox News—be part of it. Become a Fox News Patriot today. https://youtube.com/foxnews/join\n\nSubscribe to Fox News: https://bit.ly/2vBUvAS\nWatch more Fox News Video: http://video.foxnews.com\nWatch Fox News Channel Live: http://www.foxnewsgo.com/\nDownload the Fox News app: https://foxnews.onelink.me/xLDS/cd5yhg3o\n\nFOX News Channel (FNC) is a 24-hour all-encompassing news service delivering breaking news as well as political and business news. The number one network in cable, FNC has been the most-watched television news channel for 18 consecutive years. According to a 2020 Brand Keys Consumer Loyalty Engagement Index report, FOX News is the top brand in the country for morning and evening news coverage. A 2019 Suffolk University poll named FOX News as the most trusted source for television news or commentary, while a 2019 Brand Keys Emotion Engagement Analysis survey found that FOX News was the most trusted cable news brand. A 2017 Gallup/Knight Foundation survey also found that among Americans who could name an objective news source, FOX News was the top-cited outlet. Owned by FOX Corporation, FNC is available i",
+          "tags": [
+            "foxnews",
+            "fox",
+            "zohran mamdani",
+            "fox news sunday",
+            "shannon bream",
+            "democratic socialists of america",
+            "dsa agenda",
+            "democratic socialism",
+            "donald trump",
+            "trump mamdani relationship",
+            "new york city mayor",
+            "nyc politics",
+            "mayoral interview",
+            "political analysis",
+            "democratic party",
+            "progressive politics"
+          ],
+          "published": "2026-11-08T19:00:27Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "EumQbA3V45o",
+          "title": "Ro Khanna on the Progressive Wave Reshaping the Democratic Party",
+          "creator": "Wajahat Ali",
+          "creatorId": "UCGhNS1zYbtFdIajr9WSbs1A",
+          "duration": 1731,
+          "description": "Congressman Ro Khanna joins Wajahat Ali to discuss Graham Platner's victory, the growing momentum behind progressive candidates, and what it means for the future of the Democratic Party.\n\nAs anti-establishment candidates continue to gain traction across the country, questions are emerging about whether voters are demanding a new political direction. Waj and Ro explore the rise of progressive Democrats, changing voter priorities, economic populism, and the growing divide between grassroots movements and party leadership.\n\nThe conversation also examines the influence of big money in politics, generational change within the Democratic coalition, and the issues driving voter enthusiasm heading into future elections.\n\nAre we witnessing a temporary trend—or the beginning of a major political realignment inside the Democratic Party?\n\nthelefthook.substack.com\n\n\n#RoKhanna #Progressives #Democrats #Politics #TheLeftHook #WajahatAli #ProgressivePolitics #Election #PoliticalNews #USPolitics #DemocraticParty #Grassroots #PoliticalCommentary #CurrentEvents #Democracy",
+          "tags": [],
+          "published": "2026-06-10T19:57:53Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "k9SF94zUORs",
+          "title": "The Fight After The Midterms",
+          "creator": "Ryan Geddie",
+          "creatorId": "UCPiQWdmfYFGO5QNU6gWSTUg",
+          "duration": 1391,
+          "description": "As soon as this midterm season is over, the 2028 presidential race will begin to dominate more and more of our national conversation. The factional fighting will intensify, pundits will tie their own egos to the success of their favorite candidates, and we will all try to drag each other through the mud as soon as the battle lines form.\nBut is there another way? By looking at some examples from American political history, I think we can see an alternative path.\nThis video is about the future of the left-liberal coalition, the future of the democratic party, and how we might save ourselves in 2028.\n\nTimestamps\n\n00:00-02:28 2016 Never Ended\n02:28-03:29 States Forum\n03:29-08:49 Wilson, Bryan, and FDR\n08:49-12:22 Conservative Fusionism\n12:22-17:54 Left Fusionism\n17:54-23:11 Can it Happen?",
+          "tags": [
+            "Midterms",
+            "Politics",
+            "2028 Election"
+          ],
+          "published": "2026-10-30T21:30:54Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "cnjErjZI9xU",
+          "title": "REAL POLITICS WITH RYAN GEDDIE",
+          "creator": "COUNTERPOINTS POLITICS & DRAMA",
+          "creatorId": "UC7KXIh6KdId_aGnWwxjVxrw",
+          "duration": 5073,
+          "description": "Join this channel to get access to perks:\nhttps://www.youtube.com/channel/UC7KXIh6KdId_aGnWwxjVxrw/join\n\n____________________________________________________\nThank you for watching! Remember to LIKE and SUBSCRIBE!\n\nSupport the channel:\nPatreon - https://www.patreon.com/counterpoints\nDonations - https://streamelements.com/counterpoints-8520/tip\n____________________________________________________\nSocials:\nWebsite - https://www.counterpoints.tv\nDiscord - https://discord.gg/uBeyEWtm\nReddit - https://www.reddit.com/r/Counterpoints/\nTwitter - https://x.com/counterconor\nTwitch - https://www.twitch.tv/counterpoints\n____________________________________________________\n#Counterpoints",
+          "tags": [],
+          "published": "2026-01-30T20:00:37Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "1GzNuyKzZUY",
+          "title": "Iran Has Already DEFEATED America – Trita Parsi Explains What Happens Next",
+          "creator": "Owen Jones",
+          "creatorId": "UCSYCo8uRGF39qDCxF870K5Q",
+          "duration": 1581,
+          "description": "Support us as we expand our challenge to our broken media here: https://owenjones.news/support \n\nor one off support here: https://kofi.com/owenjones",
+          "tags": [],
+          "published": "2026-11-07T19:33:22Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "p_MQcR3cPIs",
+          "title": "The Future of Progressive Politics. LIVE at Truthdig with Cenk Uygur",
+          "creator": "The Young Turks",
+          "creatorId": "UC1yBKRuGpC1tSM73A0ZjYjQ",
+          "duration": 2606,
+          "description": "Subscribe to TruthDig's YouTube channel here: \nhttp://www.youtube.com/subscription_center?add_user=truthdig\n\nCenk Uygur, host and co-founder of the progressive online news show The Young Turks, closely covered the 2016 election chaos. Although he regularly condemned Donald Trump in the days leading up to the election, he also did not hold back from criticizing the Democratic Party. Disillusionment with that party ultimately led Uygur and others to launch a political movement, the Justice Democrats.\n\nIntroduced by Uygur three days after Trump’s inauguration, Justice Democrats is a branch of the Democratic Party dedicated to promoting progressive ideals and replacing establishment politicians. Along with Uygur, Kyle Kulinski of the program “Secular Talk Radio” and leaders from Bernie Sanders’ 2016 presidential campaign are also at the head of the movement.\n\nOn Thursday, Feb. 16, Truthdig Editor in Chief Robert Scheer and the Truthdig editorial team sat down with Uygur to discuss the new political movement, as well as media political coverage in the age of Trump.\n\nHosted by Communications Coordinator Sarah Wesley, Deputy Editor Kasia Anderson, and Truthdig Editor in Chief Robert Scheer.\n\nTruthdig is a news website that provides expert coverage of current affairs as well as a variety of thoughtful, provocative content assembled from a progressive point of view. The site is built around reports by authorities in their fields who conduct in-depth exploration of contemporary topics. To offer frequent change and surprise, the site also presents a diversity of original reporting and",
+          "tags": [
+            "cenk uygur",
+            "young turks",
+            "resist trump",
+            "robert scheer",
+            "bernie sanders",
+            "trump",
+            "secular talk radio",
+            "justice democrats",
+            "truthdig",
+            "seculartalk",
+            "kyle kulinski",
+            "news website",
+            "Chris Hedges",
+            "Robert Scheer",
+            "Bill Boyarsky",
+            "Bill Blum"
+          ],
+          "published": "2017-03-02T17:00:05Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "BDnX7ei9f2o",
+          "title": "American Political Archetypes Explained With ⁨@JJMcCullough ⁩",
+          "creator": "Ryan Geddie",
+          "creatorId": "UCPiQWdmfYFGO5QNU6gWSTUg",
+          "duration": 4253,
+          "description": "Many of you have asked for it, more American political archetypes! This time though there's a twist! Half of the cartoons we go over will be drawn by ME, and half will be drawn by @JJMcCullough !\nWe are seeing all of these political cartoons for the first time, and we have some great commentary on them. I hope you enjoy!\n\nTimestamps\n00:00-01:13 MORE American Political Archetypes\n01:13-05:38 Sam Stack\n05:38-12:32 Coretta Jefferson-Catbert\n12:32-19:24 Heinz Weber\n19:24-24:56 Marvin Marvins\n24:56-30:58 Evelyn Normielib\n30:58-37:36 William R. Rafflesburg Jr.\n37:36-43:10 Erica Viceroot\n48:51-53:48 Mao\n53:48-01:01:33 Kathy Scarewillow\n01:01:33-01:06:05 Bo Lagrange\n01:06:05-1:10:53 Box Creamaux",
+          "tags": [
+            "JJ McCullough",
+            "J.J. McCullough",
+            "Political Cartoons",
+            "American Politics"
+          ],
+          "published": "2025-10-03T21:24:39Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "KHvOKp4k0S4",
+          "title": "They hate gas prices more than they hate trans people",
+          "creator": "Infatheline",
+          "creatorId": "UCoA4Xlmkop9PlSGuGdrHm5A",
+          "duration": 267,
+          "description": "SUBSCRIBE OR I WILL GLASS YOUR HOUSE",
+          "tags": [
+            "transition",
+            "lgbtq+",
+            "transgender",
+            "lgbt",
+            "lgbtq",
+            "trans egg meme",
+            "trans",
+            "trans women",
+            "lgbtqia",
+            "trans egg memes",
+            "gay meme",
+            "entertainment",
+            "memes",
+            "trans woman",
+            "transfem",
+            "gender euphoria"
+          ],
+          "published": "2026-11-04T14:57:04Z",
+          "categoryId": "24"
+        },
+        {
+          "id": "ToR6S509-QM",
+          "title": "Gov Pritzker On How We END TRUMP",
+          "creator": "Adam Mockler",
+          "creatorId": "UC8DA4o0SyaGfyVaBLbF5EXg",
+          "duration": 951,
+          "description": "Illinois Governor JB Pritzker joins Adam Mockler to talk about fixing America after Democrats blue wave.\n\nBookmark 'Election Night with Adam Mockler': https://www.youtube.com/watch?v=GGDKvaswxNI\n\nClick below for premium Adam Mockler content:\n👉 https://adammockler.com/subscribe\n👉 https://www.youtube.com/@adammockler/join\n👉 https://www.youtube.com/@AdamMocklerClips\n\nJOIN THE COMMUNITY: \nReddit: https://www.reddit.com/r/AdamMockler/\nDiscord: https://discord.gg/y9yzMU3Gff\nInstagram: https://www.instagram.com/adammockler/\nBluesky: https://bsky.app/profile/adammockler.com/\nTwitter: https://x.com/adammocklerr/\nTikTok: https://www.tiktok.com/@adammockler\n\nContact: contact@mocklermedia.com\nBusiness inquiries: adammocklerteam@unitedtalent.com\n\nAdam Mockler - Mockler Media LLC",
+          "tags": [
+            "meidastouch",
+            "meidas touch",
+            "politics",
+            "ben meiselas",
+            "midas touch",
+            "midastouch",
+            "donald trump",
+            "trump",
+            "joe biden",
+            "biden",
+            "president",
+            "elections",
+            "republicans",
+            "democrats",
+            "democratic party",
+            "republican party"
+          ],
+          "published": "2026-11-05T00:40:46Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "Maw5t-POQ3w",
+          "title": "How Democrats Abandoned The Working Class with More Perfect Union's John Russell",
+          "creator": "Hasan Minhaj",
+          "creatorId": "UCarEovlrD9QY-fy-Z6apIDQ",
+          "duration": 3849,
+          "description": "Hasan sits down with More Perfect Union’s John Russell to discuss how the Democratic Party shifted their strategy away from the working class, what people often misunderstand about Trump voters, and the bipartisan coalition forming against AI data centers.\n\nCo-Creator & Executive Producer: Hasan Minhaj\nCo-Creator & Executive Producer: Prashanth Venkataramanujam\nExecutive Producer/Director: Tyler Babin\nExecutive Producer/Showrunner: Scott Vrooman\nProducer: Kayla Feng\nProducer/ Copywriter: Annie Fick\nCinematographer: Austin Morales\nEditors: Javier Aguiar, N/V Moore and Will Feinstein\nAssistant Editor: Zae Jordan\nTalent Coordinators: Tanya Somanader and Kori Schulman\nExecutive Assistant: Samuel Piland\n\n0:00 Let’s relitigate the 90s! \n11:54 West Virginia is giving you the finger\n13:24 Rural America\n15:04 How to talk to Trump voters\n18:12 The Working Class\n23:22 Worker co-ops in Italy\n26:09 How Democrats abandoned the working class\n30:44 Ad\n31:49 The new anti-tech coalition\n37:40 The split ticket paradox\n39:14 Why… Trump?\n41:00 Ignorance vs. bigotry\n45:12 First they came for the leftists…\n49:47 Are Trump voters reachable? \n54:54 Trump is less popular… does that matter?\n56:08 John’s thoughts on JD Vance\n57:12 East Palestine\n1:03:07 John’s meaning of “redneck” \n\nYOU CAN WATCH ON CNN.COM/WATCH OR THE CNN APP.\n\nNew to HMDK? \n👉🏾 Watch past episodes https://www.youtube.com/playlist?list=PLE6linSnhLs0dd6APJS0_u12PLhQoRXD3\n👉🏾 Follow HMDK on Instagram https://www.instagram.com/hmdk\n👉🏾 Follow Hasan on Instagram https://www.instagram.com/hasanminhaj\n👉🏾 Follow Hasan on TikTok - http",
+          "tags": [
+            "Hasan Minhaj Doesn’t Know",
+            "Hasan Minhaj",
+            "Hasan Minhaj podcast",
+            "political comedy",
+            "politics",
+            "comedy",
+            "current events",
+            "talk show",
+            "podcast",
+            "long form conversation",
+            "deep dive",
+            "More Perfect Union",
+            "John Russell",
+            "Bernie Sanders",
+            "Donald Trump",
+            "Democrats"
+          ],
+          "published": "2026-08-12T12:30:00Z",
+          "categoryId": "23"
+        },
+        {
+          "id": "3cV3Sf2LOpg",
+          "title": "Ana Kasparian: Independent and Unaligned | Doomscroll",
+          "creator": "Joshua Citarella",
+          "creatorId": "UC4pEm3-yshBWa7nH3sQIKHQ",
+          "duration": 3933,
+          "description": "My guest is Ana Kasparian, a host and executive producer of @TheYoungTurks.\nPart 2: https://www.patreon.com/posts/doomscroll-ana-136323054\nWe discuss her political journey from progressive to \"independent and unaligned\". Last year, Kasparian’s commentary took an editorial turn away from left echo-chambers and towards a generalized populism. We pay respect to the political genius and lasting influence of Michael Brooks.\nhttps://www.patreon.com/cw/joshuacitarella\n\nAna Kasparian is an American political commentator, producer, and journalist best known as a host and executive producer at The Young Turks. Her work focuses on American politics, media criticism, and progressive commentary, and she has become a prominent voice in online political media.\n\n0:00 Intro\n0:42 Michael Brooks\n6:05 Radical liberalism vs right populism\n16:01 FDR economics & the left\n23:54 Background & values\n32:07 Media polarization\n42:12 Cancel culture & realignment\n49:56 Labor vs nationalism\n55:39 Class & political economy\n1:02:25 Kindness & ruthless",
+          "tags": [
+            "ana kasparian",
+            "joshua citarella",
+            "the young turks",
+            "young turks",
+            "tyt",
+            "doomscroll",
+            "podcast",
+            "interview",
+            "doom scroll",
+            "populism",
+            "right",
+            "left",
+            "unaligned",
+            "anna kasparian",
+            "josh citarella"
+          ],
+          "published": "2025-08-12T19:36:10Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "dzRhVwbMtpc",
+          "title": "Why Radicals Fall for Cranks",
+          "creator": "Ryan Geddie",
+          "creatorId": "UCPiQWdmfYFGO5QNU6gWSTUg",
+          "duration": 1214,
+          "description": "Over the last few days, the online left has been fighting about AOC and Marjorie Taylor Greene. About if Marjorie Taylor Greene is someone people on the left can work with because of her positions on Israel and Palestine.\nBut in all this conversation about AOC and MTG, I think a really important distinction between them isn’t being discussed, something that goes beyond their positions on the issues\nThis is the crank vs radical distinction.\n\nTimestamps\n00:00 - 02:28 AOC vs MTG Beef\n02:28 - 05:22 Cranks and Radicals\n05:22 - 06:36 AOC and MTG Mindset\n06:36 - 09:07 Why did MTG Leave MAGA\n09:07 - 14:40 Crank Blindness\n14:40 - 16:30 Anti-establishment Incentives\n16:30 - 17:38 Is this Just Horseshoe Theory\n17:38 - 20:17 Tucker Carlson, Thomas Massie, Candace Owens",
+          "tags": [],
+          "published": "2026-05-19T20:45:39Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "cJGzDYbzqfQ",
+          "title": "WE HAVE BREAKING NEWS! | FEAR&",
+          "creator": "Fear&",
+          "creatorId": "UCnI_h3e6b5jGLfly2SY57SA",
+          "duration": 3672,
+          "description": "real \"I don’t believe it. I’m on the thumbnail!\" vibes from this one\nalso it feels so good to be blue today\n\n\n\n\n\n\n\n❤️ follow Fear&! ❤️\n\nHasan: https://www.instagram.com/hasandpiker/\nWill: https://www.instagram.com/thewillneff/\nQT: https://www.instagram.com/qtcinderella/\nAustin: https://www.instagram.com/austinontwitch/\nFear&: https://www.instagram.com/FearAndPod/\n\n\n00:00:00 - Intro\n00:01:00 - we've been feeling rather blue recently\n00:04:33 - the timeline shifts have been absolutely insane\n00:07:41 - gabe i would love for you to pull this up...\n00:09:55 - alabama elected a transgender state legislator\n00:12:34 - imagine losing to someone who dropped out\n00:16:12 - running to go watch the one and only cuando cuando cuando\n00:17:37 - Seatgeek\n00:18:54 - hasan twitch watchers heard the sound get blown out prior to filming, will fix next week \n00:22:26 - you heard it here first!\n00:23:57 - The streamer awards are almost here!\n00:28:16 - EXCLUSIVE FEAR& ANNOUNCEMENT WE ACTUALLY GET SOMETHING FOR ONCE\n00:31:12 - Freshbooks\n00:32:32 - maya will be fine, BUT WE NEED THIS\n00:34:12 - promotional fast food items have gone a little overboard\n00:37:45 - remember when I showed my poop to my boyfriend\n00:39:54 - gay people can play madden\n00:41:11 - we just let them do their thing \n00:44:11 - we all have sleep apnia now (but spelled correctly)\n00:45:31 - the fear&podcast gets engaged\n00:47:03 - appear or \"feel\"\n00:48:10 - us who the hell is us?\n00:50:08 - this is where the ad starts to make sense\n00:51:11 - hasan is now in his art gallery era\n00:54:31 - whats next for hasans stream\n00:56:",
+          "tags": [],
+          "published": "2026-11-09T16:58:26Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "V52k0BhwFIk",
+          "title": "The Democratic Party's Future is Progressive",
+          "creator": "The Majority Report w/ Sam Seder",
+          "creatorId": "UC-3jIAlnQmbbVMV6gR7K8aQ",
+          "duration": 315,
+          "description": "The future of the Democratic Party is a progressive one. Cliff Schecter joins us to explain...\n\nThis clip from the Majority Report, live M-F at 12 noon EST and via daily podcast at http://Majority.FM\n\nSubscribe to us on YouTube: http://youtube.com/user/SamSeder",
+          "tags": [
+            "Democrat",
+            "Elizabeth Warren",
+            "Bill de Blasio",
+            "Democratic Party (Organization)",
+            "Cliff Schecter",
+            "Michael Brooks",
+            "liberal",
+            "progressive",
+            "politics",
+            "political news"
+          ],
+          "published": "2013-11-16T01:30:00Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "xIwkK0vAOIk",
+          "title": "The Hasan Question ft. Destiny Whick Ryan Geddie & More!",
+          "creator": "Soy Pill Streams",
+          "creatorId": "UCDE21X4oQgeg4fGrCvJ64Lw",
+          "duration": 11412,
+          "description": "",
+          "tags": [],
+          "published": "2026-04-10T07:19:49Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "43-R3XgjInI",
+          "title": "Dem Socialist Politely Destroys CNN Host's Gotcha Question",
+          "creator": "The Majority Report w/ Sam Seder",
+          "creatorId": "UC-3jIAlnQmbbVMV6gR7K8aQ",
+          "duration": 678,
+          "description": "Watch the Majority Report live Monday–Friday at 12pm EST on YouTube or http://www.Majority.fm \n\nTo connect and organize with your local ICE rapid response team visit ICERRT.com \n\nThe Congress switchboard number is (202) 224-3121. You can use this number to connect with either the US Senate or the House of Representatives. \n\nSend us IM messages during the live-stream with our free Majority Report App: \nhttp://majority.fm/app \n\nSubscribe to MR's daily AM Quickie newsletter: \nhttps://am-quickie.ghost.io \n\nFind all your MR merch at our store: https://shop.majorityreportradio.com \n\nBecome a Majority Report member: https://fans.fm/majority/join \n\nMore from the MR crew: \nBryan Vokey https://www.instagram.com/mrbryanvokey \nMatt Binder DOOMED https://www.youtube.com/MattBinder \nBrandon Sutton DISCOURSE https://www.youtube.com/@Th3Discourse \nEmma Vigeland https://www.instagram.com/emmavigeland/ \nMatt Lech LEFT RECKONING https://www.youtube.com/LeftReckoning \nOur alt YouTube: https://www.youtube.com/majorityreportlive",
+          "tags": [
+            "Sam Seder",
+            "Majority Report",
+            "Emma Vigeland",
+            "Matt Lech",
+            "Politics News",
+            "Democrat",
+            "liberal",
+            "progressive politics",
+            "left politics",
+            "Seder Majority",
+            "news",
+            "podcast",
+            "Bryan Vokey"
+          ],
+          "published": "2026-06-26T01:00:21Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "q4jtX8_OB6I",
+          "title": "It's Not Just the Supreme Court That's Broken (with Charles Star)",
+          "creator": "Liberal Currents",
+          "creatorId": "UCPpETRZo1yz0XVx8vfpyMpg",
+          "duration": 4742,
+          "description": "Attorney, podcaster, and political commentator Charles Star (Ugarles on Bluesky) join Ryan and Adam to discuss the Texas drag ban and the federal courts' handling of it, anti-left and anti-trans coverage in centrist media, the internal neuroses of the American elite, and more.\n\nResources\n\nhttps://bsky.app/profile/ugarles.bsky.social\n\nhttps://linktr.ee/ugarles\n\nhttps://www.theatlantic.com/magazine/archive/2019/12/the-commons/600733/",
+          "tags": [],
+          "published": "2026-09-12T12:09:57Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "iGh2nq8F_UM",
+          "title": "A 2026 Mid-Term Post Mortem. Why did the Democrats win big?",
+          "creator": "Let's Be Reasonable",
+          "creatorId": "UCXbDcaRcqi3EpaGws-8JvJw",
+          "duration": 2914,
+          "description": "Democrats flipped at least seven Senate seats and around forty House seats on Tuesday. Republicans flipped one. This is our look at why.\n\nWe go through four reasons. A country paying record gas prices in the middle of a war most voters didn't want. A Republican message about trans ads and \"crazy stuff\" while voters were worried about groceries. Primaries that picked loyalty over electability, from Ken Paxton in Texas to Vivek Ramaswamy here in Ohio. And the mid-decade gerrymanders that backfired.\n\nThen the takeaways for each party. That includes what Democrats should not read into this. A wave is a verdict on the party in power. It is not a mandate for the other one.\n\nResults are still being counted in some races. Everything here is accurate as of November 5, 2026.\n\nABOUT THIS CHANNEL Let's Be Reasonable is a channel for people who are tired of the shouting. We look at what is actually happening. We ask what the evidence says. We try to work out what a reasonable person should make of it.\n\nCalm heads. Honest questions. Room to disagree.\n\nI'm a historian by trade. For history, find me at Vlogging Through History: https://www.youtube.com/@VloggingThroughHistory \nStories of the Great War: https://www.youtube.com/@StoriesoftheGreatWar\n\n#Midterms2026 #ElectionResults #Politics",
+          "tags": [
+            "poll results",
+            "campaign strategies",
+            "donald trump",
+            "republican party",
+            "trump"
+          ],
+          "published": "2026-11-05T20:14:32Z",
+          "categoryId": "22"
+        },
+        {
+          "id": "buviXFn72JM",
+          "title": "Progressive ideology explained | Cenk Uygur and Lex Fridman",
+          "creator": "Lex Clips",
+          "creatorId": "UCJIfeSCssxSC_Dhc5s7woww",
+          "duration": 391,
+          "description": "Lex Fridman Podcast full episode: https://www.youtube.com/watch?v=QJtPROVsePk\nThank you for listening ❤ Check out our sponsors: https://lexfridman.com/sponsors/cv7825-sb\nSee below for guest bio, links, and to give feedback, submit questions, contact Lex, etc.\n\n*GUEST BIO:*\nCenk Uygur is a progressive political commentator and host of The Young Turks.\n\n*CONTACT LEX:*\n*Feedback* - give feedback to Lex: https://lexfridman.com/survey\n*AMA* - submit questions, videos or call-in: https://lexfridman.com/ama\n*Hiring* - join our team: https://lexfridman.com/hiring\n*Other* - other ways to get in touch: https://lexfridman.com/contact\n\n*EPISODE LINKS:*\nCenk's X: https://x.com/cenkuygur\nThe Young Turks YouTube: https://www.youtube.com/TheYoungTurks\nThe Young Turks Website: https://tyt.com/\nThe Young Turks on X: https://x.com/TheYoungTurks\n\n*SPONSORS:*\nTo support this podcast, check out our sponsors & get discounts:\n*Saily:* An eSIM for international travel.\nGo to https://lexfridman.com/s/saily-cv7825-sb\n*Policygenius:* Life insurance.\nGo to https://lexfridman.com/s/policygenius-cv7825-sb\n*AG1:* All-in-one daily nutrition drinks.\nGo to https://lexfridman.com/s/ag1-cv7825-sb\n*MasterClass:* Online classes from world-class experts.\nGo to https://lexfridman.com/s/masterclass-cv7825-sb\n*LMNT:* Zero-sugar electrolyte drink mix.\nGo to https://lexfridman.com/s/lmnt-cv7825-sb\n*NetSuite:* Business management software.\nGo to https://lexfridman.com/s/netsuite-cv7825-sb\n\n*PODCAST LINKS:*\n- Podcast Website: https://lexfridman.com/podcast\n- Apple Podcasts: https://apple.co/2lwqZIr\n- Spotify: https://op",
+          "tags": [
+            "alex friedman",
+            "lex ai",
+            "lex clips",
+            "lex debate",
+            "lex freedman",
+            "lex fridman",
+            "lex friedman",
+            "lex interview",
+            "lex lecture",
+            "lex mit",
+            "lex podcast",
+            "lex transcript"
+          ],
+          "published": "2024-09-01T16:00:04Z",
+          "categoryId": "28"
+        }
+      ],
+      "schedule": {
+        "schemaVersion": 1,
+        "start": 1794272792466,
+        "end": 1794632792466,
+        "durationHours": 100,
+        "programs": [
+          {
+            "videoId": "JzMSu3S-6ms",
+            "start": 1794272792466,
+            "end": 1794273599466
+          },
+          {
+            "videoId": "Maw5t-POQ3w",
+            "start": 1794273599466,
+            "end": 1794277448466
+          },
+          {
+            "videoId": "YeUWpj54WRw",
+            "start": 1794277448466,
+            "end": 1794282379466
+          },
+          {
+            "videoId": "h91Umykg7L0",
+            "start": 1794282379466,
+            "end": 1794284079466
+          },
+          {
+            "videoId": "43-R3XgjInI",
+            "start": 1794284079466,
+            "end": 1794284757466
+          },
+          {
+            "videoId": "2vokd2YG_xc",
+            "start": 1794284757466,
+            "end": 1794285254466
+          },
+          {
+            "videoId": "wMfyIedjT6c",
+            "start": 1794285254466,
+            "end": 1794286671466
+          },
+          {
+            "videoId": "cnjErjZI9xU",
+            "start": 1794286671466,
+            "end": 1794291744466
+          },
+          {
+            "videoId": "PtZ6hd4Phd8",
+            "start": 1794291744466,
+            "end": 1794292295466
+          },
+          {
+            "videoId": "X-ZjAzlfuds",
+            "start": 1794292295466,
+            "end": 1794300778466
+          },
+          {
+            "videoId": "ToR6S509-QM",
+            "start": 1794300778466,
+            "end": 1794301729466
+          },
+          {
+            "videoId": "JDvSmPjYcsI",
+            "start": 1794301729466,
+            "end": 1794302742466
+          },
+          {
+            "videoId": "eWXi9NhQo6c",
+            "start": 1794302742466,
+            "end": 1794303968466
+          },
+          {
+            "videoId": "qHQdvkT7APE",
+            "start": 1794303968466,
+            "end": 1794304593466
+          },
+          {
+            "videoId": "EumQbA3V45o",
+            "start": 1794304593466,
+            "end": 1794306324466
+          },
+          {
+            "videoId": "1qmP0VU2ZYg",
+            "start": 1794306324466,
+            "end": 1794307646466
+          },
+          {
+            "videoId": "qTJetYoIeBk",
+            "start": 1794307646466,
+            "end": 1794310056466
+          },
+          {
+            "videoId": "6BS1vK-5r8M",
+            "start": 1794310056466,
+            "end": 1794310890466
+          },
+          {
+            "videoId": "KHvOKp4k0S4",
+            "start": 1794310890466,
+            "end": 1794311157466
+          },
+          {
+            "videoId": "7C7tD0LtEnM",
+            "start": 1794311157466,
+            "end": 1794312036466
+          },
+          {
+            "videoId": "Vip21FwbAr8",
+            "start": 1794312036466,
+            "end": 1794312889466
+          },
+          {
+            "videoId": "S0mSm-KkhIE",
+            "start": 1794312889466,
+            "end": 1794314415466
+          },
+          {
+            "videoId": "dqS6a_fAe8U",
+            "start": 1794314415466,
+            "end": 1794314669466
+          },
+          {
+            "videoId": "p_MQcR3cPIs",
+            "start": 1794314669466,
+            "end": 1794317275466
+          },
+          {
+            "videoId": "vmrDK_xbkIc",
+            "start": 1794317275466,
+            "end": 1794319137466
+          },
+          {
+            "videoId": "TIuMC6ifbxI",
+            "start": 1794319137466,
+            "end": 1794320437466
+          },
+          {
+            "videoId": "qHu-VNabGy0",
+            "start": 1794320437466,
+            "end": 1794321025466
+          },
+          {
+            "videoId": "1GzNuyKzZUY",
+            "start": 1794321025466,
+            "end": 1794322606466
+          },
+          {
+            "videoId": "MJZF1YRTsi0",
+            "start": 1794322606466,
+            "end": 1794326889466
+          },
+          {
+            "videoId": "Jz-t3jd9bGs",
+            "start": 1794326889466,
+            "end": 1794327222466
+          },
+          {
+            "videoId": "k9SF94zUORs",
+            "start": 1794327222466,
+            "end": 1794328613466
+          },
+          {
+            "videoId": "6iLf2h_fo-w",
+            "start": 1794328613466,
+            "end": 1794329512466
+          },
+          {
+            "videoId": "MLvgr0VG6G4",
+            "start": 1794329512466,
+            "end": 1794330645466
+          },
+          {
+            "videoId": "iL3gpxD6_rs",
+            "start": 1794330645466,
+            "end": 1794337858466
+          },
+          {
+            "videoId": "P8VLe_EAhUE",
+            "start": 1794337858466,
+            "end": 1794339294466
+          },
+          {
+            "videoId": "J9gfd7SJneY",
+            "start": 1794339294466,
+            "end": 1794339932466
+          },
+          {
+            "videoId": "g4pD26T6GNw",
+            "start": 1794339932466,
+            "end": 1794341436466
+          },
+          {
+            "videoId": "lvtZUrpKUlI",
+            "start": 1794341436466,
+            "end": 1794342477466
+          },
+          {
+            "videoId": "BDnX7ei9f2o",
+            "start": 1794342477466,
+            "end": 1794346730466
+          },
+          {
+            "videoId": "qhUJMz-QKDg",
+            "start": 1794346730466,
+            "end": 1794347936466
+          },
+          {
+            "videoId": "aHVHA7AoXEQ",
+            "start": 1794347936466,
+            "end": 1794348416466
+          },
+          {
+            "videoId": "xIwkK0vAOIk",
+            "start": 1794348416466,
+            "end": 1794359828466
+          },
+          {
+            "videoId": "sRWjQ_XVKGw",
+            "start": 1794359828466,
+            "end": 1794360120466
+          },
+          {
+            "videoId": "IrbYAgDolgw",
+            "start": 1794360120466,
+            "end": 1794367707466
+          },
+          {
+            "videoId": "wxslW2kXGyk",
+            "start": 1794367707466,
+            "end": 1794368108466
+          },
+          {
+            "videoId": "AsN5ryRTM_0",
+            "start": 1794368108466,
+            "end": 1794370017466
+          },
+          {
+            "videoId": "buviXFn72JM",
+            "start": 1794370017466,
+            "end": 1794370408466
+          },
+          {
+            "videoId": "MVquZvlgwj4",
+            "start": 1794370408466,
+            "end": 1794370640466
+          },
+          {
+            "videoId": "cJGzDYbzqfQ",
+            "start": 1794370640466,
+            "end": 1794374312466
+          },
+          {
+            "videoId": "iGh2nq8F_UM",
+            "start": 1794374312466,
+            "end": 1794377226466
+          },
+          {
+            "videoId": "Dk3DbemgItA",
+            "start": 1794377226466,
+            "end": 1794377938466
+          },
+          {
+            "videoId": "n2BZE3XmzDQ",
+            "start": 1794377938466,
+            "end": 1794378310466
+          },
+          {
+            "videoId": "ASjBT6rwISY",
+            "start": 1794378310466,
+            "end": 1794379801466
+          },
+          {
+            "videoId": "3cV3Sf2LOpg",
+            "start": 1794379801466,
+            "end": 1794383734466
+          },
+          {
+            "videoId": "sO7SOwmnXqA",
+            "start": 1794383734466,
+            "end": 1794385032466
+          },
+          {
+            "videoId": "ESbJZt8oYvQ",
+            "start": 1794385032466,
+            "end": 1794389674466
+          },
+          {
+            "videoId": "dzRhVwbMtpc",
+            "start": 1794389674466,
+            "end": 1794390888466
+          },
+          {
+            "videoId": "V52k0BhwFIk",
+            "start": 1794390888466,
+            "end": 1794391203466
+          },
+          {
+            "videoId": "D3gIBtUXs7s",
+            "start": 1794391203466,
+            "end": 1794391583466
+          },
+          {
+            "videoId": "SZ-jnLLngLg",
+            "start": 1794391583466,
+            "end": 1794396071466
+          },
+          {
+            "videoId": "NmHhXoTckcM",
+            "start": 1794396071466,
+            "end": 1794397450466
+          },
+          {
+            "videoId": "q4jtX8_OB6I",
+            "start": 1794397450466,
+            "end": 1794402192466
+          },
+          {
+            "videoId": "JYQCP65AMbk",
+            "start": 1794402192466,
+            "end": 1794407378466
+          },
+          {
+            "videoId": "C2TUJHLoesA",
+            "start": 1794407378466,
+            "end": 1794408198466
+          },
+          {
+            "videoId": "tbw39BjEr9c",
+            "start": 1794408198466,
+            "end": 1794410108466
+          },
+          {
+            "videoId": "BBVH65RdZqM",
+            "start": 1794410108466,
+            "end": 1794411542466
+          },
+          {
+            "videoId": "ijOZfriOhfM",
+            "start": 1794411542466,
+            "end": 1794414697466
+          },
+          {
+            "videoId": "OTTskMDGrk8",
+            "start": 1794414697466,
+            "end": 1794417098466
+          },
+          {
+            "videoId": "JzMSu3S-6ms",
+            "start": 1794417098466,
+            "end": 1794417905466
+          },
+          {
+            "videoId": "Maw5t-POQ3w",
+            "start": 1794417905466,
+            "end": 1794421754466
+          },
+          {
+            "videoId": "YeUWpj54WRw",
+            "start": 1794421754466,
+            "end": 1794426685466
+          },
+          {
+            "videoId": "h91Umykg7L0",
+            "start": 1794426685466,
+            "end": 1794428385466
+          },
+          {
+            "videoId": "43-R3XgjInI",
+            "start": 1794428385466,
+            "end": 1794429063466
+          },
+          {
+            "videoId": "2vokd2YG_xc",
+            "start": 1794429063466,
+            "end": 1794429560466
+          },
+          {
+            "videoId": "wMfyIedjT6c",
+            "start": 1794429560466,
+            "end": 1794430977466
+          },
+          {
+            "videoId": "cnjErjZI9xU",
+            "start": 1794430977466,
+            "end": 1794436050466
+          },
+          {
+            "videoId": "PtZ6hd4Phd8",
+            "start": 1794436050466,
+            "end": 1794436601466
+          },
+          {
+            "videoId": "X-ZjAzlfuds",
+            "start": 1794436601466,
+            "end": 1794445084466
+          },
+          {
+            "videoId": "ToR6S509-QM",
+            "start": 1794445084466,
+            "end": 1794446035466
+          },
+          {
+            "videoId": "JDvSmPjYcsI",
+            "start": 1794446035466,
+            "end": 1794447048466
+          },
+          {
+            "videoId": "eWXi9NhQo6c",
+            "start": 1794447048466,
+            "end": 1794448274466
+          },
+          {
+            "videoId": "qHQdvkT7APE",
+            "start": 1794448274466,
+            "end": 1794448899466
+          },
+          {
+            "videoId": "EumQbA3V45o",
+            "start": 1794448899466,
+            "end": 1794450630466
+          },
+          {
+            "videoId": "1qmP0VU2ZYg",
+            "start": 1794450630466,
+            "end": 1794451952466
+          },
+          {
+            "videoId": "qTJetYoIeBk",
+            "start": 1794451952466,
+            "end": 1794454362466
+          },
+          {
+            "videoId": "6BS1vK-5r8M",
+            "start": 1794454362466,
+            "end": 1794455196466
+          },
+          {
+            "videoId": "KHvOKp4k0S4",
+            "start": 1794455196466,
+            "end": 1794455463466
+          },
+          {
+            "videoId": "7C7tD0LtEnM",
+            "start": 1794455463466,
+            "end": 1794456342466
+          },
+          {
+            "videoId": "Vip21FwbAr8",
+            "start": 1794456342466,
+            "end": 1794457195466
+          },
+          {
+            "videoId": "S0mSm-KkhIE",
+            "start": 1794457195466,
+            "end": 1794458721466
+          },
+          {
+            "videoId": "dqS6a_fAe8U",
+            "start": 1794458721466,
+            "end": 1794458975466
+          },
+          {
+            "videoId": "p_MQcR3cPIs",
+            "start": 1794458975466,
+            "end": 1794461581466
+          },
+          {
+            "videoId": "vmrDK_xbkIc",
+            "start": 1794461581466,
+            "end": 1794463443466
+          },
+          {
+            "videoId": "TIuMC6ifbxI",
+            "start": 1794463443466,
+            "end": 1794464743466
+          },
+          {
+            "videoId": "qHu-VNabGy0",
+            "start": 1794464743466,
+            "end": 1794465331466
+          },
+          {
+            "videoId": "1GzNuyKzZUY",
+            "start": 1794465331466,
+            "end": 1794466912466
+          },
+          {
+            "videoId": "MJZF1YRTsi0",
+            "start": 1794466912466,
+            "end": 1794471195466
+          },
+          {
+            "videoId": "Jz-t3jd9bGs",
+            "start": 1794471195466,
+            "end": 1794471528466
+          },
+          {
+            "videoId": "k9SF94zUORs",
+            "start": 1794471528466,
+            "end": 1794472919466
+          },
+          {
+            "videoId": "6iLf2h_fo-w",
+            "start": 1794472919466,
+            "end": 1794473818466
+          },
+          {
+            "videoId": "MLvgr0VG6G4",
+            "start": 1794473818466,
+            "end": 1794474951466
+          },
+          {
+            "videoId": "iL3gpxD6_rs",
+            "start": 1794474951466,
+            "end": 1794482164466
+          },
+          {
+            "videoId": "P8VLe_EAhUE",
+            "start": 1794482164466,
+            "end": 1794483600466
+          },
+          {
+            "videoId": "J9gfd7SJneY",
+            "start": 1794483600466,
+            "end": 1794484238466
+          },
+          {
+            "videoId": "g4pD26T6GNw",
+            "start": 1794484238466,
+            "end": 1794485742466
+          },
+          {
+            "videoId": "lvtZUrpKUlI",
+            "start": 1794485742466,
+            "end": 1794486783466
+          },
+          {
+            "videoId": "BDnX7ei9f2o",
+            "start": 1794486783466,
+            "end": 1794491036466
+          },
+          {
+            "videoId": "qhUJMz-QKDg",
+            "start": 1794491036466,
+            "end": 1794492242466
+          },
+          {
+            "videoId": "aHVHA7AoXEQ",
+            "start": 1794492242466,
+            "end": 1794492722466
+          },
+          {
+            "videoId": "xIwkK0vAOIk",
+            "start": 1794492722466,
+            "end": 1794504134466
+          },
+          {
+            "videoId": "sRWjQ_XVKGw",
+            "start": 1794504134466,
+            "end": 1794504426466
+          },
+          {
+            "videoId": "IrbYAgDolgw",
+            "start": 1794504426466,
+            "end": 1794512013466
+          },
+          {
+            "videoId": "wxslW2kXGyk",
+            "start": 1794512013466,
+            "end": 1794512414466
+          },
+          {
+            "videoId": "AsN5ryRTM_0",
+            "start": 1794512414466,
+            "end": 1794514323466
+          },
+          {
+            "videoId": "buviXFn72JM",
+            "start": 1794514323466,
+            "end": 1794514714466
+          },
+          {
+            "videoId": "MVquZvlgwj4",
+            "start": 1794514714466,
+            "end": 1794514946466
+          },
+          {
+            "videoId": "cJGzDYbzqfQ",
+            "start": 1794514946466,
+            "end": 1794518618466
+          },
+          {
+            "videoId": "iGh2nq8F_UM",
+            "start": 1794518618466,
+            "end": 1794521532466
+          },
+          {
+            "videoId": "Dk3DbemgItA",
+            "start": 1794521532466,
+            "end": 1794522244466
+          },
+          {
+            "videoId": "n2BZE3XmzDQ",
+            "start": 1794522244466,
+            "end": 1794522616466
+          },
+          {
+            "videoId": "ASjBT6rwISY",
+            "start": 1794522616466,
+            "end": 1794524107466
+          },
+          {
+            "videoId": "3cV3Sf2LOpg",
+            "start": 1794524107466,
+            "end": 1794528040466
+          },
+          {
+            "videoId": "sO7SOwmnXqA",
+            "start": 1794528040466,
+            "end": 1794529338466
+          },
+          {
+            "videoId": "ESbJZt8oYvQ",
+            "start": 1794529338466,
+            "end": 1794533980466
+          },
+          {
+            "videoId": "dzRhVwbMtpc",
+            "start": 1794533980466,
+            "end": 1794535194466
+          },
+          {
+            "videoId": "V52k0BhwFIk",
+            "start": 1794535194466,
+            "end": 1794535509466
+          },
+          {
+            "videoId": "D3gIBtUXs7s",
+            "start": 1794535509466,
+            "end": 1794535889466
+          },
+          {
+            "videoId": "SZ-jnLLngLg",
+            "start": 1794535889466,
+            "end": 1794540377466
+          },
+          {
+            "videoId": "NmHhXoTckcM",
+            "start": 1794540377466,
+            "end": 1794541756466
+          },
+          {
+            "videoId": "q4jtX8_OB6I",
+            "start": 1794541756466,
+            "end": 1794546498466
+          },
+          {
+            "videoId": "JYQCP65AMbk",
+            "start": 1794546498466,
+            "end": 1794551684466
+          },
+          {
+            "videoId": "C2TUJHLoesA",
+            "start": 1794551684466,
+            "end": 1794552504466
+          },
+          {
+            "videoId": "tbw39BjEr9c",
+            "start": 1794552504466,
+            "end": 1794554414466
+          },
+          {
+            "videoId": "BBVH65RdZqM",
+            "start": 1794554414466,
+            "end": 1794555848466
+          },
+          {
+            "videoId": "ijOZfriOhfM",
+            "start": 1794555848466,
+            "end": 1794559003466
+          },
+          {
+            "videoId": "OTTskMDGrk8",
+            "start": 1794559003466,
+            "end": 1794561404466
+          },
+          {
+            "videoId": "JzMSu3S-6ms",
+            "start": 1794561404466,
+            "end": 1794562211466
+          },
+          {
+            "videoId": "Maw5t-POQ3w",
+            "start": 1794562211466,
+            "end": 1794566060466
+          },
+          {
+            "videoId": "YeUWpj54WRw",
+            "start": 1794566060466,
+            "end": 1794570991466
+          },
+          {
+            "videoId": "h91Umykg7L0",
+            "start": 1794570991466,
+            "end": 1794572691466
+          },
+          {
+            "videoId": "43-R3XgjInI",
+            "start": 1794572691466,
+            "end": 1794573369466
+          },
+          {
+            "videoId": "2vokd2YG_xc",
+            "start": 1794573369466,
+            "end": 1794573866466
+          },
+          {
+            "videoId": "wMfyIedjT6c",
+            "start": 1794573866466,
+            "end": 1794575283466
+          },
+          {
+            "videoId": "cnjErjZI9xU",
+            "start": 1794575283466,
+            "end": 1794580356466
+          },
+          {
+            "videoId": "PtZ6hd4Phd8",
+            "start": 1794580356466,
+            "end": 1794580907466
+          },
+          {
+            "videoId": "X-ZjAzlfuds",
+            "start": 1794580907466,
+            "end": 1794589390466
+          },
+          {
+            "videoId": "ToR6S509-QM",
+            "start": 1794589390466,
+            "end": 1794590341466
+          },
+          {
+            "videoId": "JDvSmPjYcsI",
+            "start": 1794590341466,
+            "end": 1794591354466
+          },
+          {
+            "videoId": "eWXi9NhQo6c",
+            "start": 1794591354466,
+            "end": 1794592580466
+          },
+          {
+            "videoId": "qHQdvkT7APE",
+            "start": 1794592580466,
+            "end": 1794593205466
+          },
+          {
+            "videoId": "EumQbA3V45o",
+            "start": 1794593205466,
+            "end": 1794594936466
+          },
+          {
+            "videoId": "1qmP0VU2ZYg",
+            "start": 1794594936466,
+            "end": 1794596258466
+          },
+          {
+            "videoId": "qTJetYoIeBk",
+            "start": 1794596258466,
+            "end": 1794598668466
+          },
+          {
+            "videoId": "6BS1vK-5r8M",
+            "start": 1794598668466,
+            "end": 1794599502466
+          },
+          {
+            "videoId": "KHvOKp4k0S4",
+            "start": 1794599502466,
+            "end": 1794599769466
+          },
+          {
+            "videoId": "7C7tD0LtEnM",
+            "start": 1794599769466,
+            "end": 1794600648466
+          },
+          {
+            "videoId": "Vip21FwbAr8",
+            "start": 1794600648466,
+            "end": 1794601501466
+          },
+          {
+            "videoId": "S0mSm-KkhIE",
+            "start": 1794601501466,
+            "end": 1794603027466
+          },
+          {
+            "videoId": "dqS6a_fAe8U",
+            "start": 1794603027466,
+            "end": 1794603281466
+          },
+          {
+            "videoId": "p_MQcR3cPIs",
+            "start": 1794603281466,
+            "end": 1794605887466
+          },
+          {
+            "videoId": "vmrDK_xbkIc",
+            "start": 1794605887466,
+            "end": 1794607749466
+          },
+          {
+            "videoId": "TIuMC6ifbxI",
+            "start": 1794607749466,
+            "end": 1794609049466
+          },
+          {
+            "videoId": "qHu-VNabGy0",
+            "start": 1794609049466,
+            "end": 1794609637466
+          },
+          {
+            "videoId": "1GzNuyKzZUY",
+            "start": 1794609637466,
+            "end": 1794611218466
+          },
+          {
+            "videoId": "MJZF1YRTsi0",
+            "start": 1794611218466,
+            "end": 1794615501466
+          },
+          {
+            "videoId": "Jz-t3jd9bGs",
+            "start": 1794615501466,
+            "end": 1794615834466
+          },
+          {
+            "videoId": "k9SF94zUORs",
+            "start": 1794615834466,
+            "end": 1794617225466
+          },
+          {
+            "videoId": "6iLf2h_fo-w",
+            "start": 1794617225466,
+            "end": 1794618124466
+          },
+          {
+            "videoId": "MLvgr0VG6G4",
+            "start": 1794618124466,
+            "end": 1794619257466
+          },
+          {
+            "videoId": "iL3gpxD6_rs",
+            "start": 1794619257466,
+            "end": 1794626470466
+          },
+          {
+            "videoId": "P8VLe_EAhUE",
+            "start": 1794626470466,
+            "end": 1794627906466
+          },
+          {
+            "videoId": "J9gfd7SJneY",
+            "start": 1794627906466,
+            "end": 1794628544466
+          },
+          {
+            "videoId": "g4pD26T6GNw",
+            "start": 1794628544466,
+            "end": 1794630048466
+          },
+          {
+            "videoId": "lvtZUrpKUlI",
+            "start": 1794630048466,
+            "end": 1794631089466
+          },
+          {
+            "videoId": "BDnX7ei9f2o",
+            "start": 1794631089466,
+            "end": 1794632792466
           }
         ]
       }
