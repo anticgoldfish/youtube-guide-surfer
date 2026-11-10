@@ -3,7 +3,7 @@
   "scheduleSchemaVersion": 1,
   "scheduleHorizonHours": 100,
   "refreshIntervalHours": 72,
-  "updatedAt": "2026-11-10T01:06:33.015Z",
+  "updatedAt": "2026-11-10T01:08:08.017Z",
   "channels": [
     {
       "name": "Sitcom Video Essays",
@@ -18497,6 +18497,4289 @@
             "videoId": "BDnX7ei9f2o",
             "start": 1794631089466,
             "end": 1794632792466
+          }
+        ]
+      }
+    },
+    {
+      "name": "Aidan Hall",
+      "number": 107,
+      "category": "Politics",
+      "mode": "creatorMulti",
+      "prompt": "",
+      "sourceChannel": "",
+      "playlists": [],
+      "order": "shuffle",
+      "topic": "",
+      "exclude": "",
+      "strictness": "strict",
+      "seedIds": [],
+      "approximateDiscovery": true,
+      "feedPrompt": "",
+      "youtubeFeedPrompt": "",
+      "feedName": "",
+      "seedStrictness": "strict",
+      "seedExclude": "",
+      "includeSeeds": true,
+      "sourceCreators": [
+        "@aidan_hall",
+        "@coldtakesss"
+      ],
+      "id": "ch_79097ab6-3d3e-4a45-ac67-14f0f61f3f21",
+      "anchor": 1794272879335,
+      "rejectedIds": [],
+      "videos": [
+        {
+          "id": "uTi41H6TYEs",
+          "title": "Socialism's Rebrand Is Working",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1370,
+          "description": "Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link https://monarchmoney.yt.link/ipGcWO5 or code aidan50 for 50% Off Monarch Core tier.\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - What's up with Zohran?\n3:50 - Monarch!\n4:53 - Group 1\n8:07 - Group 2\n10:33 - Group 3\n12:58 - Group 4\n16:04 - Group 5\n20:48 - So, What Now?\n\nThanks to Monarch for sponsoring the video\n\n#mamdani #democrats #socialism",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-07-27T15:15:11Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "VNgM-2m4CZE",
+          "title": "The Supreme Court is About to Change How You Vote",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 342,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.nytimes.com/live/2026/03/23/us/supreme-court-voting-late-ballots\nhttps://www.reuters.com/legal/government/us-supreme-court-weighs-republican-bid-limit-mail-in-voting-2026-03-23/\nhttps://www.nytimes.com/2026/03/24/us/politics/trump-mail-in-voting-florida.html\nhttps://www.latimes.com/politics/story/2026-03-23/californians-may-need-to-mail-ballots-early-as-supreme-court-signals-support-for-new-election-day-deadline\n\n#mailinvoting #election2026 #uspolitics",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Supreme Court",
+            "SCOTUS"
+          ],
+          "published": "2026-03-25T20:30:14Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "K4C1-MilB60",
+          "title": "The Redistricting War Is About to Backfire on Republicans",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 665,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://time.com/article/2026/06/08/exclusive-democrats-set-in-motion-plan-to-redraw-house-districts-in-as-many-as-13-states/\n\n#gerrymandering #redistricting #midterms",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "redistricting",
+            "gerrymandering"
+          ],
+          "published": "2026-06-19T15:15:26Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "VT1KFVgkYec",
+          "title": "Did Colorado Just Save the Democratic Party?",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 1194,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.politico.com/news/2026/05/08/why-a-new-york-gerrymander-wont-be-as-aggressive-as-gop-ones-00912656?nname=playbook&nid=0000014f-1646-d88f-a1cf-5f46b7bd0000&nrid=cc8b7ba6-78b9-4214-b681-8cab999d6c2c\nhttps://www.wsj.com/politics/elections/democrats-target-new-states-to-win-redistricting-war-27804282\nhttps://www.nytimes.com/2026/05/08/upshot/redistricting-midterms-republicans-house.html\n\n#Gerrymandering #Election2026 #USPolitics",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "redistricting",
+            "gerrymandering"
+          ],
+          "published": "2026-05-14T15:15:05Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "YKVWdNy1dhE",
+          "title": "The House of Representatives just Broke",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 674,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.supremecourt.gov/opinions/25pdf/24-109_21o3.pdf\nhttps://www.scotusblog.com/2026/05/court-gives-immediate-effect-to-voting-rights-act-decision/\nhttps://www.nytimes.com/2026/04/30/upshot/gerrymanders-redistricting-democrats-republicans.html\nhttps://www.nytimes.com/2025/11/01/upshot/gerrymanders-redistricting-maps.html\nhttps://www.nytimes.com/2025/10/15/upshot/supreme-court-voting-rights-gerrymander.html\nhttps://www.axios.com/local/chicago/2026/05/04/illinois-democrats-redistricting-supreme-court-voters-right-pritzker\nhttps://nystateofpolitics.com/state-of-politics/new-york/politics/2026/04/29/hochul-reiterates-changing-n-y--redistricting-process\nhttps://coloradonewsline.com/2025/08/13/constitutional-amendment-colorado-redistricting/\nhttps://www.cookpolitical.com/redistricting/2025-26-mid-decade-map\nhttps://ballotpedia.org/State_government_trifectas\n\n#Gerrymandering #VotingRights #USPolitics",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "partisan gerrymandering",
+            "Louisiana v Callais"
+          ],
+          "published": "2026-05-06T15:15:08Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "xuBk4PK4REg",
+          "title": "Did Xavier Becerra Just Hijack the Governor's Race?",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 567,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://emersoncollegepolling.com/california-2026-poll-april/\nhttps://www.sfchronicle.com/politics/article/california-gop-convention-bianco-hilton-22200174.php\nhttps://www.latimes.com/california/story/2026-04-10/newsom-reluctant-to-endorse-successor-break-gridlock-in-governors-race\n\n#californiagovernor #xavierbecerra #election2026",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "California governor race",
+            "Eric Swalwell"
+          ],
+          "published": "2026-04-19T15:15:06Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "yqMsl9gQdxk",
+          "title": "Democrats Have a 2016 Problem",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1436,
+          "description": "Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link https://monarchmoney.yt.link/lHpdj37 or code aidan50 for 50% Off Monarch Core tier.\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - I built a Time Machine!\n1:08 - Where was Biden in 2016?\n3:13 - Monarch!!\n4:26 - The New Elections\n9:53 - 2017\n12:53 - 2018\n16:05 - 2019\n19:04 - 2020\n21:46 - Wait a minute...\n\nThanks to Monarch for sponsoring the video\n\n#alternatehistory #whatif #biden",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "SearchParty",
+            "VisualEssay",
+            "SocialSystems",
+            "PolicyAnalysis",
+            "DocumentaryStyle",
+            "InfographicStories",
+            "what if",
+            "alternate history",
+            "Biden 2016"
+          ],
+          "published": "2026-07-13T15:15:01Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "H99YOHWYkq8",
+          "title": "Why Trump is About to Lose His Biggest Court Battle",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 611,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.vox.com/politics/487650/supreme-court-2026-term-what-is-left\nhttps://www.nytimes.com/interactive/2026/02/20/us/supreme-court-major-cases-2026.html\n\n#SupremeCourt #SCOTUS #USPolitics",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Supreme Court",
+            "SCOTUS"
+          ],
+          "published": "2026-05-27T15:15:11Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "xn1W95Nv8eY",
+          "title": "Apple Might've Accidentally Killed Political Polling...",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 290,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.washingtonpost.com/opinions/2025/08/07/apple-ios-update-spam-polling-democracy/\nhttps://sanjosespotlight.com/apples-new-ios-update-could-damage-polling-industry/\nhttps://www.reddit.com/r/neoliberal/comments/1gjdadc/the_ann_selzer_methodology/\nhttps://www.iowapublicradio.org/ipr-news/2024-12-17/trump-sues-des-moines-register-ann-selzer-iowa-poll-harris-win-election-interference",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Apple iOS 26",
+            "spam filtering"
+          ],
+          "published": "2026-02-17T23:57:11Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "Q12m5sOji04",
+          "title": "My Midterm Predictions Are Falling Apart",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1388,
+          "description": "Make your plan to vote with this video's sponsor, VOTE-E, a free, nonpartisan voting assistant from NextGen America: https://vote-e.vote/vr/aidanhall\nFind your polling place, see your whole ballot, and get text reminders before Election Day on Nov 3. It never sells your data.\n\nCheck out the second channel here:  @coldtakesss  \nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n#TeamHuman: I signed on with Team Human's call for a global slowdown on AI through international agreements. Add your name: https://teamhuman.org/aidanhall\n\n0:00 - My Problem\n1:23 - Ohio (Senate)\n2:43 - Iowa (Senate)\n4:36 - Team Human\n6:25 - Kansas (Senate)\n8:16 - Nebraska (Senate)\n9:50 - Montana (Senate)\n10:56 - South Carolina (Senate)\n15:47 - Kansas (Governor)\n17:53 - Texas (Governor)\n18:55 - Vermont (Governor)\n20:09 - Nevada (Governor)\n21:35 - ME-02\n\n#Midterms2026 #ElectionPredictions",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-10-26T15:15:06Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "9p66MucaAXY",
+          "title": "The Democrats' Plan to Undo the Trump Years",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 418,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://open.substack.com/pub/matthewyglesias/p/upscale-liberals-are-developing-class?r=49aeqm&utm_campaign=post&utm_medium=web\nhttps://www.wsj.com/politics/policy/politician-age-limits-debate-ef33b504?gaa_at=eafs&gaa_n=AWEtsqcOsM-VFZfYXmo9Yy36spRF6qAtwzpSnfxb-jIOFIEWKOxbktr1J_uKfQaTSLQ%3D&gaa_ts=69d57d91&gaa_sig=HQCPcG_xHnpWxqcdurrAJ_Ien1Vjao13I_R5FyjeDKoEtajnOAXHqh4_sE3fjJdR47GHau0fnhqspGpalxrOpg%3D%3D\nhttps://www.cbo.gov/sites/default/files/103rd-congress-1993-1994/reports/doc03.pdf\n\n#election2026 #democrats #trumpnews",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "2028 election",
+            "Democratic party"
+          ],
+          "published": "2026-04-08T15:15:01Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "2oqsqysP_kk",
+          "title": "Who Will Run California Next?",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 453,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.politico.com/news/2026/02/21/swalwell-and-steyer-surge-in-wide-open-california-governors-race-00792365\nhttps://www.sfgate.com/politics/article/california-governor-frontrunner-21367771.php",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "California governor race",
+            "2026 election"
+          ],
+          "published": "2026-02-24T01:20:27Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "Fb8BAsT6zm4",
+          "title": "The 2026 Strategy Hiding in Plain Sight",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 305,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall​\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.politico.com/news/2026/02/10/senate-filibuster-gop-save-act-00775393\nhttps://www.cnbc.com/2026/02/10/senate-filibuster-thune-trump-save-act.html",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "voter ID laws",
+            "SAVE Act"
+          ],
+          "published": "2026-02-12T02:41:34Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "nqbEPJNx44Y",
+          "title": "The Mamdani of LA is Here",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 777,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://luskin.ucla.edu/volatility-ahead-in-la-mayors-race-ucla-luskin-poll-finds-40-of-voters-undecided\nhttps://ucla.app.box.com/s/5hq7trv75z30snqjidfmj2ufd2h6ctpc\nhttps://www.newsweek.com/karen-bass-chance-of-losing-to-spencer-pratt-in-los-angeles-racepoll-11781804\nhttps://www.usatoday.com/story/news/california/2026/04/07/new-la-mayor-race-polls-2026/89499227007/\n\n#lamayor #mamdani #spencerpratt",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Karen Bass",
+            "Nithya Raman"
+          ],
+          "published": "2026-04-13T19:00:50Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "5lSnkHNGLLc",
+          "title": "You Aren't \"Winning\" the Credit Card Game",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1078,
+          "description": "Here's some of those useful finance channels I mentioned:\n@ThePlainBagel \n@TwoCentsPBS \n\nThe best Credit Card I have is the Venture X, apply using this link for a bonus: https://i.capitalone.com/GieRUYFxV\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - I Have So Many Credit Cards\n1:36 - History of Credit Cards\n6:03 - How did we get Addicted?\n7:21 - Are There Laws?\n8:06 - How do Credit Cards Make Money?\n9:45 - Do These Cards Hurt Poor People?\n10:28 - Credit Card Influencers\n14:33 - Is This a Trap?\n15:45 - The Future!\n17:27 - The Outro!\n\n#creditcards #finance #videoessay",
+          "tags": [
+            "Credit cards",
+            "Credit card rewards",
+            "Credit scores",
+            "Credit card churning",
+            "Travel hacking",
+            "Financial influencers",
+            "Graham Stephan",
+            "Credit Shifu",
+            "AskSebby",
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories"
+          ],
+          "published": "2024-10-28T16:00:04Z",
+          "categoryId": "27"
+        },
+        {
+          "id": "hW9s4LRzhJc",
+          "title": "Is Trump TRYING to Lose the Midterms?",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 451,
+          "description": "One scam can cost you everything — use code “ctcoveron” for up to 76% off at https://coveron.com/ctcoveron  #ad\n\n🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @Aidan_hall\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.pbs.org/newshour/show/trump-scraps-housing-bill-signing-to-pressure-senate-gop-on-save-act\nhttps://www.npr.org/2026/06/25/nx-s1-5869577/trump-voting-save-america-act\nhttps://abc7news.com/story/house-gives-final-approval-bipartisan-housing-bill-aimed-lowering-costs/19370693/\nhttps://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls\nhttps://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin\n\n#housingcrisis #saveact",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "housing affordability",
+            "affordability crisis"
+          ],
+          "published": "2026-06-26T16:00:21Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "8z-MoXIZtaY",
+          "title": "The Plan to Break Congress",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1527,
+          "description": "Go to http://groundnews.com/aidan for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage through the link!\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - The Looming Problem\n1:29 - Redistricting Will Define the 2026 Midterms\n3:59 - Ground News!\n5:33 - The Other States\n6:38 - Project REDMAP\n11:39 - Packing and Cracking\n15:00 - RIP VRA?\n19:57 - Redistricting Game Time\n\nThanks to Ground News for sponsoring this video\n\n#Politics #gerrymandering  #supremecourt",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2025-11-26T18:15:02Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "yDdwhj9IiUI",
+          "title": "This is all Really Good for Democrats",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 490,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.axios.com/2026/03/02/iran-oil-prices-inflation\nhttps://www.theverge.com/tech/880812/ramageddon-ram-shortage-memory-crisis-price-2026-phones-laptops\nhttps://www.pbs.org/newshour/economy/the-iran-war-and-surging-oil-prices-are-affecting-consumers-heres-how\nhttps://apnews.com/article/economy-issues-exit-poll-election-2025-ccd2cab49e6f7d6b310173d70ce570f8\nhttps://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "inflation",
+            "oil prices"
+          ],
+          "published": "2026-03-13T15:15:07Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "PjyEUyDF3B0",
+          "title": "Trump's Spending Cuts Just Got Blocked by Congress??",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 416,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.nytimes.com/2026/02/17/us/politics/trump-congress-budget-cuts.html",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "federal budget",
+            "government spending"
+          ],
+          "published": "2026-02-19T04:17:29Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "-Qq7op3Ivpg",
+          "title": "Private High Schools Are Breaking the System",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 959,
+          "description": "In a way, I just taught a class on private schools... that'll be $10,000\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - Why I Feel Weird about Private Schools\n2:16 - History of Private Schools\n4:34 - The Real Value\n6:45 - The Economics of Private Schools\n9:33 - How Can We Fix This?\n13:07 - Conclusion\n\n#school #inequality #videoessay",
+          "tags": [
+            "PrivateSchools",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "JohnnyHarris",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "EducationInequality",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary",
+            "CulturalAnalysis"
+          ],
+          "published": "2025-03-31T15:00:00Z",
+          "categoryId": "27"
+        },
+        {
+          "id": "H8W9TJerp6Y",
+          "title": "Does Anyone Still Like Trump?",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 419,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://messaging-custom-newsletters.nytimes.com/dynamic/render?ccpaOptOut=true&isViewInBrowser=true&nl=the-tilt&productCode=NC&segment_id=217382&sendId=217382&uri=nyt%3A%2F%2Fnewsletter%2F708c5d06-2e2e-5818-bef8-060bad1d0c5c\nhttps://www.politico.com/news/2026/03/30/trump-approval-drops-midterm-fears-00851001\nhttps://thehill.com/homenews/administration/5808710-nate-silver-donald-trump-polling-disapproval/\nhttps://static.foxnews.com/foxnews.com/content/uploads/2026/03/fox_march-20-23-2026_national_topline_march-25-release.pdf\nhttps://www.natesilver.net/p/iran-war-polls-popularity-approval\nhttps://www.natesilver.net/p/generic-ballot-average-2026-nate-silver-bulletin-congress-polls\nhttps://www.foxnews.com/politics/fox-news-poll-voters-oppose-action-iran-give-u-s-military-positive-marks\n\n#trumpadministration #election2026 #uspolitics",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Donald Trump",
+            "approval rating"
+          ],
+          "published": "2026-04-03T15:15:03Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "7KKikBFOOBo",
+          "title": "Wisconsin Might Elect America's First Socialist Governor",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 850,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.politico.com/news/2026/07/18/democrats-panic-wisconsin-governor-01003911\nhttps://apnews.com/article/david-crowley-tony-evers-wisconsin-governor-a4ccb9e143e886e337d1f3b457b18207\nhttps://www.realclearpolling.com/elections/governor/2026/wisconsin\nhttps://www.nbcnews.com/politics/2026-election/democratic-socialists-eye-battleground-state-breakthrough-primary-rcna351135\nhttps://www.wpr.org/news/francesca-hong-hasan-piker-livestreams-antisemitism-governors-race-wisconsin\nhttps://wisconsinwatch.org/2023/04/did-potential-wisconsin-us-senate-candidate-tom-tiffany-vote-against-certifying-2020-election-results/\nhttps://protectdemocracy.org/work/understanding-the-electoral-count-reform-act-of-2022/\n\n#wisconsin #socialist #governor",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Wisconsin governors race",
+            "Francesca Hong"
+          ],
+          "published": "2026-07-20T17:37:17Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "bqyQUk7bffw",
+          "title": "I Predicted Every Senate Race",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1691,
+          "description": "They can't harm you, if they can't find you! Use code AIDANHALL at the link below and get 60% off an annual plan: https://incogni.com/aidanhall\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - What's the Deal with Polling?\n5:48 - Iowa\n8:21 - Florida\n10:15 - Alaska\n12:29 - Nebraska\n14:22 - South Dakota\n17:34 - Idaho\n18:42 - Montana\n20:09 - Kansas\n21:13 - Maine\n23:12 - Ohio\n24:21 - Georgia\n24:42 - North Carolina\n25:23 - Michigan\n26:31 - Texas\n\nThanks to Incogni for sponsoring this video\n\n#Midterms2026 #Senate #Election2026",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-08-24T15:15:20Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "_4IU_A8XiPc",
+          "title": "Mamdani Is Now the Most Powerful Man in the Democratic Party",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 485,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://abc7ny.com/post/ny-primary-results-3-candidates-endorsed-mamdani-chevalier-lander-valdez-win-primaries-new-york/19371527/https://www.theguardian.com/us-news/2026/jun/24/brad-lander-democratic-primary-zohran-mamdani#img-1\nhttps://www.youtube.com/watch?v=tAMAndgLZHE\n\n#mamdani #democraticprimary #progressives",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Zohran Mamdani",
+            "Mamdani"
+          ],
+          "published": "2026-06-25T00:56:52Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "ctFJ4NIUHl0",
+          "title": "Why Establishment Democrats Are Terrified of 2028",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 612,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.economist.com/united-states/2026/04/07/meet-the-four-democratic-tribes\nhttps://www.natesilver.net/p/which-2028-democrats-have-the-best\nhttps://www.natesilver.net/p/what-is-heather-cox-richardsonism\n\n#democrats #aipac #election2026",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Democratic party factions",
+            "Economist YouGov poll"
+          ],
+          "published": "2026-04-10T15:15:06Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "19ABLf5b9Qw",
+          "title": "The Day After the Midterms",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1397,
+          "description": "Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link https://monarchmoney.yt.link/qUHNtYq or code aidan50 for 50% Off Monarch Core tier.\n\nI asked three of my favorite political creators what happens after Election Day. Go subscribe to them!\nEthan Kelly: @LetsTalkElections \nSteve Morris: Margin of Error on @TheRecount, plus his newsletter The Long Run: https://thelongrun.news\nRyan Geddie: @RyanGeddie \n\nCheck out the second channel here: @coldtakesss \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - What Happens After Election Day?\n0:36 - How Fast 2028 Actually Starts\n1:18 - Meet the Panel\n2:13 - Plaud!\n3:32 - Who Runs First in 2028?\n5:26 - My Take: The Kamala Question\n6:28 - Will Republicans Wait for Trump?\n8:42 - My Take: The Hatch Act Problem\n9:59 - Does a Democratic Congress Get Its Moment?\n13:29 - My Take: Best Case, Worst Case\n14:27 - Part 2: What Happens to Political Creators?\n19:51 - Living With Constant Change\n22:16 - Final Thoughts\n\n#2028Election #Midterms2026 #GavinNewsom",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-10-05T15:15:30Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "yEx8NDWVOqI",
+          "title": "Who is Actually Funding Political Influencers?",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1801,
+          "description": "You should really follow @TaylorLorenz !!\n\nAllie O'Brien's TikTok with the Alleged Chorus Contract: https://www.tiktok.com/@allie_202_/video/7543788692905790751\n\nBrian Tyler Cohen’s Response: https://x.com/briantylercohen/status/1961201488782578160\n\nDisclaimer\nThis video contains commentary and analysis based on publicly available reporting. All claims, quotations, and factual references are attributed to the original sources. Any opinions expressed are my own. Nothing in this video should be construed as a statement of fact beyond what has already been published by the cited outlets.\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - You Guys are Getting Paid?\n2:19 - What's up with Chorus?\n5:41 - Hype Me? :)\n6:29 - Dark Money\n9:40 - What can the FEC do?\n14:36 - Brian's Response\n17:35 - Are Republicans doing this?\n21:34 - Aidan and Taylor's Journalism Talk\n27:23 - My Thoughts\n\n#politics #chorus #democrats \n\nSources\nhttps://www.wired.com/story/dark-money-group-secret-funding-democrat-influencers/\nhttps://www.washingtonpost.com/technology/2024/10/26/social-media-influencers-election-money-campaigns/\nhttps://www.theatlantic.com/politics/archive/2021/11/arabella-advisors-money-democrats/620553/\nhttps://www.brennancenter.org/our-work/research-reports/dark-money-hit-record-high-19-billion-2024-federal-races?utm\nhttps://www.nytimes.com/2024/11/28/us/politics/democratic-influencers.html\nhttps://www.pbs.org/newshour/politics/well-known-right-wing-influencers-",
+          "tags": [
+            "Johnny harris",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary",
+            "CulturalAnalysis"
+          ],
+          "published": "2025-09-27T15:01:45Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "3YIeu1lOMrs",
+          "title": "Taxes Are About to Get Really Weird...",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1388,
+          "description": "#1 IRS fan over here, that's me\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - My Tax Problem\n2:16 - How to \"Cheat\"\n5:14 - The History of Taxes\n8:02 - This is Actually George Bush's Fault\n11:27 - The Bill That's Big and Beautiful\n21:50 - How to We Make This Better?\n\n#taxes  #republicans  #bbb",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2025-07-24T15:00:12Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "0yRyBCKMzZY",
+          "title": "Why Trumps Tariffs Actually Failed",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 319,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.nytimes.com/2025/02/20/us/politics/supreme-court-trump-tariffs.html\nhttps://www.nytimes.com/2026/02/19/business/economy/imports-tariffs-trade-deficit.html?smid=nytcore-ios-share\nhttps://www.nytimes.com/interactive/2025/07/28/business/economy/trump-tariff-tracker.html\nhttps://budgetmodel.wharton.upenn.edu/issues/2025/4/10/economic-effects-of-president-trumps-tariffs\nhttps://www.nytimes.com/live/2026/02/20/us/trump-tariffs-supreme-court",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Supreme Court ruling",
+            "Trump tariffs"
+          ],
+          "published": "2026-02-21T01:15:01Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "lIKXi3-_5p8",
+          "title": "The Last 72 Hours Just Put Montana in Play",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 391,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.politico.com/news/2026/03/04/steve-daines-montana-senate-retirement-2026-election-00813633\nhttps://www.theguardian.com/us-news/2026/mar/02/ryan-zinke-montana-us-house\nhttps://www.theguardian.com/us-news/2026/feb/20/sam-forstag-montana-workers",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Montana Senate race",
+            "Steve Daines"
+          ],
+          "published": "2026-03-07T01:01:01Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "tnz-M3UZPD4",
+          "title": "The GOP Tariff Revolt is Here",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 328,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: http://aidanhallprod.com\n\nSources:\nhttps://www.cnbc.com/2026/02/11/gop-trump-tariffs-canada.html\nhttps://www.axios.com/2026/02/11/canada-tarriffs-trump-house-vote-overturn\nhttps://www.politico.com/live-updates/2026/02/10/congress/gop-revolt-sinks-effort-to-block-votes-on-trumps-tariffs-00775107\nhttps://www.cbsnews.com/news/tariff-refund-supreme-court-ruling/\nhttps://www.nytimes.com/2026/02/12/us/the-docket-tariffs-wait-game.html",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Trump tariffs",
+            "trade war"
+          ],
+          "published": "2026-02-12T22:01:02Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "bB7N1pylRG4",
+          "title": "JD Vance vs. Marco Rubio: Who Will Be the 2028 Nominee?",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 439,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.axios.com/2026/02/22/vance-rubio-2028-trump-question\nhttps://www.axios.com/2026/02/23/iran-strike-trump-gen-dan-caine-vance-rubio",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "JD Vance",
+            "Marco Rubio"
+          ],
+          "published": "2026-02-25T03:15:15Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "G3vp9va_DX8",
+          "title": "Who Will Replace Graham Platner?",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 671,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.nytimes.com/2026/07/09/us/politics/platner-maine-democrats-replacement-candidate.html\nhttps://www.politico.com/live-updates/2026/07/08/congress/susan-collins-graham-platner-exit-00991434\nhttps://www.theguardian.com/us-news/live/2026/jul/09/donald-trump-graham-platner-mitch-mcconnell-iran-midterms-latest-news-updates\nhttps://www.motherjones.com/politics/2026/07/graham-platner-says-hes-out-now-what/\nhttps://www.270towin.com/2026-senate-election/\n\n#platner #senate #maine",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Graham Platner",
+            "Platner drops out",
+            "Maine Senate race"
+          ],
+          "published": "2026-07-10T15:15:02Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "tqpDHGZyMF4",
+          "title": "The 2028 Democratic Primary Already Started",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 502,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.natesilver.net/p/which-2028-democrats-have-the-best\nhttps://www.nytimes.com/2026/02/20/opinion/2028-democrats-presidential-primary.html\nhttps://www.reddit.com/r/ezraklein/comments/1rbntfn/opinion_the_2028_democratic_presidential/\nhttps://www.nj.com/politics/2026/02/pollster-nate-silver-explains-his-draft-picks-for-the-2028-democratic-primary.html",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "2028 election",
+            "democratic primary"
+          ],
+          "published": "2026-02-23T04:25:31Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "zqqKNRXg4X8",
+          "title": "The 10-Year Plan to Make Florida Blue",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 483,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.natesilver.net/p/can-democrats-escape-their-florida\nhttps://www.politico.com/news/2025/05/07/florida-democrats-meltdown-infighting-pizzo-fried-00331289\nhttps://www.npr.org/2018/11/06/654493434/2018-florida-midterm-election-results",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Florida politics",
+            "Ron DeSantis"
+          ],
+          "published": "2026-02-14T02:33:47Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "W5VgBm9WyJU",
+          "title": "The Next Marjorie Taylor Greene",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 303,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.nytimes.com/2026/03/09/us/bennie-thompson-election-mississippi-congress.html\nhttps://www.nytimes.com/2026/03/10/us/politics/mississippi-georgia-elections-what-to-know.html",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Bennie Thompson",
+            "Evan Turnage"
+          ],
+          "published": "2026-03-11T03:15:03Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "EiAiLaYWvtA",
+          "title": "Something is Breaking the Stock Market",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1654,
+          "description": "Go to http://groundnews.com/aidan for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage through the link!\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - Why Can't We Invest?\n2:26 - The Rise of Private Equity\n3:25 - Ground News!\n7:04 - How Private Equity Is Funded\n9:50 - Why Companies Stay Private\n14:08 - Emerging Alternatives\n20:04 - The Stock Battle!\n\nSources\nhttps://www.morganstanley.com/atwork/articles/companies-staying-private-longer\nhttps://www.reddit.com/r/levels_fyi/comments/1mv3mgn/why_openai_and_tiktok_still_arent_public/\nhttps://medium.com/@boyopopov/the-500-billion-question-why-openai-doesnt-need-an-ipo-yet-b789b79d5996\nhttps://fortune.com/2024/12/21/starups-openai-spacex-privately-held-longer-ipo-investors/\nhttps://www.forbes.com/sites/jaimecatmull/2025/11/06/why-the-next-wave-of-ai-wealth-will-be-in-secondary-markets-not-ipos/\nhttps://www.cnbc.com/2025/10/07/ipo-market-startups-staying-private-longer-alternative-capital.html\nhttps://www.cnbc.com/2025/10/19/anthropic-tries-to-keep-pace-with-openai-faces-off-with-david-sacks.html\nhttps://spacenews.com/musk-not-eager-to-take-starlink-public/\nhttps://www.investopedia.com/texas-stock-exchange-11722662\nhttps://fortune.com/2025/08/28/gen-z-retail-investing-jpmorgan-study-lower-income-gender-investment-gap/\nhttps://www.cnbc.com/2025/11/16/ai-bubble-tech-stock-market-fear-why-big-private-investors-arent-worried.html\n\nThanks to Ground News for sponsor",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2025-12-14T16:00:22Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "WMpwoZeCXJo",
+          "title": "What IS the New York Times, Actually?",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1374,
+          "description": "You should really, really subscribe to @RyanGeddie \n\nWant to make a donation to support what I’m doing? Do so here: https://buymeacoffee.com/aidanhall\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - My Routine\n1:54 - Today’s Times\n6:03 - The History of the Times\n7:33 - The New Age Model\n9:22- The Culture of the Times\n13:27 - The Future of the Times\n14:18 - An Interview with Ryan!\n22:04 - My Take on the Times\n\nSources:\nhttps://en.wikipedia.org/wiki/The_New_York_Times\nhttps://www.nytco.com/history/\nhttps://www.historic-newspapers.com/blogs/article/new-york-times-history?srsltid=AfmBOoqd39ua4bcDit6VjrQ9p11kg_49RriVYd27GCQHkHdperm54KUi\nhttps://www.theatlantic.com/business/archive/2014/07/the-new-york-times-is-a-great-company-in-a-terrible-business/375240/\nhttps://www.reddit.com/r/dataisbeautiful/comments/10x8ofs/oc_fall_and_rise_of_the_new_york_times/\nhttps://www.amediaoperator.com/newsletter/when-the-new-york-times-hoovers-up-your-talent-what-then/\nhttps://www.vanityfair.com/news/inside-the-new-york-times-big-bet-on-games?srsltid=AfmBOoqdb_EluUJPbrSro96irQW9mG50JtbbDnxPZ_DYepXrBbUsFjSp\nhttps://80.lv/articles/the-new-york-times-games-are-more-popular-than-its-news\nhttps://www.reddit.com/r/wordle/comments/1byzksp/the_new_york_times_games_are_more_popular_than/\nhttps://ladypuzzle.pro/nyt-games-trends\nhttps://www.semafor.com/article/08/18/2024/the-new-york-times-ezra-klein-problem\nhttps://www.reddit.com/r/ezraklein/comments/1evxlek/the_new_york_times_ezr",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2025-11-05T15:45:03Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "qM1LLwx5K9c",
+          "title": "Are Democrats TRYING to Lose??",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 831,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.politico.com/news/2026/06/03/democrats-future-what-we-learned-primaries-00947987\nhttps://www.politico.com/newsletters/weekly-score/2026/06/03/lessons-from-a-jam-packed-primary-night-00947966\nhttps://www.politico.com/news/2026/06/03/feenstra-concedes-iowa-governor-primary-00947876\nhttps://kalshi.com/markets/senateia/iowa-senate-race/senateia-26\nhttps://kalshi.com/markets/senatemt/montana-senate-race/senatemt-26\nhttps://kalshi.com/markets/govpartyia/iowa-governor/govpartyia-26\nhttps://www.nbcnews.com/politics/2026-primary-elections/california-governor-results\nhttps://www.latimes.com/california/newsletter/2026-06-03/california-election-vote-count-speed\n\n#Election2026 #PrimaryDay #USPolitics",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "2026 midterms",
+            "primary elections"
+          ],
+          "published": "2026-06-04T15:15:30Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "zn022tet-cQ",
+          "title": "Can Democrats Actually Win the Senate?",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 837,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.nytimes.com/2026/06/29/upshot/poll-maine-platner-collins.html\nhttps://www.nytimes.com/2026/06/30/upshot/texas-poll-talarico-paxton.html\nhttps://www.nytimes.com/2026/07/01/upshot/polls-ohio-iowa-alaska-carolina.html\n\n#senate #midterms #democrats",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Senate races",
+            "2026 midterms"
+          ],
+          "published": "2026-07-03T15:15:23Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "764wQz_o8bc",
+          "title": "The Virginia Gerrymander is CRAZY",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 589,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.nytimes.com/2026/04/21/us/elections/redistricting-gerrymandering-virginia-takeaways.html\nhttps://www.nytimes.com/interactive/2026/us/elections/results-virginia-redistricting.html\nhttps://www.pbs.org/newshour/politics/a-state-by-state-look-at-the-narrowing-redistricting-battle-for-the-u-s-house\nhttps://www.nytimes.com/2026/04/21/us/elections/democrats-republicans-gerrymandering-maps.html\nhttps://www.theatlantic.com/newsletters/2026/02/dummymander-midterm-strategy-gerrymandering/686115/\nhttps://www.nytimes.com/2026/02/28/us/politics/supreme-court-voting-rights-act-midterms.html\nhttps://www.nytimes.com/2025/10/15/upshot/supreme-court-voting-rights-gerrymander.html\nhttps://open.substack.com/pub/natesilver/p/sbsq-31-trump-is-super-unpopular?r=49aeqm&utm_campaign=post&utm_medium=web\nhttps://archive.ph/NZCH8#selection-371.0-371.248",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "partisan gerrymandering",
+            "Virginia redistricting"
+          ],
+          "published": "2026-04-24T07:00:05Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "mITvcnP9vt4",
+          "title": "I Predicted Every Governor’s Race",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1686,
+          "description": "Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link https://monarchmoney.yt.link/K3KVyV7 or code aidan50 for 50% Off Monarch Core tier.\n\nCheck out the second channel here: @coldtakesss \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - Your State Government is Up for Grabs\n4:17 - Monarch!\n5:33 - GA Governor\n6:37 - OH Governor\n7:50 - IA Governor\n8:50 - KS Governor\n10:05 - NV Governor\n11:22 - AK Governor\n12:16 - NH & VT Governor\n13:34 - FL Governor\n14:37 - AZ Governor\n15:07 - TX Governor\n16:30 - MI Governor\n17:03 - WI Governor\n19:14 - Part 2: State Legislatures\n19:56 - AZ Legislature\n20:36 - MI Legislature\n20:58 - MN Legislature\n21:36 - NH Legislature\n22:04 - PA Legislature\n22:24 - ME Legislature\n22:35 - AK Legislature\n23:16 - NC Legislature\n23:38 - GA Legislature\n24:05 - The Supermajority Races\n24:42 - NE Supermajority\n25:27 - IA Supermajority\n25:48 - KS Supermajority\n26:05 - FL Supermajority\n26:25 - VT Supermajority\n26:43 - NV Supermajority\n27:08 - Final Projection\n\n#Midterms2026 #ElectionPrediction #Governor",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-09-21T15:15:19Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "S0mSm-KkhIE",
+          "title": "I Ranked the Worst 2026 Candidates",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1526,
+          "description": "They can't harm you, if they can't find you! Use code AIDANHALL at the link below and get 60% off an annual plan: https://incogni.com/aidanhall\n\nCheck out the second channel here: @coldtakesss \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - How did we get here??\n4:51 - Number 12\n6:54 - Number 11\n8:18 - Number 10\n10:05 - Number 9\n11:37 - Number 8\n13:24 - Number 7\n14:40 - Number 6\n17:04 - Number 5\n18:13 - Number 4\n19:17 - Number 3\n20:39 - Number 2\n22:17 - Number 1\n\n#Midterms2026 #Election2026 #Politics",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-10-20T00:00:00Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "CbX2jvT0J7E",
+          "title": "AOC Just Gave Up on Running for President",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 702,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.axios.com/2026/04/02/new-york-polls-chuck-schumer-senate-ocasio-cortez\nhttps://www.axios.com/2026/04/12/aoc-progressives-2028-democrats\nhttps://www.commondreams.org/news/aoc-schumer-poll-ny-primary-2028\nhttps://www.campaignnow.com/blog/a-polling-look-at-aoc-vs.-schumer-and-the-opening-it-creates-for-republicans\nhttps://www.dataforprogress.org/blog/2025/4/4/alexandria-ocasio-cortez-leads-chuck-schumer-in-hypothetical-2028-matchup-by-19-points\nhttps://www.newsweek.com/aoc-edges-out-chuck-schumer-double-digit-margin-new-poll-2076944\nhttps://www.foxnews.com/politics/schumer-sinks-aoc-soars-new-poll-liberal-voters-demand-harder-line-trump\n\n#aoc #democrats #election2026",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Alexandria Ocasio-Cortez",
+            "AOC"
+          ],
+          "published": "2026-04-16T15:15:00Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "sO7SOwmnXqA",
+          "title": "Midterms 2026: Who Broke the Republicans?",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1298,
+          "description": "Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link https://monarchmoney.yt.link/Tx16IxG or code aidan50 for 50% Off Monarch Core tier.\n\nCheck out the second channel here: @coldtakesss   \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - Introduction\n2:35 - Monarch\n3:53 - Suspect 1: The Economy\n6:24 - Suspect 2: Donald Trump\n10:58 - Suspect 3: The Democrats\n14:09 - Suspect 4: The 2024 Election\n18:00 - Suspect 5: [REDACTED]\n\n#Midterms2026 #Republicans #Election2026",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-11-02T16:15:12Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "7Ee9aciBAAE",
+          "title": "Project 2029: How the Democrats Plan to Win",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1576,
+          "description": "Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link https://monarchmoney.yt.link/4YhH7cY or code aidan50 for 50% Off Monarch Core tier.\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - Who Controls the Democrats?\n2:22 - Monarch\n3:53 - The Abundance Faction\n6:51 - The Progressive Populists\n11:35 - The Moderate Establishment\n15:46 - The Fix\n18:49 - Super Fun Venn Diagram Time\n\nThanks to Monarch for sponsoring the video\n\n#USPolitics #DemocraticParty #Election2028",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-05-04T15:15:00Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "lRwZHkWho8o",
+          "title": "Why Voter ID Helps Democrats Now",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 552,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.politico.com/news/2026/03/02/california-voter-id-00807437\nhttps://www.pewresearch.org/politics/2025/08/22/majority-of-americans-continue-to-back-expanded-early-voting-voting-by-mail-voter-id/\nhttps://www.theatlantic.com/politics/2026/02/save-america-act-turnout/686145",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "voter ID laws",
+            "SAVE Act"
+          ],
+          "published": "2026-03-08T02:34:33Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "WLWbZE1ouOo",
+          "title": "I Predicted Every House Race",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1733,
+          "description": "To get 50% off your first order of CookUnity meals, go to https://cookunity.yt.link/arHXvic and use AIDAN50. CookUnity connects you with top chefs from across the US, delivering their signature dishes fresh to your door. With hundreds of meals to choose from, there’s something for everyone!\n\nCheck out the second channel here: @coldtakesss   \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - The House is Actually Competitive\n4:14 - CookUnity!\n5:43 - Possible Scenarios\n8:42 - FL 9\n10:29 - TX 23\n11:18 - CA 22\n12:29 - AK AL\n13:31 - NY 21\n14:02 - CO 8\n14:50 - KY 6\n15:34 - ME 2\n17:08 - AZ 6\n18:00 - PA 1\n18:47 - NY 17\n19:30 - MI 7\n20:12 - PA 7\n20:52 - VA 1\n21:36 - MI 4\n22:04 - MI 10\n22:39 - WI 3\n23:35 - IA 1\n24:07 - PA 8\n24:36 - NC 11\n25:10 - OH 7\n25:55 - FL 22\n26:47 - TX 34\n27:21 - TX 15\n28:04 - Final Projection\n\nThanks to CookUnity for sponsoring this video!\n\n#Midterms2026 #HouseOfRepresentatives #Election2026",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-09-07T15:15:30Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "Q5qpTa6ocn8",
+          "title": "Democrats Are Too Nice to Win Congress",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 767,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://virginiamercury.com/2026/05/08/supreme-court-of-virginia-strikes-down-redistricting-amendment-keeps-current-maps-in-place/\nhttps://thehill.com/homenews/house/5870263-virginia-redistricting-ruling-democrats/\nhttps://www.washingtonpost.com/politics/2026/05/07/tennessee-redistricting-voting-rights-black/\nhttps://www.wsj.com/opinion/donald-trump-gop-indiana-senators-redistricting-c3649902\nhttps://www.cbsnews.com/video/alabama-joins-redistricting-efforts-to-favor-republicans-before-the-2026-elections/?ftag=CNM-00-10aac3a\nhttps://www.brennancenter.org/our-work/research-reports/timeline-ohios-gerrymandered-maps-how-ohio-politicians-defied-court\n\n#Gerrymandering #USPolitics #Election2026",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Virginia redistricting",
+            "partisan gerrymandering"
+          ],
+          "published": "2026-05-09T15:15:02Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "ranrj03a2TQ",
+          "title": "The End of the Filibuster",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 370,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSource:\nhttps://thehill.com/homenews/administration/5773642-trump-save-act-senate-pressure/",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "SAVE Act",
+            "Donald Trump"
+          ],
+          "published": "2026-03-10T02:00:54Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "b_G3FtrDjgE",
+          "title": "Why Congress Stopped Doing Anything",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1289,
+          "description": "Check out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - What's Slowing Down Washington?\n2:40 - History of the Filibuster\n8:02 - How to Get Around the Filibuster\n11:53 - What do Democrats Think?\n16:38 - A Debate on the Filibuster\n\n#congress #politics #filibuster",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2025-08-26T15:15:03Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "OqHKmry-NvM",
+          "title": "The Supreme Court Controls Everything Now",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1147,
+          "description": "You are hereby found guilty of procrastinating whatever it is you should be doing instead of watching this\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - I Have Questions\n1:12 - How Did the Supreme Court Happen?\n3:22 - My Sales Pitch\n3:41 - What Can Control Them?\n6:48 - Examples of Their Power\n11:34 - What Happens Without Them?\n15:09 - The Paths Forward\n\nSources\nhttps://www.scotusblog.com/2025/10/court-appears-ready-to-curtail-major-provision-of-the-voting-rights-act/\nhttps://www.pbs.org/newshour/politics/whats-next-in-the-national-redistricting-fight-after-california-approved-a-new-u-s-house-map\nhttps://www.nytimes.com/2025/11/07/upshot/democrats-redistricting-gerrymanders.html\nhttps://www.nytimes.com/2025/11/01/upshot/gerrymanders-redistricting-maps.html\nhttps://www.nytimes.com/2025/10/15/upshot/supreme-court-voting-rights-gerrymander.html\nhttps://www.nytimes.com/2025/08/31/upshot/redistricting-analysis-2026-midterms.html\nhttps://www.brennancenter.org/our-work/research-reports/section-2-voting-rights-act-supreme-court\nhttps://thehill.com/video/in-the-news/590605-redistricting-101-cracking-and-packing/\nhttps://www.brennancenter.org/our-work/research-reports/gerrymandering-explained\nhttps://planscore.org/plan.html?20251028T201606.758624502Z\nhttps://www.nytimes.com/interactive/2025/us/politics/congressional-gerrymandering-redistricting-game.html\n\n#supremecourt #politics #law",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2025-10-16T15:00:44Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "puUY5D4ShrQ",
+          "title": "She Just Lost Michigan, Thanks to AIPAC",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 818,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.cbsnews.com/news/hasan-piker-michigan-senate-race-abdul-el-sayed/\nhttps://www.cnn.com/2026/04/19/politics/michigan-senate-democratic-primary\nhttps://www.notus.org/2026-election/haley-stevens-michigan-democrats-concerns\nhttps://www.axios.com/2025/10/22/senate-republicans-michigan-mike-rogers\nhttps://emersoncollegepolling.com/michigan-2026-poll-abdul-el-sayed-mallory-mcmorrow-tied-for-lead-in-democratic-senate-primary/\nhttps://www.axios.com/2026/01/14/haley-stevens-michigan-senate-mcmorrow-el-sayed\nhttps://www.detroitnews.com/story/news/politics/2026/04/15/mallory-mcmorrow-fundraising-lead-michigan-u-s-senate-race-mike-rogers-cash-stevens-el-sayed/89630523007/\nhttps://www.washingtonexaminer.com/premium/3816990/gaza-war-center-stage-michigan-senate-democratic-primary/",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Michigan Senate Race",
+            "Mallory McMorrow"
+          ],
+          "published": "2026-04-28T15:15:05Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "Ke8DqgdnqcQ",
+          "title": "Republicans Have a 2026 Problem, Too",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1511,
+          "description": "Thanks to Monarch for partnering with me! \nStart your free trial and get 50% off your first year of total money clarity using my link https://monarchmoney.yt.link/zvaRBIU or code aidan50.\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - The Stakes of a Democratic Resurgence\n2:11 - Light Blue Wave\n2:53 - Monarch!\n4:23 - The Light Blue Wave, Continued\n9:43 - Heavy Blue Wave\n13:55 - SUPER Heavy Blue Wave\n18:35 - My Civic Check\n\nSources:\nhttps://www.wsj.com/opinion/how-democrats-can-use-their-coming-majority-414369f0\nhttps://www.npr.org/2026/03/27/nx-s1-5752350/a-surprise-resignation-could-open-the-door-for-an-independent-to-win-a-montana-senate-seat\nhttps://www.politico.com/news/2026/03/26/sullivan-peltola-medicaid-obamacare-senate-alaska-health-00844944\nhttps://www.nytimes.com/interactive/polls/texas-us-senate-election-polls-2026.html\nhttps://www.nytimes.com/interactive/polls/ohio-us-senate-election-polls-2026.html\nhttps://apnews.com/article/homeland-security-funding-ice-airport-security-lines-ed04ac573dfb27e939b7234cc8245b16\n\nThanks to Monarch for sponsoring the video\n\n#2026Midterms #USPolitics #BlueWave",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-04-06T15:15:02Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "sfJvmWR7Tpc",
+          "title": "Democrats Have No 2028 Plan",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 484,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.axios.com/2026/03/01/centrist-democrats-liberals-aoc\nhttps://www.natesilver.net/p/kamala-harris-has-liz-cheney-syndrome",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Alexandria Ocasio-Cortez",
+            "AOC"
+          ],
+          "published": "2026-03-03T06:11:42Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "-FYv2t9dQ48",
+          "title": "YouTube is Television Now.",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1186,
+          "description": "Go to http://groundnews.com/aidan for a better way to stay informed. Subscribe for 40% off unlimited access to world-wide coverage through the link!\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - My Secret Video...\n2:15 - The Viral Era\n4:14 - Ground News!\n6:01 - The Watch Time Era\n7:47 - The Influencer Era\n9:13 - The For You Era\n11:17 - My Channel Numbers!\n14:59 - The Next Era...\n17:24 - What's the Plan, Stan?\n\nThanks to Ground News for sponsoring this video\n\n#oscars #youtubers #streaming",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2025-12-24T23:06:14Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "v-L81oHCVrw",
+          "title": "Trump’s Plan to Break Congress is Running Out of Time",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1560,
+          "description": "Want to restore the planet’s ecosystems and see your impact in monthly videos? The first 100 people to join Planet Wild with my code AIDAN4 will get the first month for free: https://planetwild.com/r/aidanhall/join\nIf you want to get to know them better first, check out their mission saving a cloud forest in Colombia: https://planetwild.com/r/aidanhall/m38\n\nPlay the Quiz: https://quizlet.com/1169337188/key-us-federal-laws-and-executive-actions-2010-2022-flash-cards/?i=73nb28&x=1jqY\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - Everything is Gridlocked\n5:06 - Planet Wild!\n6:33 - The Executive Action Doom Loop\n9:08 - What Trump 2.0 is Doing, and is it Working?\n12:59 - What Does a Democratic Comeback look like?\n14:48 - Game Time 😎\n\nThanks to Planet Wild for sponsoring the video\n\n#USPolitics #Congress #Election2028",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "SystemsExplained",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary",
+            "CulturalAnalysis",
+            "EducationalContent"
+          ],
+          "published": "2026-04-21T15:15:13Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "LWrantEPywg",
+          "title": "I Underestimated the Blue Wave",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 918,
+          "description": "Watch the full livestream here: https://youtube.com/live/iqvzYpOOSAg\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 Cold open\n0:25 6 PM ET: We're live (and the ukulele stakes)\n1:52 7 PM ET: First calls\n2:20 8 PM ET: The needle arrives\n3:06 South Carolina?! + the first flip\n4:35 9 PM ET: Georgia flips, the House falls\n6:47 10 PM ET: Blue Texas, then \"Aidan had it wrong\"\n8:27 11 PM ET: Kansas, Abbott concedes, Iowa clinches the Senate\n11:20 After midnight: Maine, Nebraska, the verdict\n13:27 What a night\n13:51 Take this in\n14:14 Sign-off\n\n#Midterms2026 #Election2026 #ElectionNight",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-11-04T23:49:59Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "vEP3TgEQViA",
+          "title": "Bari Weiss: The End of Journalism",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 557,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.axios.com/2026/06/03/60-minutes-scott-pelley-cbs-fired-bari-weiss-nick-bilton\nhttps://www.youtube.com/watch?v=ePqdmbgQ4BI\n\n#60Minutes #LegacyMedia #Journalism",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "60 Minutes",
+            "Scott Pelley"
+          ],
+          "published": "2026-06-08T15:15:27Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "E6xq3Q8_jDs",
+          "title": "Peter Thiel's Biggest Secret Just Got Leaked",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 578,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.wired.com/story/how-peter-thiels-private-dialog-club-secretly-ranks-its-members/\nhttps://x.com/ezraklein/status/2068479476309151771?s=20\n\n#PeterThiel #SecretSociety #Dialog",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Peter Thiel",
+            "Dialog"
+          ],
+          "published": "2026-06-22T15:15:27Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "Gvy7aBOh7gA",
+          "title": "Who Broke the Democrats?",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1362,
+          "description": "Check out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - The Central Question\n3:27 - 2004/2008 Elections\n8:02 - How the Party Got Stuck\n11:22 - Top-Down Fix\n12:44 - 2028 Tier List\n19:25 - Bottom-Up Fix\n21:48 - The Real Path Forward\n\n#politics  #videoessay  #democrats",
+          "tags": [
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "JohnnyHarris",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "EducationInequality",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary",
+            "CulturalAnalysis",
+            "EducationalContent"
+          ],
+          "published": "2025-05-19T23:00:18Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "y_7E7Jzsw_s",
+          "title": "The DNC is Covering Up a Massive 2024 Mistake",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 806,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.cnn.com/2026/05/21/politics/read-full-dnc-2024-autopsy-cnn\nhttps://apnews.com/article/democratic-national-committee-autopsy-2024-ken-martin-a4f67256b4c56ba076aece23c22728ad\nhttps://www.politico.com/news/2026/05/21/a-huge-omission-everyone-is-baffled-the-dncs-autopsy-excludes-gaza-00932643\nhttps://thehill.com/homenews/campaign/5889975-david-hogg-urges-ken-martin-resignation-dnc/\nhttps://www.dailykos.com/stories/2026/5/21/800042484/news/democrats-2024-campaign-autopsy-is-a-mess/\n\n#DNC #USPolitics #DemocraticParty",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "DNC",
+            "Democratic National Committee"
+          ],
+          "published": "2026-05-22T15:15:04Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "Ijzf98iNitI",
+          "title": "2025 Q&A: What are My Politics??",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1451,
+          "description": "Check out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - Introduction\n0:49 - My Politics\n2:51 - My Favorite Video\n3:14 - If My Hair Were Cheese\n3:38 - From Random Topics to Episodic Series\n6:00 - Album of the Year\n6:39 - How I Choose a Video Topic\n8:09 - Caring vs the Algorithm\n9:08 - Idea to Upload Timeline\n10:27 - What Success Means Now\n11:22 - A Special Sponsor!!\n12:07 - My Current Gear and Editing Stack\n14:27 - How Many Potatoes Power a House\n16:28 - The Video Tier List!\n\nThanks to Vlogbrothers for their sponsorship of this video\n\n#creator #qna #creatoreconomy",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2025-12-31T16:00:35Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "BliY7lsH_HI",
+          "title": "Is the US Going to War with Iran?",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 253,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.axios.com/2026/02/18/trump-iran-war-reasons-military-strikes\nhttps://apnews.com/article/iran-us-russia-drill-nuclear-talks-aircraft-carrier-0456903e0d7a24cfcdc33d53732dee2f",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "US Iran relations",
+            "Middle East conflict"
+          ],
+          "published": "2026-02-20T01:29:50Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "O3SfQNh90Rk",
+          "title": "Is Political Polling Dead?",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 344,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: ⁨@aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.nytimes.com/2026/02/16/upshot/trumps-approval-midterm-elections.html\nhttps://www.natesilver.net/p/trump-approval-ratings-nate-silver-bulletin\nhttps://news.gallup.com/poll/329384/presidential-approval-ratings-joe-biden.aspx\nhttps://www.realclearpolling.com/polls/state-of-the-union/generic-congressional-vote\nhttps://www.realclearpolling.com/polls/state-of-the-union/2018/generic-congressional-vote\nhttps://www.nytimes.com/2026/02/11/us/politics/gallup-poll-presidential-approval-ratings-trump.html\nhttps://kalshi.com/markets/controlh/house-winner/controlh-2026\nhttps://kalshi.com/markets/controls/senate-winner/controls-2026",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "political polling",
+            "Gallup polls"
+          ],
+          "published": "2026-02-17T02:36:30Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "DIi6M2463UU",
+          "title": "Trump’s Primetime Address Was About the Next Election",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 772,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.cbsnews.com/news/fact-checking-trump-speech-on-election-security/\nhttps://www.democracydocket.com/news-alerts/michigan-election-fraud-cited-in-trump-speech-had-no-impact-on-votes/\nhttps://www.foxnews.com/world/venezuela-election-turnout-results-off-1-million-voting-company-ceo-says\nhttps://www.brennancenter.org/our-work/research-reports/debunking-voter-fraud-myth\nhttps://news.gallup.com/poll/652523/americans-endorse-early-voting-voter-verification.aspx\nhttps://bipartisanpolicy.org/article/do-documentary-proof-of-citizenship-requirements-disadvantage-one-party-more-than-the-other/\nhttps://thehill.com/homenews/administration/5943333-trump-save-america-act/\n\n#saveact #voterid #trump",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Trump primetime address",
+            "election integrity"
+          ],
+          "published": "2026-07-18T15:15:31Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "QHazKsZjqoc",
+          "title": "Texas is Changing Faster Than You Think",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1146,
+          "description": "To get 50% off your first order of CookUnity meals, go to https://cookunity.yt.link/J0V5kWq and use my code AIDAN50. CookUnity connects you with top chefs from across the US, delivering their signature dishes fresh to your door. With hundreds of meals to choose from, there’s something for everyone!\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - The Stakes\n2:31 - CookUnity!\n4:03 - What IS Reapportionment?\n6:44 - Blue States' Shrinking Firepower\n9:24 - A Blue Texas?\n13:02 - Playing Out the Map\n16:52 - A New Battlefield for the 2030s\n\nThanks to CookUnity for sponsoring the video\n\n#Reapportionment #TexasPolitics #Election2026",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "StorytellingWithData",
+            "SocialCommentary",
+            "CulturalAnalysis"
+          ],
+          "published": "2026-06-15T15:15:03Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "7zy3N4bJfr0",
+          "title": "Is the Housing Crisis Almost Over??",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 613,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.nytimes.com/2026/03/12/us/politics/senate-housing-bill.html?smid=nytcore-ios-share\nhttps://www.reddit.com/r/ezraklein/comments/1rstuoo/senate_passes_major_housing_affordability_bill_by/\nhttps://www.nbcnews.com/politics/congress/senate-passes-major-housing-affordability-bill-warren-scott-rcna263046\nhttps://www.pbs.org/newshour/politics/watch-trump-says-he-wants-to-drive-housing-prices-up-not-down\nhttps://x.com/NateSilver538/status/2000956735499215167/photo/1\nhttps://www.redfin.com/news/starter-home-affordability-july-2024/\nhttps://www.cnbc.com/2026/03/05/institutional-investor-ban-impact.html\n\n#housingcrisis #housingmarket #housing",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Senate housing bill",
+            "housing crisis"
+          ],
+          "published": "2026-03-26T22:37:41Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "NWtHINg6M8o",
+          "title": "Democrats Have a 2028 Solution",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1322,
+          "description": "Thanks to Coveron for sponsoring this video! One scam can cost you everything — use code “aidanhall” for up to 76% off at https://coveron.com/aidanhall\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - Who Is Jon Ossoff??\n3:05 - Coveron :)\n4:27 - The Other Young Dems\n9:28 - The Ossoff Biography\n12:20 - His Pros\n16:56 - His Cons\n20:18 - His 2028 Ranking...\n\nThanks to Coveron for sponsoring the video\n\n#Ossoff #2028 #Democrats",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-06-30T15:15:29Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "hszbAlM610c",
+          "title": "Why Democrats can Win the Senate Now",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 966,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.washingtonpost.com/politics/2026/03/27/senate-maine-susan-collins-platner-mills/\nhttps://www.npr.org/2026/03/27/nx-s1-5752350/a-surprise-resignation-could-open-the-door-for-an-independent-to-win-a-montana-senate-seat\nhttps://www.politico.com/news/2026/03/26/sullivan-peltola-medicaid-obamacare-senate-alaska-health-00844944\nhttps://www.nytimes.com/interactive/polls/texas-us-senate-election-polls-2026.html\nhttps://www.nytimes.com/interactive/polls/ohio-us-senate-election-polls-2026.html\n\n#election2026 #uspolitics #senateelection",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "2026 midterms",
+            "US Senate map"
+          ],
+          "published": "2026-03-30T15:15:06Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "r4-Vz3P6CP4",
+          "title": "The Supreme Court Just Broke American Elections",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 470,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.cbsnews.com/news/supreme-court-louisiana-congressional-map-voting-rights-act/\nhttps://www.scotusblog.com/2026/04/in-major-voting-rights-act-case-supreme-court-strikes-down-redistricting-map-challenged-as-racia/\nhttps://www.nytimes.com/live/2026/04/29/us/supreme-court-voting-rights\nhttps://www.pewresearch.org/fact-sheet/topic-affirmative-action-in-college-admissions/\nhttps://messaging-custom-newsletters.nytimes.com/dynamic/render?free_trial=0&isViewInBrowser=true&paid_regi=1&productCode=NC&sendId=207949&uri=nyt%3A%2F%2Fnewsletter%2Fa1bc33d3-f633-5fbf-b8e8-0a66739059d9\n\n#VotingRightsAct #SupremeCourt #Election2026",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Supreme Court",
+            "SCOTUS"
+          ],
+          "published": "2026-04-30T15:15:07Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "3WUBKh1_gOM",
+          "title": "Republicans Have a 2028 Problem",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1469,
+          "description": "I love you J.D. Vance, I swear\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - What is the 2028 Problem?\n2:37 - The \"1976\" Scenario\n5:00 - The \"1988\" Scenario\n8:23 - The \"2008\" Scenario\n11:23 - What we've learned\n13:42 - The 2028 Tier List\n22:35 - The 2028 Fix\n\n#politics  #videoessay  #republicans",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2025-07-01T15:00:07Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "An1Iolux6PU",
+          "title": "Is Texas Turning Blue?",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 393,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://open.substack.com/pub/natesilver/p/could-republicans-blow-the-texas?utm_campaign=post-expanded-share&utm_medium=post%20viewer\nhttps://www.texastribune.org/2026/02/25/texas-senate-poll-crockett-talarico-university-of-texas-paxton-cornyn-hunt-2026/\nhttps://thehill.com/homenews/campaign/5752512-cornyn-warns-texas-crack-red-wall/\nwww.theatlantic.com/newsletters/2026/02/dummymander-midterm-strategy-gerrymandering/686115/",
+          "tags": [
+            "Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Texas Senate race",
+            "2026 midterms"
+          ],
+          "published": "2026-02-27T07:40:45Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "bSA9dqmu0V8",
+          "title": "The State That Will Decide the 2026 Midterms",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 292,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.theatlantic.com/politics/2026/02/sherrod-brown-working-class/686136/\nhttps://www.reddit.com/r/PoliticalDiscussion/comments/1b4b9bb/why_is_sherrod_brown_relatively_popular_in_ohio/",
+          "tags": [
+            "Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Sherrod Brown",
+            "Ohio Senate race"
+          ],
+          "published": "2026-02-28T03:07:21Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "QfnD9Ho0JQI",
+          "title": "LA’s Next Mayor Won’t be a Republican, Here’s Why",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 545,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.nytimes.com/interactive/2026/us/elections/results-california-mayor-los-angeles.html\nhttps://www.nytimes.com/interactive/2026/06/05/us/elections/los-angeles-mayor-primary-results-precinct-map.html\nhttps://www.latimes.com/california/story/2026-06-10/spencer-pratt-loses-los-angeles-mayor-columma\n\n#LAPolitics #Election2026 #LosAngeles",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Spencer Pratt",
+            "Karen Bass"
+          ],
+          "published": "2026-06-17T15:15:11Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "-dqwg8k95-s",
+          "title": "Is Trump Making the Same Mistake as Bush?",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1765,
+          "description": "Go to https://cyberghostvpn.com/AidanHall to get 83% off from our sponsor CyberGhost VPN with 4 months free!\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - I have questions...\n2:49 - Subject 1\n3:46 - CyberGhost VPN!\n5:18 - Subject 1 cont.\n8:12 - Subject 2\n11:05 - Subject 3\n17:54 - What do we do about it??\n20:31 - The Map Game!\n\nThanks to CyberGhost VPN for sponsoring this video",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-02-06T16:15:01Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "LG9byreu_e4",
+          "title": "The Most Powerful Person in America Isn't Donald Trump",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1419,
+          "description": "Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link https://monarchmoney.yt.link/pMHwv9B or code aidan50 for 50% Off Monarch Core tier.\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - I have Fed Questions\n2:14 - Fed History\n4:59 - Monarch!\n6:18 - The Fed's Powers\n10:07 - Paul Volcker\n15:21 - The Politics of the Fed\n\nThanks to Monarch for sponsoring the video\n\n#federalreserve  #kevinwarsh  #jeromepowell",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-06-03T15:15:10Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "TovRt5SyOlg",
+          "title": "17 Things I Learned From the Midterms",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1552,
+          "description": "They can't harm you, if they can't find you! Use code AIDANHALL at the link below and get 60% off annual plans: https://incogni.com/aidanhall\n\nCheck out the second channel here:  @coldtakesss  \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 Intro\n0:47 No More \"Moderate vs. Progressive\"\n5:21 The Democratic Party's Future Is Very Clear\n7:23 Money in Politics May Not Matter Much\n9:13 I Don't Think a Progressive Will Be the Next President\n10:33 Democrats Should Stop the Independent Experiment\n13:08 Jon Ossoff Really Might Be the Next President\n14:24 Ukulele\n15:26 The Republican Party's Future Is Very Unclear\n16:44 JD Vance Is So Done\n17:17 Florida Really Might Just Be Cooked for Democrats\n18:22 The Next Democratic President Won't Be From \"The Old Guard\"\n19:30 Democrats Might Want New Leaders in Congress Soon\n21:20 The National Popular Vote Interstate Compact Won't Happen\n22:33 The Filibuster Is So Joever\n24:14 The Biggest Lesson: Study Your Mandate\n24:50 The Middle Is, In Fact, Molten\n25:30 Things Are About to Be Really Interesting\n\n#Midterms2026 #ElectionResults #Politics",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-11-09T15:38:34Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "dH7ICq5aWjE",
+          "title": "How AOC Becomes President",
+          "creator": "Aidan Hall",
+          "creatorId": "UCPTrIwdhJAlBkItRNyFcLPA",
+          "duration": 1351,
+          "description": "Thanks to Monarch for partnering with me! Start your free trial and get 50% off your first year of total money clarity using my link https://monarchmoney.yt.link/AzHniSo or code aidan50 for 50% Off Monarch Core tier.\n\nCheck out the second channel here: @coldtakesss \nAnd follow me on instagram! http://instagram.com/aidanhallll\n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\n0:00 - Can AOC Win?\n2:38 - Monarch!\n3:55 - Who is AOC?\n9:13 - Pros and Cons of AOC 2028\n14:28 - The New DNC Primaries\n17:16 - Who Will Win the New DNC Primaries?\n20:57 - AOC's X-Factor\n\nSources\nhttps://www.businessinsider.com/alexandria-ocasio-cortez-biography-2019-1\nhttps://puck.news/aocs-reality-check/\nhttps://www.natesilver.net/p/goodbye-iowa-hello-michigan-which?utm_source=%2Finbox&utm_medium=reader2\nhttps://www.natesilver.net/p/the-dsa-sweet-spot-highly-educated?utm_source=%2Finbox&utm_medium=reader2\nhttps://www.politico.com/magazine/story/2019/01/15/the-trouble-with-the-green-new-deal-223977/\n\nThanks to Monarch for sponsoring this video\n\n#AOC #2028Election #Politics",
+          "tags": [
+            "Johnny harris",
+            "cleo abram",
+            "Phil edwards",
+            "Aidan Hall",
+            "ExplainingEverything",
+            "VideoEssay",
+            "DataStories",
+            "Vox",
+            "ExplainedSeries",
+            "HiddenEconomics",
+            "SystemsExplained",
+            "InvestigativeJournalism",
+            "WealthGap",
+            "VisualJournalism",
+            "StorytellingWithData",
+            "SocialCommentary"
+          ],
+          "published": "2026-08-10T17:00:36Z",
+          "categoryId": "25"
+        },
+        {
+          "id": "5koUtlDGlM0",
+          "title": "The End of the Income Tax (thanks to Democrats?)",
+          "creator": "Cold Takes",
+          "creatorId": "UC0I20pBlWOzzzQm6h7nQxuQ",
+          "duration": 494,
+          "description": "🥶 THE 2026 COLD TAKES SURVEY: https://forms.gle/KjxBxz2SKWDSoKPo6\nIt's anonymous and should only take 4 minutes! You steer the channel: length, frequency, take temperature, what's next. Plus your 2028 prediction. Closes soon!\n\nCheck out the main channel here: @aidan_hall \n\nFor Sponsorship Inquiries: teamaidanhall@oddprojects.com\n\nSources:\nhttps://www.nbcnews.com/politics/congress/sen-cory-booker-2028-potential-unveil-bill-making-75000-income-tax-fre-rcna262093\nhttps://www.wlfi.com/news/2-bills-would-erase-income-taxes-for-many-americans-heres-what-to-know/article_b44ab405-89a8-4900-b3cb-3acc8a5cbdd1.html\nhttps://www.sanders.senate.gov/press-releases/news-sanders-and-khanna-introduce-legislation-to-tax-billionaire-wealth-and-invest-in-working-families/\nhttps://www.politico.com/news/2026/03/12/washington-state-millionaires-tax-00826182",
+          "tags": [
+            "Cold Takes",
+            "Aidan Hall",
+            "US politics",
+            "gen z politics",
+            "Chris Cillizza",
+            "Jamelle Bouie",
+            "Hasan Piker",
+            "Ezra Klein",
+            "Johnny Harris",
+            "Cleo Abram",
+            "Dave Jorgenson",
+            "Hank Green",
+            "JJ McCullough",
+            "Derek Thompson",
+            "Cory Booker",
+            "Chris Van Hollen"
+          ],
+          "published": "2026-03-20T15:15:01Z",
+          "categoryId": "25"
+        }
+      ],
+      "schedule": {
+        "schemaVersion": 1,
+        "start": 1794272879335,
+        "end": 1794632879335,
+        "durationHours": 100,
+        "programs": [
+          {
+            "videoId": "yqMsl9gQdxk",
+            "start": 1794272879335,
+            "end": 1794274315335
+          },
+          {
+            "videoId": "Gvy7aBOh7gA",
+            "start": 1794274315335,
+            "end": 1794275677335
+          },
+          {
+            "videoId": "TovRt5SyOlg",
+            "start": 1794275677335,
+            "end": 1794277229335
+          },
+          {
+            "videoId": "CbX2jvT0J7E",
+            "start": 1794277229335,
+            "end": 1794277931335
+          },
+          {
+            "videoId": "3WUBKh1_gOM",
+            "start": 1794277931335,
+            "end": 1794279400335
+          },
+          {
+            "videoId": "Ke8DqgdnqcQ",
+            "start": 1794279400335,
+            "end": 1794280911335
+          },
+          {
+            "videoId": "QHazKsZjqoc",
+            "start": 1794280911335,
+            "end": 1794282057335
+          },
+          {
+            "videoId": "ctFJ4NIUHl0",
+            "start": 1794282057335,
+            "end": 1794282669335
+          },
+          {
+            "videoId": "WLWbZE1ouOo",
+            "start": 1794282669335,
+            "end": 1794284402335
+          },
+          {
+            "videoId": "bB7N1pylRG4",
+            "start": 1794284402335,
+            "end": 1794284841335
+          },
+          {
+            "videoId": "Fb8BAsT6zm4",
+            "start": 1794284841335,
+            "end": 1794285146335
+          },
+          {
+            "videoId": "xuBk4PK4REg",
+            "start": 1794285146335,
+            "end": 1794285713335
+          },
+          {
+            "videoId": "LWrantEPywg",
+            "start": 1794285713335,
+            "end": 1794286631335
+          },
+          {
+            "videoId": "W5VgBm9WyJU",
+            "start": 1794286631335,
+            "end": 1794286934335
+          },
+          {
+            "videoId": "hszbAlM610c",
+            "start": 1794286934335,
+            "end": 1794287900335
+          },
+          {
+            "videoId": "DIi6M2463UU",
+            "start": 1794287900335,
+            "end": 1794288672335
+          },
+          {
+            "videoId": "Ijzf98iNitI",
+            "start": 1794288672335,
+            "end": 1794290123335
+          },
+          {
+            "videoId": "y_7E7Jzsw_s",
+            "start": 1794290123335,
+            "end": 1794290929335
+          },
+          {
+            "videoId": "nqbEPJNx44Y",
+            "start": 1794290929335,
+            "end": 1794291706335
+          },
+          {
+            "videoId": "2oqsqysP_kk",
+            "start": 1794291706335,
+            "end": 1794292159335
+          },
+          {
+            "videoId": "7zy3N4bJfr0",
+            "start": 1794292159335,
+            "end": 1794292772335
+          },
+          {
+            "videoId": "3YIeu1lOMrs",
+            "start": 1794292772335,
+            "end": 1794294160335
+          },
+          {
+            "videoId": "tnz-M3UZPD4",
+            "start": 1794294160335,
+            "end": 1794294488335
+          },
+          {
+            "videoId": "E6xq3Q8_jDs",
+            "start": 1794294488335,
+            "end": 1794295066335
+          },
+          {
+            "videoId": "764wQz_o8bc",
+            "start": 1794295066335,
+            "end": 1794295655335
+          },
+          {
+            "videoId": "_4IU_A8XiPc",
+            "start": 1794295655335,
+            "end": 1794296140335
+          },
+          {
+            "videoId": "sfJvmWR7Tpc",
+            "start": 1794296140335,
+            "end": 1794296624335
+          },
+          {
+            "videoId": "K4C1-MilB60",
+            "start": 1794296624335,
+            "end": 1794297289335
+          },
+          {
+            "videoId": "zn022tet-cQ",
+            "start": 1794297289335,
+            "end": 1794298126335
+          },
+          {
+            "videoId": "YKVWdNy1dhE",
+            "start": 1794298126335,
+            "end": 1794298800335
+          },
+          {
+            "videoId": "ranrj03a2TQ",
+            "start": 1794298800335,
+            "end": 1794299170335
+          },
+          {
+            "videoId": "19ABLf5b9Qw",
+            "start": 1794299170335,
+            "end": 1794300567335
+          },
+          {
+            "videoId": "S0mSm-KkhIE",
+            "start": 1794300567335,
+            "end": 1794302093335
+          },
+          {
+            "videoId": "G3vp9va_DX8",
+            "start": 1794302093335,
+            "end": 1794302764335
+          },
+          {
+            "videoId": "v-L81oHCVrw",
+            "start": 1794302764335,
+            "end": 1794304324335
+          },
+          {
+            "videoId": "Q12m5sOji04",
+            "start": 1794304324335,
+            "end": 1794305712335
+          },
+          {
+            "videoId": "VNgM-2m4CZE",
+            "start": 1794305712335,
+            "end": 1794306054335
+          },
+          {
+            "videoId": "5lSnkHNGLLc",
+            "start": 1794306054335,
+            "end": 1794307132335
+          },
+          {
+            "videoId": "7KKikBFOOBo",
+            "start": 1794307132335,
+            "end": 1794307982335
+          },
+          {
+            "videoId": "5koUtlDGlM0",
+            "start": 1794307982335,
+            "end": 1794308476335
+          },
+          {
+            "videoId": "xn1W95Nv8eY",
+            "start": 1794308476335,
+            "end": 1794308766335
+          },
+          {
+            "videoId": "bSA9dqmu0V8",
+            "start": 1794308766335,
+            "end": 1794309058335
+          },
+          {
+            "videoId": "lIKXi3-_5p8",
+            "start": 1794309058335,
+            "end": 1794309449335
+          },
+          {
+            "videoId": "vEP3TgEQViA",
+            "start": 1794309449335,
+            "end": 1794310006335
+          },
+          {
+            "videoId": "hW9s4LRzhJc",
+            "start": 1794310006335,
+            "end": 1794310457335
+          },
+          {
+            "videoId": "uTi41H6TYEs",
+            "start": 1794310457335,
+            "end": 1794311827335
+          },
+          {
+            "videoId": "WMpwoZeCXJo",
+            "start": 1794311827335,
+            "end": 1794313201335
+          },
+          {
+            "videoId": "Q5qpTa6ocn8",
+            "start": 1794313201335,
+            "end": 1794313968335
+          },
+          {
+            "videoId": "-dqwg8k95-s",
+            "start": 1794313968335,
+            "end": 1794315733335
+          },
+          {
+            "videoId": "bqyQUk7bffw",
+            "start": 1794315733335,
+            "end": 1794317424335
+          },
+          {
+            "videoId": "yEx8NDWVOqI",
+            "start": 1794317424335,
+            "end": 1794319225335
+          },
+          {
+            "videoId": "zqqKNRXg4X8",
+            "start": 1794319225335,
+            "end": 1794319708335
+          },
+          {
+            "videoId": "0yRyBCKMzZY",
+            "start": 1794319708335,
+            "end": 1794320027335
+          },
+          {
+            "videoId": "H8W9TJerp6Y",
+            "start": 1794320027335,
+            "end": 1794320446335
+          },
+          {
+            "videoId": "An1Iolux6PU",
+            "start": 1794320446335,
+            "end": 1794320839335
+          },
+          {
+            "videoId": "8z-MoXIZtaY",
+            "start": 1794320839335,
+            "end": 1794322366335
+          },
+          {
+            "videoId": "QfnD9Ho0JQI",
+            "start": 1794322366335,
+            "end": 1794322911335
+          },
+          {
+            "videoId": "dH7ICq5aWjE",
+            "start": 1794322911335,
+            "end": 1794324262335
+          },
+          {
+            "videoId": "sO7SOwmnXqA",
+            "start": 1794324262335,
+            "end": 1794325560335
+          },
+          {
+            "videoId": "BliY7lsH_HI",
+            "start": 1794325560335,
+            "end": 1794325813335
+          },
+          {
+            "videoId": "tqpDHGZyMF4",
+            "start": 1794325813335,
+            "end": 1794326315335
+          },
+          {
+            "videoId": "OqHKmry-NvM",
+            "start": 1794326315335,
+            "end": 1794327462335
+          },
+          {
+            "videoId": "O3SfQNh90Rk",
+            "start": 1794327462335,
+            "end": 1794327806335
+          },
+          {
+            "videoId": "-Qq7op3Ivpg",
+            "start": 1794327806335,
+            "end": 1794328765335
+          },
+          {
+            "videoId": "H99YOHWYkq8",
+            "start": 1794328765335,
+            "end": 1794329376335
+          },
+          {
+            "videoId": "EiAiLaYWvtA",
+            "start": 1794329376335,
+            "end": 1794331030335
+          },
+          {
+            "videoId": "VT1KFVgkYec",
+            "start": 1794331030335,
+            "end": 1794332224335
+          },
+          {
+            "videoId": "qM1LLwx5K9c",
+            "start": 1794332224335,
+            "end": 1794333055335
+          },
+          {
+            "videoId": "b_G3FtrDjgE",
+            "start": 1794333055335,
+            "end": 1794334344335
+          },
+          {
+            "videoId": "7Ee9aciBAAE",
+            "start": 1794334344335,
+            "end": 1794335920335
+          },
+          {
+            "videoId": "9p66MucaAXY",
+            "start": 1794335920335,
+            "end": 1794336338335
+          },
+          {
+            "videoId": "yDdwhj9IiUI",
+            "start": 1794336338335,
+            "end": 1794336828335
+          },
+          {
+            "videoId": "-FYv2t9dQ48",
+            "start": 1794336828335,
+            "end": 1794338014335
+          },
+          {
+            "videoId": "NWtHINg6M8o",
+            "start": 1794338014335,
+            "end": 1794339336335
+          },
+          {
+            "videoId": "puUY5D4ShrQ",
+            "start": 1794339336335,
+            "end": 1794340154335
+          },
+          {
+            "videoId": "r4-Vz3P6CP4",
+            "start": 1794340154335,
+            "end": 1794340624335
+          },
+          {
+            "videoId": "LG9byreu_e4",
+            "start": 1794340624335,
+            "end": 1794342043335
+          },
+          {
+            "videoId": "mITvcnP9vt4",
+            "start": 1794342043335,
+            "end": 1794343729335
+          },
+          {
+            "videoId": "PjyEUyDF3B0",
+            "start": 1794343729335,
+            "end": 1794344145335
+          },
+          {
+            "videoId": "lRwZHkWho8o",
+            "start": 1794344145335,
+            "end": 1794344697335
+          },
+          {
+            "videoId": "yqMsl9gQdxk",
+            "start": 1794344697335,
+            "end": 1794346133335
+          },
+          {
+            "videoId": "Gvy7aBOh7gA",
+            "start": 1794346133335,
+            "end": 1794347495335
+          },
+          {
+            "videoId": "TovRt5SyOlg",
+            "start": 1794347495335,
+            "end": 1794349047335
+          },
+          {
+            "videoId": "CbX2jvT0J7E",
+            "start": 1794349047335,
+            "end": 1794349749335
+          },
+          {
+            "videoId": "3WUBKh1_gOM",
+            "start": 1794349749335,
+            "end": 1794351218335
+          },
+          {
+            "videoId": "Ke8DqgdnqcQ",
+            "start": 1794351218335,
+            "end": 1794352729335
+          },
+          {
+            "videoId": "QHazKsZjqoc",
+            "start": 1794352729335,
+            "end": 1794353875335
+          },
+          {
+            "videoId": "ctFJ4NIUHl0",
+            "start": 1794353875335,
+            "end": 1794354487335
+          },
+          {
+            "videoId": "WLWbZE1ouOo",
+            "start": 1794354487335,
+            "end": 1794356220335
+          },
+          {
+            "videoId": "bB7N1pylRG4",
+            "start": 1794356220335,
+            "end": 1794356659335
+          },
+          {
+            "videoId": "Fb8BAsT6zm4",
+            "start": 1794356659335,
+            "end": 1794356964335
+          },
+          {
+            "videoId": "xuBk4PK4REg",
+            "start": 1794356964335,
+            "end": 1794357531335
+          },
+          {
+            "videoId": "LWrantEPywg",
+            "start": 1794357531335,
+            "end": 1794358449335
+          },
+          {
+            "videoId": "W5VgBm9WyJU",
+            "start": 1794358449335,
+            "end": 1794358752335
+          },
+          {
+            "videoId": "hszbAlM610c",
+            "start": 1794358752335,
+            "end": 1794359718335
+          },
+          {
+            "videoId": "DIi6M2463UU",
+            "start": 1794359718335,
+            "end": 1794360490335
+          },
+          {
+            "videoId": "Ijzf98iNitI",
+            "start": 1794360490335,
+            "end": 1794361941335
+          },
+          {
+            "videoId": "y_7E7Jzsw_s",
+            "start": 1794361941335,
+            "end": 1794362747335
+          },
+          {
+            "videoId": "nqbEPJNx44Y",
+            "start": 1794362747335,
+            "end": 1794363524335
+          },
+          {
+            "videoId": "2oqsqysP_kk",
+            "start": 1794363524335,
+            "end": 1794363977335
+          },
+          {
+            "videoId": "7zy3N4bJfr0",
+            "start": 1794363977335,
+            "end": 1794364590335
+          },
+          {
+            "videoId": "3YIeu1lOMrs",
+            "start": 1794364590335,
+            "end": 1794365978335
+          },
+          {
+            "videoId": "tnz-M3UZPD4",
+            "start": 1794365978335,
+            "end": 1794366306335
+          },
+          {
+            "videoId": "E6xq3Q8_jDs",
+            "start": 1794366306335,
+            "end": 1794366884335
+          },
+          {
+            "videoId": "764wQz_o8bc",
+            "start": 1794366884335,
+            "end": 1794367473335
+          },
+          {
+            "videoId": "_4IU_A8XiPc",
+            "start": 1794367473335,
+            "end": 1794367958335
+          },
+          {
+            "videoId": "sfJvmWR7Tpc",
+            "start": 1794367958335,
+            "end": 1794368442335
+          },
+          {
+            "videoId": "K4C1-MilB60",
+            "start": 1794368442335,
+            "end": 1794369107335
+          },
+          {
+            "videoId": "zn022tet-cQ",
+            "start": 1794369107335,
+            "end": 1794369944335
+          },
+          {
+            "videoId": "YKVWdNy1dhE",
+            "start": 1794369944335,
+            "end": 1794370618335
+          },
+          {
+            "videoId": "ranrj03a2TQ",
+            "start": 1794370618335,
+            "end": 1794370988335
+          },
+          {
+            "videoId": "19ABLf5b9Qw",
+            "start": 1794370988335,
+            "end": 1794372385335
+          },
+          {
+            "videoId": "S0mSm-KkhIE",
+            "start": 1794372385335,
+            "end": 1794373911335
+          },
+          {
+            "videoId": "G3vp9va_DX8",
+            "start": 1794373911335,
+            "end": 1794374582335
+          },
+          {
+            "videoId": "v-L81oHCVrw",
+            "start": 1794374582335,
+            "end": 1794376142335
+          },
+          {
+            "videoId": "Q12m5sOji04",
+            "start": 1794376142335,
+            "end": 1794377530335
+          },
+          {
+            "videoId": "VNgM-2m4CZE",
+            "start": 1794377530335,
+            "end": 1794377872335
+          },
+          {
+            "videoId": "5lSnkHNGLLc",
+            "start": 1794377872335,
+            "end": 1794378950335
+          },
+          {
+            "videoId": "7KKikBFOOBo",
+            "start": 1794378950335,
+            "end": 1794379800335
+          },
+          {
+            "videoId": "5koUtlDGlM0",
+            "start": 1794379800335,
+            "end": 1794380294335
+          },
+          {
+            "videoId": "xn1W95Nv8eY",
+            "start": 1794380294335,
+            "end": 1794380584335
+          },
+          {
+            "videoId": "bSA9dqmu0V8",
+            "start": 1794380584335,
+            "end": 1794380876335
+          },
+          {
+            "videoId": "lIKXi3-_5p8",
+            "start": 1794380876335,
+            "end": 1794381267335
+          },
+          {
+            "videoId": "vEP3TgEQViA",
+            "start": 1794381267335,
+            "end": 1794381824335
+          },
+          {
+            "videoId": "hW9s4LRzhJc",
+            "start": 1794381824335,
+            "end": 1794382275335
+          },
+          {
+            "videoId": "uTi41H6TYEs",
+            "start": 1794382275335,
+            "end": 1794383645335
+          },
+          {
+            "videoId": "WMpwoZeCXJo",
+            "start": 1794383645335,
+            "end": 1794385019335
+          },
+          {
+            "videoId": "Q5qpTa6ocn8",
+            "start": 1794385019335,
+            "end": 1794385786335
+          },
+          {
+            "videoId": "-dqwg8k95-s",
+            "start": 1794385786335,
+            "end": 1794387551335
+          },
+          {
+            "videoId": "bqyQUk7bffw",
+            "start": 1794387551335,
+            "end": 1794389242335
+          },
+          {
+            "videoId": "yEx8NDWVOqI",
+            "start": 1794389242335,
+            "end": 1794391043335
+          },
+          {
+            "videoId": "zqqKNRXg4X8",
+            "start": 1794391043335,
+            "end": 1794391526335
+          },
+          {
+            "videoId": "0yRyBCKMzZY",
+            "start": 1794391526335,
+            "end": 1794391845335
+          },
+          {
+            "videoId": "H8W9TJerp6Y",
+            "start": 1794391845335,
+            "end": 1794392264335
+          },
+          {
+            "videoId": "An1Iolux6PU",
+            "start": 1794392264335,
+            "end": 1794392657335
+          },
+          {
+            "videoId": "8z-MoXIZtaY",
+            "start": 1794392657335,
+            "end": 1794394184335
+          },
+          {
+            "videoId": "QfnD9Ho0JQI",
+            "start": 1794394184335,
+            "end": 1794394729335
+          },
+          {
+            "videoId": "dH7ICq5aWjE",
+            "start": 1794394729335,
+            "end": 1794396080335
+          },
+          {
+            "videoId": "sO7SOwmnXqA",
+            "start": 1794396080335,
+            "end": 1794397378335
+          },
+          {
+            "videoId": "BliY7lsH_HI",
+            "start": 1794397378335,
+            "end": 1794397631335
+          },
+          {
+            "videoId": "tqpDHGZyMF4",
+            "start": 1794397631335,
+            "end": 1794398133335
+          },
+          {
+            "videoId": "OqHKmry-NvM",
+            "start": 1794398133335,
+            "end": 1794399280335
+          },
+          {
+            "videoId": "O3SfQNh90Rk",
+            "start": 1794399280335,
+            "end": 1794399624335
+          },
+          {
+            "videoId": "-Qq7op3Ivpg",
+            "start": 1794399624335,
+            "end": 1794400583335
+          },
+          {
+            "videoId": "H99YOHWYkq8",
+            "start": 1794400583335,
+            "end": 1794401194335
+          },
+          {
+            "videoId": "EiAiLaYWvtA",
+            "start": 1794401194335,
+            "end": 1794402848335
+          },
+          {
+            "videoId": "VT1KFVgkYec",
+            "start": 1794402848335,
+            "end": 1794404042335
+          },
+          {
+            "videoId": "qM1LLwx5K9c",
+            "start": 1794404042335,
+            "end": 1794404873335
+          },
+          {
+            "videoId": "b_G3FtrDjgE",
+            "start": 1794404873335,
+            "end": 1794406162335
+          },
+          {
+            "videoId": "7Ee9aciBAAE",
+            "start": 1794406162335,
+            "end": 1794407738335
+          },
+          {
+            "videoId": "9p66MucaAXY",
+            "start": 1794407738335,
+            "end": 1794408156335
+          },
+          {
+            "videoId": "yDdwhj9IiUI",
+            "start": 1794408156335,
+            "end": 1794408646335
+          },
+          {
+            "videoId": "-FYv2t9dQ48",
+            "start": 1794408646335,
+            "end": 1794409832335
+          },
+          {
+            "videoId": "NWtHINg6M8o",
+            "start": 1794409832335,
+            "end": 1794411154335
+          },
+          {
+            "videoId": "puUY5D4ShrQ",
+            "start": 1794411154335,
+            "end": 1794411972335
+          },
+          {
+            "videoId": "r4-Vz3P6CP4",
+            "start": 1794411972335,
+            "end": 1794412442335
+          },
+          {
+            "videoId": "LG9byreu_e4",
+            "start": 1794412442335,
+            "end": 1794413861335
+          },
+          {
+            "videoId": "mITvcnP9vt4",
+            "start": 1794413861335,
+            "end": 1794415547335
+          },
+          {
+            "videoId": "PjyEUyDF3B0",
+            "start": 1794415547335,
+            "end": 1794415963335
+          },
+          {
+            "videoId": "lRwZHkWho8o",
+            "start": 1794415963335,
+            "end": 1794416515335
+          },
+          {
+            "videoId": "yqMsl9gQdxk",
+            "start": 1794416515335,
+            "end": 1794417951335
+          },
+          {
+            "videoId": "Gvy7aBOh7gA",
+            "start": 1794417951335,
+            "end": 1794419313335
+          },
+          {
+            "videoId": "TovRt5SyOlg",
+            "start": 1794419313335,
+            "end": 1794420865335
+          },
+          {
+            "videoId": "CbX2jvT0J7E",
+            "start": 1794420865335,
+            "end": 1794421567335
+          },
+          {
+            "videoId": "3WUBKh1_gOM",
+            "start": 1794421567335,
+            "end": 1794423036335
+          },
+          {
+            "videoId": "Ke8DqgdnqcQ",
+            "start": 1794423036335,
+            "end": 1794424547335
+          },
+          {
+            "videoId": "QHazKsZjqoc",
+            "start": 1794424547335,
+            "end": 1794425693335
+          },
+          {
+            "videoId": "ctFJ4NIUHl0",
+            "start": 1794425693335,
+            "end": 1794426305335
+          },
+          {
+            "videoId": "WLWbZE1ouOo",
+            "start": 1794426305335,
+            "end": 1794428038335
+          },
+          {
+            "videoId": "bB7N1pylRG4",
+            "start": 1794428038335,
+            "end": 1794428477335
+          },
+          {
+            "videoId": "Fb8BAsT6zm4",
+            "start": 1794428477335,
+            "end": 1794428782335
+          },
+          {
+            "videoId": "xuBk4PK4REg",
+            "start": 1794428782335,
+            "end": 1794429349335
+          },
+          {
+            "videoId": "LWrantEPywg",
+            "start": 1794429349335,
+            "end": 1794430267335
+          },
+          {
+            "videoId": "W5VgBm9WyJU",
+            "start": 1794430267335,
+            "end": 1794430570335
+          },
+          {
+            "videoId": "hszbAlM610c",
+            "start": 1794430570335,
+            "end": 1794431536335
+          },
+          {
+            "videoId": "DIi6M2463UU",
+            "start": 1794431536335,
+            "end": 1794432308335
+          },
+          {
+            "videoId": "Ijzf98iNitI",
+            "start": 1794432308335,
+            "end": 1794433759335
+          },
+          {
+            "videoId": "y_7E7Jzsw_s",
+            "start": 1794433759335,
+            "end": 1794434565335
+          },
+          {
+            "videoId": "nqbEPJNx44Y",
+            "start": 1794434565335,
+            "end": 1794435342335
+          },
+          {
+            "videoId": "2oqsqysP_kk",
+            "start": 1794435342335,
+            "end": 1794435795335
+          },
+          {
+            "videoId": "7zy3N4bJfr0",
+            "start": 1794435795335,
+            "end": 1794436408335
+          },
+          {
+            "videoId": "3YIeu1lOMrs",
+            "start": 1794436408335,
+            "end": 1794437796335
+          },
+          {
+            "videoId": "tnz-M3UZPD4",
+            "start": 1794437796335,
+            "end": 1794438124335
+          },
+          {
+            "videoId": "E6xq3Q8_jDs",
+            "start": 1794438124335,
+            "end": 1794438702335
+          },
+          {
+            "videoId": "764wQz_o8bc",
+            "start": 1794438702335,
+            "end": 1794439291335
+          },
+          {
+            "videoId": "_4IU_A8XiPc",
+            "start": 1794439291335,
+            "end": 1794439776335
+          },
+          {
+            "videoId": "sfJvmWR7Tpc",
+            "start": 1794439776335,
+            "end": 1794440260335
+          },
+          {
+            "videoId": "K4C1-MilB60",
+            "start": 1794440260335,
+            "end": 1794440925335
+          },
+          {
+            "videoId": "zn022tet-cQ",
+            "start": 1794440925335,
+            "end": 1794441762335
+          },
+          {
+            "videoId": "YKVWdNy1dhE",
+            "start": 1794441762335,
+            "end": 1794442436335
+          },
+          {
+            "videoId": "ranrj03a2TQ",
+            "start": 1794442436335,
+            "end": 1794442806335
+          },
+          {
+            "videoId": "19ABLf5b9Qw",
+            "start": 1794442806335,
+            "end": 1794444203335
+          },
+          {
+            "videoId": "S0mSm-KkhIE",
+            "start": 1794444203335,
+            "end": 1794445729335
+          },
+          {
+            "videoId": "G3vp9va_DX8",
+            "start": 1794445729335,
+            "end": 1794446400335
+          },
+          {
+            "videoId": "v-L81oHCVrw",
+            "start": 1794446400335,
+            "end": 1794447960335
+          },
+          {
+            "videoId": "Q12m5sOji04",
+            "start": 1794447960335,
+            "end": 1794449348335
+          },
+          {
+            "videoId": "VNgM-2m4CZE",
+            "start": 1794449348335,
+            "end": 1794449690335
+          },
+          {
+            "videoId": "5lSnkHNGLLc",
+            "start": 1794449690335,
+            "end": 1794450768335
+          },
+          {
+            "videoId": "7KKikBFOOBo",
+            "start": 1794450768335,
+            "end": 1794451618335
+          },
+          {
+            "videoId": "5koUtlDGlM0",
+            "start": 1794451618335,
+            "end": 1794452112335
+          },
+          {
+            "videoId": "xn1W95Nv8eY",
+            "start": 1794452112335,
+            "end": 1794452402335
+          },
+          {
+            "videoId": "bSA9dqmu0V8",
+            "start": 1794452402335,
+            "end": 1794452694335
+          },
+          {
+            "videoId": "lIKXi3-_5p8",
+            "start": 1794452694335,
+            "end": 1794453085335
+          },
+          {
+            "videoId": "vEP3TgEQViA",
+            "start": 1794453085335,
+            "end": 1794453642335
+          },
+          {
+            "videoId": "hW9s4LRzhJc",
+            "start": 1794453642335,
+            "end": 1794454093335
+          },
+          {
+            "videoId": "uTi41H6TYEs",
+            "start": 1794454093335,
+            "end": 1794455463335
+          },
+          {
+            "videoId": "WMpwoZeCXJo",
+            "start": 1794455463335,
+            "end": 1794456837335
+          },
+          {
+            "videoId": "Q5qpTa6ocn8",
+            "start": 1794456837335,
+            "end": 1794457604335
+          },
+          {
+            "videoId": "-dqwg8k95-s",
+            "start": 1794457604335,
+            "end": 1794459369335
+          },
+          {
+            "videoId": "bqyQUk7bffw",
+            "start": 1794459369335,
+            "end": 1794461060335
+          },
+          {
+            "videoId": "yEx8NDWVOqI",
+            "start": 1794461060335,
+            "end": 1794462861335
+          },
+          {
+            "videoId": "zqqKNRXg4X8",
+            "start": 1794462861335,
+            "end": 1794463344335
+          },
+          {
+            "videoId": "0yRyBCKMzZY",
+            "start": 1794463344335,
+            "end": 1794463663335
+          },
+          {
+            "videoId": "H8W9TJerp6Y",
+            "start": 1794463663335,
+            "end": 1794464082335
+          },
+          {
+            "videoId": "An1Iolux6PU",
+            "start": 1794464082335,
+            "end": 1794464475335
+          },
+          {
+            "videoId": "8z-MoXIZtaY",
+            "start": 1794464475335,
+            "end": 1794466002335
+          },
+          {
+            "videoId": "QfnD9Ho0JQI",
+            "start": 1794466002335,
+            "end": 1794466547335
+          },
+          {
+            "videoId": "dH7ICq5aWjE",
+            "start": 1794466547335,
+            "end": 1794467898335
+          },
+          {
+            "videoId": "sO7SOwmnXqA",
+            "start": 1794467898335,
+            "end": 1794469196335
+          },
+          {
+            "videoId": "BliY7lsH_HI",
+            "start": 1794469196335,
+            "end": 1794469449335
+          },
+          {
+            "videoId": "tqpDHGZyMF4",
+            "start": 1794469449335,
+            "end": 1794469951335
+          },
+          {
+            "videoId": "OqHKmry-NvM",
+            "start": 1794469951335,
+            "end": 1794471098335
+          },
+          {
+            "videoId": "O3SfQNh90Rk",
+            "start": 1794471098335,
+            "end": 1794471442335
+          },
+          {
+            "videoId": "-Qq7op3Ivpg",
+            "start": 1794471442335,
+            "end": 1794472401335
+          },
+          {
+            "videoId": "H99YOHWYkq8",
+            "start": 1794472401335,
+            "end": 1794473012335
+          },
+          {
+            "videoId": "EiAiLaYWvtA",
+            "start": 1794473012335,
+            "end": 1794474666335
+          },
+          {
+            "videoId": "VT1KFVgkYec",
+            "start": 1794474666335,
+            "end": 1794475860335
+          },
+          {
+            "videoId": "qM1LLwx5K9c",
+            "start": 1794475860335,
+            "end": 1794476691335
+          },
+          {
+            "videoId": "b_G3FtrDjgE",
+            "start": 1794476691335,
+            "end": 1794477980335
+          },
+          {
+            "videoId": "7Ee9aciBAAE",
+            "start": 1794477980335,
+            "end": 1794479556335
+          },
+          {
+            "videoId": "9p66MucaAXY",
+            "start": 1794479556335,
+            "end": 1794479974335
+          },
+          {
+            "videoId": "yDdwhj9IiUI",
+            "start": 1794479974335,
+            "end": 1794480464335
+          },
+          {
+            "videoId": "-FYv2t9dQ48",
+            "start": 1794480464335,
+            "end": 1794481650335
+          },
+          {
+            "videoId": "NWtHINg6M8o",
+            "start": 1794481650335,
+            "end": 1794482972335
+          },
+          {
+            "videoId": "puUY5D4ShrQ",
+            "start": 1794482972335,
+            "end": 1794483790335
+          },
+          {
+            "videoId": "r4-Vz3P6CP4",
+            "start": 1794483790335,
+            "end": 1794484260335
+          },
+          {
+            "videoId": "LG9byreu_e4",
+            "start": 1794484260335,
+            "end": 1794485679335
+          },
+          {
+            "videoId": "mITvcnP9vt4",
+            "start": 1794485679335,
+            "end": 1794487365335
+          },
+          {
+            "videoId": "PjyEUyDF3B0",
+            "start": 1794487365335,
+            "end": 1794487781335
+          },
+          {
+            "videoId": "lRwZHkWho8o",
+            "start": 1794487781335,
+            "end": 1794488333335
+          },
+          {
+            "videoId": "yqMsl9gQdxk",
+            "start": 1794488333335,
+            "end": 1794489769335
+          },
+          {
+            "videoId": "Gvy7aBOh7gA",
+            "start": 1794489769335,
+            "end": 1794491131335
+          },
+          {
+            "videoId": "TovRt5SyOlg",
+            "start": 1794491131335,
+            "end": 1794492683335
+          },
+          {
+            "videoId": "CbX2jvT0J7E",
+            "start": 1794492683335,
+            "end": 1794493385335
+          },
+          {
+            "videoId": "3WUBKh1_gOM",
+            "start": 1794493385335,
+            "end": 1794494854335
+          },
+          {
+            "videoId": "Ke8DqgdnqcQ",
+            "start": 1794494854335,
+            "end": 1794496365335
+          },
+          {
+            "videoId": "QHazKsZjqoc",
+            "start": 1794496365335,
+            "end": 1794497511335
+          },
+          {
+            "videoId": "ctFJ4NIUHl0",
+            "start": 1794497511335,
+            "end": 1794498123335
+          },
+          {
+            "videoId": "WLWbZE1ouOo",
+            "start": 1794498123335,
+            "end": 1794499856335
+          },
+          {
+            "videoId": "bB7N1pylRG4",
+            "start": 1794499856335,
+            "end": 1794500295335
+          },
+          {
+            "videoId": "Fb8BAsT6zm4",
+            "start": 1794500295335,
+            "end": 1794500600335
+          },
+          {
+            "videoId": "xuBk4PK4REg",
+            "start": 1794500600335,
+            "end": 1794501167335
+          },
+          {
+            "videoId": "LWrantEPywg",
+            "start": 1794501167335,
+            "end": 1794502085335
+          },
+          {
+            "videoId": "W5VgBm9WyJU",
+            "start": 1794502085335,
+            "end": 1794502388335
+          },
+          {
+            "videoId": "hszbAlM610c",
+            "start": 1794502388335,
+            "end": 1794503354335
+          },
+          {
+            "videoId": "DIi6M2463UU",
+            "start": 1794503354335,
+            "end": 1794504126335
+          },
+          {
+            "videoId": "Ijzf98iNitI",
+            "start": 1794504126335,
+            "end": 1794505577335
+          },
+          {
+            "videoId": "y_7E7Jzsw_s",
+            "start": 1794505577335,
+            "end": 1794506383335
+          },
+          {
+            "videoId": "nqbEPJNx44Y",
+            "start": 1794506383335,
+            "end": 1794507160335
+          },
+          {
+            "videoId": "2oqsqysP_kk",
+            "start": 1794507160335,
+            "end": 1794507613335
+          },
+          {
+            "videoId": "7zy3N4bJfr0",
+            "start": 1794507613335,
+            "end": 1794508226335
+          },
+          {
+            "videoId": "3YIeu1lOMrs",
+            "start": 1794508226335,
+            "end": 1794509614335
+          },
+          {
+            "videoId": "tnz-M3UZPD4",
+            "start": 1794509614335,
+            "end": 1794509942335
+          },
+          {
+            "videoId": "E6xq3Q8_jDs",
+            "start": 1794509942335,
+            "end": 1794510520335
+          },
+          {
+            "videoId": "764wQz_o8bc",
+            "start": 1794510520335,
+            "end": 1794511109335
+          },
+          {
+            "videoId": "_4IU_A8XiPc",
+            "start": 1794511109335,
+            "end": 1794511594335
+          },
+          {
+            "videoId": "sfJvmWR7Tpc",
+            "start": 1794511594335,
+            "end": 1794512078335
+          },
+          {
+            "videoId": "K4C1-MilB60",
+            "start": 1794512078335,
+            "end": 1794512743335
+          },
+          {
+            "videoId": "zn022tet-cQ",
+            "start": 1794512743335,
+            "end": 1794513580335
+          },
+          {
+            "videoId": "YKVWdNy1dhE",
+            "start": 1794513580335,
+            "end": 1794514254335
+          },
+          {
+            "videoId": "ranrj03a2TQ",
+            "start": 1794514254335,
+            "end": 1794514624335
+          },
+          {
+            "videoId": "19ABLf5b9Qw",
+            "start": 1794514624335,
+            "end": 1794516021335
+          },
+          {
+            "videoId": "S0mSm-KkhIE",
+            "start": 1794516021335,
+            "end": 1794517547335
+          },
+          {
+            "videoId": "G3vp9va_DX8",
+            "start": 1794517547335,
+            "end": 1794518218335
+          },
+          {
+            "videoId": "v-L81oHCVrw",
+            "start": 1794518218335,
+            "end": 1794519778335
+          },
+          {
+            "videoId": "Q12m5sOji04",
+            "start": 1794519778335,
+            "end": 1794521166335
+          },
+          {
+            "videoId": "VNgM-2m4CZE",
+            "start": 1794521166335,
+            "end": 1794521508335
+          },
+          {
+            "videoId": "5lSnkHNGLLc",
+            "start": 1794521508335,
+            "end": 1794522586335
+          },
+          {
+            "videoId": "7KKikBFOOBo",
+            "start": 1794522586335,
+            "end": 1794523436335
+          },
+          {
+            "videoId": "5koUtlDGlM0",
+            "start": 1794523436335,
+            "end": 1794523930335
+          },
+          {
+            "videoId": "xn1W95Nv8eY",
+            "start": 1794523930335,
+            "end": 1794524220335
+          },
+          {
+            "videoId": "bSA9dqmu0V8",
+            "start": 1794524220335,
+            "end": 1794524512335
+          },
+          {
+            "videoId": "lIKXi3-_5p8",
+            "start": 1794524512335,
+            "end": 1794524903335
+          },
+          {
+            "videoId": "vEP3TgEQViA",
+            "start": 1794524903335,
+            "end": 1794525460335
+          },
+          {
+            "videoId": "hW9s4LRzhJc",
+            "start": 1794525460335,
+            "end": 1794525911335
+          },
+          {
+            "videoId": "uTi41H6TYEs",
+            "start": 1794525911335,
+            "end": 1794527281335
+          },
+          {
+            "videoId": "WMpwoZeCXJo",
+            "start": 1794527281335,
+            "end": 1794528655335
+          },
+          {
+            "videoId": "Q5qpTa6ocn8",
+            "start": 1794528655335,
+            "end": 1794529422335
+          },
+          {
+            "videoId": "-dqwg8k95-s",
+            "start": 1794529422335,
+            "end": 1794531187335
+          },
+          {
+            "videoId": "bqyQUk7bffw",
+            "start": 1794531187335,
+            "end": 1794532878335
+          },
+          {
+            "videoId": "yEx8NDWVOqI",
+            "start": 1794532878335,
+            "end": 1794534679335
+          },
+          {
+            "videoId": "zqqKNRXg4X8",
+            "start": 1794534679335,
+            "end": 1794535162335
+          },
+          {
+            "videoId": "0yRyBCKMzZY",
+            "start": 1794535162335,
+            "end": 1794535481335
+          },
+          {
+            "videoId": "H8W9TJerp6Y",
+            "start": 1794535481335,
+            "end": 1794535900335
+          },
+          {
+            "videoId": "An1Iolux6PU",
+            "start": 1794535900335,
+            "end": 1794536293335
+          },
+          {
+            "videoId": "8z-MoXIZtaY",
+            "start": 1794536293335,
+            "end": 1794537820335
+          },
+          {
+            "videoId": "QfnD9Ho0JQI",
+            "start": 1794537820335,
+            "end": 1794538365335
+          },
+          {
+            "videoId": "dH7ICq5aWjE",
+            "start": 1794538365335,
+            "end": 1794539716335
+          },
+          {
+            "videoId": "sO7SOwmnXqA",
+            "start": 1794539716335,
+            "end": 1794541014335
+          },
+          {
+            "videoId": "BliY7lsH_HI",
+            "start": 1794541014335,
+            "end": 1794541267335
+          },
+          {
+            "videoId": "tqpDHGZyMF4",
+            "start": 1794541267335,
+            "end": 1794541769335
+          },
+          {
+            "videoId": "OqHKmry-NvM",
+            "start": 1794541769335,
+            "end": 1794542916335
+          },
+          {
+            "videoId": "O3SfQNh90Rk",
+            "start": 1794542916335,
+            "end": 1794543260335
+          },
+          {
+            "videoId": "-Qq7op3Ivpg",
+            "start": 1794543260335,
+            "end": 1794544219335
+          },
+          {
+            "videoId": "H99YOHWYkq8",
+            "start": 1794544219335,
+            "end": 1794544830335
+          },
+          {
+            "videoId": "EiAiLaYWvtA",
+            "start": 1794544830335,
+            "end": 1794546484335
+          },
+          {
+            "videoId": "VT1KFVgkYec",
+            "start": 1794546484335,
+            "end": 1794547678335
+          },
+          {
+            "videoId": "qM1LLwx5K9c",
+            "start": 1794547678335,
+            "end": 1794548509335
+          },
+          {
+            "videoId": "b_G3FtrDjgE",
+            "start": 1794548509335,
+            "end": 1794549798335
+          },
+          {
+            "videoId": "7Ee9aciBAAE",
+            "start": 1794549798335,
+            "end": 1794551374335
+          },
+          {
+            "videoId": "9p66MucaAXY",
+            "start": 1794551374335,
+            "end": 1794551792335
+          },
+          {
+            "videoId": "yDdwhj9IiUI",
+            "start": 1794551792335,
+            "end": 1794552282335
+          },
+          {
+            "videoId": "-FYv2t9dQ48",
+            "start": 1794552282335,
+            "end": 1794553468335
+          },
+          {
+            "videoId": "NWtHINg6M8o",
+            "start": 1794553468335,
+            "end": 1794554790335
+          },
+          {
+            "videoId": "puUY5D4ShrQ",
+            "start": 1794554790335,
+            "end": 1794555608335
+          },
+          {
+            "videoId": "r4-Vz3P6CP4",
+            "start": 1794555608335,
+            "end": 1794556078335
+          },
+          {
+            "videoId": "LG9byreu_e4",
+            "start": 1794556078335,
+            "end": 1794557497335
+          },
+          {
+            "videoId": "mITvcnP9vt4",
+            "start": 1794557497335,
+            "end": 1794559183335
+          },
+          {
+            "videoId": "PjyEUyDF3B0",
+            "start": 1794559183335,
+            "end": 1794559599335
+          },
+          {
+            "videoId": "lRwZHkWho8o",
+            "start": 1794559599335,
+            "end": 1794560151335
+          },
+          {
+            "videoId": "yqMsl9gQdxk",
+            "start": 1794560151335,
+            "end": 1794561587335
+          },
+          {
+            "videoId": "Gvy7aBOh7gA",
+            "start": 1794561587335,
+            "end": 1794562949335
+          },
+          {
+            "videoId": "TovRt5SyOlg",
+            "start": 1794562949335,
+            "end": 1794564501335
+          },
+          {
+            "videoId": "CbX2jvT0J7E",
+            "start": 1794564501335,
+            "end": 1794565203335
+          },
+          {
+            "videoId": "3WUBKh1_gOM",
+            "start": 1794565203335,
+            "end": 1794566672335
+          },
+          {
+            "videoId": "Ke8DqgdnqcQ",
+            "start": 1794566672335,
+            "end": 1794568183335
+          },
+          {
+            "videoId": "QHazKsZjqoc",
+            "start": 1794568183335,
+            "end": 1794569329335
+          },
+          {
+            "videoId": "ctFJ4NIUHl0",
+            "start": 1794569329335,
+            "end": 1794569941335
+          },
+          {
+            "videoId": "WLWbZE1ouOo",
+            "start": 1794569941335,
+            "end": 1794571674335
+          },
+          {
+            "videoId": "bB7N1pylRG4",
+            "start": 1794571674335,
+            "end": 1794572113335
+          },
+          {
+            "videoId": "Fb8BAsT6zm4",
+            "start": 1794572113335,
+            "end": 1794572418335
+          },
+          {
+            "videoId": "xuBk4PK4REg",
+            "start": 1794572418335,
+            "end": 1794572985335
+          },
+          {
+            "videoId": "LWrantEPywg",
+            "start": 1794572985335,
+            "end": 1794573903335
+          },
+          {
+            "videoId": "W5VgBm9WyJU",
+            "start": 1794573903335,
+            "end": 1794574206335
+          },
+          {
+            "videoId": "hszbAlM610c",
+            "start": 1794574206335,
+            "end": 1794575172335
+          },
+          {
+            "videoId": "DIi6M2463UU",
+            "start": 1794575172335,
+            "end": 1794575944335
+          },
+          {
+            "videoId": "Ijzf98iNitI",
+            "start": 1794575944335,
+            "end": 1794577395335
+          },
+          {
+            "videoId": "y_7E7Jzsw_s",
+            "start": 1794577395335,
+            "end": 1794578201335
+          },
+          {
+            "videoId": "nqbEPJNx44Y",
+            "start": 1794578201335,
+            "end": 1794578978335
+          },
+          {
+            "videoId": "2oqsqysP_kk",
+            "start": 1794578978335,
+            "end": 1794579431335
+          },
+          {
+            "videoId": "7zy3N4bJfr0",
+            "start": 1794579431335,
+            "end": 1794580044335
+          },
+          {
+            "videoId": "3YIeu1lOMrs",
+            "start": 1794580044335,
+            "end": 1794581432335
+          },
+          {
+            "videoId": "tnz-M3UZPD4",
+            "start": 1794581432335,
+            "end": 1794581760335
+          },
+          {
+            "videoId": "E6xq3Q8_jDs",
+            "start": 1794581760335,
+            "end": 1794582338335
+          },
+          {
+            "videoId": "764wQz_o8bc",
+            "start": 1794582338335,
+            "end": 1794582927335
+          },
+          {
+            "videoId": "_4IU_A8XiPc",
+            "start": 1794582927335,
+            "end": 1794583412335
+          },
+          {
+            "videoId": "sfJvmWR7Tpc",
+            "start": 1794583412335,
+            "end": 1794583896335
+          },
+          {
+            "videoId": "K4C1-MilB60",
+            "start": 1794583896335,
+            "end": 1794584561335
+          },
+          {
+            "videoId": "zn022tet-cQ",
+            "start": 1794584561335,
+            "end": 1794585398335
+          },
+          {
+            "videoId": "YKVWdNy1dhE",
+            "start": 1794585398335,
+            "end": 1794586072335
+          },
+          {
+            "videoId": "ranrj03a2TQ",
+            "start": 1794586072335,
+            "end": 1794586442335
+          },
+          {
+            "videoId": "19ABLf5b9Qw",
+            "start": 1794586442335,
+            "end": 1794587839335
+          },
+          {
+            "videoId": "S0mSm-KkhIE",
+            "start": 1794587839335,
+            "end": 1794589365335
+          },
+          {
+            "videoId": "G3vp9va_DX8",
+            "start": 1794589365335,
+            "end": 1794590036335
+          },
+          {
+            "videoId": "v-L81oHCVrw",
+            "start": 1794590036335,
+            "end": 1794591596335
+          },
+          {
+            "videoId": "Q12m5sOji04",
+            "start": 1794591596335,
+            "end": 1794592984335
+          },
+          {
+            "videoId": "VNgM-2m4CZE",
+            "start": 1794592984335,
+            "end": 1794593326335
+          },
+          {
+            "videoId": "5lSnkHNGLLc",
+            "start": 1794593326335,
+            "end": 1794594404335
+          },
+          {
+            "videoId": "7KKikBFOOBo",
+            "start": 1794594404335,
+            "end": 1794595254335
+          },
+          {
+            "videoId": "5koUtlDGlM0",
+            "start": 1794595254335,
+            "end": 1794595748335
+          },
+          {
+            "videoId": "xn1W95Nv8eY",
+            "start": 1794595748335,
+            "end": 1794596038335
+          },
+          {
+            "videoId": "bSA9dqmu0V8",
+            "start": 1794596038335,
+            "end": 1794596330335
+          },
+          {
+            "videoId": "lIKXi3-_5p8",
+            "start": 1794596330335,
+            "end": 1794596721335
+          },
+          {
+            "videoId": "vEP3TgEQViA",
+            "start": 1794596721335,
+            "end": 1794597278335
+          },
+          {
+            "videoId": "hW9s4LRzhJc",
+            "start": 1794597278335,
+            "end": 1794597729335
+          },
+          {
+            "videoId": "uTi41H6TYEs",
+            "start": 1794597729335,
+            "end": 1794599099335
+          },
+          {
+            "videoId": "WMpwoZeCXJo",
+            "start": 1794599099335,
+            "end": 1794600473335
+          },
+          {
+            "videoId": "Q5qpTa6ocn8",
+            "start": 1794600473335,
+            "end": 1794601240335
+          },
+          {
+            "videoId": "-dqwg8k95-s",
+            "start": 1794601240335,
+            "end": 1794603005335
+          },
+          {
+            "videoId": "bqyQUk7bffw",
+            "start": 1794603005335,
+            "end": 1794604696335
+          },
+          {
+            "videoId": "yEx8NDWVOqI",
+            "start": 1794604696335,
+            "end": 1794606497335
+          },
+          {
+            "videoId": "zqqKNRXg4X8",
+            "start": 1794606497335,
+            "end": 1794606980335
+          },
+          {
+            "videoId": "0yRyBCKMzZY",
+            "start": 1794606980335,
+            "end": 1794607299335
+          },
+          {
+            "videoId": "H8W9TJerp6Y",
+            "start": 1794607299335,
+            "end": 1794607718335
+          },
+          {
+            "videoId": "An1Iolux6PU",
+            "start": 1794607718335,
+            "end": 1794608111335
+          },
+          {
+            "videoId": "8z-MoXIZtaY",
+            "start": 1794608111335,
+            "end": 1794609638335
+          },
+          {
+            "videoId": "QfnD9Ho0JQI",
+            "start": 1794609638335,
+            "end": 1794610183335
+          },
+          {
+            "videoId": "dH7ICq5aWjE",
+            "start": 1794610183335,
+            "end": 1794611534335
+          },
+          {
+            "videoId": "sO7SOwmnXqA",
+            "start": 1794611534335,
+            "end": 1794612832335
+          },
+          {
+            "videoId": "BliY7lsH_HI",
+            "start": 1794612832335,
+            "end": 1794613085335
+          },
+          {
+            "videoId": "tqpDHGZyMF4",
+            "start": 1794613085335,
+            "end": 1794613587335
+          },
+          {
+            "videoId": "OqHKmry-NvM",
+            "start": 1794613587335,
+            "end": 1794614734335
+          },
+          {
+            "videoId": "O3SfQNh90Rk",
+            "start": 1794614734335,
+            "end": 1794615078335
+          },
+          {
+            "videoId": "-Qq7op3Ivpg",
+            "start": 1794615078335,
+            "end": 1794616037335
+          },
+          {
+            "videoId": "H99YOHWYkq8",
+            "start": 1794616037335,
+            "end": 1794616648335
+          },
+          {
+            "videoId": "EiAiLaYWvtA",
+            "start": 1794616648335,
+            "end": 1794618302335
+          },
+          {
+            "videoId": "VT1KFVgkYec",
+            "start": 1794618302335,
+            "end": 1794619496335
+          },
+          {
+            "videoId": "qM1LLwx5K9c",
+            "start": 1794619496335,
+            "end": 1794620327335
+          },
+          {
+            "videoId": "b_G3FtrDjgE",
+            "start": 1794620327335,
+            "end": 1794621616335
+          },
+          {
+            "videoId": "7Ee9aciBAAE",
+            "start": 1794621616335,
+            "end": 1794623192335
+          },
+          {
+            "videoId": "9p66MucaAXY",
+            "start": 1794623192335,
+            "end": 1794623610335
+          },
+          {
+            "videoId": "yDdwhj9IiUI",
+            "start": 1794623610335,
+            "end": 1794624100335
+          },
+          {
+            "videoId": "-FYv2t9dQ48",
+            "start": 1794624100335,
+            "end": 1794625286335
+          },
+          {
+            "videoId": "NWtHINg6M8o",
+            "start": 1794625286335,
+            "end": 1794626608335
+          },
+          {
+            "videoId": "puUY5D4ShrQ",
+            "start": 1794626608335,
+            "end": 1794627426335
+          },
+          {
+            "videoId": "r4-Vz3P6CP4",
+            "start": 1794627426335,
+            "end": 1794627896335
+          },
+          {
+            "videoId": "LG9byreu_e4",
+            "start": 1794627896335,
+            "end": 1794629315335
+          },
+          {
+            "videoId": "mITvcnP9vt4",
+            "start": 1794629315335,
+            "end": 1794631001335
+          },
+          {
+            "videoId": "PjyEUyDF3B0",
+            "start": 1794631001335,
+            "end": 1794631417335
+          },
+          {
+            "videoId": "lRwZHkWho8o",
+            "start": 1794631417335,
+            "end": 1794631969335
+          },
+          {
+            "videoId": "yqMsl9gQdxk",
+            "start": 1794631969335,
+            "end": 1794632879335
           }
         ]
       }
