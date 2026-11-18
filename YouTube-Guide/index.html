@@ -58,6 +58,48 @@
 .schedule-help b{color:#ffe178;font-size:13px}.schedule-help p{margin:5px 0 0}
 .github-feedback{padding:12px;border:1px solid #315a7d;border-radius:7px;background:#06172d;overflow-wrap:anywhere}
 @media(max-width:580px){.admin-layout{padding:12px;gap:12px}.admin-section-body{padding:14px}.admin-section-title{padding:14px}.admin-actions{grid-template-columns:1fr}}
+
+/* v1.3.3: near-black satellite guide palette, no dusty blue. */
+:root{--guide-bg:#0f0e17;--guide-top:#181723;--guide-head:#242231;--guide-grid:#282633;--guide-cell:#3a3849;--guide-edge:#171621;--guide-muted:#d1cfdb;--guide-outline:#a9a5bc;--guide-gold:#eedcab;background:#0f0e17!important}
+html,body{background:#0f0e17!important}
+.guide-topbar{background:#171520!important;border-color:#393645!important}
+.guide-topbar .category-tabs button{background:#201e2b!important;border-color:#aaa5b7!important;color:#f0edf4!important}
+.guide-topbar .category-tabs button.active{background:#e8e5ed!important;color:#191720!important;border-color:#e8e5ed!important}
+.guide-topbar .category-tabs .bar-action{background:#373444!important}
+.guide-topbar header .right button{background:#272431!important;border-color:#807b90!important}
+.guide,.guideheading,.infobar{background:#1c1a26!important;border-color:#393544!important}
+.guideheadright button{background:#292632!important;border-color:#686372!important}
+.guideheadright #now{background:#ccc9d5!important;color:#191720!important}
+.gridscroll,.gridbody{background:#24222e!important}
+.timehead,.timehead .l,.times>div{background:#1b1924!important;border-color:#44404f!important}
+.line{border-bottom:2px solid #17151f!important}
+.line:nth-child(odd) .station{background:#393645!important}
+.line:nth-child(even) .station{background:#302e3c!important}
+.station{border-color:#1b1924!important}
+.station.selected{background:#676277!important;color:#fff!important}
+.station.selected b{color:#fff!important}
+.station-icon{flex:1 1 auto!important;min-width:0!important;width:auto!important;height:40px!important;overflow:hidden!important}
+.station-icon img{object-fit:contain!important;max-height:39px!important;max-width:100%!important}
+.station-letter{flex:0 1 auto;max-width:58px;min-width:0;overflow:hidden;text-overflow:ellipsis;white-space:nowrap;font-size:10px;font-weight:800;letter-spacing:.15px;color:#f0edf6}
+.station-placeholder{font-size:13px!important;color:#f7f3fa!important}
+.programs,.line:nth-child(even) .programs{background:#302d3b!important}
+.line:nth-child(odd) .programs{background:#393544!important}
+.program,.line:nth-child(even) .program{background:#3c3949!important;border-color:#201e29!important;border-right:2px solid #201e29!important;color:#f3f0f7!important}
+.line:nth-child(odd) .program{background:#444052!important}
+.program.current{border-color:#b3adbf!important;border-right:2px solid #2a2735!important}
+.program:hover{background:#5d576c!important}
+.marker{background:#f0cdd7!important}
+.footer,.upper{background:#1c1a27!important;border-color:#514c5e!important}
+.upper .statuspanel,.upper .statinner{background:#282532!important;border-color:#5b5568!important}
+.upper .statuspanel h3{background:#35313f!important}
+.upper .controls button,.drawer-actions button,.drawer-heading button{background:#302c3c!important;border-color:#827b91!important}
+.upper .overlay{background:linear-gradient(140deg,#252230,#101018)!important}
+dialog,dialog#adminDialog,dialog#createDialog{background:#1c1a27!important;border-color:#797285!important}
+dialog h2{background:#2c2838!important;border-color:#777082!important}
+dialog .form,dialog form,.form,dialog .step,dialog .step-header,dialog .credentials-card,dialog .panel,dialog .card,dialog .icon-upload{background:#24212f!important;border-color:#686173!important}
+dialog input,dialog textarea,dialog select{background:#181620!important;border-color:#817a8d!important;color:#f9f7fc!important}
+dialog button{background:#373241!important;border-color:#8a8298!important;color:#fff!important}
+dialog button:hover{background:#544d61!important}
 </style><style>
 .companion-panel{display:grid;gap:12px;padding:18px;border:1px solid #709ac1;border-radius:10px;background:#12365d}
 .companion-panel p{font-size:12px;color:#c3dffa;line-height:1.6;margin:0}
@@ -265,9 +307,26 @@ dialog .mode-card.active{background:#73738e!important;border-color:#ded8e6!impor
 .hint strong{color:#f5f2fa!important}
 @media(max-width:860px){.guide-topbar{flex-wrap:wrap;padding-right:7px}.guide-topbar .category-tabs{flex-basis:100%;min-height:43px;padding:7px 10px}.guide-topbar header{padding:0 10px 7px;width:100%;justify-content:flex-end}.guide-topbar header .right{width:auto}.gridscroll{max-height:calc(100vh - 220px)!important}}
 
+
+/* v1.3.4: Restore the always-visible inline video player above the program grid. */
+main{display:flex!important;flex-direction:column!important;align-items:stretch!important}
+#watchDrawer.upper{position:relative!important;inset:auto!important;top:auto!important;right:auto!important;bottom:auto!important;transform:none!important;transition:none!important;z-index:auto!important;width:100%!important;max-width:100%!important;height:auto!important;min-height:0!important;margin:0!important;padding:12px 18px!important;overflow:visible!important;box-shadow:none!important;border:0!important;border-bottom:1px solid #393443!important;background:#100f16!important;display:grid!important;grid-template-columns:minmax(0,1.7fr) minmax(260px,.8fr)!important;gap:12px!important;align-items:start!important}
+#watchDrawer .drawer-heading{grid-column:1/-1;min-height:28px!important;margin:0!important;padding:0 2px!important}
+#watchDrawer .screen{width:100%!important;max-width:100%!important;aspect-ratio:16/9!important;flex:auto!important;margin:0!important;border:1px solid #595462!important;background:#000!important}
+#watchDrawer .statuspanel{height:auto!important;min-height:0!important;max-height:none!important;overflow:visible!important;flex:auto!important}
+#watchDrawer .statinner{padding:12px!important}
+#watchDrawer .controls{margin-top:8px!important}
+#watchDrawer .drawer-actions{display:flex!important;align-items:center!important}
+#watchDrawer .exit-fullscreen{z-index:9}
+#watchDrawer .screen:fullscreen{width:100vw!important;height:100vh!important;max-width:none!important;max-height:none!important;aspect-ratio:auto!important;position:fixed!important;inset:0!important;border:0!important;z-index:1000!important}
+#watchDrawer .screen:fullscreen #player{width:100%!important;height:100%!important}
+#watchDrawer .screen:fullscreen .no-seek{bottom:0}
+.guide{margin-top:0!important}
+.gridscroll{max-height:75vh!important}
+@media(max-width:850px){#watchDrawer.upper{grid-template-columns:1fr!important;padding:10px!important;gap:9px!important}#watchDrawer .drawer-heading{grid-column:1}#watchDrawer .statuspanel{width:100%!important}#watchDrawer .screen{width:100%!important}}
 </style></head><body>
-<div class="guide-topbar"><nav id="categoryTabs" class="category-tabs" aria-label="Channel categories"><button class="active" data-category="">All</button></nav><header><div><div class="logo">YouTube <span>Guide</span></div><div class="tag">Watch YouTube the way our Lord intended</div></div><div class="right"><button id="openPlayer" type="button" class="watch-action">▶ Watch TV</button><button id="adminOpen">＋ Add Channel</button><div id="clock" class="clock"></div></div></header></div><main><section class="guide" aria-label="TV program guide"><div class="guideheading"><div class="guideheadright" role="toolbar" aria-label="Guide timeline navigation"><button id="back120">◀ 2h</button><button id="back60">◀ 1h</button><button id="earlier">◀ 30m</button><button id="now">● NOW</button><button id="later">30m ▶</button><button id="forward60">1h ▶</button><button id="forward120">2h ▶</button><label class="category-label" for="filter">Category<select id="filter"><option value="">All Categories</option></select></label></div></div><div class="infobar" id="infobar">Loading channels…</div><div class="gridscroll"><div class="gridbody"><div class="timehead"><div class="l" id="guideDay">CHANNELS</div><div class="times" id="times"></div></div><div id="rows"></div></div></div><div class="footer"><span>Live TV guide • Yellow line = current time • Program cells tune to the channel, not to future videos</span><span><kbd>↑</kbd><kbd>↓</kbd> Change channel</span></div></section><section class="upper" id="watchDrawer" aria-label="Channel playback"><div class="drawer-heading"><strong>● LIVE CHANNEL PLAYER</strong><div class="drawer-actions"><button id="fullscreenPlayer" type="button" aria-label="Make video fullscreen" aria-pressed="false">⛶ Fullscreen</button><button id="closePlayer" type="button" aria-label="Close video panel">✕ Close</button></div></div><div class="screen" id="videoScreen"><button id="exitFullscreen" class="exit-fullscreen" type="button" aria-label="Exit fullscreen">⤢ Exit fullscreen</button><div id="player"></div><div id="nomanip" class="no-seek" title="Live TV: skipping ahead is unavailable"></div><div id="overlay" class="overlay"><div style="font-size:35px;color:#beb9d4">▶</div><h2 id="overlayTitle">Welcome to YouTube Guide</h2><p id="overlayDesc">Select a channel to join its live schedule.</p><button id="playNow">▶ WATCH LIVE</button></div></div><div class="statuspanel"><h3>NOW WATCHING</h3><div class="statinner"><div class="onair">● ON AIR</div><div class="channelid" id="channelLabel">NO CHANNEL SELECTED</div><div class="progtitle" id="programLabel">Choose a channel</div><div class="subtitle" id="details">Channels run on a shared schedule around the clock. Join at any time.</div><div class="controls"><button id="previous">CH −</button><button id="next">CH +</button><button id="pause">❚❚ PAUSE</button><button id="back">↶ −10 sec</button><button id="live">● GO LIVE</button><button id="sound">🔊 Sound On</button><button id="fullscreenControl" type="button">⛶ Fullscreen</button></div><div class="message" id="message">The guide follows a shared clock.</div></div></div></section>
-</main><div id="drawerBackdrop" class="drawer-backdrop" hidden></div>
+<div class="guide-topbar"><nav id="categoryTabs" class="category-tabs" aria-label="Channel categories"><button class="active" data-category="">All</button></nav><header><div><div class="logo">YouTube <span>Guide</span></div><div class="tag">Watch YouTube the way our Lord intended</div></div><div class="right"><button id="openPlayer" type="button" class="watch-action">▶ Player</button><button id="adminOpen">＋ Add Channel</button><div id="clock" class="clock"></div></div></header></div><main><section class="upper" id="watchDrawer" aria-label="Channel playback"><div class="drawer-heading"><strong>● LIVE CHANNEL PLAYER</strong><div class="drawer-actions"><button id="fullscreenPlayer" type="button" aria-label="Make video fullscreen" aria-pressed="false">⛶ Fullscreen</button></div></div><div class="screen" id="videoScreen"><button id="exitFullscreen" class="exit-fullscreen" type="button" aria-label="Exit fullscreen">⤢ Exit fullscreen</button><div id="player"></div><div id="nomanip" class="no-seek" title="Live TV: skipping ahead is unavailable"></div><div id="overlay" class="overlay"><div style="font-size:35px;color:#beb9d4">▶</div><h2 id="overlayTitle">Welcome to YouTube Guide</h2><p id="overlayDesc">Select a channel to join its live schedule.</p><button id="playNow">▶ WATCH LIVE</button></div></div><div class="statuspanel"><h3>NOW WATCHING</h3><div class="statinner"><div class="onair">● ON AIR</div><div class="channelid" id="channelLabel">NO CHANNEL SELECTED</div><div class="progtitle" id="programLabel">Choose a channel</div><div class="subtitle" id="details">Channels run on a shared schedule around the clock. Join at any time.</div><div class="controls"><button id="previous">CH −</button><button id="next">CH +</button><button id="pause">❚❚ PAUSE</button><button id="back">↶ −10 sec</button><button id="live">● GO LIVE</button><button id="sound">🔊 Sound On</button><button id="fullscreenControl" type="button">⛶ Fullscreen</button></div><div class="message" id="message">The guide follows a shared clock.</div></div></div></section><section class="guide" aria-label="TV program guide"><div class="guideheading"><div class="guideheadright" role="toolbar" aria-label="Guide timeline navigation"><button id="back120">◀ 2h</button><button id="back60">◀ 1h</button><button id="earlier">◀ 30m</button><button id="now">● NOW</button><button id="later">30m ▶</button><button id="forward60">1h ▶</button><button id="forward120">2h ▶</button><label class="category-label" for="filter">Category<select id="filter"><option value="">All Categories</option></select></label></div></div><div class="infobar" id="infobar">Loading channels…</div><div class="gridscroll"><div class="gridbody"><div class="timehead"><div class="l" id="guideDay">CHANNELS</div><div class="times" id="times"></div></div><div id="rows"></div></div></div><div class="footer"><span>Live TV guide • Yellow line = current time • Program cells tune to the channel, not to future videos</span><span><kbd>↑</kbd><kbd>↓</kbd> Change channel</span></div></section>
+</main>
 
 <dialog id="adminDialog" class="admin-dialog"><h2>ADD CHANNEL</h2>
 <div class="admin-layout">
@@ -286,8 +345,9 @@ dialog .mode-card.active{background:#73738e!important;border-color:#ded8e6!impor
 <dialog id="createDialog"><h2 id="editorTitle">CREATE CHANNEL</h2><form class="form" id="createForm">
 <div class="edit-existing-bar"><label>Edit an existing channel<select id="editExisting"><option value="">Create a new channel</option></select></label><button type="button" id="openExisting">Edit Selected</button></div>
 <div class="split"><label>Channel name<input id="name" required placeholder="Ben 10 Universe"></label><label>Channel number<input id="number" required type="number" min="1" max="9999" placeholder="101"></label></div>
+<label>Letter Name (short channel label shown beside the logo)<input id="letterName" maxlength="20" placeholder="e.g. CNN, PBS, CARTOON"><small class="hint">Optional. Use an abbreviation or the letters you want in the channel guide. Leave empty to use the channel name.</small></label>
 <label>Category<input id="category" value="Animation" required></label>
-<div><b>Channel logo</b><div class="icon-upload"><img id="iconPreview" alt="Channel icon preview"><div class="icon-actions"><label>Upload any image (portrait, landscape or square)<input id="iconFile" type="file" accept="image/*"></label><label class="checkline"><input id="removeIconBackground" type="checkbox" checked> Remove simple solid-color backgrounds</label><button type="button" id="clearIcon">Remove logo</button><div id="iconStatus" class="hint">PNG transparency is preserved. Complex photo backgrounds may need a pre-cut image.</div></div></div></div>
+<div><b>Channel logo (optional — uses the currently playing video creator’s YouTube profile picture when empty)</b><div class="icon-upload"><img id="iconPreview" alt="Channel icon preview"><div class="icon-actions"><label>Upload any image (portrait, landscape or square)<input id="iconFile" type="file" accept="image/*"></label><label class="checkline"><input id="removeIconBackground" type="checkbox" checked> Remove simple solid-color backgrounds</label><button type="button" id="clearIcon">Remove logo</button><div id="iconStatus" class="hint">PNG transparency is preserved. Complex photo backgrounds may need a pre-cut image.</div></div></div></div>
 <div class="channel-type-heading">CHOOSE HOW YOUR CHANNEL GETS ITS VIDEOS</div>
 <div class="mode-cards" id="modeCards">
 <button type="button" class="mode-card active" data-mode="seeds"><strong>★ AI Custom Feed</strong><span>Describe the videos you want; AI discovers and curates new programming automatically.</span></button>
@@ -321,17 +381,13 @@ dialog .mode-card.active{background:#73738e!important;border-color:#ded8e6!impor
 <div class="hint">Every channel starts with 100 hours of scheduled airtime. GitHub Actions extends the schedule before it ends, using new videos when found and reruns when needed. All modes keep synchronized live-TV scheduling. The editor filters Shorts-length videos, livestreams and videos marked as not embeddable. Embed playback can still be blocked by YouTube.</div>
 <div id="createError" class="notice" role="status"></div><div class="buttons"><button type="button" data-close="createDialog">Cancel</button><button type="submit" id="submitChannel">Create &amp; Save Channel</button></div></form></dialog>
 <script>window.YOUTUBE_GUIDE_SETTINGS = {owner:"anticgoldfish",repo:"youtube-guide-surfer",branch:"main"};</script>
-<script src="app.js?v=114-local-keys" defer></script><script>
+<script src="app.js?v=134-inline-player" defer></script><script>
 (function(){
   function start(){
-    const drawer=document.getElementById('watchDrawer');
-    const bg=document.getElementById('drawerBackdrop');
-    function toggle(open){if(!open&&document.fullscreenElement===document.getElementById('videoScreen'))document.exitFullscreen().catch(()=>{});drawer.classList.toggle('open',open);bg.hidden=!open;document.getElementById('openPlayer').setAttribute('aria-expanded',String(open));}
-    document.getElementById('openPlayer').addEventListener('click',()=>toggle(!drawer.classList.contains('open')));
-    document.getElementById('closePlayer').addEventListener('click',()=>toggle(false));
-    bg.addEventListener('click',()=>toggle(false));
-    document.addEventListener('keydown',e=>{if(e.key==='Escape'&&drawer.classList.contains('open'))toggle(false)});
-    document.getElementById('rows').addEventListener('click',e=>{if(e.target.closest('[data-tune]'))toggle(true)});
+    const playerPanel=document.getElementById('watchDrawer');
+    document.getElementById('openPlayer').addEventListener('click',()=>{
+      playerPanel.scrollIntoView({behavior:'smooth',block:'start'});
+    });
     function day(){document.getElementById('guideDay').textContent=new Intl.DateTimeFormat(undefined,{weekday:'short',month:'2-digit',day:'2-digit'}).format(new Date()).toUpperCase();}
     day();setInterval(day,60*1000);
     const videoScreen=document.getElementById('videoScreen');
@@ -339,7 +395,6 @@ dialog .mode-card.active{background:#73738e!important;border-color:#ded8e6!impor
     async function fullscreenToggle(){
       try{
         if(document.fullscreenElement){await document.exitFullscreen();return;}
-        if(!drawer.classList.contains('open'))toggle(true);
         if(videoScreen.requestFullscreen)await videoScreen.requestFullscreen();
         else throw new Error('Fullscreen is not supported in this browser.');
       }catch(error){
@@ -357,7 +412,6 @@ dialog .mode-card.active{background:#73738e!important;border-color:#ded8e6!impor
       });
     });
     document.getElementById('openPlayer').setAttribute('aria-controls','watchDrawer');
-    document.getElementById('openPlayer').setAttribute('aria-expanded','false');
   }
   if(document.readyState==='loading')document.addEventListener('DOMContentLoaded',start);else start();
 })();

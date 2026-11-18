@@ -48,6 +48,29 @@ def seconds(iso):
         return 0
     return sum(int(x or 0)*unit for x,unit in zip(match.groups(), (86400,3600,60,1)))
 
+CREATOR_AVATAR_CACHE = {}
+
+def enrich_creator_avatars(videos):
+    """Persist official YouTube creator profile images for every viewer.
+
+    No visitor API key is required once scheduled GitHub refresh republishes the
+    metadata. One channels.list request covers up to 50 unique creators.
+    """
+    missing=list(dict.fromkeys(v.get('creatorId') for v in videos if v.get('creatorId') and v.get('creatorId') not in CREATOR_AVATAR_CACHE))
+    for group in chunks(missing):
+        try:
+            response=api('channels',part='snippet',id=','.join(group),maxResults=50)
+            matches={item['id']:(item.get('snippet',{}).get('thumbnails',{}).get('high',{}).get('url') or item.get('snippet',{}).get('thumbnails',{}).get('default',{}).get('url','')) for item in response.get('items',[])}
+            for creator_id in group:CREATOR_AVATAR_CACHE[creator_id]=matches.get(creator_id,'')
+        except Exception as error:
+            print('Creator picture lookup failed; keeping current metadata:',error,file=sys.stderr)
+            break
+    for video in videos:
+        icon=CREATOR_AVATAR_CACHE.get(video.get('creatorId'))
+        if icon and icon.startswith('https://') and ('googleusercontent.com' in icon or 'ggpht.com' in icon):
+            video['creatorIcon']=icon
+    return videos
+
 def video_metadata(ids):
     result=[]
     for group in chunks(list(dict.fromkeys(v for v in ids if v))):
@@ -65,7 +88,7 @@ def video_metadata(ids):
                            'creator':sn.get('channelTitle','YouTube'), 'creatorId':sn.get('channelId',''),
                            'duration':duration, 'description':sn.get('description','')[:1000],
                            'published':sn.get('publishedAt',''), 'tags':sn.get('tags',[])[:16]})
-    return result
+    return enrich_creator_avatars(result)
 
 def list_playlist(identifier, limit=300):
     ids=[]; page=''
