@@ -100,6 +100,45 @@ dialog .form,dialog form,.form,dialog .step,dialog .step-header,dialog .credenti
 dialog input,dialog textarea,dialog select{background:#181620!important;border-color:#817a8d!important;color:#f9f7fc!important}
 dialog button{background:#373241!important;border-color:#8a8298!important;color:#fff!important}
 dialog button:hover{background:#544d61!important}
+
+/* v1.3.5: compact upper-left live TV preview, not a wide hero video. */
+#watchDrawer.upper{
+  grid-template-columns:minmax(260px,360px) minmax(0,1fr)!important;
+  padding:8px 12px!important;
+  gap:10px!important;
+  align-items:start!important;
+}
+#watchDrawer .drawer-heading{grid-column:1/-1;min-height:24px!important;padding:0!important}
+#watchDrawer .screen{
+  width:100%!important;max-width:360px!important;
+  height:auto!important;aspect-ratio:16/9!important;
+  align-self:start!important;justify-self:start!important;
+}
+#watchDrawer .overlay{padding:7px!important;gap:5px!important}
+#watchDrawer .overlay h2{font-size:14px!important}
+#watchDrawer .overlay p{font-size:11px!important;line-height:1.25!important;margin:0!important}
+#watchDrawer .overlay button{font-size:11px!important;padding:6px 10px!important}
+#watchDrawer .overlay>div:first-child{font-size:21px!important}
+#watchDrawer .statuspanel{min-width:0!important;min-height:0!important}
+#watchDrawer .statuspanel h3{padding:5px 9px!important;font-size:11px!important}
+#watchDrawer .statinner{padding:7px 9px!important;gap:5px!important}
+#watchDrawer .onair{padding:3px 6px!important;font-size:10px!important}
+#watchDrawer .channelid{font-size:11px!important}
+#watchDrawer .progtitle{font-size:16px!important;line-height:1.2!important}
+#watchDrawer .subtitle{font-size:11px!important;line-height:1.3!important}
+#watchDrawer .controls{gap:5px!important;margin-top:2px!important}
+#watchDrawer .controls button{padding:5px 8px!important;font-size:11px!important}
+#watchDrawer .message{font-size:10px!important;min-height:0!important}
+/* Explicit fullscreen overrides the preview's width cap. */
+#watchDrawer .screen:fullscreen,#watchDrawer .screen:-webkit-full-screen{
+  width:100vw!important;max-width:none!important;height:100vh!important;
+  aspect-ratio:auto!important;
+}
+@media(max-width:700px){
+  #watchDrawer.upper{grid-template-columns:1fr!important}
+  #watchDrawer .screen{max-width:340px!important}
+  #watchDrawer .statuspanel{width:100%!important}
+}
 </style><style>
 .companion-panel{display:grid;gap:12px;padding:18px;border:1px solid #709ac1;border-radius:10px;background:#12365d}
 .companion-panel p{font-size:12px;color:#c3dffa;line-height:1.6;margin:0}
@@ -381,7 +420,7 @@ main{display:flex!important;flex-direction:column!important;align-items:stretch!
 <div class="hint">Every channel starts with 100 hours of scheduled airtime. GitHub Actions extends the schedule before it ends, using new videos when found and reruns when needed. All modes keep synchronized live-TV scheduling. The editor filters Shorts-length videos, livestreams and videos marked as not embeddable. Embed playback can still be blocked by YouTube.</div>
 <div id="createError" class="notice" role="status"></div><div class="buttons"><button type="button" data-close="createDialog">Cancel</button><button type="submit" id="submitChannel">Create &amp; Save Channel</button></div></form></dialog>
 <script>window.YOUTUBE_GUIDE_SETTINGS = {owner:"anticgoldfish",repo:"youtube-guide-surfer",branch:"main"};</script>
-<script src="app.js?v=134-inline-player" defer></script><script>
+<script src="app.js?v=135-compact-preview" defer></script><script>
 (function(){
   function start(){
     const playerPanel=document.getElementById('watchDrawer');
