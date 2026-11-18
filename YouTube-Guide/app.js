@@ -3,6 +3,7 @@ const $=id=>document.getElementById(id);
 const escapeHtml=v=>String(v??'').replace(/[&<>"']/g,x=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[x]));
 const STORE='youtube-guide-v07-channels',KEY='youtube-guide-v07-api',GITHUB='youtube-guide-v07-github',DRAFT='youtube-guide-pending-global-save',TOKEN_KEY='youtube-guide-github-token-local-v114';
 const EMBEDDED_SETTINGS=window.YOUTUBE_GUIDE_SETTINGS||{};
+let channelIconData="";
 let channels=[],chosen=null,guideStart=0,editing=null,seedImported=[],seedPreview=null,apiKey=localStorage.getItem(KEY)||'',github=EMBEDDED_SETTINGS.owner&&EMBEDDED_SETTINGS.repo?{owner:EMBEDDED_SETTINGS.owner,repo:EMBEDDED_SETTINGS.repo,branch:EMBEDDED_SETTINGS.branch||'main'}:JSON.parse(localStorage.getItem(GITHUB)||'{}');
 // Only public repository metadata is configured in index.html; credentials are browser-local.
 function autoDetectRepository(){
@@ -12,7 +13,7 @@ function autoDetectRepository(){
  if(repo&&!github.owner&&!github.repo){github={owner:match[1],repo,branch:'main'};localStorage.setItem(GITHUB,JSON.stringify(github));}
 }
 autoDetectRepository();
-let token=localStorage.getItem(TOKEN_KEY)||'',player=null,iframeReady=false,playerReady=false,loadedId='',loadedChannel='',wanted=null,paused=false,pauseAt=0,delay=0,sound=true,errors=new Set(),lastInteraction=0;
+let token=localStorage.getItem(TOKEN_KEY)||'',player=null,iframeReady=false,playerReady=false,loadedId='',loadedChannel='',wanted=null,paused=false,pauseAt=0,delay=0,sound=true,errors=new Set(),lastInteraction=0,activeProgram=null,heldPlayback=null;
 const now=()=>Date.now(),time=t=>new Date(t).toLocaleTimeString([],{hour:'numeric',minute:'2-digit'});
 const selected=()=>channels.find(c=>c.id===chosen);
 const ordered=()=>channels.filter(c=>!$('filter').value||c.category===$('filter').value).sort((a,b)=>a.number-b.number);
@@ -22,6 +23,15 @@ function cycleAnchor(c){return Number(c.anchor)||0}
 function cycleStart(c,t){const anchor=cycleAnchor(c);return anchor+Math.floor((t-anchor)/CYCLE_MS)*CYCLE_MS}
 // Every 72-hour cycle produces a reproducible new programming order on ALL devices.
 // It does not depend on a browser being open or a background script succeeding.
+function chronologicalSource(c){return c.order==='ordered'&&['creator','creatorMulti'].includes(c.mode)}
+function chronologicalAt(c,t){
+ const pool=(Array.isArray(c.pendingVideos)&&c.pendingVideos.length&&t>=Number(c.activateAt||Infinity))?c.pendingVideos:c.videos;
+ if(!pool?.length)return null;
+ const total=pool.reduce((x,v)=>x+Math.max(0,Number(v.duration)||0),0);if(!total)return null;
+ let sec=((t-(Number(c.anchor)||0))/1000%total+total)%total;
+ for(const v of pool){const len=Math.max(0,Number(v.duration)||0);if(sec<len)return {video:v,offset:sec,start:t-sec*1000,end:t+(len-sec)*1000};sec-=len}
+ return null;
+}
 function cycleVideos(c,t){
  const pool=Array.isArray(c.pendingVideos)&&c.pendingVideos.length&&t>=Number(c.activateAt||Infinity)?c.pendingVideos:c.videos;
  if(!Array.isArray(pool)||!pool.length)return [];
@@ -64,6 +74,7 @@ function scheduleProgram(c,t){
  return {video,start:entry.start,end:entry.end,offset:(t-entry.start)/1000};
 }
 function makeSchedule(c,start){
+ if(chronologicalSource(c)){const limit=start+100*3600000,programs=[];let cursor=start;while(cursor<limit){const v=chronologicalAt(c,cursor);if(!v)break;const end=Math.min(limit,Math.max(cursor+1,v.end));programs.push({videoId:v.video.id,start:cursor,end});cursor=end;}return {schemaVersion:1,start,end:cursor,durationHours:(cursor-start)/3600000,programs};}
  const items=cycleVideos(c,start),limit=start+100*3600000,programs=[];
  if(!items.length)return null;
  let cursor=start;
@@ -75,6 +86,7 @@ function makeSchedule(c,start){
  return {schemaVersion:1,start,end:cursor,durationHours:(cursor-start)/3600000,programs};
 }
 function at(c,t){
+ if(chronologicalSource(c))return chronologicalAt(c,t);
  const explicit=scheduleProgram(c,t);if(explicit)return explicit;
  // Virtual 72-hour schedule: all devices share the same anchor, and each program
  // repeats as needed to fill that window. API failures can never exhaust it.
@@ -92,22 +104,75 @@ function at(c,t){
  }
  return null;
 }
-function draw(){const prev=$('filter').value;const cats=[...new Set(channels.map(c=>c.category))].sort();$('filter').innerHTML='<option value="">All Categories</option>'+cats.map(c=>`<option value="${escapeHtml(c)}">${escapeHtml(c)}</option>`).join('');$('filter').value=cats.includes(prev)?prev:'';
+function renderCategoryTabs(){
+ const selected=$('filter').value;
+ const cats=[...new Set(channels.map(c=>c.category).filter(Boolean))].sort((a,b)=>a.localeCompare(b));
+ $('categoryTabs').innerHTML=[['','All'],...cats.map(c=>[c,c])].map(([value,label])=>`<button type="button" data-category="${escapeHtml(value)}" class="${selected===value?'active':''}" aria-pressed="${selected===value}">${escapeHtml(label)}</button>`).join('')+'<button type="button" id="quickAdd" class="bar-action">＋ Add / Edit Channel</button>';
+}
+
+function draw(){const prev=$('filter').value;const cats=[...new Set(channels.map(c=>c.category))].sort();$('filter').innerHTML='<option value="">All Categories</option>'+cats.map(c=>`<option value="${escapeHtml(c)}">${escapeHtml(c)}</option>`).join('');$('filter').value=cats.includes(prev)?prev:'';renderCategoryTabs();
  
  if(!selected())chosen=channels[0]?.id||null;guide();info();}
 function guide(){let arr=ordered(),t=now(),span=150*60000;$('times').innerHTML=Array.from({length:5},(_,i)=>`<div>${time(guideStart+i*1800000)}</div>`).join('');$('infobar').textContent=arr.length?`${arr.length} channels • ${time(t)} • fixed shared clock • ${github.owner&&github.repo?'Global channel library':'Local preview'}`:'No channels yet. Click Add Channel to begin.';
- $('rows').innerHTML=arr.map(c=>{let html='',cursor=guideStart,guard=0;while(cursor<guideStart+span&&guard++<180){const p=at(c,cursor+100);if(!p)break;let end=Math.min(guideStart+span,p.end);if(end<=cursor){cursor+=1000;continue}let left=100*(cursor-guideStart)/span,w=100*(end-cursor)/span;html+=`<button class="program ${p.start<=t&&p.end>t?'current':''}" title="${escapeHtml(p.video.title)}" data-tune="${escapeHtml(c.id)}" style="left:${left}%;width:${w}%"><strong>${escapeHtml(p.video.title)}</strong><small>${escapeHtml(p.video.creator||c.name)} • ${time(p.start)}</small></button>`;cursor=end+50;}let marker=(t-guideStart)/span*100;if(marker>=0&&marker<=100)html+=`<div class="marker" style="left:${marker}%"></div>`;return `<div class="line"><div class="station ${c.id===chosen?'selected':''}" data-tune="${escapeHtml(c.id)}"><b>${c.number}</b><span>${escapeHtml(c.name)}<small>${escapeHtml(c.category)} · ${c.videos.length} programs · new 3-day lineup each cycle</small></span></div><div class="programs">${html}</div></div>`}).join('');}
+ $('rows').innerHTML=arr.map(c=>{let html='',cursor=guideStart,guard=0;while(cursor<guideStart+span&&guard++<180){const p=at(c,cursor+100);if(!p)break;let end=Math.min(guideStart+span,p.end);if(end<=cursor){cursor+=1000;continue}let left=100*(cursor-guideStart)/span,w=100*(end-cursor)/span;html+=`<button class="program ${p.start<=t&&p.end>t?'current':''}" title="${escapeHtml(p.video.title)}" data-tune="${escapeHtml(c.id)}" style="left:${left}%;width:${w}%"><strong>${escapeHtml(p.video.title)}</strong><small>${escapeHtml(p.video.creator||c.name)} • ${time(p.start)}</small></button>`;cursor=end+50;}let marker=(t-guideStart)/span*100;if(marker>=0&&marker<=100)html+=`<div class="marker" style="left:${marker}%"></div>`;return `<div class="line"><div class="station ${c.id===chosen?'selected':''}" data-tune="${escapeHtml(c.id)}"><div class="station-icon">${c.icon&&(/^(?:data:image\/(?:png|webp|jpeg);base64,[a-zA-Z0-9+/=]+|\.\/icons\/[a-zA-Z0-9_-]+\.png)$/.test(c.icon))?`<img src="${c.icon}" alt="" loading="lazy">`:`<span class="station-placeholder">${escapeHtml(c.name.slice(0,2).toUpperCase())}</span>`}</div><span class="station-name">${escapeHtml(c.name)}<small>${escapeHtml(c.category)} · ${c.videos.length} videos</small></span><b>${c.number}</b></div><div class="programs">${html}</div></div>`}).join('');}
 function info(){let c=selected(),p=c&&at(c,now());$('channelLabel').textContent=c?`CHANNEL ${c.number} • ${c.name}`:'NO CHANNEL SELECTED';$('programLabel').textContent=p?.video.title||'Choose a channel';$('details').textContent=p?`${p.video.creator||c.category} • ${time(p.start)} – ${time(p.end)} • ${['prompt','similar','seeds'].includes(c.mode)?'Recommendation channel':c.mode==='creator'?'Creator channel':'Playlist channel'}`:'No playable programs are available yet. Use Add Channel to create programming.';}
-function tune(id){if(!channels.some(c=>c.id===id))return;chosen=id;paused=false;delay=0;loadedId='';errors.clear();draw();if(playerReady)sync(true);else overlay('Channel '+selected().number,'Click WATCH LIVE to join the broadcast at its current point.',true)}
-function makePlayer(){if(!iframeReady||player)return;player=new YT.Player('player',{width:'100%',height:'100%',playerVars:{playsinline:1,autoplay:0,controls:0,disablekb:1,fs:0,rel:0,origin:location.protocol.startsWith('http')?location.origin:undefined},events:{onReady:()=>{playerReady=true;try{player.setVolume(85);player.unMute()}catch{}if(wanted)loadWanted()},onStateChange:e=>{if(e.data===YT.PlayerState.PLAYING){if(paused){player.pauseVideo();return}hideOverlay();say('Playing live schedule • rewind and pause available; no skipping ahead.') }if(e.data===YT.PlayerState.ENDED&&!paused)sync(true)},onError:e=>{let reason=({2:'Invalid video',5:'HTML5 player error',100:'Video removed or private',101:'Uploader blocked embedding',150:'Uploader blocked embedding',153:'Embedded playback rejected'})[e.data]||'Video unavailable';errors.add(loadedId);overlay('This program cannot play',reason+'. The schedule remains unchanged. Try another channel or wait for the next program.',false);say(reason)}}})}
-function loadWanted(){if(!playerReady||!wanted)return;let w=wanted;wanted=null;loadedId=w.id;loadedChannel=w.channel;try{player.loadVideoById({videoId:w.id,startSeconds:Math.max(0,Math.floor(w.offset))});player.setVolume(85);if(sound)player.unMute();else player.mute();hideOverlay()}catch(e){overlay('Could not tune channel',e.message,true)}}
-function sync(force=false){let c=selected(),p=c&&at(c,now()-delay);if(!p){overlay('No programs available','This channel does not yet have eligible videos.',false);return}if(!playerReady){wanted={id:p.video.id,offset:p.offset,channel:c.id};makePlayer();return}if(errors.has(p.video.id)){overlay('Program unavailable','YouTube has blocked this embed. The broadcast schedule will continue to the next program.',false);return}if(force||loadedId!==p.video.id||loadedChannel!==c.id){wanted={id:p.video.id,offset:p.offset,channel:c.id};loadWanted();return}if(paused)return;let current=player.getCurrentTime?.()||0;if(current>p.offset+2){player.seekTo(Math.max(0,p.offset-.5),true);say('Skipping ahead of live is disabled.')}else if(current<p.offset-35&&delay===0){player.seekTo(Math.max(0,p.offset-1),true)}}
-$('playNow').onclick=()=>{if(!chosen)return;paused=false;delay=0;lastInteraction=now();if(!iframeReady){overlay('Loading YouTube','The YouTube player is still loading. Check your internet connection and browser extensions.',true);return}makePlayer();if(playerReady){sync(true);try{player.unMute();player.setVolume(85);player.playVideo()}catch{}}else overlay('Loading player','YouTube is initializing. Click WATCH LIVE again if playback does not start.',true)};
-$('pause').onclick=()=>{if(!playerReady||!chosen)return;if(!paused){paused=true;pauseAt=now();player.pauseVideo();$('pause').textContent='▶ RESUME';say('Paused locally; the channel clock keeps running.')}else{delay+=now()-pauseAt;paused=false;player.playVideo();$('pause').textContent='❚❚ PAUSE';say('Resumed behind the live broadcast.')}};
-$('back').onclick=()=>{if(!playerReady||!selected())return;let p=at(selected(),now()-delay);if(!p||loadedId!==p.video.id)return;let cur=player.getCurrentTime?.()||0,next=Math.max(0,Math.min(cur,p.offset)-10);player.seekTo(next,true);delay=Math.max(0,now()-(p.start+next*1000));if(paused)pauseAt=now();say('Rewound 10 seconds.');};
-$('live').onclick=()=>{paused=false;delay=0;$('pause').textContent='❚❚ PAUSE';sync(true)};
+function tune(id){if(!channels.some(c=>c.id===id))return;chosen=id;paused=false;delay=0;heldPlayback=null;activeProgram=null;$('pause').textContent='❚❚ PAUSE';loadedId='';errors.clear();draw();if(playerReady)sync(true);else overlay('Channel '+selected().number,'Click WATCH LIVE to join the broadcast at its current point.',true)}
+function makePlayer(){if(!iframeReady||player)return;player=new YT.Player('player',{width:'100%',height:'100%',playerVars:{playsinline:1,autoplay:0,controls:0,disablekb:1,fs:0,rel:0,origin:location.protocol.startsWith('http')?location.origin:undefined},events:{onReady:()=>{playerReady=true;try{player.setVolume(85);player.unMute()}catch{}if(wanted)loadWanted()},onStateChange:e=>{if(e.data===YT.PlayerState.PLAYING){if(paused){player.pauseVideo();return}hideOverlay();say('Playing live schedule • rewind and pause available; no skipping ahead.') }if(e.data===YT.PlayerState.ENDED&&!paused)handleVideoEnded()},onError:e=>{let reason=({2:'Invalid video',5:'HTML5 player error',100:'Video removed or private',101:'Uploader blocked embedding',150:'Uploader blocked embedding',153:'Embedded playback rejected'})[e.data]||'Video unavailable';if(heldPlayback?.id===loadedId)heldPlayback=null;errors.add(loadedId);overlay('This program cannot play',reason+'. The schedule remains unchanged. Try another channel or wait for the next program.',false);say(reason)}}})}
+function loadWanted(){if(!playerReady||!wanted)return;let w=wanted;wanted=null;loadedId=w.id;loadedChannel=w.channel;activeProgram=w.program||null;try{player.loadVideoById({videoId:w.id,startSeconds:Math.max(0,Math.floor(w.offset))});player.setVolume(85);if(sound)player.unMute();else player.mute();hideOverlay()}catch(e){overlay('Could not tune channel',e.message,true)}}
+// A viewer who pauses/rewinds has their own delayed playback position. Never
+// replace that playing video at the SHARED schedule boundary. Only its real
+// YouTube ENDED event may advance it (unless the viewer tunes or chooses GO LIVE).
+function handleVideoEnded(){
+ if(heldPlayback&&heldPlayback.id===loadedId&&heldPlayback.channel===loadedChannel){
+  const finished=heldPlayback;
+  heldPlayback=null;
+  const c=selected();
+  if(!c||c.id!==finished.channel){sync(true);return;}
+  // Begin the following show at its beginning, not at the current LIVE offset.
+  const nextTime=finished.end+100;
+  const next=at(c,nextTime);
+  if(next&&next.video.id!==finished.id){
+   delay=Math.max(0,now()-nextTime);
+   wanted={id:next.video.id,offset:Math.max(0,next.offset),channel:c.id,program:next};
+   loadWanted();
+   say('Previous program completed. Continuing your delayed channel playback.');
+   return;
+  }
+  delay=Math.max(0,now()-nextTime);
+ }
+ sync(true);
+}
+function sync(force=false){
+ // Don't let a timer or a schedule refresh override paused/resumed programming.
+ if(heldPlayback&&heldPlayback.id===loadedId&&heldPlayback.channel===loadedChannel){return}
+ let c=selected(),p=c&&at(c,now()-delay);
+ if(!p){overlay('No programs available','This channel does not yet have eligible videos.',false);return}
+ if(!playerReady){wanted={id:p.video.id,offset:p.offset,channel:c.id,program:p};makePlayer();return}
+ if(errors.has(p.video.id)){overlay('Program unavailable','YouTube has blocked this embed. The broadcast schedule will continue to the next program.',false);return}
+ if(force||loadedId!==p.video.id||loadedChannel!==c.id){wanted={id:p.video.id,offset:p.offset,channel:c.id,program:p};loadWanted();return}
+ if(paused)return;
+ let current=player.getCurrentTime?.()||0;
+ if(current>p.offset+2){player.seekTo(Math.max(0,p.offset-.5),true);say('Skipping ahead of live is disabled.')}
+ else if(current<p.offset-35&&delay===0){player.seekTo(Math.max(0,p.offset-1),true)}
+}
+$('playNow').onclick=()=>{if(!chosen)return;heldPlayback=null;paused=false;delay=0;lastInteraction=now();if(!iframeReady){overlay('Loading YouTube','The YouTube player is still loading. Check your internet connection and browser extensions.',true);return}makePlayer();if(playerReady){sync(true);try{player.unMute();player.setVolume(85);player.playVideo()}catch{}}else overlay('Loading player','YouTube is initializing. Click WATCH LIVE again if playback does not start.',true)};
+$('pause').onclick=()=>{if(!playerReady||!chosen)return;
+ if(!paused){
+  paused=true;pauseAt=now();
+  // Capture the program actually playing; the global schedule must not swap it.
+  const p=activeProgram||at(selected(),now()-delay);
+  if(loadedId&&p&&p.video.id===loadedId){heldPlayback={id:loadedId,channel:loadedChannel,end:p.end};}
+  player.pauseVideo();$('pause').textContent='▶ RESUME';
+  say('Paused locally. Your program will finish before advancing, even if the live schedule changes.');
+ }else{
+  delay+=now()-pauseAt;paused=false;player.playVideo();$('pause').textContent='❚❚ PAUSE';
+  say('Resumed your program behind live. It will play through to the end.');
+ }
+};
+$('back').onclick=()=>{if(!playerReady||!selected())return;let p=(heldPlayback&&activeProgram&&heldPlayback.id===loadedId)?activeProgram:at(selected(),now()-delay);if(!p||loadedId!==p.video.id)return;let cur=player.getCurrentTime?.()||0,next=Math.max(0,Math.min(cur,p.offset)-10);player.seekTo(next,true);delay=Math.max(0,now()-(p.start+next*1000));if(paused)pauseAt=now();say('Rewound 10 seconds.');};
+$('live').onclick=()=>{heldPlayback=null;activeProgram=null;paused=false;delay=0;$('pause').textContent='❚❚ PAUSE';sync(true)};
 $('sound').onclick=()=>{sound=!sound;$('sound').textContent=sound?'🔊 Sound On':'🔇 Sound Off';if(playerReady){if(sound){player.setVolume(85);player.unMute()}else player.mute()}say(sound?'Sound enabled. Check device and tab volume if silent.':'Sound muted.')};
-$('rows').onclick=e=>{let b=e.target.closest('[data-tune]');if(b)tune(b.dataset.tune)};$('earlier').onclick=()=>{guideStart-=1800000;guide()};$('back60').onclick=()=>{guideStart-=3600000;guide()};$('back120').onclick=()=>{guideStart-=7200000;guide()};$('later').onclick=()=>{guideStart+=1800000;guide()};$('forward60').onclick=()=>{guideStart+=3600000;guide()};$('forward120').onclick=()=>{guideStart+=7200000;guide()};$('now').onclick=()=>{guideStart=Math.floor(now()/1800000)*1800000;guide()};$('filter').onchange=guide;
+$('rows').onclick=e=>{let b=e.target.closest('[data-tune]');if(b)tune(b.dataset.tune)};$('earlier').onclick=()=>{guideStart-=1800000;guide()};$('back60').onclick=()=>{guideStart-=3600000;guide()};$('back120').onclick=()=>{guideStart-=7200000;guide()};$('later').onclick=()=>{guideStart+=1800000;guide()};$('forward60').onclick=()=>{guideStart+=3600000;guide()};$('forward120').onclick=()=>{guideStart+=7200000;guide()};$('now').onclick=()=>{guideStart=Math.floor(now()/1800000)*1800000;guide()};$('filter').onchange=()=>{renderCategoryTabs();guide()};
 window.addEventListener('keydown',e=>{if(document.querySelector('dialog[open]')||['INPUT','TEXTAREA','SELECT'].includes(document.activeElement?.tagName))return;if(e.key==='ArrowDown'||e.key==='ArrowUp'){e.preventDefault();surf(e.key==='ArrowDown'?1:-1)}});
 function tick(){$('clock').textContent=time(now());info();if(playerReady&&selected()&&!paused&&loadedId)sync(false)}
 window.onYouTubeIframeAPIReady=()=>{iframeReady=true;makePlayer()};let yt=document.createElement('script');yt.src='https://www.youtube.com/iframe_api';yt.async=true;document.head.appendChild(yt);
@@ -120,7 +185,21 @@ async function search(q,count=30){let d=await youtube('search',{part:'snippet',t
 async function channelRef(str){str=str.trim();let id=(str.match(/(?:youtube\.com\/channel\/)(UC[\w-]+)/)||[])[1];if(id){let d=await youtube('channels',{part:'snippet,contentDetails',id});if(d.items?.length)return d.items[0]}
  let handle=(str.match(/(?:@)([\w.-]+)/)||[])[1];if(handle){let d=await youtube('channels',{part:'snippet,contentDetails',forHandle:handle});if(d.items?.length)return d.items[0]}
  let name=handle||str.replace(/^https?:\/\//,'').split('/').pop();let d=await youtube('search',{part:'snippet',type:'channel',q:name,maxResults:8});let cid=d.items?.find(x=>x.snippet?.title?.toLowerCase()===name.toLowerCase())?.snippet?.channelId||d.items?.[0]?.snippet?.channelId;if(!cid)throw Error('Could not find that YouTube channel. Try its @handle.');d=await youtube('channels',{part:'snippet,contentDetails',id:cid});return d.items?.[0]}
-async function uploads(ref,max=100){let c=await channelRef(ref),list=c.contentDetails?.relatedPlaylists?.uploads;if(!list)throw Error('No public uploads playlist for that creator.');let ids=[],page='';do{let d=await youtube('playlistItems',{part:'contentDetails',playlistId:list,maxResults:50,...(page?{pageToken:page}:{})});ids.push(...(d.items||[]).map(x=>x.contentDetails?.videoId).filter(Boolean));page=d.nextPageToken||''}while(page&&ids.length<max);return {creator:c,items:await verify(ids.slice(0,max))}}
+async function uploads(ref,max=200,status=()=>{}){
+ let c=await channelRef(ref),list=c.contentDetails?.relatedPlaylists?.uploads;
+ if(!list)throw Error('No public uploads playlist for that creator.');
+ let ids=[],page='',seen=new Set();
+ do{
+  let d=await youtube('playlistItems',{part:'contentDetails',playlistId:list,maxResults:50,...(page?{pageToken:page}:{})});
+  for(let x of d.items||[]){let id=x.contentDetails?.videoId;if(id&&!seen.has(id)){ids.push(id);seen.add(id)}}
+  page=d.nextPageToken||'';
+  status(`Scanning ${ids.length} uploads from ${c.snippet?.title||ref}…`);
+ }while(page&&(max===Infinity||ids.length<max));
+ let selected=max===Infinity?ids:ids.slice(0,max),items=[];
+ for(let batch of chunks(selected,50)){items.push(...await verify(batch));status(`Loaded ${items.length} eligible videos of ${selected.length} uploads…`)}
+ const rank=new Map(selected.map((id,i)=>[id,i]));items.sort((a,b)=>(rank.get(a.id)??0)-(rank.get(b.id)??0));
+ return {creator:c,items};
+}
 function playlistId(u){return u.match(/[?&]list=([A-Za-z0-9_-]+)/)?.[1]||(/^[A-Za-z0-9_-]{12,}$/.test(u)?u:null)}
 async function playlistVideos(url){let id=playlistId(url);if(!id)throw Error('Invalid playlist URL: '+url);let ids=[],next='';do{let d=await youtube('playlistItems',{part:'contentDetails',playlistId:id,maxResults:50,...(next?{pageToken:next}:{})});ids.push(...(d.items||[]).map(x=>x.contentDetails?.videoId).filter(Boolean));next=d.nextPageToken||''}while(next&&ids.length<250);return verify(ids)}
 // Browser-based semantic recommendation engine (Transformers.js + quantized MiniLM).
@@ -382,16 +461,16 @@ async function generate(c,status=()=>{}){
   items.push(...results.suggestions);
   if(!items.length)throw Error('No playable matches were found yet. Try a clearer description or add example video links.');
  }else if(c.mode==='creatorMulti'){
-  for(let creator of c.sourceCreators||[])items.push(...(await uploads(creator,150)).items);
+  for(let creator of c.sourceCreators||[])items.push(...(await uploads(creator,c.order==='ordered'?Infinity:150,status)).items);
  }else if(c.mode==='prompt')items=await recommend(c.prompt,{existing:[],topic:c.topic,exclude:c.exclude,strictness:c.strictness,status});
  else if(c.mode==='similar')items=await recommend(c.prompt||'video essays analysis reviews lore', {creator:c.sourceChannel,existing:[],topic:c.topic,exclude:c.exclude,strictness:c.strictness,status});
- else if(c.mode==='creator')items=(await uploads(c.sourceChannel,200)).items;
+ else if(c.mode==='creator')items=(await uploads(c.sourceChannel,c.order==='ordered'?Infinity:200,status)).items;
  else if(c.mode==='playlist'||c.mode==='multi'){for(let url of c.playlists)items.push(...await playlistVideos(url))}
  items=items.filter((v,i)=>items.findIndex(x=>x.id===v.id)===i);
- if(c.order==='shuffle')shuffle(items);
+ if(c.order==='shuffle')shuffle(items);else if(['creator','creatorMulti'].includes(c.mode))items.sort((a,b)=>String(a.published||'').localeCompare(String(b.published||''))||a.id.localeCompare(b.id));
  return items;
 }
-function formData(){return {name:$('name').value.trim(),number:Number($('number').value),category:$('category').value.trim(),mode:$('mode').value,prompt:$('prompt').value.trim(),sourceChannel:$('sourceChannel').value.trim(),playlists:$('playlists').value.split('\n').map(s=>s.trim()).filter(Boolean),order:$('order').value,topic:$('topic').value.trim(),exclude:$('exclude').value.trim(),strictness:$('strictness').value,seedIds:importedSeedIds(),approximateDiscovery:true,feedPrompt:$('youtubeFeedPrompt').value.trim(),youtubeFeedPrompt:$('youtubeFeedPrompt').value.trim(),feedName:$('feedName').value.trim(),seedStrictness:$('seedStrictness').value,seedExclude:$('seedExclude').value,includeSeeds:$('includeSeeds').checked,sourceCreators:$('sourceCreators').value.split('\n').map(s=>s.trim()).filter(Boolean)}}
+function formData(){return {icon:channelIconData,name:$('name').value.trim(),number:Number($('number').value),category:$('category').value.trim(),mode:$('mode').value,prompt:$('prompt').value.trim(),sourceChannel:$('sourceChannel').value.trim(),playlists:$('playlists').value.split('\n').map(s=>s.trim()).filter(Boolean),order:$('order').value,topic:$('topic').value.trim(),exclude:$('exclude').value.trim(),strictness:$('strictness').value,seedIds:importedSeedIds(),approximateDiscovery:true,feedPrompt:$('youtubeFeedPrompt').value.trim(),youtubeFeedPrompt:$('youtubeFeedPrompt').value.trim(),feedName:$('feedName').value.trim(),seedStrictness:$('seedStrictness').value,seedExclude:$('seedExclude').value,includeSeeds:$('includeSeeds').checked,sourceCreators:$('sourceCreators').value.split('\n').map(s=>s.trim()).filter(Boolean)}}
 function validate(c){if(!c.name||!c.category||!Number.isInteger(c.number)||c.number<1)throw Error('Enter a name, number and category.');if(channels.some(x=>x.id!==editing&&x.number===c.number))throw Error('That channel number is already taken.');if(c.mode==='seeds'&&!c.seedIds.length&&!c.feedPrompt)throw Error('Describe your channel or add at least one example video.');if(c.mode==='creatorMulti'&&!c.sourceCreators.length)throw Error('Enter one or more YouTube creators.');if(c.mode==='prompt'&&!c.prompt)throw Error('Describe what the recommendation channel should show.');if(['similar','creator'].includes(c.mode)&&!c.sourceChannel)throw Error('Enter a YouTube creator @handle or URL.');if(['playlist','multi'].includes(c.mode)&&!c.playlists.length)throw Error('Add at least one public playlist URL.');}
 const closeDialogs=()=>document.querySelectorAll('dialog[open]').forEach(d=>d.close());document.querySelectorAll('[data-close]').forEach(b=>b.onclick=()=>$(b.dataset.close).close());
 $('adminOpen').onclick=()=>{ $('githubMessage').textContent=credentialStatus();$('adminDialog').showModal() };
@@ -408,7 +487,33 @@ $('saveCredentials').onclick=async()=>{
  catch(e){$('githubMessage').textContent='Credentials saved, but GitHub verification failed: '+e.message}
 };
 function modeFields(){let mode=$('mode').value;document.querySelectorAll('.mode-card').forEach(b=>{let active=b.dataset.mode===mode;b.classList.toggle('active',active);b.setAttribute('aria-pressed',String(active))});$('seedField').classList.toggle('hidden',mode!=='seeds');$('creatorsField').classList.toggle('hidden',mode!=='creatorMulti');$('promptField').classList.toggle('hidden',!['prompt','similar'].includes(mode));$('creatorField').classList.toggle('hidden',!['creator','similar'].includes(mode));$('playlistField').classList.toggle('hidden',!['playlist','multi'].includes(mode));$('recommendControls').classList.toggle('hidden',!['prompt','similar'].includes(mode))}
-function openEditor(c=null){editing=c?.id||null;$('editorTitle').textContent=c?'EDIT CHANNEL':'CREATE CHANNEL';$('name').value=c?.name||'';$('number').value=c?.number||Math.max(101,...channels.map(x=>x.number+1));$('category').value=c?.category||'Animation';let editorMode=['seeds','creatorMulti','playlist','multi'].includes(c?.mode)?c.mode:'seeds';$('mode').value=editorMode;seedImported=(c?.seedIds?.length?c.seedIds:(c&&editorMode==='seeds'?(c.videos||[]).map(v=>v.id):[])).map(id=>({id}));$('seedLinks').value='';$('seedFile').value='';$('youtubeFeedPrompt').value=c?.feedPrompt||c?.youtubeFeedPrompt||'';$('approximateDiscovery').checked=true;$('feedName').value=c?.feedName||c?.name||'';$('seedExclude').value=c?.seedExclude||'';$('seedStrictness').value=c?.seedStrictness||'strict';$('includeSeeds').checked=c?c.includeSeeds!==false:true;$('sourceCreators').value=(c?.sourceCreators||[]).join('\n');seedPreview=null;renderSeedPreview([]);updateSeedStatus();$('prompt').value=c?.prompt||'';$('topic').value=c?.topic||'';$('exclude').value=c?.exclude||'';$('strictness').value=c?.strictness||'strict';previewCache=null;renderPreview([]);$('sourceChannel').value=c?.sourceChannel||'';$('playlists').value=(c?.playlists||[]).join('\n');$('order').value=c?.order||'shuffle';$('submitChannel').textContent=c?'Save Changes':'Generate & Save Channel';$('createError').textContent='';modeFields();$('adminDialog').close();$('createDialog').showModal()}
+
+function populateExistingEditor(){const id=editing||'';$('editExisting').innerHTML='<option value="">Create a new channel</option>'+channels.slice().sort((a,b)=>a.number-b.number).map(c=>`<option value="${escapeHtml(c.id)}">${c.number} · ${escapeHtml(c.name)}</option>`).join('');$('editExisting').value=id}
+$('openExisting').onclick=()=>{let c=channels.find(x=>x.id===$('editExisting').value);if(c)openEditor(c);else openEditor()};
+$('editExisting').onchange=()=>{let c=channels.find(x=>x.id===$('editExisting').value);if(c)openEditor(c)};
+function renderChannelIcon(){$('iconPreview').src=channelIconData||'data:image/svg+xml,%3Csvg xmlns="http://www.w3.org/2000/svg" width="100" height="70"%3E%3Ctext x="50" y="37" fill="white" font-size="13" text-anchor="middle"%3ENo logo%3C/text%3E%3C/svg%3E'}
+$('clearIcon').onclick=()=>{channelIconData='';$('iconFile').value='';renderChannelIcon();$('iconStatus').textContent='Channel icon cleared.'};
+$('iconFile').onchange=async e=>{let file=e.target.files?.[0];if(!file)return;
+ if(!file.type.startsWith('image/')){$('iconStatus').textContent='Choose an image file.';return}
+ try{let bitmap=await createImageBitmap(file),w=bitmap.width,h=bitmap.height;if(!w||!h)throw Error('Invalid image.');
+  const size=240,canvas=document.createElement('canvas'),ctx=canvas.getContext('2d',{willReadFrequently:true});canvas.width=size;canvas.height=size;
+  ctx.clearRect(0,0,size,size);let scale=Math.min((size-12)/w,(size-12)/h),dw=Math.max(1,Math.round(w*scale)),dh=Math.max(1,Math.round(h*scale)),x=Math.floor((size-dw)/2),y=Math.floor((size-dh)/2);
+  ctx.drawImage(bitmap,x,y,dw,dh);bitmap.close?.();
+  // Remove a *connected* region matching the exterior background; unlike a
+  // global color key, this preserves similar colors enclosed inside a logo.
+  if($('removeIconBackground').checked){let data=ctx.getImageData(0,0,size,size),a=data.data,seen=new Uint8Array(size*size),queue=new Int32Array(size*size),head=0,tail=0;
+   let seed=[];for(let xx=x;xx<x+dw;xx++){seed.push((y*size+xx),((y+dh-1)*size+xx))}for(let yy=y;yy<y+dh;yy++){seed.push(yy*size+x,yy*size+x+dw-1)}
+   const samples=seed.filter(i=>a[i*4+3]>245).map(i=>[a[i*4],a[i*4+1],a[i*4+2]]);if(samples.length){let bg=[0,1,2].map(k=>{const v=samples.map(s=>s[k]).sort((a,b)=>a-b);return v[v.length>>1]});
+    const match=i=>{let k=i*4;if(a[k+3]<20)return true;let d0=a[k]-bg[0],d1=a[k+1]-bg[1],d2=a[k+2]-bg[2];return d0*d0+d1*d1+d2*d2<36*36};
+    for(let i of seed){if(!seen[i]&&match(i)){seen[i]=1;queue[tail++]=i}}
+    while(head<tail){let i=queue[head++],q=i*4;a[q+3]=0,xx=i%size,yy=(i/size)|0;for(let ni of [xx?i-1:-1,xx<size-1?i+1:-1,yy?i-size:-1,yy<size-1?i+size:-1]){if(ni>=0&&!seen[ni]&&match(ni)){seen[ni]=1;queue[tail++]=ni}}}
+    ctx.putImageData(data,0,0);
+   }
+  }
+  channelIconData=canvas.toDataURL('image/png');renderChannelIcon();$('iconStatus').textContent='Logo processed and stored in the channel data. Edge-connected, nearly solid backgrounds are removed.';
+ }catch(err){$('iconStatus').textContent='Image processing failed: '+err.message}
+};
+function openEditor(c=null){editing=c?.id||null;$('editorTitle').textContent=c?'EDIT CHANNEL':'CREATE CHANNEL';$('name').value=c?.name||'';$('number').value=c?.number||Math.max(101,...channels.map(x=>x.number+1));$('category').value=c?.category||'Animation';let editorMode=['seeds','creatorMulti','playlist','multi'].includes(c?.mode)?c.mode:'seeds';$('mode').value=editorMode;seedImported=(c?.seedIds?.length?c.seedIds:(c&&editorMode==='seeds'?(c.videos||[]).map(v=>v.id):[])).map(id=>({id}));$('seedLinks').value='';$('seedFile').value='';$('youtubeFeedPrompt').value=c?.feedPrompt||c?.youtubeFeedPrompt||'';$('approximateDiscovery').checked=true;$('feedName').value=c?.feedName||c?.name||'';$('seedExclude').value=c?.seedExclude||'';$('seedStrictness').value=c?.seedStrictness||'strict';$('includeSeeds').checked=c?c.includeSeeds!==false:true;$('sourceCreators').value=(c?.sourceCreators||[]).join('\n');seedPreview=null;renderSeedPreview([]);updateSeedStatus();$('prompt').value=c?.prompt||'';$('topic').value=c?.topic||'';$('exclude').value=c?.exclude||'';$('strictness').value=c?.strictness||'strict';previewCache=null;renderPreview([]);$('sourceChannel').value=c?.sourceChannel||'';$('playlists').value=(c?.playlists||[]).join('\n');$('order').value=c?.order||'shuffle';channelIconData=c?.icon||'';$('iconFile').value='';renderChannelIcon();populateExistingEditor();$('submitChannel').textContent=c?'Save Changes':'Generate & Save Channel';$('createError').textContent='';modeFields();$('adminDialog').close();$('createDialog').showModal()}
 $('create').onclick=()=>{if(!apiKey||!token){$('githubMessage').textContent='Save your YouTube and GitHub keys first.';return}openEditor()};$('mode').onchange=modeFields;document.querySelectorAll('.mode-card').forEach(b=>b.addEventListener('click',()=>{$('mode').value=b.dataset.mode;modeFields();seedPreview=null;renderSeedPreview([])}));
 for(let id of ['prompt','topic','exclude','strictness','sourceChannel','mode'])$(id).addEventListener('input',()=>{if(previewCache){previewCache=null;renderPreview([]);$('previewStatus').textContent='Settings changed. Run Analyze & Review again to use the new settings.'}});
 async function autoPublish(change){
@@ -448,10 +553,24 @@ async function readChannelContents(file){
  if(blob.encoding!=='base64'||!blob.content)throw Error('GitHub returned an unsupported JSON blob encoding.');
  return JSON.parse(decode64(blob.content));
 }
+async function publishChannelIcon(channel){
+ if(!channel?.icon?.startsWith('data:image/png;base64,'))return;
+ if(!token)throw Error('Save your GitHub token before publishing a logo.');
+ const basename=String(channel.id||'').replace(/[^a-zA-Z0-9_-]/g,'_')+'.png';
+ const url=githubPath().replace(/\/channels\.json$/,'/icons/'+encodeURIComponent(basename));
+ const headers={Accept:'application/vnd.github+json',Authorization:'Bearer '+token,'X-GitHub-Api-Version':'2022-11-28','Content-Type':'application/json'};
+ const get=await fetch(url+'?ref='+encodeURIComponent(github.branch||'main'),{headers,cache:'no-store'});
+ let sha;if(get.ok)sha=(await get.json()).sha;else if(get.status!==404)throw Error('Could not check channel icon on GitHub ('+get.status+').');
+ const reply=await fetch(url,{method:'PUT',headers,body:JSON.stringify({message:'Update channel '+channel.number+' icon',branch:github.branch||'main',content:channel.icon.split(',')[1],...(sha?{sha}:{})})});
+ if(!reply.ok){let d=await reply.json().catch(()=>({}));throw Error('Logo upload failed: '+(d.message||reply.status))}
+ channel.icon='./icons/'+basename;
+}
 async function commitChannelChange(change){
  publishingNow=true;
  try{
  if(!token)throw Error('Save a GitHub personal access token in Add Channel first.');
+ if(change?.type==='upsert')await publishChannelIcon(change.channel);
+ else if(!change?.type)for(const c of channels)await publishChannelIcon(c);
  for(let attempt=0;attempt<5;attempt++){
   let remote,sha;
   try{let file=await gitRequest();sha=file.sha;remote=await readChannelContents(file)}
@@ -507,7 +626,7 @@ async function refreshPublic(){
  if(d.channels.length||d.updatedAt){channels=d.channels;saveLocal();if(!selected()){chosen=channels[0]?.id||null;loadedId='';} }
  }catch(e){console.warn('Public channel refresh unavailable:',e.message)}
 }
-function init(){
+function init(){$('categoryTabs').onclick=e=>{let b=e.target.closest('[data-category]');if(b){$('filter').value=b.dataset.category;renderCategoryTabs();guide();return;}if(e.target.closest('#quickAdd'))$('adminOpen').click()};
  if(EMBEDDED_SETTINGS.owner&&EMBEDDED_SETTINGS.repo)github={owner:EMBEDDED_SETTINGS.owner,repo:EMBEDDED_SETTINGS.repo,branch:EMBEDDED_SETTINGS.branch||'main'};
  try{channels=JSON.parse(localStorage.getItem(STORE)||'[]');if(!Array.isArray(channels))channels=[]}catch{channels=[]}
  guideStart=Math.floor(now()/1800000)*1800000;persistGitHub();draw();

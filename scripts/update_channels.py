@@ -50,7 +50,7 @@ def seconds(iso):
 
 def video_metadata(ids):
     result=[]
-    for group in chunks(list(dict.fromkeys(v for v in ids if v))[:350]):
+    for group in chunks(list(dict.fromkeys(v for v in ids if v))):
         d=api('videos',part='snippet,contentDetails,status,liveStreamingDetails',id=','.join(group))
         for it in d.get('items',[]):
             sn=it.get('snippet',{}); status=it.get('status',{}); cd=it.get('contentDetails',{})
@@ -97,13 +97,13 @@ def creator_id(value):
         return ids[0] if ids else None
     return d.get('items',[{}])[0].get('id') if d.get('items') else None
 
-def creator_uploads(value):
+def creator_uploads(value, ordered=False):
     cid=creator_id(value)
     if not cid:return []
     d=api('channels',part='contentDetails',id=cid)
     if not d.get('items'):return []
     pid=d['items'][0].get('contentDetails',{}).get('relatedPlaylists',{}).get('uploads')
-    return list_playlist(pid,250) if pid else []
+    return list_playlist(pid,10**9 if ordered else 250) if pid else []
 
 def refresh_recommendations(channel):
     """Discover and rerank independent results for a prompt and/or seed examples.
@@ -150,8 +150,10 @@ def refresh_source(channel):
         refs=(channel.get('sourceCreators') or []) if mode=='creatorMulti' else [channel.get('sourceChannel','')]
         if not refs:return [],'no creator references'
         ids=[]
-        for ref in refs:ids.extend(creator_uploads(ref))
-        return video_metadata(list(dict.fromkeys(ids))[:350]),'refreshed creator uploads'
+        for ref in refs:ids.extend(creator_uploads(ref,channel.get('order')=='ordered'))
+        items=video_metadata(list(dict.fromkeys(ids)))
+        if channel.get('order')=='ordered':items.sort(key=lambda v: (v.get('published') or '',v['id']))
+        return items,'refreshed creator uploads'
     return [],'unsupported source'
 
 def promote_if_due(channel,now_ms):

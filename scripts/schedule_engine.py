@@ -56,6 +56,25 @@ def build_schedule(channel, pool, start_ms, horizon_ms=HORIZON_MS):
     eligible = [v for v in pool if v.get('id') and int(v.get('duration') or 0) > 0]
     if not eligible:
         return None
+    # Uploaded creator archives preserve source order even when longer than
+    # a 72-hour rotation: the timeline starts at the channel's shared anchor
+    # and wraps only after every eligible video has played.
+    if channel.get('order') == 'ordered' and channel.get('mode') in ('creator','creatorMulti'):
+        entries=[];cursor=int(start_ms);finish=cursor+max(int(horizon_ms),HORIZON_MS)
+        total=sum(int(v['duration'])*1000 for v in eligible)
+        if not total:return None
+        anchor=int(channel.get('anchor') or 0)
+        offset=(cursor-anchor)%total
+        idx=0
+        while idx<len(eligible)-1 and offset>=int(eligible[idx]['duration'])*1000:
+            offset-=int(eligible[idx]['duration'])*1000;idx+=1
+        while cursor<finish:
+            v=eligible[idx];length=int(v['duration'])*1000-offset
+            end=min(cursor+length,finish)
+            entries.append({'videoId':v['id'],'start':cursor,'end':end})
+            cursor=end;idx=(idx+1)%len(eligible);offset=0
+        return {'schemaVersion':1,'start':int(start_ms),'end':finish,
+                'durationHours':(finish-int(start_ms))/3600000,'programs':entries}
     entries = []
     cursor = int(start_ms)
     finish = cursor + max(int(horizon_ms), HORIZON_MS)
